@@ -1,13 +1,63 @@
 <?php 
 
+/**
+ * 
+ * on veut pouvoir renvoyer un objetr de type scrapy
+ * avec un ensemble de méthodes 
+ */
+namespace App\utils;
+
 use Symfony\Component\BrowserKit\HttpBrowser;
 use Symfony\Component\HttpClient\HttpClient;
 use Symfony\Component\DomCrawler\Crawler;
-
 require_once 'vendor/autoload.php';
+
+
+class Scrapy{
+
+    private $tmpFile;
+    private $url;
+    private $browser;
+    private $gameArray;
+    private $formats=array(
+        'name'=>['line'=>'/class="name_product"/','itemInLine'=>'/>((\w+\s*\W*)+)</'],
+        'duration'=>[],
+        'shortDescription'=>[],
+        'nbPlayers'=>[]      
+    );
+
+    public function __construct(string $tmpFile, string $url){
+
+        $this->url=$url;
+        $this->tmpFile=$tmpFile;
+        $this->browser=new HttpBrowser(HttpClient::create());
+        $this->gameArray=[];
+
+    }
+
+    //va renvoyer les informations de chaque ligne correspondante
+    //critères preg
+
+    public function crawler(string $rowt, string $needle): ?string 
+    {
+
+            if(preg_match($formats[$needle]['line'],$row)){
+
+                preg_match($formats[$needle]['itemInLine'],$row,$matches);
+                return $matches[1];
+                
+            }
+            else{
+                
+                false;
+            }
+
+        }
+}
+
 //qq variable
 $url='https://www.play-in.com/jeux_de_societe/recherche/?p=';
-$browser=new HttpBrowser(HttpClient::create());
+
 
 function returnArrayNameGame(int $nbPagesToScrap, string $url, $browser):array 
 {
@@ -22,8 +72,8 @@ function returnArrayNameGame(int $nbPagesToScrap, string $url, $browser):array
         //on accede aux pages du site via un numéro de page 
         //https://www.play-in.com/jeux_de_societe/recherche/?p=1, 2 etc ... 
 
-        $urlToScrap=$url.$a;
-        $browser->request('GET',$urlToScrap);
+        $this->url=$this->$url.$a;
+        $this->browser->request('GET',$urlToScrap);
 
         //on crée un objet Response
 
@@ -43,21 +93,9 @@ function returnArrayNameGame(int $nbPagesToScrap, string $url, $browser):array
         //on cherche ici à récupérer les noms des jeux 
         //"<div class="name_product" title="Akropolis">Akropolis</div>
 
-        //le pattern pour la regex
-        $formatLineGame='/class="name_product"/';
-        $formatGameName = '/>((\w+\s*\W*)+)</';
-
+       
         //on affiche tous les noms des jeux
-        foreach($arrayContent as $row){
-
-            if(preg_match($formatLineGame,$row)){
-                preg_match($formatGameName,$row,$matches);
-                dump($matches[1]);
-                //array_push($arrayResponse,$matches[1]);
-            }
-
-
-        }
+       
 
     }
 
@@ -67,4 +105,3 @@ function returnArrayNameGame(int $nbPagesToScrap, string $url, $browser):array
 }
 
 
-dump(returnArrayNameGame(100,$url,$browser));
