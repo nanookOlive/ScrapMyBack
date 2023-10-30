@@ -13,7 +13,7 @@ class MainController extends AbstractController
         set_time_limit(0);
         $url='https://www.play-in.com/jeux_de_societe/recherche/?p=';
         $scrapy = new Scrapy('../docs/tmpFile.txt',$url);
-        $array=$scrapy->getArrayGameName(100);
+        $array=$scrapy->getGameTmpArray(10);
         return $this->render('main/index.html.twig',['data'=>$array]);
        
     }

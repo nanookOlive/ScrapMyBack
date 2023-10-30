@@ -6,7 +6,8 @@
  * avec un ensemble de méthodes 
  */
 namespace App\utils;
-
+use  App\Entity\Game;
+use App\Entity\GameTmp;
 use Symfony\Component\BrowserKit\HttpBrowser;
 use Symfony\Component\HttpClient\HttpClient;
 use Symfony\Component\DomCrawler\Crawler;
@@ -21,8 +22,10 @@ class Scrapy{
     private $formats=array(
         'name'=>['line'=>'/class="name_product"/','itemInLine'=>'/>((\w+\s*\W*)+)</'],
         'duration'=>[],
-        'shortDescription'=>[],
-        'nbPlayers'=>[]      
+        'shortDescription'=>['line'=>'/class="desc_short"/','itemInLine'=>'/>((\w+\s*\W*)+)</'],
+        'nbPlayers'=>[],
+        'blockGame'=>['line'=>'/class="container_info/'],
+        'href'=>["line"=>'/^<a\shref="\/produit\/\d+/',"itemInLine"=>'/"(.*)"/']  
     );
 
     public function __construct(string $tmpFile, string $url){
@@ -45,7 +48,7 @@ class Scrapy{
 
                 preg_match($this->formats[$needle]['itemInLine'],$row,$matches);
                 if(isset($matches[1])){
-                    
+
                     return $matches[1];
                 }
                 
@@ -57,8 +60,8 @@ class Scrapy{
 
    
         }
-
-    function getArrayGameName(int $nbPagesToScrap) 
+        //renvoie un tableau avec dans l'ordre le href, le nom, description
+    function getInfoGame(int $nbPagesToScrap) 
     {
 
         //mon tableau qui sera retourné
@@ -85,10 +88,28 @@ class Scrapy{
             $arrayContent=file($this->tmpFile);
 
             foreach($arrayContent as $line){
-
-                
+                // récupération du nom du jeu
               if($this->crawler($line,'name')){
-                array_push($arrayResponse,$this->crawler($line,'name'));
+
+                $name=$this->crawler($line, "name");
+                array_push($arrayResponse,$name);
+              }
+
+              //ajout de l'url du détail du jeu
+              if($this->crawler($line,"href")){
+
+                $href=$this->crawler($line,"href");
+                if(! in_array($href,$arrayResponse)){
+                    array_push($arrayResponse,$href);
+
+                }
+              }
+
+              if($this->crawler($line,"shortDescription")){
+
+                $description=$this->crawler($line,'shortDescription');
+                array_push($arrayResponse,$description);
+
               }
 
 
@@ -101,6 +122,28 @@ class Scrapy{
     return $arrayResponse;
 
     }
+// une méthode pour assigner dans un tableau des objets gameTmp
+// avec les champs nom,href,description 
+//visiblement un champs peut manquer 
+function getGameTmpArray(int $nbPagesToScrap){
 
+    $data=$this->getInfoGame($nbPagesToScrap);
+    $arrayTmpGame=[];
+    $a=0;
+    while($a < count($data)){
+        
+        while(!preg_match('/^\//',$data[$a])){
+            $a++;
+        }
+        $tmpGame=new GameTmp;
+        $tmpGame->setHref($data[$a]);
+        $tmpGame->setName($data[$a+1]);
+        $tmpGame->setDescription($data[$a+2]);
+        array_push($arrayTmpGame,$tmpGame);
+        $a += 3;
+    }
+
+    return $arrayTmpGame;
+}
 
 }
