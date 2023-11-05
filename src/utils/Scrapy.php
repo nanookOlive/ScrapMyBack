@@ -62,7 +62,7 @@ class Scrapy{
     
         //une fois sur la page de détail d'un jeu  on lance le crawler dédié
 
-        function crawlerDetail(string $urlToScrap,string $name ){
+    public function crawlerDetail(string $urlToScrap,string $name ){
 
             $this->browser->request('GET',$urlToScrap);//la ressource browser
             $contentPageString=($this->browser->getResponse())->getContent();
@@ -76,14 +76,15 @@ class Scrapy{
                 'themes'=>[],
                 'editeur'=>'',
                 'auteurs'=>[],
-                'gamme'=>'',
                 'dessinateurs'=>[],
                 'duration'=>'',
                 'nbJoueurs'=>['min'=>null,'max'=>null],
-                'age'=>''
+                'age'=>'',
+                'image'=>''
             ];
 
             $a=0;
+
             for($a=0;$a<count($arrayContent);$a++)
             {
 
@@ -93,16 +94,24 @@ class Scrapy{
                 
                 //     $arrayResponse['nom']=$line;
                 // }
+
+                //si la line image
+
+                if(preg_match('/https:\/\/www.play.in.com\/img\/product\/l\/(\w*\W)*.[jpg]*[png]+/',$line,$matches)){
+                    $arrayResponse['image']=$matches[0];
+                }
                 //si la line = durée
                 if(preg_match('/^<th\sscope="row">Durée<\/th>/',$line)){
 
-                    preg_match('/<div>(\d+)/',$arrayContent[$a+1],$matches);
+                    preg_match('/<div>((\d*\w*[éè]*\s*)*)/',$arrayContent[$a+1],$matches);
                     $arrayResponse['duration']=$matches[1];
 
                 }      
                 //si la line = age
-                if(preg_match('/^<a\shref="\/jeux_de_societe\/recherche\/\?age/',$line)){
-                    $arrayResponse['age']="age found at $a";
+                
+                if(preg_match('/^<a\shref="\/jeux_de_societe\/recherche\/\?&age/',$line)){
+                    preg_match('/de\s(\d*)/',$line,$matches);
+                    $arrayResponse['age']=$matches[1];
                 }                
                 //si la line = nbJouers
                 if(preg_match('/^<a\shref="\/jeux_de_societe\/recherche\/\?player/',$line)){
@@ -134,32 +143,37 @@ class Scrapy{
                 //si line = auteur
                 if(preg_match('/^<th\sscope="row">Auteur\(s\)<\/th>$/',$line)){
 
-                    if(empty($arrayResponse['auteurs']))
-                        {
-                            array_push($arrayResponse['auteurs'],$arrayContent[$a+1]."at line $a");
-                        }                
+                    preg_match_all('/<div>((\w*[éáè]*\s*)*)<\/di/',$arrayContent[$a+1],$arrayAuteurs);
+                    foreach($arrayAuteurs[1] as $auteur){
+                        //solution provisoire pour éviter d'avoir les résultats en double
+                        if(!in_array($auteur,$arrayResponse['auteurs'])){
+
+                            array_push($arrayResponse['auteurs'],$auteur);
+
+                        }
                     }
+                                       
+                }
                 //si la line = editeur
                 if(preg_match('/^<th\sscope="row">Éditeur\(s\)<\/th>$/',$line)){
 
-                    preg_match_all('/>(\w*\s*[éèà]*)</',$arrayContent[$a+1],$matches);
-                    $arrayResponse['editeur']=$matches[1][1];
+                    preg_match_all('/<div>((\w*\s*[éèà]*)*)</',$arrayContent[$a+1],$matches);
+                    $arrayResponse['editeur']=$matches[1][0];
                 }
-                //si la line = gamme
-
-                if(preg_match('/^<th\sscope="row">Gamme<\/th>/',$line)){
-
-                    $arrayResponse['gamme']=$line;
-                }
+                
                 //si la line = dessinateur
-                //j'ai eu une erreur quansd même 
+                //j'ai eu une erreur quand même 
                 if(preg_match('/<th\sscope="row">Illustrateur\(s\)<\/th>/',$line)){
 
                     preg_match_all('/<div>((\w*[éèà]*\s*)+)/',$arrayContent[$a+1],$arrayDessinateurs);
 
-                    for($gu=0;$gu<count($arrayDessinateurs[1]);$gu++){
+                    foreach($arrayDessinateurs[1] as $dessinateur){
+
+                        if(!in_array($dessinateur,$arrayResponse['dessinateurs'])){
+
+                            array_push($arrayResponse["dessinateurs"],$dessinateur);
+                        }
                         
-                        array_push($arrayResponse["dessinateurs"],$arrayDessinateurs[1][$gu]);
 
                     }
                     

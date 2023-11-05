@@ -30,7 +30,7 @@ class MainController extends AbstractController
         $game=$gameRepo->find($id);
         $scrapy=new Scrapy("../docs/tmpFile.txt");
         $data=$scrapy->crawlerDetail("https://www.play-in.com".$game->getHref(),$game->getName());
-        dd($data);
-        return $this->render("main/show.html.twig");
+        //dd($data);
+        return $this->render("main/show.html.twig",['data'=>$data]);
     }
 }

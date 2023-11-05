@@ -7,11 +7,11 @@
             function gtag(){dataLayer.push(arguments);}
             gtag("js", new Date());
             gtag("config", "G-4ZGZBRWKLF");
-        </script> <title>Forêt Mixte - Acheter vos Jeux de société pour passionnés &amp; experts - Playin by Magic Bazar</title>
+        </script> <title>Splendor - Acheter vos Jeux de société en famille &amp; entre amis - Playin by Magic Bazar</title>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta name="robots" content="index,follow">
 <meta name="rating" content="general">
-<meta name="Description" content="Dans Forêt Mixte, multipliez les arbres de votre forêt pour accueillir les créatures qui vivent dans leurs frondaisons et avoir le plus beau sous-bois !">
+<meta name="Description" content="Incarnez un joaillier dans Splendor, un jeu de stratégie et d&#039;acquisition de ressources dans lequel vous cherchez à obtenir plus de prestige !">
 <meta content="7 days" name="revisit-after">
 <meta name="Author" content="Playin by Magic Bazar">
 <meta name="Identifier-URL" Content=" https://www.play-in.com">
@@ -26,11 +26,11 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=6">
 
-<meta property="og:title" content="Forêt Mixte - Acheter vos Jeux de société pour passionnés &amp; experts - Playin by Magic Bazar" />
+<meta property="og:title" content="Splendor - Acheter vos Jeux de société en famille &amp; entre amis - Playin by Magic Bazar" />
 <meta property="og:type" content="product" />
-<meta property="og:url" content="https://www.play-in.com/produit/505661-foret_mixte" />
-<meta property="og:image" content="https://www.play-in.com/img/product/l/foret-mixte-jeu-look-out-spiele-boite.jpg" />
-<meta property="og:description" content="Dans Forêt Mixte, multipliez les arbres de votre forêt pour accueillir les créatures qui vivent dans leurs frondaisons et avoir le plus beau sous-bois !" />
+<meta property="og:url" content="https://www.play-in.com/produit/201622-splendor" />
+<meta property="og:image" content="https://www.play-in.com/img/product/l/splendor_jeu_space_cowboys_boite.png" />
+<meta property="og:description" content="Incarnez un joaillier dans Splendor, un jeu de stratégie et d&#039;acquisition de ressources dans lequel vous cherchez à obtenir plus de prestige !" />
 <meta property="og:app_id" content="936206876519095" />
 
 <script>
@@ -59,33 +59,304 @@
             {
             "@context": "http://schema.org",
                 "@type": "Product",
-                    "name":"Forêt Mixte",
-                    "description":"Dans Forêt Mixte, multipliez les arbres de votre forêt pour accueillir les créatures qui vivent dans leurs frondaisons et avoir le plus beau sous-bois !",
-                    "image":"https://www.play-in.com/img/product/l/foret-mixte-jeu-look-out-spiele-boite.jpg",
+                    "name":"Splendor",
+                    "description":"Incarnez un joaillier dans Splendor, un jeu de stratégie et d&#039;acquisition de ressources dans lequel vous cherchez à obtenir plus de prestige !",
+                    "image":"https://www.play-in.com/img/product/l/splendor_jeu_space_cowboys_boite.png",
                     "brand": "",
-                    "gtin14": "03558380113669",
+                    "gtin14": "03558380020974",
+                    "award": "Tric Trac d'Or",
                 "aggregateRating": {
                     "@type": "AggregateRating",
-                    "ratingValue": "4.5",
-                    "reviewCount": "2"
+                    "ratingValue": "4.72",
+                    "reviewCount": "29"
                 },
                 "review": 
                     [{
                         "@type": "Review",
-                        "url":"https://www.play-in.com/produit/505661-foret_mixte",
-                        "author": "Bruno V",
-                        "datePublished": "2023-10-26 19:35:11",
-                        "reviewBody": "Plein de cartes et plein de combos possibles ! Ça prend de la place sur la table mais c&#039;est ultra sympa à 2 ou 3. Au delà, on attend pas mal son tour. Je ne le conseille pas",
+                        "url":"https://www.play-in.com/produit/201622-splendor",
+                        "author": "Julien c",
+                        "datePublished": "2021-04-10 09:23:24",
+                        "reviewBody": "très bon ou il faut faire des combinaisons avec des pierres précieuses pour acheter les tuiles.",
+                        "reviewRating": {
+                        "@type": "Rating",
+                        "ratingValue": "5"
+                        }
+                    },{
+                        "@type": "Review",
+                        "url":"https://www.play-in.com/produit/201622-splendor",
+                        "author": "Antoine R",
+                        "datePublished": "2021-04-14 12:19:55",
+                        "reviewBody": "Un grand classique du jeu d&#039;accumulation de ressources. Vous en avez marre du monopoly et de la chance qui en découle ? Splendor est fait pour vous, bien qu&#039;il y a un facteur &quot;chance&quot; ce dernier est assez minime et beaucoup plus axé sur la stratégie et la prise de décision sur les ressources à accumuler et les investissement à récupéré. Le jeu est de bonne facture et les tokens de très bonne qualité. Les règles sont assez facile à apprendre mais le jeu n&#039;en reste pas moins difficile à maitriser si vous voulez être parfaitement optimiser et faire suer vos adversaires",
                         "reviewRating": {
                         "@type": "Rating",
                         "ratingValue": "4"
                         }
                     },{
                         "@type": "Review",
-                        "url":"https://www.play-in.com/produit/505661-foret_mixte",
-                        "author": "Gassian S",
-                        "datePublished": "2023-11-02 17:18:04",
-                        "reviewBody": "Jeu simple de compréhension des règles mais qui demande un esprit de stratégie pour jongler entre les différentes combinaisons de cartes possibles. Les parties ne se ressemblent jamais selon les choix que nous effectuerons. Je recommande !",
+                        "url":"https://www.play-in.com/produit/201622-splendor",
+                        "author": "Xavier D",
+                        "datePublished": "2021-04-22 12:43:22",
+                        "reviewBody": "Old school, très directe comme gameplay, on se prend pas trop la tête.<br/>Mais on ne fait pas plus de 1 ou 2 parties, les extensions aides peut-être.",
+                        "reviewRating": {
+                        "@type": "Rating",
+                        "ratingValue": "4"
+                        }
+                    },{
+                        "@type": "Review",
+                        "url":"https://www.play-in.com/produit/201622-splendor",
+                        "author": "Guillaume B",
+                        "datePublished": "2021-04-25 08:24:56",
+                        "reviewBody": "Contrairement à l&#039;avis posté plus haut, c&#039;est un jeu auquel j&#039;ai joué à répétitions. C&#039;est un jeu très mécanique, ce qui nous a poussé à enchainer les parties en optimisant à chaque fois nos actions. Il faut noter le matériel de jeu de bonne qualité. C&#039;&#039;est très agréable de manipuler des jetons de poker plutôt que de simple jetons en cartons comme en trouve souvent.",
+                        "reviewRating": {
+                        "@type": "Rating",
+                        "ratingValue": "5"
+                        }
+                    },{
+                        "@type": "Review",
+                        "url":"https://www.play-in.com/produit/201622-splendor",
+                        "author": "Marie C",
+                        "datePublished": "2021-04-25 09:07:14",
+                        "reviewBody": "Un jeu qui s&#039;explique en 2 minutes avec une grande profondeur de jeu, malgré tout. <br/>La sensation de tenir des jetons de poket est aussi très sympa",
+                        "reviewRating": {
+                        "@type": "Rating",
+                        "ratingValue": "5"
+                        }
+                    },{
+                        "@type": "Review",
+                        "url":"https://www.play-in.com/produit/201622-splendor",
+                        "author": "Benjamin H",
+                        "datePublished": "2021-04-26 10:53:38",
+                        "reviewBody": "Un classique parmi les classiques à posséder absolument",
+                        "reviewRating": {
+                        "@type": "Rating",
+                        "ratingValue": "5"
+                        }
+                    },{
+                        "@type": "Review",
+                        "url":"https://www.play-in.com/produit/201622-splendor",
+                        "author": "Warren F",
+                        "datePublished": "2021-05-02 12:41:42",
+                        "reviewBody": "Jeu très simple à prendre en main, mais très riche en terme de stratégie.<br/>On peut y jouer simplement, sans calculer, tout comme penser nos coups à l&#039;avance et essayer de contrer les plans de nos adversaires ! <br/>Les décisions ne sont pas toujours évidentes à prendre.",
+                        "reviewRating": {
+                        "@type": "Rating",
+                        "ratingValue": "5"
+                        }
+                    },{
+                        "@type": "Review",
+                        "url":"https://www.play-in.com/produit/201622-splendor",
+                        "author": "Maelys L",
+                        "datePublished": "2021-05-03 10:38:17",
+                        "reviewBody": "Jeu facile à comprendre et super pour jouer en famille. Je recommande à 100%.",
+                        "reviewRating": {
+                        "@type": "Rating",
+                        "ratingValue": "5"
+                        }
+                    },{
+                        "@type": "Review",
+                        "url":"https://www.play-in.com/produit/201622-splendor",
+                        "author": "Clément M",
+                        "datePublished": "2021-05-03 12:25:21",
+                        "reviewBody": "Un nouveau classique, des règles expliquées en 5 min et derrière, des heures de jeu avec une super rejouabilité. Un matériel très agréable à manipulé, les jetons de poker sont vraiment sympas. Par contre 4 joueurs max, un 5ème aurait été le bienvenue je pense.",
+                        "reviewRating": {
+                        "@type": "Rating",
+                        "ratingValue": "5"
+                        }
+                    },{
+                        "@type": "Review",
+                        "url":"https://www.play-in.com/produit/201622-splendor",
+                        "author": "Adrien C",
+                        "datePublished": "2021-05-10 16:13:47",
+                        "reviewBody": "Jeu de gestion de ressource très addictif entre amis et rapide",
+                        "reviewRating": {
+                        "@type": "Rating",
+                        "ratingValue": "4"
+                        }
+                    },{
+                        "@type": "Review",
+                        "url":"https://www.play-in.com/produit/201622-splendor",
+                        "author": "Eric O",
+                        "datePublished": "2021-05-17 11:38:18",
+                        "reviewBody": "Un jeu simple mais pas simpliciste.<br/>Evidemment c&#039;est un classique à posséder!",
+                        "reviewRating": {
+                        "@type": "Rating",
+                        "ratingValue": "5"
+                        }
+                    },{
+                        "@type": "Review",
+                        "url":"https://www.play-in.com/produit/201622-splendor",
+                        "author": "MICHAEL V",
+                        "datePublished": "2021-06-22 12:10:26",
+                        "reviewBody": "Excellent jeu à deux ou plus d&#039;ailleurs.<br/>Simple a prendre en main, profond et permet tant de jouer pour soi que de jouer pour empêcher les autres de parvenir à leurs fins.<br/>Le matériel est très chouette en plus ce qui ne gâche rien au plaisir.",
+                        "reviewRating": {
+                        "@type": "Rating",
+                        "ratingValue": "4"
+                        }
+                    },{
+                        "@type": "Review",
+                        "url":"https://www.play-in.com/produit/201622-splendor",
+                        "author": "Xavier H",
+                        "datePublished": "2021-07-13 15:36:12",
+                        "reviewBody": "",
+                        "reviewRating": {
+                        "@type": "Rating",
+                        "ratingValue": "5"
+                        }
+                    },{
+                        "@type": "Review",
+                        "url":"https://www.play-in.com/produit/201622-splendor",
+                        "author": "Jeremy C",
+                        "datePublished": "2021-12-12 16:41:00",
+                        "reviewBody": "Un classique que noue avons offert en cadeaux et qui a aussi beaucoup plu !",
+                        "reviewRating": {
+                        "@type": "Rating",
+                        "ratingValue": "5"
+                        }
+                    },{
+                        "@type": "Review",
+                        "url":"https://www.play-in.com/produit/201622-splendor",
+                        "author": "Marina G",
+                        "datePublished": "2021-12-30 16:43:48",
+                        "reviewBody": "Jeux a avoir dans sa ludothèque !",
+                        "reviewRating": {
+                        "@type": "Rating",
+                        "ratingValue": "5"
+                        }
+                    },{
+                        "@type": "Review",
+                        "url":"https://www.play-in.com/produit/201622-splendor",
+                        "author": "O C",
+                        "datePublished": "2022-01-24 15:00:26",
+                        "reviewBody": "Un super jeu pour jouer à 2 ou à plusieurs !",
+                        "reviewRating": {
+                        "@type": "Rating",
+                        "ratingValue": "5"
+                        }
+                    },{
+                        "@type": "Review",
+                        "url":"https://www.play-in.com/produit/201622-splendor",
+                        "author": "Sylvain W",
+                        "datePublished": "2022-02-01 14:47:34",
+                        "reviewBody": "Indispensable dans toute bonne ludothèque. Les cartes sont tellement belles... Aussi bien à deux, trois ou quatre.",
+                        "reviewRating": {
+                        "@type": "Rating",
+                        "ratingValue": "5"
+                        }
+                    },{
+                        "@type": "Review",
+                        "url":"https://www.play-in.com/produit/201622-splendor",
+                        "author": "Florian D",
+                        "datePublished": "2022-02-02 02:08:05",
+                        "reviewBody": "Désormais un classique du jeu moderne, les parties s&#039;enchainent facilement mais on finira peut être pas s&#039;en détacher au profit d&#039;un jeu mécaniquement plus lourd. Idéal pour introduire de nouveaux joueurs.",
+                        "reviewRating": {
+                        "@type": "Rating",
+                        "ratingValue": "4"
+                        }
+                    },{
+                        "@type": "Review",
+                        "url":"https://www.play-in.com/produit/201622-splendor",
+                        "author": "Hongyi S",
+                        "datePublished": "2022-03-16 21:17:09",
+                        "reviewBody": "un vraiment classique! Toujours amusant à jouer avec les amis.",
+                        "reviewRating": {
+                        "@type": "Rating",
+                        "ratingValue": "5"
+                        }
+                    },{
+                        "@type": "Review",
+                        "url":"https://www.play-in.com/produit/201622-splendor",
+                        "author": "Xavier A",
+                        "datePublished": "2022-04-07 14:53:52",
+                        "reviewBody": "<br/>Splendor est pour moi un grand jeu classique, rapide, fluide et simple à prendre en main. Globalement, les mécaniques sont très fluides et on se laisse vite prendre au jeu.<br/>Conviendra à ceux qui recherche un jeu sans trop de profondeur avec une prise en main facile mais dont les aspects stratégiques restent quand même bien marqués (malgré une touche d’aléatoire/opportunité de jeux liée à la découverte des cartes). <br/>Mention spéciale au matériel et plus particulièrement les ressources imprimées sur des jetons façon Poker.<br/>",
+                        "reviewRating": {
+                        "@type": "Rating",
+                        "ratingValue": "5"
+                        }
+                    },{
+                        "@type": "Review",
+                        "url":"https://www.play-in.com/produit/201622-splendor",
+                        "author": "Romain P",
+                        "datePublished": "2022-07-14 12:17:51",
+                        "reviewBody": "",
+                        "reviewRating": {
+                        "@type": "Rating",
+                        "ratingValue": "5"
+                        }
+                    },{
+                        "@type": "Review",
+                        "url":"https://www.play-in.com/produit/201622-splendor",
+                        "author": "Vincent N",
+                        "datePublished": "2022-11-10 11:57:43",
+                        "reviewBody": "J&#039;y joue avec mon fils de 7 ans.<br/>Il adore, je le trouve excellent pour initier au jeux de stratégie afin de savoir anticiper.<br/>Et très bon entre adulte. Une valeur sûre !",
+                        "reviewRating": {
+                        "@type": "Rating",
+                        "ratingValue": "5"
+                        }
+                    },{
+                        "@type": "Review",
+                        "url":"https://www.play-in.com/produit/201622-splendor",
+                        "author": "Florian J",
+                        "datePublished": "2022-11-23 09:54:20",
+                        "reviewBody": "",
+                        "reviewRating": {
+                        "@type": "Rating",
+                        "ratingValue": "5"
+                        }
+                    },{
+                        "@type": "Review",
+                        "url":"https://www.play-in.com/produit/201622-splendor",
+                        "author": "Paul C",
+                        "datePublished": "2022-12-21 12:10:50",
+                        "reviewBody": "Excellent jeu aux règles simplissimes qui se joue aussi bien à 2, 3 ou 4. Convient autant aux amateurs de jeux qu&#039;aux novices !",
+                        "reviewRating": {
+                        "@type": "Rating",
+                        "ratingValue": "5"
+                        }
+                    },{
+                        "@type": "Review",
+                        "url":"https://www.play-in.com/produit/201622-splendor",
+                        "author": "Celine H",
+                        "datePublished": "2023-03-05 21:35:01",
+                        "reviewBody": "",
+                        "reviewRating": {
+                        "@type": "Rating",
+                        "ratingValue": "4"
+                        }
+                    },{
+                        "@type": "Review",
+                        "url":"https://www.play-in.com/produit/201622-splendor",
+                        "author": "Nicolas B",
+                        "datePublished": "2023-04-20 15:22:07",
+                        "reviewBody": "",
+                        "reviewRating": {
+                        "@type": "Rating",
+                        "ratingValue": "3"
+                        }
+                    },{
+                        "@type": "Review",
+                        "url":"https://www.play-in.com/produit/201622-splendor",
+                        "author": "Renaud Z",
+                        "datePublished": "2023-05-15 16:44:00",
+                        "reviewBody": "Très bon jeu que ce soit a deux ou quatre joueurs.",
+                        "reviewRating": {
+                        "@type": "Rating",
+                        "ratingValue": "5"
+                        }
+                    },{
+                        "@type": "Review",
+                        "url":"https://www.play-in.com/produit/201622-splendor",
+                        "author": "Mathieu T",
+                        "datePublished": "2023-09-08 21:35:43",
+                        "reviewBody": "",
+                        "reviewRating": {
+                        "@type": "Rating",
+                        "ratingValue": "5"
+                        }
+                    },{
+                        "@type": "Review",
+                        "url":"https://www.play-in.com/produit/201622-splendor",
+                        "author": "Sylvain L",
+                        "datePublished": "2023-10-20 09:25:28",
+                        "reviewBody": "Contenu très agréable à manipuler, prise en main rapide. Par contre, on sent très vite qu&#039;il y peut y avoir de nombreuses stratégies pour gagner ! Grosse rejouabilité, donc !",
                         "reviewRating": {
                         "@type": "Rating",
                         "ratingValue": "5"
@@ -96,22 +367,22 @@
                     "priceCurrency":"EUR",
                     "availability":"InStock",
                     "availability_date":"",
-                    "price":"25.50",
-                    "availableAtOrFrom":"/produit/505661-foret_mixte",
+                    "price":"31.90",
+                    "availableAtOrFrom":"/produit/201622-splendor",
                     "itemCondition":"NewCondition",
                     "priceValidUntil":"",
-                    "url":"https://www.play-in.com/produit/505661-foret_mixte"
+                    "url":"https://www.play-in.com/produit/201622-splendor"
             }
         }
         </script><script>
 	dataLayer.push({
 		'PageType': 'product',
-        'id': '505661',
-        'name': 'Forêt Mixte',
-        'category': 'Jeux expert',
-        'price': '25.50'
+        'id': '201622',
+        'name': 'Splendor',
+        'category': 'En famille et entre amis',
+        'price': '31.90'
 	});
-</script> <link rel="canonical" href="https://www.play-in.com/produit/505661-foret_mixte">
+</script> <link rel="canonical" href="https://www.play-in.com/produit/201622-splendor">
 <link rel="icon" type="image/ico" href="/favicon.ico" /><link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
 
 <link rel="dns-prefetch" href="https://unpkg.com/multiple-select@1.3.1/dist/multiple-select.min.css" as="style" />
@@ -147,7 +418,7 @@
 <link rel="dns-prefetch" href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" as="style" crossorigin="anonymous">
 <link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">
-<link rel="alternate" hreflang="en" href="https://en.play-in.com/produit/505661-foret_mixte" /><link rel="alternate" hreflang="fr" href="https://www.play-in.com/produit/505661-foret_mixte" /><link rel="alternate" hreflang="x-default" href="https://www.play-in.com/produit/505661-foret_mixte" />
+<link rel="alternate" hreflang="en" href="https://en.play-in.com/produit/201622-splendor" /><link rel="alternate" hreflang="fr" href="https://www.play-in.com/produit/201622-splendor" /><link rel="alternate" hreflang="x-default" href="https://www.play-in.com/produit/201622-splendor" />
 <script type="text/javascript" src="/js/tarteaucitron/tarteaucitron.js?v=15"></script>
 <script type="text/javascript">
             tarteaucitron.init({
@@ -291,13 +562,13 @@
 <div class="clear"></div>
 <div class="pwd_lost"><a href="/user/forgot.php">Mot de passe perdu ?</a></div>
 <input type="submit" value="Me connecter" class="btn connexion_account" data-user="username_popup" data-pwd="pwd_popup" data-popup="true" name="_submit_login">
-<a href="https://www.facebook.com/v3.2/dialog/oauth?scope=email&amp;state=c0c45a0f154b4cf3b9ff4c26e33d63f8&amp;response_type=code&amp;approval_prompt=auto&amp;redirect_uri=https%3A%2F%2Fwww.play-in.com%2Fuser%2Ffb_callback.php&amp;client_id=936206876519095">
+<a href="https://www.facebook.com/v3.2/dialog/oauth?scope=email&amp;state=2510f3144f1a29bffd036dc08e9fb9cb&amp;response_type=code&amp;approval_prompt=auto&amp;redirect_uri=https%3A%2F%2Fwww.play-in.com%2Fuser%2Ffb_callback.php&amp;client_id=936206876519095">
 <div class="btn_facebook">
 <div class="facebook_img"></div>
 Me connecter
 </div>
 </a>
-<input type="hidden" name="redirect" value="../produit/505661-foret_mixte">
+<input type="hidden" name="redirect" value="../produit/201622-splendor">
 <div id="g_id_onload" data-client_id="352511216272-q0kmev906091sein9bohqbcvjfa8jvcr.apps.googleusercontent.com" data-context="signin" data-ux_mode="popup" data-auto_prompt="false" data-callback="googleSignIn">
 </div>
 <div class="g_id_signin" style="margin-top: 5px;" data-type="standard" data-size="medium" data-text="signin" data-width="182" data-onsuccess="googleSignIn">
@@ -308,7 +579,7 @@ Me connecter
 <a href="/user/signin.php"><div class="btn_account">Créer un compte</div></a></div>
 </div>
 </div><div class="header_container_flag">
-<a href="https://en.play-in.com/produit/505661-foret_mixte">
+<a href="https://en.play-in.com/produit/201622-splendor">
 <div class="header_flag_en" title="Playin by Magic Bazar in english" alt="Playin by Magic Bazar in english"></div>
 </a>
 <a href="#">
@@ -334,7 +605,7 @@ Me connecter
 <a href="#">
 <div class="flag_header_mobile_fr" title="Playin by Magic Bazar en français" alt="Playin by Magic Bazar en français"></div>
 </a>
-<a href="https://en.play-in.com/produit/505661-foret_mixte">
+<a href="https://en.play-in.com/produit/201622-splendor">
 <div class="flag_header_mobile_en" title="Playin by Magic Bazar in english" alt="Playin by Magic Bazar in english"></div>
 </a>
 </div>
@@ -387,13 +658,13 @@ Me connecter
 <div class="clear"></div>
 <div class="pwd_lost"><a href="/user/forgot.php">Mot de passe perdu ?</a></div>
 <input type="submit" value="Me connecter" class="btn connexion_account" data-user="username_popup" data-pwd="pwd_popup" data-popup="true" name="_submit_login">
-<a href="https://www.facebook.com/v3.2/dialog/oauth?scope=email&amp;state=c0c45a0f154b4cf3b9ff4c26e33d63f8&amp;response_type=code&amp;approval_prompt=auto&amp;redirect_uri=https%3A%2F%2Fwww.play-in.com%2Fuser%2Ffb_callback.php&amp;client_id=936206876519095">
+<a href="https://www.facebook.com/v3.2/dialog/oauth?scope=email&amp;state=2510f3144f1a29bffd036dc08e9fb9cb&amp;response_type=code&amp;approval_prompt=auto&amp;redirect_uri=https%3A%2F%2Fwww.play-in.com%2Fuser%2Ffb_callback.php&amp;client_id=936206876519095">
 <div class="btn_facebook">
 <div class="facebook_img"></div>
 Me connecter
 </div>
 </a>
-<input type="hidden" name="redirect" value="../produit/505661-foret_mixte">
+<input type="hidden" name="redirect" value="../produit/201622-splendor">
 <div id="g_id_onload" data-client_id="352511216272-q0kmev906091sein9bohqbcvjfa8jvcr.apps.googleusercontent.com" data-context="signin" data-ux_mode="popup" data-auto_prompt="false" data-callback="googleSignIn">
 </div>
 <div class="g_id_signin" style="margin-top: 5px;" data-type="standard" data-size="medium" data-text="signin" data-width="182" data-onsuccess="googleSignIn">
@@ -404,7 +675,7 @@ Me connecter
 <a href="/user/signin.php"><div class="btn_account">Créer un compte</div></a></div>
 </div>
 </div><div class="header_container_flag">
-<a href="https://en.play-in.com/produit/505661-foret_mixte">
+<a href="https://en.play-in.com/produit/201622-splendor">
 <div class="header_flag_en" title="Playin by Magic Bazar in english" alt="Playin by Magic Bazar in english"></div>
 </a>
 <a href="#">
@@ -2624,31 +2895,31 @@ Yu-Gi-Oh! </div></a>
 <div class="return_msg_bag" id="header_error_update_qty_item"></div>
 <div class="clear"></div><div class="breadcrumbs">
 <a href="/"><div>Accueil</div></a><a href="/jeux_de_societe/"><div class="breadcrumbs_img"></div>
-<div>Jeux de société</div></a><a href="/jeux_de_societe/categorie/8-jeux_expert"><div class="breadcrumbs_img"></div>
-<div>Jeux expert</div></a></div>
-<div id="container_present_product" class="container_present_product" data-id="505661">
+<div>Jeux de société</div></a><a href="/jeux_de_societe/categorie/7-en_famille_et_entre_amis"><div class="breadcrumbs_img"></div>
+<div>En famille et entre amis</div></a></div>
+<div id="container_present_product" class="container_present_product" data-id="201622">
 <div class="return_msg_bag"></div>
 <div class="container_main_left">
 <div class="col_left"><div class="big_img_product ">
-<a class href="/img/product/foret-mixte-jeu-look-out-spiele-boite.jpg" data-lightbox="product-set" data-title>
+<a class href="/img/product/splendor_jeu_space_cowboys_boite.png" data-lightbox="product-set" data-title>
 <div class="main_img_product">
-<picture><source srcset="/img/product/l/foret-mixte-jeu-look-out-spiele-boite.webp" type="image/webp"><source srcset="/img/product/l/foret-mixte-jeu-look-out-spiele-boite.jpg" type="image/jpeg">
-<img src="/img/product/l/foret-mixte-jeu-look-out-spiele-boite.jpg" title="Forêt Mixte" alt="foret mixte jeu look out spiele boite " />
+<picture><source srcset="/img/product/l/splendor_jeu_space_cowboys_boite.png" type="image/jpeg">
+<img src="/img/product/l/splendor_jeu_space_cowboys_boite.png" title="Splendor" alt="splendor_jeu_space_cowboys_boite.png" />
 </picture>
 </div>
 </a>
 </div><div class="big_img_product big_img_product_mobile ">
-<a class href="/img/product/foret-mixte-jeu-look-out-spiele-boite.jpg" data-lightbox="product-set-mobile" data-title>
+<a class href="/img/product/splendor_jeu_space_cowboys_boite.png" data-lightbox="product-set-mobile" data-title>
 <div class="main_img_product">
-<img src="/img/product/l/foret-mixte-jeu-look-out-spiele-boite.jpg" title="Forêt Mixte" alt="foret mixte jeu look out spiele boite " />
+<img src="/img/product/l/splendor_jeu_space_cowboys_boite.png" title="Splendor" alt="splendor_jeu_space_cowboys_boite.png" />
 </div>
 </a>
 </div>
 </div>
 <div class="col_middle">
-<h1>FORêT MIXTE</h1><div class="bloc_desc">
-<div class="shortdesc_product">Dans Forêt Mixte, multipliez les arbres de votre forêt pour accueillir les créatures qui vivent dans leurs frondaisons et avoir le plus beau sous-bois !</div><div class="rating_summary"><a class="onclickTab" data-tab="rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_half"></span> 4.5/5
-<span class="rating_link">(2 avis clients)</span>
+<h1>SPLENDOR</h1><div class="bloc_desc">
+<div class="shortdesc_product">Incarnez un joaillier dans Splendor, un jeu de stratégie et d'acquisition de ressources dans lequel vous cherchez à obtenir plus de prestige !</div><div class="rating_summary"><a class="onclickTab" data-tab="rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span> 4.72/5
+<span class="rating_link">(29 avis clients)</span>
 </a></div><div class="container_tag_jds"><a href="/jeux_de_societe/recherche/?&player%5B%5D=2&player%5B%5D=3&player%5B%5D=4">
 <div class="tag btn_grey">
 <div class="bloc">
@@ -2656,11 +2927,11 @@ Yu-Gi-Oh! </div></a>
 <span>2 à 4 joueurs</span>
 </div>
 </div>
-</a><a href="/jeux_de_societe/recherche/?time%5B%5D=60">
+</a><a href="/jeux_de_societe/recherche/?time%5B%5D=30">
 <div class="tag btn_grey">
 <div class="bloc">
 <div class="img_time"></div>
-<span>Environ 1h</span>
+<span>Environ 30 min</span>
 </div>
 </div>
 </a><a href="/jeux_de_societe/recherche/?age%5B%5D=plus_10">
@@ -2676,32 +2947,18 @@ Yu-Gi-Oh! </div></a>
 <span>Français</span>
 </div>
 </div><div class="clear"></div>
-</div><div class="clear"></div><div class="container_tag_jds"><a href="/jeux_de_societe/recherche/?theme=Animaux">
-<div class="tag btn_grey">
-<div class="bloc">
-<div class="img_theme"></div>
-<span>Animaux</span>
-</div>
-</div>
-</a><a href="/jeux_de_societe/recherche/?theme=Nature">
-<div class="tag btn_grey">
-<div class="bloc">
-<div class="img_theme"></div>
-<span>Nature</span>
-</div>
-</div>
-</a><a href="/jeux_de_societe/recherche/?type=Collection">
+</div><div class="clear"></div><div class="container_tag_jds"><a href="/jeux_de_societe/recherche/?type=Collection">
 <div class="tag btn_grey">
 <div class="bloc">
 <div class="img_type_game"></div>
 <span>Collection</span>
 </div>
 </div>
-</a><a href="/jeux_de_societe/recherche/?type=Combinaisons">
+</a><a href="/jeux_de_societe/recherche/?type=Jeux+de+Gestion">
 <div class="tag btn_grey">
 <div class="bloc">
 <div class="img_type_game"></div>
-<span>Combinaisons</span>
+<span>Jeux de Gestion</span>
 </div>
 </div>
 </a><a href="/jeux_de_societe/recherche/?type=Jeux+de+Stratégie">
@@ -2712,20 +2969,42 @@ Yu-Gi-Oh! </div></a>
 </div>
 </div>
 </a><div class="clear"></div>
-</div><div class="clear"></div><div class="clear"></div><div class="mini_img_product sliderProduct"><div class="MS-content"><div class="list_product item"><a href="/img/product/secondary/foret-mixte-jeu-look-out-spiele-dos-boite.jpg" data-lightbox="product-set" data-title><img src="/img/product/secondary/s/foret-mixte-jeu-look-out-spiele-dos-boite.jpg" title="Forêt Mixte" alt="foret mixte jeu look out spiele boite " /></a></div><div class="list_product item"><a href="/img/product/secondary/foret-mixte-jeu-look-out-spiele-cartes.jpg" data-lightbox="product-set" data-title><img src="/img/product/secondary/s/foret-mixte-jeu-look-out-spiele-cartes.jpg" title="Forêt Mixte" alt="foret mixte jeu look out spiele boite " /></a></div><div class="list_product item"><a href="/img/product/secondary/foret-mixte-jeu-look-out-spiele-dos-mise-en-place.jpg" data-lightbox="product-set" data-title><img src="/img/product/secondary/s/foret-mixte-jeu-look-out-spiele-dos-mise-en-place.jpg" title="Forêt Mixte" alt="foret mixte jeu look out spiele boite " /></a></div></div>
+</div><div class="clear"></div><div class="clear"></div><div class="mini_img_product sliderProduct"><div class="MS-content"><div class="list_product item"><a href="/img/product/secondary/splendor_jeu_space_cowboys_mise_en_place.png" data-lightbox="product-set" data-title><img src="/img/product/secondary/s/splendor_jeu_space_cowboys_mise_en_place.png" title="Splendor" alt="splendor_jeu_space_cowboys_boite.png" /></a></div></div>
 <div class="MS-controls">
 <button class="MS-left"><div class="arrow_left_img"></div></button>
 <button class="MS-right"><div class="arrow_right_img"></div></button>
 </div></div></div>
-</div><div class="col_bottom  "><div class="container_title_onglet"><h2 class="tab_title tab tab_desc onclickTab title_selected tab_selected" data-tab="desc"><span>Descriptif</span></h2><h2 class="tab_title tab tab_features onclickTab" data-tab="features"><span class="long-text">Caractéristiques</span></h2><h2 class="tab_title tab tab_video no_title" data-tab="video"><span>Vidéo</span></h2><h2 id="tab_rating" class="tab_title tab tab_rating onclickTab " data-tab="rating"><span class="long-text">Avis client</span></h2><div class="clear"></div>
-</div><div class="tab bloc_tab tab_desc tab_selected"><h2>For&ecirc;t Mixte : Un sous-bois grouillant de vie</h2>
-<p>For&ecirc;t Mixte est <strong>un jeu de gestion de main et combinaisons de cartes</strong> dans lequel joueurs et joueuses posent des arbres et d&eacute;veloppent la vie autour ! Il se joue de 2 &agrave; 5, d&egrave;s 10 ans, pour 60 minutes.</p>
-<h2>Plantez des arbres pour abriter des animaux</h2>
-<p><em>Dans une for&ecirc;t, les arbres grouillent de vie, des racines au fa&icirc;te. Multipliez les essences pour accueillir un maximum de diversit&eacute; dans votre for&ecirc;t mixte pour pr&eacute;parer la venue de l'hiver.</em></p>
-<p>Durant une partie, <strong>les tours des joueurs s'alternent</strong> jusqu'&agrave; ce que trois cartes d'Hiver soient r&eacute;v&eacute;l&eacute;es. &Agrave; votre tour, vous avez le choix entre <strong>prendre jusqu'&agrave; deux cartes</strong> de la pioche et/ou la clairi&egrave;re, jusqu'&agrave; une limite de 10, ou <strong>jouer une carte</strong> de votre main. Chaque carte a un co&ucirc;t en cartes que vous devez <strong>d&eacute;fausser de votre main vers la clairi&egrave;re</strong>. Les cartes d'Arbres se posent &eacute;cart&eacute;es les unes des autres sur votre plateau. Pour les autres cartes, choisissez la moiti&eacute; (droite/gauche ou haut/bas) que vous voulez utiliser et glissez l'autre dans un emplacement disponible sous un arbre. Chaque carte apporte en plus <strong>des capacit&eacute;s imm&eacute;diates, permanentes ou de fin de partie</strong> en fonction de leur type, qui s'activent si vous avez pay&eacute; des cartes du type pr&eacute;f&eacute;r&eacute; de l'animal jou&eacute;. <strong>Trois cartes Hiver</strong> sont plac&eacute;es dans le dernier tiers de la pioche. Quand toutes les trois sont r&eacute;v&eacute;l&eacute;es, la partie s'arr&ecirc;te imm&eacute;diatement. Comptez les points de <strong>tous les &eacute;l&eacute;ments de votre for&ecirc;t</strong> pour obtenir e meilleur score et remporter la partie !</p>
-<h2>Des combinaisons multiples</h2>
-<p>For&ecirc;t Mixte offre <strong>une exp&eacute;rience de jeu touffue</strong>, pleine d'options, mais aux <strong>r&egrave;gles simples de prise en main</strong>. Il ravira les joueurs de tous &acirc;ges et niveaux par son <strong>ambiance calme</strong>, ses <strong>splendides illustrations</strong> et les choix que proposent chacune de ses cartes. <strong>Amoureux de la nature</strong>, red&eacute;couvrez les sous-bois avec For&ecirc;t Mixte !</p><strong>Contenu&nbsp;:</strong>
-<ul><li>180 cartes (66 arbres, 48 cartes eau/bas, 44 droite/gauche, 3 hiver, 14 cartes références, 5 grottes)</li><li>1 plateau clairière</li><li>1 bloc de score</li><li>1 livret de règles</li></ul><strong><i>À partir de 10 ans, de 2 à 4 joueurs et pour des parties d'environ 60 minutes.</i></strong></div><div class="tab bloc_tab tab_features tab_hidden"><table class="table_tag_jds"><tr class="container_lang tr_impair">
+</div><div class="col_bottom  "><div class="container_title_onglet"><h2 class="tab_title tab tab_desc onclickTab title_selected tab_selected" data-tab="desc"><span>Descriptif</span></h2><h2 class="tab_title tab tab_features onclickTab" data-tab="features"><span class="long-text">Caractéristiques</span></h2><h2 class="tab_title tab tab_video onclickTab" data-tab="video"><span>Vidéo</span></h2><h2 class="tab_title tab tab_title_ext tab_ext onclickTab" data-tab="ext">
+<span class="line">Gamme &</span>
+<span class="line">extensions</span>
+</h2><h2 class="tab_title tab tab_reward onclickTab" data-tab="reward"><span>Prix reçus</span></h2><h2 class="tab_title tab tab_rules onclickTab" data-tab="rules"><span>Règles</span></h2><h2 id="tab_rating" class="tab_title tab tab_rating onclickTab " data-tab="rating"><span class="long-text">Avis client</span></h2><div class="clear"></div>
+</div><div class="tab bloc_tab tab_desc tab_selected"><h2 style="text-align: justify;" align="center">Splendor - Devenez un joaillier de renom</h2>
+<p style="text-align: justify;" align="center"><em>Vous &ecirc;tes un riche marchand de la Renaissance et votre fortune vous sert &agrave; acqu&eacute;rir encore plus de richesses. Vous convoitez les mines qui produisent des joyaux. Vous achetez des moyens de transports pour ces pierres brutes. Vous recrutez aussi des artisans afin de transformer les pierres en magnifiques bijoux. Parviendrez-vous, en bout de cha&icirc;ne, &agrave; s&eacute;duire les nobles de votre entourage ?<br/></em></p>
+<h2 style="text-align: justify;" align="center">Splendor - Un jeu de strat&eacute;gie entre amis</h2>
+<p style="text-align: justify;" align="center">Splendor est <strong>un jeu de strat&eacute;gie</strong> dans lequel vous incarnez un joaillier qui veut obtenir le plus de <strong>points de prestige</strong> possible. Pour cela vous devez acqu&eacute;rir des cartes vari&eacute;es &agrave; l'aide de joyaux de couleurs diff&eacute;rentes.</p>
+<p style="text-align: justify;" align="center">Au centre de la table sont dispos&eacute;s les <strong>cinq types de joyaux </strong>(gemmes) ainsi que des cartes d'am&eacute;liorations et des tuiles nobles. &Agrave; votre tour de jeu vous devez <strong>effectuer une action parmi les quatre possibles</strong> :</p>
+<ul style="text-align: justify;">
+<li>Prendre 2 joyaux identiques (<em>2 rubis par exemple</em>)</li>
+<li>Prendre 3 joyaux diff&eacute;rents (<em>comme</em> <em>1 rubis, 1 saphir et 1 &eacute;meraude</em>). Attention vous &ecirc;tes<strong> limit&eacute; &agrave; un maximum de 10 jetons !</strong></li>
+<li><strong>Payer une carte d&eacute;veloppement</strong> (de votre main ou du plateau) &agrave; l'aide de vos joyaux. Une fois en votre possession, la carte reste face visible devant vous. Ces cartes peuvent vous <strong>rapporter des points de prestige et/ou vous fournir des symboles bonus de gemmes</strong>. Chaque symbole bonus r&eacute;duit le co&ucirc;t d'achat des prochaines cartes. <em>Par exemple, si vous poss&egrave;dez 2 symboles bonus d'&eacute;meraude, vous r&eacute;duisez d'autant le co&ucirc;t en &eacute;meraudes n&eacute;cessaire pour acheter vos cartes.</em></li>
+<li><strong>R&eacute;server une carte</strong> sur le plateau, c'est &agrave; dire la retirer du plateau et la conserver dans votre main, face cach&eacute;e. Une limite de trois cartes r&eacute;serv&eacute;es est impos&eacute;e &agrave; chaque joueur. <strong>Lorsque vous r&eacute;servez une carte, vous prenez aussi un jeton or</strong>. Les jetons or sont des Jokers qui peuvent servir &agrave; remplacer n'importe quelle gemme.</li>
+</ul>
+<h2 style="text-align: justify;">Splendor - S&eacute;duire la noblesse et construire votre commerce</h2>
+<p style="text-align: justify;">Une fois&nbsp;votre action effectu&eacute;e, vous pouvez <strong>acqu&eacute;rir une tuile noble</strong> si vous avez autant de gemmes sur vos cartes que celles indiqu&eacute;es sur la carte noble. Ces tuiles nobles vous rapportent des points de prestige non-n&eacute;gligeables ! Il faut cependant surveiller vos adversaires afin d'&ecirc;tre le premier &agrave; mettre la main sur celui que vous courtisez.</p>
+<p style="text-align: justify;">Notez bien qu'il existe <strong>trois niveaux de cartes d&eacute;veloppement :</strong></p>
+<ul>
+<li style="text-align: justify;">Le premier niveau est compos&eacute; de cartes faciles &agrave; acheter, les mines. Celles-ci vous servent &agrave; r&eacute;cup&eacute;rer facilement des symboles bonus.</li>
+<li style="text-align: justify;">Le second niveau est caract&eacute;rist&eacute; par une abondance d'artisans ou de marchands. Ils rapportent &agrave; la fois des symboles bonus et des points de prestige.</li>
+<li style="text-align: justify;">Le troisi&egrave;me niveau n&eacute;cessite des ressources abondantes. Ces &eacute;choppes fournissent cependant d'importants points de prestige !</li>
+</ul>
+<p style="text-align: justify;">Le premier joueur qui obtient <strong>15 points de prestige</strong> remporte la partie.</p>
+<p style="text-align: justify;"><strong>Les plus</strong> :</p>
+<ul style="text-align: justify;">
+<li>Un jeu addictif</li>
+<li>Un jeu de strat&eacute;gie rapide</li>
+<li>Des parties funs entre amis</li>
+</ul><strong>Contenu&nbsp;:</strong>
+<ul><li> 40 jetons; 90 cartes</li><li>1 livret de règles</li></ul><strong><i>À partir de 10 ans, de 2 à 4 joueurs et pour des parties d'environ 30 minutes.</i></strong></div><div class="tab bloc_tab tab_features tab_hidden"><table class="table_tag_jds"><tr class="container_lang tr_impair">
 <th scope="row">Langue</th>
 <td class="text"><div>Français</div></td>
 </tr>
@@ -2737,7 +3016,7 @@ Yu-Gi-Oh! </div></a>
 </tr>
 <tr class="container_time tr_impair">
 <th scope="row">Durée</th>
-<td class="text"><a href="/jeux_de_societe/recherche/?time%5B%5D=60"><div>60 minutes</div></a></td>
+<td class="text"><a href="/jeux_de_societe/recherche/?time%5B%5D=30"><div>30 minutes</div></a></td>
 </tr>
 <tr class="container_age tr_pair">
 <th scope="row">Âge</th>
@@ -2747,26 +3026,331 @@ Yu-Gi-Oh! </div></a>
 </tr>
 <tr class="container_theme tr_impair">
 <th scope="row">Thème(s)</th>
-<td class="text"><a href="/jeux_de_societe/recherche/?theme=Animaux" /><div>Animaux</div></a></td></tr><tr class="container_theme line_repeat tr_impair"><th scope="row"></th><td class="text"><a href="/jeux_de_societe/recherche/?theme=Nature" /><div>Nature</div></a></td>
+<td class="text"><div>Non renseigné</div></td>
 </tr>
 <tr class="container_type tr_pair">
 <th scope="row">Type(s)</th>
-<td class="text"><a href="/jeux_de_societe/recherche/?type=Collection" /><div>Collection</div></a></td></tr><tr class="container_type line_repeat"><th scope="row"></th><td class="text"><a href="/jeux_de_societe/recherche/?type=Combinaisons" /><div>Combinaisons</div></a></td></tr><tr class="container_type line_repeat"><th scope="row"></th><td class="text"><a href="/jeux_de_societe/recherche/?type=Jeux+de+Stratégie" /><div>Jeux de Stratégie</div></a></td>
+<td class="text"><a href="/jeux_de_societe/recherche/?type=Collection" /><div>Collection</div></a></td></tr><tr class="container_type line_repeat"><th scope="row"></th><td class="text"><a href="/jeux_de_societe/recherche/?type=Jeux+de+Gestion" /><div>Jeux de Gestion</div></a></td></tr><tr class="container_type line_repeat"><th scope="row"></th><td class="text"><a href="/jeux_de_societe/recherche/?type=Jeux+de+Stratégie" /><div>Jeux de Stratégie</div></a></td>
 </tr>
 <tr class="container_type tr_impair">
-<th scope="row">Gamme</th><td class="text"><div>Aucune gamme</div></td></tr>
+<th scope="row">Gamme</th><td class="text"><a href="/jeux_de_societe/gamme/58-splendor" /><div>Splendor</div></a></td></tr>
 <tr class="container_editor tr_pair">
 <th scope="row">Éditeur(s)</th>
-<td class="text"><div>Look Out Spiele</div></td>
+<td class="text"><div>Space Cowboys</div></td>
 </tr>
 <tr class="container_author tr_impair">
 <th scope="row">Auteur(s)</th>
-<td class="text"><div>Kosch</div></td>
+<td class="text"><div>Marc André</div></td>
 </tr>
 <tr class="container_illustrator tr_pair">
 <th scope="row">Illustrateur(s)</th>
-<td class="text"><div>Judit Piella</div></td></tr><tr class="container_theme line_repeat"><th scope="row"></th><td class="text"><div>Toni Llobet</div></td>
-</tr></table></div><div class="tab bloc_tab tab_video tab bloc_tab tab_video"><div class="video"><div class="container"></div></div></div><div class="tab bloc_tab tab_rating  tab bloc_tab tab_rating tab_hidden"><div class="rating_available">Merci de vous connecter afin de déposer votre avis.</div><div class="container_page_rating"><div id="page_0" class="each_pagination" data-id="0"><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_empty"></span></div><div class="username_rating">Bruno V</div><div class="valid_purchase">Achat vérifié</div><div id="user_comment_41333" class="user_comment">Plein de cartes et plein de combos possibles ! Ça prend de la place sur la table mais c&#039;est ultra sympa à 2 ou 3. Au delà, on attend pas mal son tour. Je ne le conseille pas</div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">Gassian S</div><div class="valid_purchase">Achat vérifié</div><div id="user_comment_41433" class="user_comment">Jeu simple de compréhension des règles mais qui demande un esprit de stratégie pour jongler entre les différentes combinaisons de cartes possibles. Les parties ne se ressemblent jamais selon les choix que nous effectuerons. Je recommande !</div></div></div></div></div><div class="container_present_card"><div class="alert container_alert_bug">
+<td class="text"><div>Pascal Quidault</div></td>
+</tr></table></div><div class="tab bloc_tab tab_video tab_hidden tab bloc_tab tab_video"><div class="video"><div class="container"><iframe width="560" height="315" src="https://www.youtube.com/embed/UkfnyT848LU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><iframe width="560" height="315" src="https://www.youtube.com/embed/oHMEuBnEnGc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></div></div><div class="tab bloc_tab tab_ext tab_hidden tab bloc_tab tab_ext"><div class="title_ext">Le produit Splendor est une boite de base.</div><div class="title_ext title_all_ext">Découvrez les extensions compatibles&nbsp;:</div><div class="list_product_full case_product_full filterElement" data-family="5" data-sales="0">
+<div class="container_img_product">
+<a href="/produit/207694-splendor_-_extension_les_cites_de_splendor">
+<div class="img_product"><picture><source srcset="/img/product/m/splendor-extension-les-cites-de-splendor-jeu-space-cowboys-boite.webp" type="image/webp"><source srcset="/img/product/m/splendor-extension-les-cites-de-splendor-jeu-space-cowboys-boite.jpg" type="image/jpeg">
+<img src="/img/product/m/splendor-extension-les-cites-de-splendor-jeu-space-cowboys-boite.jpg" title="Splendor - Extension Les Cités de Splendor" alt="Splendor - Extension Les Cités de Splendor" loading="lazy" />
+</picture>
+</div><div class="clear"></div>
+</a>
+</div>
+<div class="container_info_product container_info_product_with_rating">
+<a href="/produit/207694-splendor_-_extension_les_cites_de_splendor">
+<div class="name_product" title="Splendor - Extension Les Cités de Splendor">Splendor - Extension Les Cités de Splendor</div>
+<div class="desc_short">Les Cités de Splendor ajoutent 4 modules d'extension au jeu Splendor : Cités, Comptoirs, Orient, Bastions. Revoyez toutes vos stratégies !
+</div>
+</a><div class="container_move_product">
+<div class="separateur separateur_product"></div><div class="bloc_rating_product" title="Note 4.6/5, 5 avis"><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_half"></span></div><div class="bloc_preco_product"></div>
+</div>
+</div>
+<div class="block_cart "><div class="container_prices"><div class="price_product simple_price_product">27,50&nbsp;€</div></div><div class="cart">
+<div class="add_cart_btn add_cart_btn_mini">
+<form method="POST">
+<input type="hidden" aria-label="id_product" name="id_product" value="207694"><label for="207694_13"></label><select name="qty_product" aria-label="207694" class="select" id="207694_13"><option id="1" value="1">1</option><option id="2" value="2">2</option><option id="3" value="3">3</option><option id="4" value="4">4</option><option id="5" value="5">5</option><option id="6" value="6">6</option><option id="7" value="7">7</option><option id="8" value="8">8</option><option id="9" value="9">9</option><option id="10" value="10">10</option><option id="11" value="11">11</option><option id="12" value="12">12</option><option id="13" value="13">13</option></select><div class="qty">(13)</div><div class="bloc_cart"><div class="bloc_each_cart_mini">
+<button type="submit" name="addToCart" value="0" class="btn addToCart tagSmallOrange tagProduct" data-localisation="0" data-id="207694" title="Ajouter au panier en livraison" alt="Ajouter au panier en livraison">
+<div class="add_cart_logo_mini"></div>
+</button>
+<div class="explain_new_btn_orange">Livraison</div>
+</div><div class="bloc_each_cart_mini">
+<div class="btn btn_store btn_violet showStoreSelect tagSmallVioletModal tagProduct" title="Choisir un magasin de retrait" alt="Choisir un magasin de retrait" data-modal-type="207694">
+<div class="add_cart_store_logo_mini"></div>
+</div>
+<div class="explain_new_btn_violet">Retrait magasin</div>
+</div><div class="select_favourite_store">
+<div class="store_nav" id="207694">
+<div class="store_nav_content">
+<span class="close">&times;</span>
+<div class="modal-title">Retirer en magasin</div>
+<ul><li class="store_list" value="1">
+<div class="bloc head_store">Playin Paris BNF</div><div class="bloc availability">
+<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
+<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
+<span class="localAvailable" ">&#10004;&nbsp;Disponible sous 2h</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
+<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
+</div>
+<div class="bloc set_store_btn_bloc">
+<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="1">
+<div class="add_cart_btn_img add_cart_store_btn_img"></div>
+<div class="add_cart_text">Choisir ce magasin</div>
+</button>
+</div><div class="clear"></div>
+</li><li class="store_list" value="2">
+<div class="bloc head_store">Playin Annecy</div><div class="bloc availability">
+<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
+<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
+<span class="localAvailable" ">&#10004;&nbsp;Disponible sous 2h</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
+<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
+</div>
+<div class="bloc set_store_btn_bloc">
+<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="2">
+<div class="add_cart_btn_img add_cart_store_btn_img"></div>
+<div class="add_cart_text">Choisir ce magasin</div>
+</button>
+</div><div class="clear"></div>
+</li><li class="store_list" value="3">
+<div class="bloc head_store">Playin Paris Rivoli</div><div class="bloc availability">
+<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
+<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
+<span class="localAvailable" ">&#10004;&nbsp;Disponible sous 2h</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
+<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
+</div>
+<div class="bloc set_store_btn_bloc">
+<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="3">
+<div class="add_cart_btn_img add_cart_store_btn_img"></div>
+<div class="add_cart_text">Choisir ce magasin</div>
+</button>
+</div><div class="clear"></div>
+</li></ul>
+</div>
+</div>
+</div></div></form>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div><div class="clear"></div><div class="title_ext title_all_ext">Découvrez les autres jeux de la gamme&nbsp;:</div><div class="warning_title_ext">
+<div class="logo_warning_white"></div>
+<div class="text">Ces jeux ne sont pas compatibles avec Splendor&nbsp;!</div>
+</div><div class="list_product_full case_product_full filterElement" data-family="5" data-sales="0">
+<div class="container_img_product">
+<a href="/produit/262569-splendor_marvel">
+<div class="img_product"><picture><source srcset="/img/product/m/splendore-marvel-packaging.webp" type="image/webp"><source srcset="/img/product/m/splendore-marvel-packaging.jpg" type="image/jpeg">
+<img src="/img/product/m/splendore-marvel-packaging.jpg" title="Splendor Marvel" alt="Splendor Marvel" loading="lazy" />
+</picture>
+</div><div class="clear"></div>
+</a>
+</div>
+<div class="container_info_product container_info_product_with_rating">
+<a href="/produit/262569-splendor_marvel">
+<div class="name_product" title="Splendor Marvel">Splendor Marvel</div>
+<div class="desc_short">Splendor Marvel est une adaptation du célèbre Splendor transposé au monde des super héros ! Regroupez vos héros et emparez-vous des cinq gemmes de l'in...</div>
+</a><div class="container_move_product">
+<div class="separateur separateur_product"></div><div class="bloc_rating_product" title="Note 4.8/5, 6 avis"><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_full"></span></div><div class="bloc_preco_product"></div>
+</div>
+</div>
+<div class="block_cart "><div class="container_prices"><div class="price_product simple_price_product">35,90&nbsp;€</div></div><div class="cart">
+<div class="add_cart_btn add_cart_btn_mini">
+<form method="POST">
+<input type="hidden" aria-label="id_product" name="id_product" value="262569"><label for="262569_13"></label><select name="qty_product" aria-label="262569" class="select" id="262569_13"><option id="1" value="1">1</option><option id="2" value="2">2</option><option id="3" value="3">3</option><option id="4" value="4">4</option><option id="5" value="5">5</option><option id="6" value="6">6</option><option id="7" value="7">7</option><option id="8" value="8">8</option><option id="9" value="9">9</option><option id="10" value="10">10</option><option id="11" value="11">11</option><option id="12" value="12">12</option><option id="13" value="13">13</option></select><div class="qty">(13)</div><div class="bloc_cart"><div class="bloc_each_cart_mini">
+<button type="submit" name="addToCart" value="0" class="btn addToCart tagSmallOrange tagProduct" data-localisation="0" data-id="262569" title="Ajouter au panier en livraison" alt="Ajouter au panier en livraison">
+<div class="add_cart_logo_mini"></div>
+</button>
+<div class="explain_new_btn_orange">Livraison</div>
+</div><div class="bloc_each_cart_mini">
+<div class="btn btn_store btn_violet showStoreSelect tagSmallVioletModal tagProduct" title="Choisir un magasin de retrait" alt="Choisir un magasin de retrait" data-modal-type="262569">
+<div class="add_cart_store_logo_mini"></div>
+</div>
+<div class="explain_new_btn_violet">Retrait magasin</div>
+</div><div class="select_favourite_store">
+<div class="store_nav" id="262569">
+<div class="store_nav_content">
+<span class="close">&times;</span>
+<div class="modal-title">Retirer en magasin</div>
+<ul><li class="store_list" value="1">
+<div class="bloc head_store">Playin Paris BNF</div><div class="bloc availability">
+<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
+<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
+<span class="localAvailable" ">&#10004;&nbsp;Disponible sous 2h</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
+<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
+</div>
+<div class="bloc set_store_btn_bloc">
+<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="1">
+<div class="add_cart_btn_img add_cart_store_btn_img"></div>
+<div class="add_cart_text">Choisir ce magasin</div>
+</button>
+</div><div class="clear"></div>
+</li><li class="store_list" value="2">
+<div class="bloc head_store">Playin Annecy</div><div class="bloc availability">
+<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
+<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
+<span class="localAvailable" style="display : none">&#10004;&nbsp;Disponible sous 2h</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
+<span class="orderAvailable" ">&#10004;&nbsp;Sur commande (72h)</span>
+<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
+</div>
+<div class="bloc set_store_btn_bloc">
+<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="2">
+<div class="add_cart_btn_img add_cart_store_btn_img"></div>
+<div class="add_cart_text">Choisir ce magasin</div>
+</button>
+</div><div class="clear"></div>
+</li><li class="store_list" value="3">
+<div class="bloc head_store">Playin Paris Rivoli</div><div class="bloc availability">
+<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
+<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
+<span class="localAvailable" style="display : none">&#10004;&nbsp;Disponible sous 2h</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
+<span class="orderAvailable" ">&#10004;&nbsp;Sur commande (72h)</span>
+<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
+</div>
+<div class="bloc set_store_btn_bloc">
+<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="3">
+<div class="add_cart_btn_img add_cart_store_btn_img"></div>
+<div class="add_cart_text">Choisir ce magasin</div>
+</button>
+</div><div class="clear"></div>
+</li></ul>
+</div>
+</div>
+</div></div></form>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div><div class="list_product_full case_product_full filterElement" data-family="5" data-sales="0">
+<div class="container_img_product">
+<a href="/produit/436173-splendor_duel">
+<div class="img_product"><picture><source srcset="/img/product/m/splendor-duel-jeu-space-cowboys-boite.webp" type="image/webp"><source srcset="/img/product/m/splendor-duel-jeu-space-cowboys-boite.jpg" type="image/jpeg">
+<img src="/img/product/m/splendor-duel-jeu-space-cowboys-boite.jpg" title="Splendor Duel" alt="Splendor Duel" loading="lazy" />
+</picture>
+</div><div class="clear"></div>
+</a>
+</div>
+<div class="container_info_product container_info_product_with_rating">
+<a href="/produit/436173-splendor_duel">
+<div class="name_product" title="Splendor Duel">Splendor Duel</div>
+<div class="desc_short">Retrouvez l'univers de Splendor en Duel ! Collectez gemmes et privilèges pour produire les plus beaux bijoux et satisfaire les exigences de la couronne !</div>
+</a><div class="container_move_product">
+<div class="separateur separateur_product"></div><div class="bloc_rating_product" title="Note 4.5/5, 16 avis"><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_half"></span></div><div class="bloc_preco_product"></div>
+</div>
+</div>
+<div class="block_cart "><div class="container_prices"><div class="price_product simple_price_product">22,50&nbsp;€</div></div><div class="cart">
+<div class="add_cart_btn add_cart_btn_mini">
+<form method="POST">
+<input type="hidden" aria-label="id_product" name="id_product" value="436173"><label for="436173_20"></label><select name="qty_product" aria-label="436173" class="select" id="436173_20"><option id="1" value="1">1</option><option id="2" value="2">2</option><option id="3" value="3">3</option><option id="4" value="4">4</option><option id="5" value="5">5</option><option id="6" value="6">6</option><option id="7" value="7">7</option><option id="8" value="8">8</option><option id="9" value="9">9</option><option id="10" value="10">10</option><option id="11" value="11">11</option><option id="12" value="12">12</option><option id="13" value="13">13</option><option id="14" value="14">14</option><option id="15" value="15">15</option><option id="16" value="16">16</option><option id="17" value="17">17</option><option id="18" value="18">18</option><option id="19" value="19">19</option><option id="20" value="20">20</option></select><div class="qty">(20)</div><div class="bloc_cart"><div class="bloc_each_cart_mini">
+<button type="submit" name="addToCart" value="0" class="btn addToCart tagSmallOrange tagProduct" data-localisation="0" data-id="436173" title="Ajouter au panier en livraison" alt="Ajouter au panier en livraison">
+<div class="add_cart_logo_mini"></div>
+</button>
+<div class="explain_new_btn_orange">Livraison</div>
+</div><div class="bloc_each_cart_mini">
+<div class="btn btn_store btn_violet showStoreSelect tagSmallVioletModal tagProduct" title="Choisir un magasin de retrait" alt="Choisir un magasin de retrait" data-modal-type="436173">
+<div class="add_cart_store_logo_mini"></div>
+</div>
+<div class="explain_new_btn_violet">Retrait magasin</div>
+</div><div class="select_favourite_store">
+<div class="store_nav" id="436173">
+<div class="store_nav_content">
+<span class="close">&times;</span>
+<div class="modal-title">Retirer en magasin</div>
+<ul><li class="store_list" value="1">
+<div class="bloc head_store">Playin Paris BNF</div><div class="bloc availability">
+<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
+<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
+<span class="localAvailable" ">&#10004;&nbsp;Disponible sous 2h</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
+<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
+</div>
+<div class="bloc set_store_btn_bloc">
+<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="1">
+<div class="add_cart_btn_img add_cart_store_btn_img"></div>
+<div class="add_cart_text">Choisir ce magasin</div>
+</button>
+</div><div class="clear"></div>
+</li><li class="store_list" value="2">
+<div class="bloc head_store">Playin Annecy</div><div class="bloc availability">
+<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
+<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
+<span class="localAvailable" ">&#10004;&nbsp;Disponible sous 2h</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
+<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
+</div>
+<div class="bloc set_store_btn_bloc">
+<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="2">
+<div class="add_cart_btn_img add_cart_store_btn_img"></div>
+<div class="add_cart_text">Choisir ce magasin</div>
+</button>
+</div><div class="clear"></div>
+</li><li class="store_list" value="3">
+<div class="bloc head_store">Playin Paris Rivoli</div><div class="bloc availability">
+<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
+<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
+<span class="localAvailable" ">&#10004;&nbsp;Disponible sous 2h</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
+<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
+</div>
+<div class="bloc set_store_btn_bloc">
+<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="3">
+<div class="add_cart_btn_img add_cart_store_btn_img"></div>
+<div class="add_cart_text">Choisir ce magasin</div>
+</button>
+</div><div class="clear"></div>
+</li></ul>
+</div>
+</div>
+</div></div></form>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div><div class="clear"></div></div><div class="tab bloc_tab tab_reward tab_hidden tab bloc_tab tab_reward">
+<div class="title">Voici les récompenses décernées à Splendor&nbsp;: </div><a href="/jeux_de_societe/recherche/?reward=Tric+Trac+d'Or"><div class="container_reward">
+<div class="img"><div class="tric_trac_bronze" /></div></div><div class="text">2014 : Tric Trac de Bronze</div></div></a><a href="/jeux_de_societe/recherche/?reward=Golden+Geek"><div class="container_reward">
+<div class="img"><div class="golden_geek" /></div></div><div class="text">2014 : Golden Geek : Jeu de l'Année</div></div></a><a href="/jeux_de_societe/recherche/?reward=Golden+Geek"><div class="container_reward">
+<div class="img"><div class="golden_geek" /></div></div><div class="text">2014 : Golden Geek : Meilleur Jeu Familial</div></div></a><div class="separateur_horizontal"></div><div class="container_explain_reward">
+<div>Qu'est-ce que le Tric Trac d'Or&nbsp;: </div>
+<div class>Le Tric-Trac d'or est décerné chaque année par la communauté du site francophone spécialisé en jeux de société Tric Trac.</div>
+</div><div class="container_explain_reward">
+<div>Qu'est-ce que le Golden Geek&nbsp;: </div>
+<div class>Les Golden Geek sont une récompense remise sur nomination et vote par les utilisateurs du site américain BoardGameGeek.</div>
+</div></div><div class="tab bloc_tab tab_rules tab_hidden tab bloc_tab tab_rules">
+<div class="title_rules">Splendor : </div>
+<div class="rules"><div class="container_rules">
+<div class="img_download_logo"></div>
+<a href="/pdf/rules_games/splendor_regles_fr.pdf" target="_blank"><div>Consulter :</div><div>Les règles en français</div></a>
+</div><div class="container_rules">
+<div class="img_download_logo"></div>
+<a href="/pdf/rules_games/splendor_regles_fr.pdf" target="_blank"><div>Consulter :</div><div>Rules in english</div></a>
+</div></div>
+<div class="clear"></div></div><div class="tab bloc_tab tab_rating  tab bloc_tab tab_rating tab_hidden"><div class="rating_available">Merci de vous connecter afin de déposer votre avis.</div><div class="container_page_rating"><div id="page_0" class="each_pagination" data-id="0"><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">Julien c</div><div class="valid_purchase"></div><div id="user_comment_436" class="user_comment">très bon ou il faut faire des combinaisons avec des pierres précieuses pour acheter les tuiles.</div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_empty"></span></div><div class="username_rating">Anonyme</div><div class="valid_purchase">Achat vérifié</div><div id="user_comment_680" class="user_comment" data-id="680">Un grand classique du jeu d&#039;accumulation de ressources. Vous en avez marre du monopoly et de la chance qui en découle ? Splendor est fait pour vous, bien qu&#039;il y a un facteur &quot;chance&quot; ce dernier est assez minime et beaucoup plus axé sur la stratégie et la prise de <span id="dots_comment_680" data-id="680">...</span>
+<span id="read_more_680" class="read_more_comment" data-id="680">décision sur les ressources à accumuler et les investissement à récupéré. Le jeu est de bonne facture et les tokens de très bonne qualité. Les règles sont assez facile à apprendre mais le jeu n&#039;en reste pas moins difficile à maitriser si vous voulez être parfaitement optimiser et faire suer vos adversaires </span></div><div class="container_more_less_btn">
+<div id="btn_more_680" class="btn_more_content" data-id="680">Voir plus</div>
+<div id="btn_less_680" class="btn_less_content" data-id="680">Voir moins</div>
+</div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_empty"></span></div><div class="username_rating">Xavier D</div><div class="valid_purchase"></div><div id="user_comment_1208" class="user_comment">Old school, très directe comme gameplay, on se prend pas trop la tête. <br/>Mais on ne fait pas plus de 1 ou 2 parties, les extensions aides peut-être.</div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">Guillaume B</div><div class="valid_purchase">Achat vérifié</div><div id="user_comment_1322" class="user_comment" data-id="1322">Contrairement à l&#039;avis posté plus haut, c&#039;est un jeu auquel j&#039;ai joué à répétitions. C&#039;est un jeu très mécanique, ce qui nous a poussé à enchainer les parties en optimisant à chaque fois nos actions. Il faut noter le matériel de jeu de bonne qualité. C&#039;&#039;est très agréable de manipuler <span id="dots_comment_1322" data-id="1322">...</span>
+<span id="read_more_1322" class="read_more_comment" data-id="1322">des jetons de poker plutôt que de simple jetons en cartons comme en trouve souvent. </span></div><div class="container_more_less_btn">
+<div id="btn_more_1322" class="btn_more_content" data-id="1322">Voir plus</div>
+<div id="btn_less_1322" class="btn_less_content" data-id="1322">Voir moins</div>
+</div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">Marie C</div><div class="valid_purchase"></div><div id="user_comment_1340" class="user_comment">Un jeu qui s&#039;explique en 2 minutes avec une grande profondeur de jeu, malgré tout. <br/>La sensation de tenir des jetons de poket est aussi très sympa</div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">Benjamin H</div><div class="valid_purchase">Achat vérifié</div><div id="user_comment_1418" class="user_comment">Un classique parmi les classiques à posséder absolument</div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">Warren F</div><div class="valid_purchase"></div><div id="user_comment_1725" class="user_comment">Jeu très simple à prendre en main, mais très riche en terme de stratégie. <br/>On peut y jouer simplement, sans calculer, tout comme penser nos coups à l&#039;avance et essayer de contrer les plans de nos adversaires ! <br/>Les décisions ne sont pas toujours évidentes à prendre.</div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">Maelys L</div><div class="valid_purchase"></div><div id="user_comment_1768" class="user_comment">Jeu facile à comprendre et super pour jouer en famille. Je recommande à 100%.</div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">Clément M</div><div class="valid_purchase"></div><div id="user_comment_1800" class="user_comment">Un nouveau classique, des règles expliquées en 5 min et derrière, des heures de jeu avec une super rejouabilité. Un matériel très agréable à manipulé, les jetons de poker sont vraiment sympas. Par contre 4 joueurs max, un 5ème aurait été le bienvenue je pense.</div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_empty"></span></div><div class="username_rating">Adrien C</div><div class="valid_purchase">Achat vérifié</div><div id="user_comment_2022" class="user_comment">Jeu de gestion de ressource très addictif entre amis et rapide</div></div></div><div id="page_1" class="each_pagination" data-id="1"><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">Eric O</div><div class="valid_purchase"></div><div id="user_comment_2192" class="user_comment">Un jeu simple mais pas simpliciste. <br/>Evidemment c&#039;est un classique à posséder!</div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_empty"></span></div><div class="username_rating">MICHAEL V</div><div class="valid_purchase"></div><div id="user_comment_3492" class="user_comment">Excellent jeu à deux ou plus d&#039;ailleurs. <br/>Simple a prendre en main, profond et permet tant de jouer pour soi que de jouer pour empêcher les autres de parvenir à leurs fins. <br/>Le matériel est très chouette en plus ce qui ne gâche rien au plaisir.</div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">Xavier H</div><div class="valid_purchase">Achat vérifié</div><div id="user_comment_4209" class="user_comment"></div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">Jeremy C</div><div class="valid_purchase">Achat vérifié</div><div id="user_comment_10865" class="user_comment">Un classique que noue avons offert en cadeaux et qui a aussi beaucoup plu !</div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">Marina G</div><div class="valid_purchase">Achat vérifié</div><div id="user_comment_11362" class="user_comment">Jeux a avoir dans sa ludothèque !</div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">O C</div><div class="valid_purchase"></div><div id="user_comment_13399" class="user_comment">Un super jeu pour jouer à 2 ou à plusieurs !</div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">Sylvain W</div><div class="valid_purchase"></div><div id="user_comment_15136" class="user_comment">Indispensable dans toute bonne ludothèque. Les cartes sont tellement belles... Aussi bien à deux, trois ou quatre.</div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_empty"></span></div><div class="username_rating">Florian D</div><div class="valid_purchase"></div><div id="user_comment_15185" class="user_comment">Désormais un classique du jeu moderne, les parties s&#039;enchainent facilement mais on finira peut être pas s&#039;en détacher au profit d&#039;un jeu mécaniquement plus lourd. Idéal pour introduire de nouveaux joueurs.</div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">Hongyi S</div><div class="valid_purchase">Achat vérifié</div><div id="user_comment_16083" class="user_comment">un vraiment classique! Toujours amusant à jouer avec les amis.</div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">Xavier A</div><div class="valid_purchase">Achat vérifié</div><div id="user_comment_16534" class="user_comment" data-id="16534"><br/>Splendor est pour moi un grand jeu classique, rapide, fluide et simple à prendre en main. Globalement, les mécaniques sont très fluides et on se laisse vite prendre au jeu. <br/>Conviendra à ceux qui recherche un jeu sans trop de profondeur avec une prise en main facile mais dont les aspects <span id="dots_comment_16534" data-id="16534">...</span>
+<span id="read_more_16534" class="read_more_comment" data-id="16534">stratégiques restent quand même bien marqués (malgré une touche d’aléatoire/opportunité de jeux liée à la découverte des cartes). <br/>Mention spéciale au matériel et plus particulièrement les ressources imprimées sur des jetons façon Poker. <br/> </span></div><div class="container_more_less_btn">
+<div id="btn_more_16534" class="btn_more_content" data-id="16534">Voir plus</div>
+<div id="btn_less_16534" class="btn_less_content" data-id="16534">Voir moins</div>
+</div></div></div><div id="page_2" class="each_pagination" data-id="2"><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">Anonyme</div><div class="valid_purchase"></div><div id="user_comment_20751" class="user_comment"></div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">Vincent N</div><div class="valid_purchase"></div><div id="user_comment_27978" class="user_comment">J&#039;y joue avec mon fils de 7 ans. <br/>Il adore, je le trouve excellent pour initier au jeux de stratégie afin de savoir anticiper. <br/>Et très bon entre adulte. Une valeur sûre !</div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">Florian J</div><div class="valid_purchase">Achat vérifié</div><div id="user_comment_31246" class="user_comment"></div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">Paul C</div><div class="valid_purchase">Achat vérifié</div><div id="user_comment_31650" class="user_comment">Excellent jeu aux règles simplissimes qui se joue aussi bien à 2, 3 ou 4. Convient autant aux amateurs de jeux qu&#039;aux novices !</div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_empty"></span></div><div class="username_rating">Celine H</div><div class="valid_purchase">Achat vérifié</div><div id="user_comment_33309" class="user_comment"></div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_empty"></span><span class="img_middle_star_empty"></span></div><div class="username_rating">Nicolas B</div><div class="valid_purchase"></div><div id="user_comment_34193" class="user_comment"></div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">Renaud Z</div><div class="valid_purchase">Achat vérifié</div><div id="user_comment_38199" class="user_comment">Très bon jeu que ce soit a deux ou quatre joueurs.</div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">Anonyme</div><div class="valid_purchase"></div><div id="user_comment_40497" class="user_comment"></div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">Sylvain L</div><div class="valid_purchase">Achat vérifié</div><div id="user_comment_41270" class="user_comment">Contenu très agréable à manipuler, prise en main rapide. Par contre, on sent très vite qu&#039;il y peut y avoir de nombreuses stratégies pour gagner ! Grosse rejouabilité, donc !</div></div></div></div><div class="pagination_bloc container_btn_pagination">
+<div class="pagination_selector pagination_first"><<</div>
+<div class="pagination_selector pagination_prev"><</div>
+<div class="pagination_selector bloc_selector"></div>
+<div class="pagination_selector pagination_next">></div>
+<div class="pagination_selector pagination_last">>></div>
+</div></div><div class="container_present_card"><div class="alert container_alert_bug">
 <div class="toggleTarget clicOut" data-target="signal_bug">Vous souhaitez nous signaler un bug&nbsp;?</div>
 <div class="send_ok"></div>
 <div class="boxToggle clicOut alert_target signal_bug"><div class> <div class="send_ok not_connected">Vous devez être connecté pour signaler un bug</div> </div></div>
@@ -2774,13 +3358,172 @@ Yu-Gi-Oh! </div></a>
 </div> </div>
 <div class="container_main_right">
 <div class="container_select_carts col_middle">
-<section><div class="bloc_encart container_product bloc_encart_price bloc_encart_price_fidelity"><div class="bloc_price"><div class="price">25,50&nbsp;€</div></div><div class="container_fidelity_point container_recap_fidelity">
-<a href="/article/247-les_points_votre_programme_fidelite_par_playin_"><span>Gagnez jusqu'à </span><span class="bold_black">25&nbsp;<span class="img_points_fidelity_black"></span>oint(s)</span></a><div class="togglePopup clicOutPopup img_explain_fidelity_points_orange" title="Voir le détail des Points" data-target="boxTogglePopupFidelity"></div>
+<section><div class="bloc_encart container_product bloc_encart_price bloc_encart_price_fidelity"><div class="bloc_price"><div class="price">31,90&nbsp;€</div></div><div class="container_fidelity_point container_recap_fidelity">
+<a href="/article/247-les_points_votre_programme_fidelite_par_playin_"><span>Gagnez jusqu'à </span><span class="bold_black">31&nbsp;<span class="img_points_fidelity_black"></span>oint(s)</span></a><div class="togglePopup clicOutPopup img_explain_fidelity_points_orange" title="Voir le détail des Points" data-target="boxTogglePopupFidelity"></div>
 <div class="clear"></div>
 <div class="popup_fidelity_points boxTogglePopupFidelity clicOutPopup hide">
 <div class="bold_orange">Les <span class="img_points_fidelity_orange"></span>oints, votre programme de fidelité&nbsp;!</div>
-<div class="txt">1 € dépensé = 1 Point gagné&nbsp;!</div><div class="txt">Ce produit vous rapportera jusqu'à <b>25 Points</b>.</div><a href="/article/247-les_points_votre_programme_fidelite_par_playin_" class="link">En savoir plus sur les Points</a>
-</div></div> <div id="container_secondhand" style="display:none">
+<div class="txt">1 € dépensé = 1 Point gagné&nbsp;!</div><div class="txt">Ce produit vous rapportera jusqu'à <b>31 Points</b>.</div><a href="/article/247-les_points_votre_programme_fidelite_par_playin_" class="link">En savoir plus sur les Points</a>
+</div></div><form method="post"><div class="select_favourite_store">
+<div class="store_nav" id="420066">
+<div class="store_nav_content">
+<span class="close">&times;</span>
+<div class="modal-title">Retirer en magasin</div>
+<ul><li class="store_list" value="1">
+<div class="bloc head_store">Playin Paris BNF</div><div class="bloc availability">
+<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
+<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
+<span class="localAvailable" style="display : none">&#10004;&nbsp;Disponible sous 2h</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
+<span class="localUnavailable" ">&cross;&nbsp;Non disponible</span>
+</div>
+<div class="bloc set_store_btn_bloc">
+<button type="submit" class="btn btn_violet btn_grey_unavailable" aria-pressed="true" name="_submit_store_cart" value="1" disabled>
+<div class="add_cart_btn_img add_cart_store_btn_img"></div>
+<div class="add_cart_text">Choisir ce magasin</div>
+</button>
+</div><div class="clear"></div>
+</li><li class="store_list" value="2">
+<div class="bloc head_store">Playin Annecy</div><div class="bloc availability">
+<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
+<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
+<span class="localAvailable" style="display : none">&#10004;&nbsp;Disponible sous 2h</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
+<span class="localUnavailable" ">&cross;&nbsp;Non disponible</span>
+</div>
+<div class="bloc set_store_btn_bloc">
+<button type="submit" class="btn btn_violet btn_grey_unavailable" aria-pressed="true" name="_submit_store_cart" value="2" disabled>
+<div class="add_cart_btn_img add_cart_store_btn_img"></div>
+<div class="add_cart_text">Choisir ce magasin</div>
+</button>
+</div><div class="clear"></div>
+</li><li class="store_list" value="3">
+<div class="bloc head_store">Playin Paris Rivoli</div><div class="bloc availability">
+<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
+<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
+<span class="localAvailable" style="display : none">&#10004;&nbsp;Disponible sous 2h</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
+<span class="localUnavailable" ">&cross;&nbsp;Non disponible</span>
+</div>
+<div class="bloc set_store_btn_bloc">
+<button type="submit" class="btn btn_violet btn_grey_unavailable" aria-pressed="true" name="_submit_store_cart" value="3" disabled>
+<div class="add_cart_btn_img add_cart_store_btn_img"></div>
+<div class="add_cart_text">Choisir ce magasin</div>
+</button>
+</div><div class="clear"></div>
+</li></ul>
+</div>
+</div>
+</div></form><form method="post"><div class="select_favourite_store">
+<div class="store_nav" id="420067">
+<div class="store_nav_content">
+<span class="close">&times;</span>
+<div class="modal-title">Retirer en magasin</div>
+<ul><li class="store_list" value="1">
+<div class="bloc head_store">Playin Paris BNF</div><div class="bloc availability">
+<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
+<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
+<span class="localAvailable" style="display : none">&#10004;&nbsp;Disponible sous 2h</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
+<span class="localUnavailable" ">&cross;&nbsp;Non disponible</span>
+</div>
+<div class="bloc set_store_btn_bloc">
+<button type="submit" class="btn btn_violet btn_grey_unavailable" aria-pressed="true" name="_submit_store_cart" value="1" disabled>
+<div class="add_cart_btn_img add_cart_store_btn_img"></div>
+<div class="add_cart_text">Choisir ce magasin</div>
+</button>
+</div><div class="clear"></div>
+</li><li class="store_list" value="2">
+<div class="bloc head_store">Playin Annecy</div><div class="bloc availability">
+<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
+<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
+<span class="localAvailable" style="display : none">&#10004;&nbsp;Disponible sous 2h</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
+<span class="localUnavailable" ">&cross;&nbsp;Non disponible</span>
+</div>
+<div class="bloc set_store_btn_bloc">
+<button type="submit" class="btn btn_violet btn_grey_unavailable" aria-pressed="true" name="_submit_store_cart" value="2" disabled>
+<div class="add_cart_btn_img add_cart_store_btn_img"></div>
+<div class="add_cart_text">Choisir ce magasin</div>
+</button>
+</div><div class="clear"></div>
+</li><li class="store_list" value="3">
+<div class="bloc head_store">Playin Paris Rivoli</div><div class="bloc availability">
+<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
+<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
+<span class="localAvailable" style="display : none">&#10004;&nbsp;Disponible sous 2h</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
+<span class="localUnavailable" ">&cross;&nbsp;Non disponible</span>
+</div>
+<div class="bloc set_store_btn_bloc">
+<button type="submit" class="btn btn_violet btn_grey_unavailable" aria-pressed="true" name="_submit_store_cart" value="3" disabled>
+<div class="add_cart_btn_img add_cart_store_btn_img"></div>
+<div class="add_cart_text">Choisir ce magasin</div>
+</button>
+</div><div class="clear"></div>
+</li></ul>
+</div>
+</div>
+</div></form><form method="post"><div class="select_favourite_store">
+<div class="store_nav" id="420068">
+<div class="store_nav_content">
+<span class="close">&times;</span>
+<div class="modal-title">Retirer en magasin</div>
+<ul><li class="store_list" value="1">
+<div class="bloc head_store">Playin Paris BNF</div><div class="bloc availability">
+<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
+<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
+<span class="localAvailable" style="display : none">&#10004;&nbsp;Disponible sous 2h</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
+<span class="localUnavailable" ">&cross;&nbsp;Non disponible</span>
+</div>
+<div class="bloc set_store_btn_bloc">
+<button type="submit" class="btn btn_violet btn_grey_unavailable" aria-pressed="true" name="_submit_store_cart" value="1" disabled>
+<div class="add_cart_btn_img add_cart_store_btn_img"></div>
+<div class="add_cart_text">Choisir ce magasin</div>
+</button>
+</div><div class="clear"></div>
+</li><li class="store_list" value="2">
+<div class="bloc head_store">Playin Annecy</div><div class="bloc availability">
+<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
+<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
+<span class="localAvailable" style="display : none">&#10004;&nbsp;Disponible sous 2h</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
+<span class="localUnavailable" ">&cross;&nbsp;Non disponible</span>
+</div>
+<div class="bloc set_store_btn_bloc">
+<button type="submit" class="btn btn_violet btn_grey_unavailable" aria-pressed="true" name="_submit_store_cart" value="2" disabled>
+<div class="add_cart_btn_img add_cart_store_btn_img"></div>
+<div class="add_cart_text">Choisir ce magasin</div>
+</button>
+</div><div class="clear"></div>
+</li><li class="store_list" value="3">
+<div class="bloc head_store">Playin Paris Rivoli</div><div class="bloc availability">
+<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
+<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
+<span class="localAvailable" style="display : none">&#10004;&nbsp;Disponible sous 2h</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
+<span class="localUnavailable" ">&cross;&nbsp;Non disponible</span>
+</div>
+<div class="bloc set_store_btn_bloc">
+<button type="submit" class="btn btn_violet btn_grey_unavailable" aria-pressed="true" name="_submit_store_cart" value="3" disabled>
+<div class="add_cart_btn_img add_cart_store_btn_img"></div>
+<div class="add_cart_text">Choisir ce magasin</div>
+</button>
+</div><div class="clear"></div>
+</li></ul>
+</div>
+</div>
+</div></form> <div id="container_secondhand" style="display:none">
 <div id="popup_secondhand">
 <div class="form_secondhand container_select_carts" id="info_valid_cart" style="display:none;">
 <div style="font-weight: bold;font-size: 14px;margin-bottom: 15px;">
@@ -2788,14 +3531,14 @@ Yu-Gi-Oh! </div></a>
 Le jeu a été ajouté au panier </div>
 </div>
 <div class="form_secondhand container_select_carts" id="popupForm">
-<img id="logo_gege" src="/img/play_back/Gégé_1_125.png" />
+<img id="logo_gege" src="/img/play_back/Gégé_3_125.png" />
 <img src="/img/play_back/Essai_logo_2_50.png" />
 <h2 class="title_secondhand">Les jeux d'occasion par Playin</h2>
-<img id="image_seconhand" src="/img/product/l/foret-mixte-jeu-look-out-spiele-boite.jpg" title="Forêt Mixte" alt="foret mixte jeu look out spiele boite " />
+<img id="image_seconhand" src="/img/product/l/splendor_jeu_space_cowboys_boite.png" title="Splendor" alt="splendor_jeu_space_cowboys_boite.png" />
 <form action class="form-container">
 <div id="container_select_secondhand">
 <select name="secondhand" class="select_secondhand select">
-</select>
+<option id="420066" value="420066" disabled>Splendor - Très bon état (indisponible)</option><option id="420067" value="420067" disabled>Splendor - Bon état (indisponible)</option><option id="420068" value="420068" disabled>Splendor - Jouable (indisponible)</option> </select>
 <a href="/article/551-vos_jeux_de_societe_doccasion_avec_playback__" class="link" target="_blank">
 <img id="image_info" src="/img/style/info.png" />
 </a>
@@ -2805,7 +3548,7 @@ Le jeu a été ajouté au panier </div>
 </div>
 </div> </div><div class="bloc_encart container_product"><div class="bloc_cart_product"><div class="add_cart_btn">
 <form method="POST">
-<label for="id_product"><input type="hidden" name="id_product" value="505661"></label><select name="qty_product" class="select"><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option><option value="17">17</option><option value="18">18</option><option value="19">19</option><option value="20">20</option></select><div class="bloc_btn"><button type="submit" name="addToCart" value="0" class="btn addToCart tagBigOrange tagProduct" data-localisation="0" data-family="5" data-id="505661">
+<label for="id_product"><input type="hidden" name="id_product" value="201622"></label><select name="qty_product" class="select"><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option><option value="17">17</option><option value="18">18</option><option value="19">19</option><option value="20">20</option></select><div class="bloc_btn"><button type="submit" name="addToCart" value="0" class="btn addToCart tagBigOrange tagProduct" data-localisation="0" data-family="5" data-id="201622">
 <div class="add_cart_btn_img"></div>
 <div class="add_cart_text">Ajouter au panier <div class="small_text">(Livraison)</div></div>
 </button></div>
@@ -2820,12 +3563,725 @@ Le jeu a été ajouté au panier </div>
 <div class="container_stock">Frais de port à partir de 2,50&nbsp;€. Offert dès 35,00&nbsp;€ d'achat.</div>
 </div><div class="filters_boardgame_product"></div></div><div class="bloc_encart bloc_encart_retrait container_product"><div class="bloc_encart container_product"><div class="bloc_cart_product"><div class="add_cart_btn">
 <form method="POST">
-<input type="hidden" name="id_product" value="505661"><div class="bloc_btn"><div class="btn btn_no_favourite btn_store btn_violet showStoreSelect" title="Choisir un magasin de retrait" alt="Choisir un magasin de retrait" data-modal-type="505661">
+<input type="hidden" name="id_product" value="201622"><div class="bloc_btn"><div class="btn btn_no_favourite btn_store btn_violet showStoreSelect" title="Choisir un magasin de retrait" alt="Choisir un magasin de retrait" data-modal-type="201622">
 <div class="add_cart_btn_img add_cart_store_btn_img"></div>
 <div class="add_cart_text">Trouver un magasin Playin</div>
 </div>
 </div><form method="post"><div class="select_favourite_store">
-<div class="store_nav" id="505661">
+<div class="store_nav" id="201622">
+<div class="store_nav_content">
+<span class="close">&times;</span>
+<div class="modal-title">Retirer en magasin</div>
+<ul><li class="store_list" value="1">
+<div class="bloc head_store">Playin Paris BNF</div><div class="bloc availability">
+<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
+<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
+<span class="localAvailable" ">&#10004;&nbsp;Disponible sous 2h</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
+<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
+</div>
+<div class="bloc set_store_btn_bloc">
+<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="1">
+<div class="add_cart_btn_img add_cart_store_btn_img"></div>
+<div class="add_cart_text">Choisir ce magasin</div>
+</button>
+</div><div class="clear"></div>
+</li><li class="store_list" value="2">
+<div class="bloc head_store">Playin Annecy</div><div class="bloc availability">
+<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
+<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
+<span class="localAvailable" ">&#10004;&nbsp;Disponible sous 2h</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
+<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
+</div>
+<div class="bloc set_store_btn_bloc">
+<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="2">
+<div class="add_cart_btn_img add_cart_store_btn_img"></div>
+<div class="add_cart_text">Choisir ce magasin</div>
+</button>
+</div><div class="clear"></div>
+</li><li class="store_list" value="3">
+<div class="bloc head_store">Playin Paris Rivoli</div><div class="bloc availability">
+<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
+<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
+<span class="localAvailable" ">&#10004;&nbsp;Disponible sous 2h</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
+<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
+</div>
+<div class="bloc set_store_btn_bloc">
+<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="3">
+<div class="add_cart_btn_img add_cart_store_btn_img"></div>
+<div class="add_cart_text">Choisir ce magasin</div>
+</button>
+</div><div class="clear"></div>
+</li></ul>
+</div>
+</div>
+</div></form></form>
+</div></div><div class="bloc_shipping">
+<div class="shipping_boutique_img_gris_fonce"></div>
+<div class="container_stock"><div>Retrait gratuit en magasin, sous 2h ou 72h selon disponibilité.</div></div>
+</div></section><div class="bloc_desc bloc_desc_mobile">
+<div class="shortdesc_product">Incarnez un joaillier dans Splendor, un jeu de stratégie et d'acquisition de ressources dans lequel vous cherchez à obtenir plus de prestige !</div><div class="rating_summary"><a class="onclickTab" data-tab="rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span> 4.72/5
+<span class="rating_link">(29 avis clients)</span>
+</a></div><div class="container_tag_jds"><a href="/jeux_de_societe/recherche/?&player%5B%5D=2&player%5B%5D=3&player%5B%5D=4">
+<div class="tag btn_grey">
+<div class="bloc">
+<div class="img_nbr_player"></div>
+<span>2 à 4 joueurs</span>
+</div>
+</div>
+</a><a href="/jeux_de_societe/recherche/?time%5B%5D=30">
+<div class="tag btn_grey">
+<div class="bloc">
+<div class="img_time"></div>
+<span>Environ 30 min</span>
+</div>
+</div>
+</a><a href="/jeux_de_societe/recherche/?age%5B%5D=plus_10">
+<div class="tag btn_grey">
+<div class="bloc">
+<div class="img_age"></div>
+<span>À partir de 10 ans</span>
+</div>
+</div>
+</a><div class="tag btn_grey">
+<div class="bloc">
+<img src="/img/symbole/lang/fr.png" title="Français" alt="Français" loading="lazy" />
+<span>Français</span>
+</div>
+</div><div class="clear"></div>
+</div><div class="clear"></div><div class="container_tag_jds"><a href="/jeux_de_societe/recherche/?type=Collection">
+<div class="tag btn_grey">
+<div class="bloc">
+<div class="img_type_game"></div>
+<span>Collection</span>
+</div>
+</div>
+</a><a href="/jeux_de_societe/recherche/?type=Jeux+de+Gestion">
+<div class="tag btn_grey">
+<div class="bloc">
+<div class="img_type_game"></div>
+<span>Jeux de Gestion</span>
+</div>
+</div>
+</a><a href="/jeux_de_societe/recherche/?type=Jeux+de+Stratégie">
+<div class="tag btn_grey">
+<div class="bloc">
+<div class="img_type_game"></div>
+<span>Jeux de Stratégie</span>
+</div>
+</div>
+</a><div class="clear"></div>
+</div><div class="clear"></div><div class="clear"></div><div class="mini_img_product sliderProduct"><div class="MS-content"><div class="list_product item"><a href="/img/product/secondary/splendor_jeu_space_cowboys_mise_en_place.png" data-lightbox="product-set-mobile" data-title><img src="/img/product/secondary/s/splendor_jeu_space_cowboys_mise_en_place.png" title="Splendor" alt="splendor_jeu_space_cowboys_boite.png" /></a></div></div>
+<div class="MS-controls">
+<button class="MS-left"><div class="arrow_left_img"></div></button>
+<button class="MS-right"><div class="arrow_right_img"></div></button>
+</div></div></div><div class="col_bottom  col_bottom_mobile  "><div class="container_title_onglet"><h2 class="tab_title tab tab_desc onclickTab title_selected tab_selected" data-tab="desc"><span>Descriptif</span></h2><h2 class="tab_title tab tab_features onclickTab" data-tab="features"><span class="long-text">Caractéristiques</span></h2><h2 class="tab_title tab tab_video onclickTab" data-tab="video"><span>Vidéo</span></h2><h2 class="tab_title tab tab_title_ext tab_ext onclickTab" data-tab="ext">
+<span class="line">Gamme &</span>
+<span class="line">extensions</span>
+</h2><h2 class="tab_title tab tab_reward onclickTab" data-tab="reward"><span>Prix reçus</span></h2><h2 class="tab_title tab tab_rules onclickTab" data-tab="rules"><span>Règles</span></h2><h2 id="tab_rating" class="tab_title tab tab_rating onclickTab " data-tab="rating"><span class="long-text">Avis client</span></h2><div class="clear"></div>
+</div><div class="tab bloc_tab tab_desc tab_selected"><h2 style="text-align: justify;" align="center">Splendor - Devenez un joaillier de renom</h2>
+<p style="text-align: justify;" align="center"><em>Vous &ecirc;tes un riche marchand de la Renaissance et votre fortune vous sert &agrave; acqu&eacute;rir encore plus de richesses. Vous convoitez les mines qui produisent des joyaux. Vous achetez des moyens de transports pour ces pierres brutes. Vous recrutez aussi des artisans afin de transformer les pierres en magnifiques bijoux. Parviendrez-vous, en bout de cha&icirc;ne, &agrave; s&eacute;duire les nobles de votre entourage ?<br/></em></p>
+<h2 style="text-align: justify;" align="center">Splendor - Un jeu de strat&eacute;gie entre amis</h2>
+<p style="text-align: justify;" align="center">Splendor est <strong>un jeu de strat&eacute;gie</strong> dans lequel vous incarnez un joaillier qui veut obtenir le plus de <strong>points de prestige</strong> possible. Pour cela vous devez acqu&eacute;rir des cartes vari&eacute;es &agrave; l'aide de joyaux de couleurs diff&eacute;rentes.</p>
+<p style="text-align: justify;" align="center">Au centre de la table sont dispos&eacute;s les <strong>cinq types de joyaux </strong>(gemmes) ainsi que des cartes d'am&eacute;liorations et des tuiles nobles. &Agrave; votre tour de jeu vous devez <strong>effectuer une action parmi les quatre possibles</strong> :</p>
+<ul style="text-align: justify;">
+<li>Prendre 2 joyaux identiques (<em>2 rubis par exemple</em>)</li>
+<li>Prendre 3 joyaux diff&eacute;rents (<em>comme</em> <em>1 rubis, 1 saphir et 1 &eacute;meraude</em>). Attention vous &ecirc;tes<strong> limit&eacute; &agrave; un maximum de 10 jetons !</strong></li>
+<li><strong>Payer une carte d&eacute;veloppement</strong> (de votre main ou du plateau) &agrave; l'aide de vos joyaux. Une fois en votre possession, la carte reste face visible devant vous. Ces cartes peuvent vous <strong>rapporter des points de prestige et/ou vous fournir des symboles bonus de gemmes</strong>. Chaque symbole bonus r&eacute;duit le co&ucirc;t d'achat des prochaines cartes. <em>Par exemple, si vous poss&egrave;dez 2 symboles bonus d'&eacute;meraude, vous r&eacute;duisez d'autant le co&ucirc;t en &eacute;meraudes n&eacute;cessaire pour acheter vos cartes.</em></li>
+<li><strong>R&eacute;server une carte</strong> sur le plateau, c'est &agrave; dire la retirer du plateau et la conserver dans votre main, face cach&eacute;e. Une limite de trois cartes r&eacute;serv&eacute;es est impos&eacute;e &agrave; chaque joueur. <strong>Lorsque vous r&eacute;servez une carte, vous prenez aussi un jeton or</strong>. Les jetons or sont des Jokers qui peuvent servir &agrave; remplacer n'importe quelle gemme.</li>
+</ul>
+<h2 style="text-align: justify;">Splendor - S&eacute;duire la noblesse et construire votre commerce</h2>
+<p style="text-align: justify;">Une fois&nbsp;votre action effectu&eacute;e, vous pouvez <strong>acqu&eacute;rir une tuile noble</strong> si vous avez autant de gemmes sur vos cartes que celles indiqu&eacute;es sur la carte noble. Ces tuiles nobles vous rapportent des points de prestige non-n&eacute;gligeables ! Il faut cependant surveiller vos adversaires afin d'&ecirc;tre le premier &agrave; mettre la main sur celui que vous courtisez.</p>
+<p style="text-align: justify;">Notez bien qu'il existe <strong>trois niveaux de cartes d&eacute;veloppement :</strong></p>
+<ul>
+<li style="text-align: justify;">Le premier niveau est compos&eacute; de cartes faciles &agrave; acheter, les mines. Celles-ci vous servent &agrave; r&eacute;cup&eacute;rer facilement des symboles bonus.</li>
+<li style="text-align: justify;">Le second niveau est caract&eacute;rist&eacute; par une abondance d'artisans ou de marchands. Ils rapportent &agrave; la fois des symboles bonus et des points de prestige.</li>
+<li style="text-align: justify;">Le troisi&egrave;me niveau n&eacute;cessite des ressources abondantes. Ces &eacute;choppes fournissent cependant d'importants points de prestige !</li>
+</ul>
+<p style="text-align: justify;">Le premier joueur qui obtient <strong>15 points de prestige</strong> remporte la partie.</p>
+<p style="text-align: justify;"><strong>Les plus</strong> :</p>
+<ul style="text-align: justify;">
+<li>Un jeu addictif</li>
+<li>Un jeu de strat&eacute;gie rapide</li>
+<li>Des parties funs entre amis</li>
+</ul><strong>Contenu&nbsp;:</strong>
+<ul><li> 40 jetons; 90 cartes</li><li>1 livret de règles</li></ul><strong><i>À partir de 10 ans, de 2 à 4 joueurs et pour des parties d'environ 30 minutes.</i></strong></div><div class="tab bloc_tab tab_features tab_hidden"><table class="table_tag_jds"><tr class="container_lang tr_impair">
+<th scope="row">Langue</th>
+<td class="text"><div>Français</div></td>
+</tr>
+<tr class="container_player tr_pair">
+<th scope="row">Nombre de joueurs</th>
+<td class="text">
+<a href="/jeux_de_societe/recherche/?&player%5B%5D=2&player%5B%5D=3&player%5B%5D=4"><div>De 2 à 4 joueurs</div></a>
+</td>
+</tr>
+<tr class="container_time tr_impair">
+<th scope="row">Durée</th>
+<td class="text"><a href="/jeux_de_societe/recherche/?time%5B%5D=30"><div>30 minutes</div></a></td>
+</tr>
+<tr class="container_age tr_pair">
+<th scope="row">Âge</th>
+<td class="text">
+<a href="/jeux_de_societe/recherche/?age%5B%5D=plus_10"><div>À partir de 10 ans</div></a>
+</td>
+</tr>
+<tr class="container_theme tr_impair">
+<th scope="row">Thème(s)</th>
+<td class="text"><div>Non renseigné</div></td>
+</tr>
+<tr class="container_type tr_pair">
+<th scope="row">Type(s)</th>
+<td class="text"><a href="/jeux_de_societe/recherche/?type=Collection" /><div>Collection</div></a></td></tr><tr class="container_type line_repeat"><th scope="row"></th><td class="text"><a href="/jeux_de_societe/recherche/?type=Jeux+de+Gestion" /><div>Jeux de Gestion</div></a></td></tr><tr class="container_type line_repeat"><th scope="row"></th><td class="text"><a href="/jeux_de_societe/recherche/?type=Jeux+de+Stratégie" /><div>Jeux de Stratégie</div></a></td>
+</tr>
+<tr class="container_type tr_impair">
+<th scope="row">Gamme</th><td class="text"><a href="/jeux_de_societe/gamme/58-splendor" /><div>Splendor</div></a></td></tr>
+<tr class="container_editor tr_pair">
+<th scope="row">Éditeur(s)</th>
+<td class="text"><div>Space Cowboys</div></td>
+</tr>
+<tr class="container_author tr_impair">
+<th scope="row">Auteur(s)</th>
+<td class="text"><div>Marc André</div></td>
+</tr>
+<tr class="container_illustrator tr_pair">
+<th scope="row">Illustrateur(s)</th>
+<td class="text"><div>Pascal Quidault</div></td>
+</tr></table></div><div class="tab bloc_tab tab_video tab_hidden tab bloc_tab tab_video"><div class="video"><div class="container"><iframe width="560" height="315" src="https://www.youtube.com/embed/UkfnyT848LU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><iframe width="560" height="315" src="https://www.youtube.com/embed/oHMEuBnEnGc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></div></div><div class="tab bloc_tab tab_ext tab_hidden tab bloc_tab tab_ext"><div class="title_ext">Le produit Splendor est une boite de base.</div><div class="title_ext title_all_ext">Découvrez les extensions compatibles&nbsp;:</div><div class="list_product_full case_product_full filterElement" data-family="5" data-sales="0">
+<div class="container_img_product">
+<a href="/produit/207694-splendor_-_extension_les_cites_de_splendor">
+<div class="img_product"><picture><source srcset="/img/product/m/splendor-extension-les-cites-de-splendor-jeu-space-cowboys-boite.webp" type="image/webp"><source srcset="/img/product/m/splendor-extension-les-cites-de-splendor-jeu-space-cowboys-boite.jpg" type="image/jpeg">
+<img src="/img/product/m/splendor-extension-les-cites-de-splendor-jeu-space-cowboys-boite.jpg" title="Splendor - Extension Les Cités de Splendor" alt="Splendor - Extension Les Cités de Splendor" loading="lazy" />
+</picture>
+</div><div class="clear"></div>
+</a>
+</div>
+<div class="container_info_product container_info_product_with_rating">
+<a href="/produit/207694-splendor_-_extension_les_cites_de_splendor">
+<div class="name_product" title="Splendor - Extension Les Cités de Splendor">Splendor - Extension Les Cités de Splendor</div>
+<div class="desc_short">Les Cités de Splendor ajoutent 4 modules d'extension au jeu Splendor : Cités, Comptoirs, Orient, Bastions. Revoyez toutes vos stratégies !
+</div>
+</a><div class="container_move_product">
+<div class="separateur separateur_product"></div><div class="bloc_rating_product" title="Note 4.6/5, 5 avis"><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_half"></span></div><div class="bloc_preco_product"></div>
+</div>
+</div>
+<div class="block_cart "><div class="container_prices"><div class="price_product simple_price_product">27,50&nbsp;€</div></div><div class="cart">
+<div class="add_cart_btn add_cart_btn_mini">
+<form method="POST">
+<input type="hidden" aria-label="id_product" name="id_product" value="207694"><label for="207694_13"></label><select name="qty_product" aria-label="207694" class="select" id="207694_13"><option id="1" value="1">1</option><option id="2" value="2">2</option><option id="3" value="3">3</option><option id="4" value="4">4</option><option id="5" value="5">5</option><option id="6" value="6">6</option><option id="7" value="7">7</option><option id="8" value="8">8</option><option id="9" value="9">9</option><option id="10" value="10">10</option><option id="11" value="11">11</option><option id="12" value="12">12</option><option id="13" value="13">13</option></select><div class="qty">(13)</div><div class="bloc_cart"><div class="bloc_each_cart_mini">
+<button type="submit" name="addToCart" value="0" class="btn addToCart tagSmallOrange tagProduct" data-localisation="0" data-id="207694" title="Ajouter au panier en livraison" alt="Ajouter au panier en livraison">
+<div class="add_cart_logo_mini"></div>
+</button>
+<div class="explain_new_btn_orange">Livraison</div>
+</div><div class="bloc_each_cart_mini">
+<div class="btn btn_store btn_violet showStoreSelect tagSmallVioletModal tagProduct" title="Choisir un magasin de retrait" alt="Choisir un magasin de retrait" data-modal-type="207694">
+<div class="add_cart_store_logo_mini"></div>
+</div>
+<div class="explain_new_btn_violet">Retrait magasin</div>
+</div><div class="select_favourite_store">
+<div class="store_nav" id="207694">
+<div class="store_nav_content">
+<span class="close">&times;</span>
+<div class="modal-title">Retirer en magasin</div>
+<ul><li class="store_list" value="1">
+<div class="bloc head_store">Playin Paris BNF</div><div class="bloc availability">
+<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
+<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
+<span class="localAvailable" ">&#10004;&nbsp;Disponible sous 2h</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
+<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
+</div>
+<div class="bloc set_store_btn_bloc">
+<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="1">
+<div class="add_cart_btn_img add_cart_store_btn_img"></div>
+<div class="add_cart_text">Choisir ce magasin</div>
+</button>
+</div><div class="clear"></div>
+</li><li class="store_list" value="2">
+<div class="bloc head_store">Playin Annecy</div><div class="bloc availability">
+<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
+<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
+<span class="localAvailable" ">&#10004;&nbsp;Disponible sous 2h</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
+<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
+</div>
+<div class="bloc set_store_btn_bloc">
+<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="2">
+<div class="add_cart_btn_img add_cart_store_btn_img"></div>
+<div class="add_cart_text">Choisir ce magasin</div>
+</button>
+</div><div class="clear"></div>
+</li><li class="store_list" value="3">
+<div class="bloc head_store">Playin Paris Rivoli</div><div class="bloc availability">
+<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
+<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
+<span class="localAvailable" ">&#10004;&nbsp;Disponible sous 2h</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
+<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
+</div>
+<div class="bloc set_store_btn_bloc">
+<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="3">
+<div class="add_cart_btn_img add_cart_store_btn_img"></div>
+<div class="add_cart_text">Choisir ce magasin</div>
+</button>
+</div><div class="clear"></div>
+</li></ul>
+</div>
+</div>
+</div></div></form>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div><div class="clear"></div><div class="title_ext title_all_ext">Découvrez les autres jeux de la gamme&nbsp;:</div><div class="warning_title_ext">
+<div class="logo_warning_white"></div>
+<div class="text">Ces jeux ne sont pas compatibles avec Splendor&nbsp;!</div>
+</div><div class="list_product_full case_product_full filterElement" data-family="5" data-sales="0">
+<div class="container_img_product">
+<a href="/produit/262569-splendor_marvel">
+<div class="img_product"><picture><source srcset="/img/product/m/splendore-marvel-packaging.webp" type="image/webp"><source srcset="/img/product/m/splendore-marvel-packaging.jpg" type="image/jpeg">
+<img src="/img/product/m/splendore-marvel-packaging.jpg" title="Splendor Marvel" alt="Splendor Marvel" loading="lazy" />
+</picture>
+</div><div class="clear"></div>
+</a>
+</div>
+<div class="container_info_product container_info_product_with_rating">
+<a href="/produit/262569-splendor_marvel">
+<div class="name_product" title="Splendor Marvel">Splendor Marvel</div>
+<div class="desc_short">Splendor Marvel est une adaptation du célèbre Splendor transposé au monde des super héros ! Regroupez vos héros et emparez-vous des cinq gemmes de l'in...</div>
+</a><div class="container_move_product">
+<div class="separateur separateur_product"></div><div class="bloc_rating_product" title="Note 4.8/5, 6 avis"><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_full"></span></div><div class="bloc_preco_product"></div>
+</div>
+</div>
+<div class="block_cart "><div class="container_prices"><div class="price_product simple_price_product">35,90&nbsp;€</div></div><div class="cart">
+<div class="add_cart_btn add_cart_btn_mini">
+<form method="POST">
+<input type="hidden" aria-label="id_product" name="id_product" value="262569"><label for="262569_13"></label><select name="qty_product" aria-label="262569" class="select" id="262569_13"><option id="1" value="1">1</option><option id="2" value="2">2</option><option id="3" value="3">3</option><option id="4" value="4">4</option><option id="5" value="5">5</option><option id="6" value="6">6</option><option id="7" value="7">7</option><option id="8" value="8">8</option><option id="9" value="9">9</option><option id="10" value="10">10</option><option id="11" value="11">11</option><option id="12" value="12">12</option><option id="13" value="13">13</option></select><div class="qty">(13)</div><div class="bloc_cart"><div class="bloc_each_cart_mini">
+<button type="submit" name="addToCart" value="0" class="btn addToCart tagSmallOrange tagProduct" data-localisation="0" data-id="262569" title="Ajouter au panier en livraison" alt="Ajouter au panier en livraison">
+<div class="add_cart_logo_mini"></div>
+</button>
+<div class="explain_new_btn_orange">Livraison</div>
+</div><div class="bloc_each_cart_mini">
+<div class="btn btn_store btn_violet showStoreSelect tagSmallVioletModal tagProduct" title="Choisir un magasin de retrait" alt="Choisir un magasin de retrait" data-modal-type="262569">
+<div class="add_cart_store_logo_mini"></div>
+</div>
+<div class="explain_new_btn_violet">Retrait magasin</div>
+</div><div class="select_favourite_store">
+<div class="store_nav" id="262569">
+<div class="store_nav_content">
+<span class="close">&times;</span>
+<div class="modal-title">Retirer en magasin</div>
+<ul><li class="store_list" value="1">
+<div class="bloc head_store">Playin Paris BNF</div><div class="bloc availability">
+<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
+<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
+<span class="localAvailable" ">&#10004;&nbsp;Disponible sous 2h</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
+<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
+</div>
+<div class="bloc set_store_btn_bloc">
+<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="1">
+<div class="add_cart_btn_img add_cart_store_btn_img"></div>
+<div class="add_cart_text">Choisir ce magasin</div>
+</button>
+</div><div class="clear"></div>
+</li><li class="store_list" value="2">
+<div class="bloc head_store">Playin Annecy</div><div class="bloc availability">
+<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
+<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
+<span class="localAvailable" style="display : none">&#10004;&nbsp;Disponible sous 2h</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
+<span class="orderAvailable" ">&#10004;&nbsp;Sur commande (72h)</span>
+<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
+</div>
+<div class="bloc set_store_btn_bloc">
+<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="2">
+<div class="add_cart_btn_img add_cart_store_btn_img"></div>
+<div class="add_cart_text">Choisir ce magasin</div>
+</button>
+</div><div class="clear"></div>
+</li><li class="store_list" value="3">
+<div class="bloc head_store">Playin Paris Rivoli</div><div class="bloc availability">
+<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
+<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
+<span class="localAvailable" style="display : none">&#10004;&nbsp;Disponible sous 2h</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
+<span class="orderAvailable" ">&#10004;&nbsp;Sur commande (72h)</span>
+<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
+</div>
+<div class="bloc set_store_btn_bloc">
+<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="3">
+<div class="add_cart_btn_img add_cart_store_btn_img"></div>
+<div class="add_cart_text">Choisir ce magasin</div>
+</button>
+</div><div class="clear"></div>
+</li></ul>
+</div>
+</div>
+</div></div></form>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div><div class="list_product_full case_product_full filterElement" data-family="5" data-sales="0">
+<div class="container_img_product">
+<a href="/produit/436173-splendor_duel">
+<div class="img_product"><picture><source srcset="/img/product/m/splendor-duel-jeu-space-cowboys-boite.webp" type="image/webp"><source srcset="/img/product/m/splendor-duel-jeu-space-cowboys-boite.jpg" type="image/jpeg">
+<img src="/img/product/m/splendor-duel-jeu-space-cowboys-boite.jpg" title="Splendor Duel" alt="Splendor Duel" loading="lazy" />
+</picture>
+</div><div class="clear"></div>
+</a>
+</div>
+<div class="container_info_product container_info_product_with_rating">
+<a href="/produit/436173-splendor_duel">
+<div class="name_product" title="Splendor Duel">Splendor Duel</div>
+<div class="desc_short">Retrouvez l'univers de Splendor en Duel ! Collectez gemmes et privilèges pour produire les plus beaux bijoux et satisfaire les exigences de la couronne !</div>
+</a><div class="container_move_product">
+<div class="separateur separateur_product"></div><div class="bloc_rating_product" title="Note 4.5/5, 16 avis"><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_half"></span></div><div class="bloc_preco_product"></div>
+</div>
+</div>
+<div class="block_cart "><div class="container_prices"><div class="price_product simple_price_product">22,50&nbsp;€</div></div><div class="cart">
+<div class="add_cart_btn add_cart_btn_mini">
+<form method="POST">
+<input type="hidden" aria-label="id_product" name="id_product" value="436173"><label for="436173_20"></label><select name="qty_product" aria-label="436173" class="select" id="436173_20"><option id="1" value="1">1</option><option id="2" value="2">2</option><option id="3" value="3">3</option><option id="4" value="4">4</option><option id="5" value="5">5</option><option id="6" value="6">6</option><option id="7" value="7">7</option><option id="8" value="8">8</option><option id="9" value="9">9</option><option id="10" value="10">10</option><option id="11" value="11">11</option><option id="12" value="12">12</option><option id="13" value="13">13</option><option id="14" value="14">14</option><option id="15" value="15">15</option><option id="16" value="16">16</option><option id="17" value="17">17</option><option id="18" value="18">18</option><option id="19" value="19">19</option><option id="20" value="20">20</option></select><div class="qty">(20)</div><div class="bloc_cart"><div class="bloc_each_cart_mini">
+<button type="submit" name="addToCart" value="0" class="btn addToCart tagSmallOrange tagProduct" data-localisation="0" data-id="436173" title="Ajouter au panier en livraison" alt="Ajouter au panier en livraison">
+<div class="add_cart_logo_mini"></div>
+</button>
+<div class="explain_new_btn_orange">Livraison</div>
+</div><div class="bloc_each_cart_mini">
+<div class="btn btn_store btn_violet showStoreSelect tagSmallVioletModal tagProduct" title="Choisir un magasin de retrait" alt="Choisir un magasin de retrait" data-modal-type="436173">
+<div class="add_cart_store_logo_mini"></div>
+</div>
+<div class="explain_new_btn_violet">Retrait magasin</div>
+</div><div class="select_favourite_store">
+<div class="store_nav" id="436173">
+<div class="store_nav_content">
+<span class="close">&times;</span>
+<div class="modal-title">Retirer en magasin</div>
+<ul><li class="store_list" value="1">
+<div class="bloc head_store">Playin Paris BNF</div><div class="bloc availability">
+<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
+<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
+<span class="localAvailable" ">&#10004;&nbsp;Disponible sous 2h</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
+<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
+</div>
+<div class="bloc set_store_btn_bloc">
+<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="1">
+<div class="add_cart_btn_img add_cart_store_btn_img"></div>
+<div class="add_cart_text">Choisir ce magasin</div>
+</button>
+</div><div class="clear"></div>
+</li><li class="store_list" value="2">
+<div class="bloc head_store">Playin Annecy</div><div class="bloc availability">
+<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
+<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
+<span class="localAvailable" ">&#10004;&nbsp;Disponible sous 2h</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
+<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
+</div>
+<div class="bloc set_store_btn_bloc">
+<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="2">
+<div class="add_cart_btn_img add_cart_store_btn_img"></div>
+<div class="add_cart_text">Choisir ce magasin</div>
+</button>
+</div><div class="clear"></div>
+</li><li class="store_list" value="3">
+<div class="bloc head_store">Playin Paris Rivoli</div><div class="bloc availability">
+<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
+<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
+<span class="localAvailable" ">&#10004;&nbsp;Disponible sous 2h</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
+<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
+</div>
+<div class="bloc set_store_btn_bloc">
+<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="3">
+<div class="add_cart_btn_img add_cart_store_btn_img"></div>
+<div class="add_cart_text">Choisir ce magasin</div>
+</button>
+</div><div class="clear"></div>
+</li></ul>
+</div>
+</div>
+</div></div></form>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div><div class="clear"></div></div><div class="tab bloc_tab tab_reward tab_hidden tab bloc_tab tab_reward">
+<div class="title">Voici les récompenses décernées à Splendor&nbsp;: </div><a href="/jeux_de_societe/recherche/?reward=Tric+Trac+d'Or"><div class="container_reward">
+<div class="img"><div class="tric_trac_bronze" /></div></div><div class="text">2014 : Tric Trac de Bronze</div></div></a><a href="/jeux_de_societe/recherche/?reward=Golden+Geek"><div class="container_reward">
+<div class="img"><div class="golden_geek" /></div></div><div class="text">2014 : Golden Geek : Jeu de l'Année</div></div></a><a href="/jeux_de_societe/recherche/?reward=Golden+Geek"><div class="container_reward">
+<div class="img"><div class="golden_geek" /></div></div><div class="text">2014 : Golden Geek : Meilleur Jeu Familial</div></div></a><div class="separateur_horizontal"></div><div class="container_explain_reward">
+<div>Qu'est-ce que le Tric Trac d'Or&nbsp;: </div>
+<div class>Le Tric-Trac d'or est décerné chaque année par la communauté du site francophone spécialisé en jeux de société Tric Trac.</div>
+</div><div class="container_explain_reward">
+<div>Qu'est-ce que le Golden Geek&nbsp;: </div>
+<div class>Les Golden Geek sont une récompense remise sur nomination et vote par les utilisateurs du site américain BoardGameGeek.</div>
+</div></div><div class="tab bloc_tab tab_rules tab_hidden tab bloc_tab tab_rules">
+<div class="title_rules">Splendor : </div>
+<div class="rules"><div class="container_rules">
+<div class="img_download_logo"></div>
+<a href="/pdf/rules_games/splendor_regles_fr.pdf" target="_blank"><div>Consulter :</div><div>Les règles en français</div></a>
+</div><div class="container_rules">
+<div class="img_download_logo"></div>
+<a href="/pdf/rules_games/splendor_regles_fr.pdf" target="_blank"><div>Consulter :</div><div>Rules in english</div></a>
+</div></div>
+<div class="clear"></div></div><div class="tab bloc_tab tab_rating  tab bloc_tab tab_rating tab_hidden"><div class="rating_available">Merci de vous connecter afin de déposer votre avis.</div><div class="container_page_rating"><div id="page_0" class="each_pagination" data-id="0"><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">Julien c</div><div class="valid_purchase"></div><div id="user_comment_436" class="user_comment">très bon ou il faut faire des combinaisons avec des pierres précieuses pour acheter les tuiles.</div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_empty"></span></div><div class="username_rating">Anonyme</div><div class="valid_purchase">Achat vérifié</div><div id="user_comment_680" class="user_comment" data-id="680">Un grand classique du jeu d&#039;accumulation de ressources. Vous en avez marre du monopoly et de la chance qui en découle ? Splendor est fait pour vous, bien qu&#039;il y a un facteur &quot;chance&quot; ce dernier est assez minime et beaucoup plus axé sur la stratégie et la prise de <span id="dots_comment_680" data-id="680">...</span>
+<span id="read_more_680" class="read_more_comment" data-id="680">décision sur les ressources à accumuler et les investissement à récupéré. Le jeu est de bonne facture et les tokens de très bonne qualité. Les règles sont assez facile à apprendre mais le jeu n&#039;en reste pas moins difficile à maitriser si vous voulez être parfaitement optimiser et faire suer vos adversaires </span></div><div class="container_more_less_btn">
+<div id="btn_more_680" class="btn_more_content" data-id="680">Voir plus</div>
+<div id="btn_less_680" class="btn_less_content" data-id="680">Voir moins</div>
+</div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_empty"></span></div><div class="username_rating">Xavier D</div><div class="valid_purchase"></div><div id="user_comment_1208" class="user_comment">Old school, très directe comme gameplay, on se prend pas trop la tête. <br/>Mais on ne fait pas plus de 1 ou 2 parties, les extensions aides peut-être.</div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">Guillaume B</div><div class="valid_purchase">Achat vérifié</div><div id="user_comment_1322" class="user_comment" data-id="1322">Contrairement à l&#039;avis posté plus haut, c&#039;est un jeu auquel j&#039;ai joué à répétitions. C&#039;est un jeu très mécanique, ce qui nous a poussé à enchainer les parties en optimisant à chaque fois nos actions. Il faut noter le matériel de jeu de bonne qualité. C&#039;&#039;est très agréable de manipuler <span id="dots_comment_1322" data-id="1322">...</span>
+<span id="read_more_1322" class="read_more_comment" data-id="1322">des jetons de poker plutôt que de simple jetons en cartons comme en trouve souvent. </span></div><div class="container_more_less_btn">
+<div id="btn_more_1322" class="btn_more_content" data-id="1322">Voir plus</div>
+<div id="btn_less_1322" class="btn_less_content" data-id="1322">Voir moins</div>
+</div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">Marie C</div><div class="valid_purchase"></div><div id="user_comment_1340" class="user_comment">Un jeu qui s&#039;explique en 2 minutes avec une grande profondeur de jeu, malgré tout. <br/>La sensation de tenir des jetons de poket est aussi très sympa</div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">Benjamin H</div><div class="valid_purchase">Achat vérifié</div><div id="user_comment_1418" class="user_comment">Un classique parmi les classiques à posséder absolument</div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">Warren F</div><div class="valid_purchase"></div><div id="user_comment_1725" class="user_comment">Jeu très simple à prendre en main, mais très riche en terme de stratégie. <br/>On peut y jouer simplement, sans calculer, tout comme penser nos coups à l&#039;avance et essayer de contrer les plans de nos adversaires ! <br/>Les décisions ne sont pas toujours évidentes à prendre.</div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">Maelys L</div><div class="valid_purchase"></div><div id="user_comment_1768" class="user_comment">Jeu facile à comprendre et super pour jouer en famille. Je recommande à 100%.</div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">Clément M</div><div class="valid_purchase"></div><div id="user_comment_1800" class="user_comment">Un nouveau classique, des règles expliquées en 5 min et derrière, des heures de jeu avec une super rejouabilité. Un matériel très agréable à manipulé, les jetons de poker sont vraiment sympas. Par contre 4 joueurs max, un 5ème aurait été le bienvenue je pense.</div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_empty"></span></div><div class="username_rating">Adrien C</div><div class="valid_purchase">Achat vérifié</div><div id="user_comment_2022" class="user_comment">Jeu de gestion de ressource très addictif entre amis et rapide</div></div></div><div id="page_1" class="each_pagination" data-id="1"><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">Eric O</div><div class="valid_purchase"></div><div id="user_comment_2192" class="user_comment">Un jeu simple mais pas simpliciste. <br/>Evidemment c&#039;est un classique à posséder!</div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_empty"></span></div><div class="username_rating">MICHAEL V</div><div class="valid_purchase"></div><div id="user_comment_3492" class="user_comment">Excellent jeu à deux ou plus d&#039;ailleurs. <br/>Simple a prendre en main, profond et permet tant de jouer pour soi que de jouer pour empêcher les autres de parvenir à leurs fins. <br/>Le matériel est très chouette en plus ce qui ne gâche rien au plaisir.</div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">Xavier H</div><div class="valid_purchase">Achat vérifié</div><div id="user_comment_4209" class="user_comment"></div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">Jeremy C</div><div class="valid_purchase">Achat vérifié</div><div id="user_comment_10865" class="user_comment">Un classique que noue avons offert en cadeaux et qui a aussi beaucoup plu !</div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">Marina G</div><div class="valid_purchase">Achat vérifié</div><div id="user_comment_11362" class="user_comment">Jeux a avoir dans sa ludothèque !</div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">O C</div><div class="valid_purchase"></div><div id="user_comment_13399" class="user_comment">Un super jeu pour jouer à 2 ou à plusieurs !</div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">Sylvain W</div><div class="valid_purchase"></div><div id="user_comment_15136" class="user_comment">Indispensable dans toute bonne ludothèque. Les cartes sont tellement belles... Aussi bien à deux, trois ou quatre.</div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_empty"></span></div><div class="username_rating">Florian D</div><div class="valid_purchase"></div><div id="user_comment_15185" class="user_comment">Désormais un classique du jeu moderne, les parties s&#039;enchainent facilement mais on finira peut être pas s&#039;en détacher au profit d&#039;un jeu mécaniquement plus lourd. Idéal pour introduire de nouveaux joueurs.</div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">Hongyi S</div><div class="valid_purchase">Achat vérifié</div><div id="user_comment_16083" class="user_comment">un vraiment classique! Toujours amusant à jouer avec les amis.</div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">Xavier A</div><div class="valid_purchase">Achat vérifié</div><div id="user_comment_16534" class="user_comment" data-id="16534"><br/>Splendor est pour moi un grand jeu classique, rapide, fluide et simple à prendre en main. Globalement, les mécaniques sont très fluides et on se laisse vite prendre au jeu. <br/>Conviendra à ceux qui recherche un jeu sans trop de profondeur avec une prise en main facile mais dont les aspects <span id="dots_comment_16534" data-id="16534">...</span>
+<span id="read_more_16534" class="read_more_comment" data-id="16534">stratégiques restent quand même bien marqués (malgré une touche d’aléatoire/opportunité de jeux liée à la découverte des cartes). <br/>Mention spéciale au matériel et plus particulièrement les ressources imprimées sur des jetons façon Poker. <br/> </span></div><div class="container_more_less_btn">
+<div id="btn_more_16534" class="btn_more_content" data-id="16534">Voir plus</div>
+<div id="btn_less_16534" class="btn_less_content" data-id="16534">Voir moins</div>
+</div></div></div><div id="page_2" class="each_pagination" data-id="2"><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">Anonyme</div><div class="valid_purchase"></div><div id="user_comment_20751" class="user_comment"></div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">Vincent N</div><div class="valid_purchase"></div><div id="user_comment_27978" class="user_comment">J&#039;y joue avec mon fils de 7 ans. <br/>Il adore, je le trouve excellent pour initier au jeux de stratégie afin de savoir anticiper. <br/>Et très bon entre adulte. Une valeur sûre !</div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">Florian J</div><div class="valid_purchase">Achat vérifié</div><div id="user_comment_31246" class="user_comment"></div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">Paul C</div><div class="valid_purchase">Achat vérifié</div><div id="user_comment_31650" class="user_comment">Excellent jeu aux règles simplissimes qui se joue aussi bien à 2, 3 ou 4. Convient autant aux amateurs de jeux qu&#039;aux novices !</div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_empty"></span></div><div class="username_rating">Celine H</div><div class="valid_purchase">Achat vérifié</div><div id="user_comment_33309" class="user_comment"></div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_empty"></span><span class="img_middle_star_empty"></span></div><div class="username_rating">Nicolas B</div><div class="valid_purchase"></div><div id="user_comment_34193" class="user_comment"></div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">Renaud Z</div><div class="valid_purchase">Achat vérifié</div><div id="user_comment_38199" class="user_comment">Très bon jeu que ce soit a deux ou quatre joueurs.</div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">Anonyme</div><div class="valid_purchase"></div><div id="user_comment_40497" class="user_comment"></div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">Sylvain L</div><div class="valid_purchase">Achat vérifié</div><div id="user_comment_41270" class="user_comment">Contenu très agréable à manipuler, prise en main rapide. Par contre, on sent très vite qu&#039;il y peut y avoir de nombreuses stratégies pour gagner ! Grosse rejouabilité, donc !</div></div></div></div><div class="pagination_bloc container_btn_pagination">
+<div class="pagination_selector pagination_first"><<</div>
+<div class="pagination_selector pagination_prev"><</div>
+<div class="pagination_selector bloc_selector"></div>
+<div class="pagination_selector pagination_next">></div>
+<div class="pagination_selector pagination_last">>></div>
+</div></div><div class="container_present_card"><div class="alert container_alert_bug">
+<div class="toggleTarget clicOut" data-target="signal_bug">Vous souhaitez nous signaler un bug&nbsp;?</div>
+<div class="send_ok"></div>
+<div class="boxToggle clicOut alert_target signal_bug"><div class> <div class="send_ok not_connected">Vous devez être connecté pour signaler un bug</div> </div></div>
+</div></div>
+</div><div class="col_info_mobile">
+<div class="bloc_encart bloc_logos_rassurants bloc_logos_paiement">
+<div class="sentence_present">Paiement sécurisé avec Axepta, par CB et Paypal</div>
+<div class="container_logos_img"><div class="img img_first_logo img_logo_bnp"></div><div class="img img_logo_cb"></div>
+<div class="img img_logo_visa"></div>
+<div class="img img_logo_mastercard"></div>
+<div class="img img_logo_paypal"></div>
+</div>
+<div class="sentence_present bloc_shipping">Colis soigné, envoi rapide et sécurisé</div>
+<div class="container_logos_img">
+<div class="img img_first_logo img_logo_laposte"></div>
+<div class="img img_logo_colissimo"></div>
+<div class="img img_logo_chronopost"></div>
+</div>
+</div>
+<div class="bloc_encart bloc_logos_rassurants share_link_product">
+<div class="sentence_present">Envie de partager cette page&nbsp;?</div>
+<div class="container_logos_img">
+<a href="https://www.facebook.com/sharer/sharer.php?u=https://www.play-in.com/produit/201622-splendor&amp;src=sdkpreparse" class="link_fb fb-xfbml-parse-ignore" target="_blank">
+<div class="facebook" data-href="https://www.play-in.com/produit/201622-splendor" data-layout="button" data-size="large" data-mobile-iframe="true">
+<div class="facebook_img"></div>
+<div class="bloc">Partager</div>
+</div>
+</a>
+<a href="https://twitter.com/share?text=Splendor@Playin_by_MB&url=https://www.play-in.com/produit/201622-splendor" class="link link_twitter">
+<div class="twitter">
+<div class="twitter_img"></div>
+<div class="bloc">Tweetter</div>
+</div>
+</a>
+</div>
+</div><div class="bloc_encart bloc_logos_rassurants bloc_suggested_products">
+<div class="sentence_present">Vous aimerez aussi...</div>
+</div><div class="col_suggested_product"><div class="list_product item">
+<div class="container_left">
+<a href="/produit/202258-race_for_the_galaxy_-_Edition_2020">
+<div class="img_list_product">
+<img src="/img/product/m/race-for-the-galaxy-matagot.jpg" title="Race for the Galaxy - Édition 2020" alt="Race for the Galaxy - Édition 2020" loading="lazy" />
+</div>
+</a>
+</div><div class="container_right">
+<a href="/produit/202258-race_for_the_galaxy_-_Edition_2020">
+<div class="name_product" title="Race for the Galaxy - Édition 2020">Race for the Galaxy - Édition 2020</div>
+</a>
+<div class="preco_product bloc_preco_product bloc_preco_product_rating"></div><div class="container_prices"><div class="price_product simple_price_product">38,50&nbsp;€</div></div><div class="cart">
+<div class="add_cart_btn add_cart_btn_mini">
+<form method="POST">
+<input type="hidden" aria-label="id_product" name="id_product" value="202258"><label for="202258_2"></label><select name="qty_product" aria-label="202258" class="select" id="202258_2"><option id="1" value="1">1</option><option id="2" value="2">2</option></select><div class="qty">(2)</div><div class="bloc_cart"><div class="bloc_each_cart_mini">
+<button type="submit" name="addToCart" value="0" class="btn addToCart tagSmallOrange tagProduct" data-localisation="0" data-id="202258" title="Ajouter au panier en livraison" alt="Ajouter au panier en livraison">
+<div class="add_cart_logo_mini"></div>
+</button>
+<div class="explain_new_btn_orange">Livraison</div>
+</div><div class="bloc_each_cart_mini">
+<div class="btn btn_store btn_violet showStoreSelect tagSmallVioletModal tagProduct" title="Choisir un magasin de retrait" alt="Choisir un magasin de retrait" data-modal-type="202258">
+<div class="add_cart_store_logo_mini"></div>
+</div>
+<div class="explain_new_btn_violet">Retrait magasin</div>
+</div><div class="select_favourite_store">
+<div class="store_nav" id="202258">
+<div class="store_nav_content">
+<span class="close">&times;</span>
+<div class="modal-title">Retirer en magasin</div>
+<ul><li class="store_list" value="1">
+<div class="bloc head_store">Playin Paris BNF</div><div class="bloc availability">
+<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
+<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
+<span class="localAvailable" ">&#10004;&nbsp;Disponible sous 2h</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
+<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
+</div>
+<div class="bloc set_store_btn_bloc">
+<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="1">
+<div class="add_cart_btn_img add_cart_store_btn_img"></div>
+<div class="add_cart_text">Choisir ce magasin</div>
+</button>
+</div><div class="clear"></div>
+</li><li class="store_list" value="2">
+<div class="bloc head_store">Playin Annecy</div><div class="bloc availability">
+<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
+<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
+<span class="localAvailable" style="display : none">&#10004;&nbsp;Disponible sous 2h</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
+<span class="orderAvailable" ">&#10004;&nbsp;Sur commande (72h)</span>
+<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
+</div>
+<div class="bloc set_store_btn_bloc">
+<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="2">
+<div class="add_cart_btn_img add_cart_store_btn_img"></div>
+<div class="add_cart_text">Choisir ce magasin</div>
+</button>
+</div><div class="clear"></div>
+</li><li class="store_list" value="3">
+<div class="bloc head_store">Playin Paris Rivoli</div><div class="bloc availability">
+<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
+<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
+<span class="localAvailable" style="display : none">&#10004;&nbsp;Disponible sous 2h</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
+<span class="orderAvailable" ">&#10004;&nbsp;Sur commande (72h)</span>
+<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
+</div>
+<div class="bloc set_store_btn_bloc">
+<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="3">
+<div class="add_cart_btn_img add_cart_store_btn_img"></div>
+<div class="add_cart_text">Choisir ce magasin</div>
+</button>
+</div><div class="clear"></div>
+</li></ul>
+</div>
+</div>
+</div></div></form>
+</div>
+</div>
+</div>
+<div class="clear"></div></div><div class="list_product item">
+<div class="container_left">
+<a href="/produit/241859-fantasy_realms">
+<div class="img_list_product">
+<img src="/img/product/m/fantasy-realms-seconde-edition.jpg" title="Fantasy Realms" alt="Fantasy Realms" loading="lazy" />
+</div>
+</a>
+</div><div class="container_right">
+<a href="/produit/241859-fantasy_realms">
+<div class="name_product" title="Fantasy Realms">Fantasy Realms</div>
+</a>
+<div class="preco_product bloc_preco_product bloc_preco_product_rating"></div><div class="container_prices"><div class="price_product simple_price_product">22,50&nbsp;€</div></div><div class="cart">
+<div class="add_cart_btn add_cart_btn_mini">
+<form method="POST">
+<input type="hidden" aria-label="id_product" name="id_product" value="241859"><label for="241859_17"></label><select name="qty_product" aria-label="241859" class="select" id="241859_17"><option id="1" value="1">1</option><option id="2" value="2">2</option><option id="3" value="3">3</option><option id="4" value="4">4</option><option id="5" value="5">5</option><option id="6" value="6">6</option><option id="7" value="7">7</option><option id="8" value="8">8</option><option id="9" value="9">9</option><option id="10" value="10">10</option><option id="11" value="11">11</option><option id="12" value="12">12</option><option id="13" value="13">13</option><option id="14" value="14">14</option><option id="15" value="15">15</option><option id="16" value="16">16</option><option id="17" value="17">17</option></select><div class="qty">(17)</div><div class="bloc_cart"><div class="bloc_each_cart_mini">
+<button type="submit" name="addToCart" value="0" class="btn addToCart tagSmallOrange tagProduct" data-localisation="0" data-id="241859" title="Ajouter au panier en livraison" alt="Ajouter au panier en livraison">
+<div class="add_cart_logo_mini"></div>
+</button>
+<div class="explain_new_btn_orange">Livraison</div>
+</div><div class="bloc_each_cart_mini">
+<div class="btn btn_store btn_violet showStoreSelect tagSmallVioletModal tagProduct" title="Choisir un magasin de retrait" alt="Choisir un magasin de retrait" data-modal-type="241859">
+<div class="add_cart_store_logo_mini"></div>
+</div>
+<div class="explain_new_btn_violet">Retrait magasin</div>
+</div><div class="select_favourite_store">
+<div class="store_nav" id="241859">
+<div class="store_nav_content">
+<span class="close">&times;</span>
+<div class="modal-title">Retirer en magasin</div>
+<ul><li class="store_list" value="1">
+<div class="bloc head_store">Playin Paris BNF</div><div class="bloc availability">
+<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
+<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
+<span class="localAvailable" ">&#10004;&nbsp;Disponible sous 2h</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
+<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
+</div>
+<div class="bloc set_store_btn_bloc">
+<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="1">
+<div class="add_cart_btn_img add_cart_store_btn_img"></div>
+<div class="add_cart_text">Choisir ce magasin</div>
+</button>
+</div><div class="clear"></div>
+</li><li class="store_list" value="2">
+<div class="bloc head_store">Playin Annecy</div><div class="bloc availability">
+<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
+<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
+<span class="localAvailable" ">&#10004;&nbsp;Disponible sous 2h</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
+<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
+</div>
+<div class="bloc set_store_btn_bloc">
+<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="2">
+<div class="add_cart_btn_img add_cart_store_btn_img"></div>
+<div class="add_cart_text">Choisir ce magasin</div>
+</button>
+</div><div class="clear"></div>
+</li><li class="store_list" value="3">
+<div class="bloc head_store">Playin Paris Rivoli</div><div class="bloc availability">
+<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
+<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
+<span class="localAvailable" ">&#10004;&nbsp;Disponible sous 2h</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
+<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
+</div>
+<div class="bloc set_store_btn_bloc">
+<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="3">
+<div class="add_cart_btn_img add_cart_store_btn_img"></div>
+<div class="add_cart_text">Choisir ce magasin</div>
+</button>
+</div><div class="clear"></div>
+</li></ul>
+</div>
+</div>
+</div></div></form>
+</div>
+</div>
+</div>
+<div class="clear"></div></div><div class="list_product item">
+<div class="container_left">
+<a href="/produit/256678-jaipur_-_Edition_2019">
+<div class="img_list_product">
+<img src="/img/product/m/jaipur_jeu_edition_2019_boite.png" title="Jaipur - Édition 2019" alt="Jaipur - Édition 2019" loading="lazy" />
+</div>
+</a>
+</div><div class="container_right">
+<a href="/produit/256678-jaipur_-_Edition_2019">
+<div class="name_product" title="Jaipur - Édition 2019">Jaipur - Édition 2019</div>
+</a>
+<div class="preco_product bloc_preco_product bloc_preco_product_rating"></div><div class="container_prices"><div class="price_product simple_price_product">18,50&nbsp;€</div></div><div class="cart">
+<div class="add_cart_btn add_cart_btn_mini">
+<form method="POST">
+<input type="hidden" aria-label="id_product" name="id_product" value="256678"><label for="256678_2"></label><select name="qty_product" aria-label="256678" class="select" id="256678_2"><option id="1" value="1">1</option><option id="2" value="2">2</option></select><div class="qty">(2)</div><div class="bloc_cart"><div class="bloc_each_cart_mini">
+<button type="submit" name="addToCart" value="0" class="btn addToCart tagSmallOrange tagProduct" data-localisation="0" data-id="256678" title="Ajouter au panier en livraison" alt="Ajouter au panier en livraison">
+<div class="add_cart_logo_mini"></div>
+</button>
+<div class="explain_new_btn_orange">Livraison</div>
+</div><div class="bloc_each_cart_mini">
+<div class="btn btn_store btn_violet showStoreSelect tagSmallVioletModal tagProduct" title="Choisir un magasin de retrait" alt="Choisir un magasin de retrait" data-modal-type="256678">
+<div class="add_cart_store_logo_mini"></div>
+</div>
+<div class="explain_new_btn_violet">Retrait magasin</div>
+</div><div class="select_favourite_store">
+<div class="store_nav" id="256678">
 <div class="store_nav_content">
 <span class="close">&times;</span>
 <div class="modal-title">Retirer en magasin</div>
@@ -2877,166 +4333,92 @@ Le jeu a été ajouté au panier </div>
 </li></ul>
 </div>
 </div>
-</div></form></form>
-</div></div><div class="bloc_shipping">
-<div class="shipping_boutique_img_gris_fonce"></div>
-<div class="container_stock"><div>Retrait gratuit en magasin, sous 2h ou 72h selon disponibilité.</div></div>
-</div></section><div class="bloc_desc bloc_desc_mobile">
-<div class="shortdesc_product">Dans Forêt Mixte, multipliez les arbres de votre forêt pour accueillir les créatures qui vivent dans leurs frondaisons et avoir le plus beau sous-bois !</div><div class="rating_summary"><a class="onclickTab" data-tab="rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_half"></span> 4.5/5
-<span class="rating_link">(2 avis clients)</span>
-</a></div><div class="container_tag_jds"><a href="/jeux_de_societe/recherche/?&player%5B%5D=2&player%5B%5D=3&player%5B%5D=4">
-<div class="tag btn_grey">
-<div class="bloc">
-<div class="img_nbr_player"></div>
-<span>2 à 4 joueurs</span>
+</div></div></form>
 </div>
 </div>
-</a><a href="/jeux_de_societe/recherche/?time%5B%5D=60">
-<div class="tag btn_grey">
-<div class="bloc">
-<div class="img_time"></div>
-<span>Environ 1h</span>
 </div>
+<div class="clear"></div></div><div class="list_product item">
+<div class="container_left">
+<a href="/produit/505019-luminis">
+<div class="img_list_product">
+<img src="/img/product/m/luminis-jeu-dont-panic-games-boite.jpg" title="Luminis" alt="Luminis" loading="lazy" />
 </div>
-</a><a href="/jeux_de_societe/recherche/?age%5B%5D=plus_10">
-<div class="tag btn_grey">
-<div class="bloc">
-<div class="img_age"></div>
-<span>À partir de 10 ans</span>
+</a>
+</div><div class="container_right">
+<a href="/produit/505019-luminis">
+<div class="name_product" title="Luminis">Luminis</div>
+</a>
+<div class="preco_product bloc_preco_product bloc_preco_product_rating"></div><div class="container_prices"><div class="price_product simple_price_product">22,50&nbsp;€</div></div><div class="cart">
+<div class="add_cart_btn add_cart_btn_mini">
+<form method="POST">
+<input type="hidden" aria-label="id_product" name="id_product" value="505019"><label for="505019_11"></label><select name="qty_product" aria-label="505019" class="select" id="505019_11"><option id="1" value="1">1</option><option id="2" value="2">2</option><option id="3" value="3">3</option><option id="4" value="4">4</option><option id="5" value="5">5</option><option id="6" value="6">6</option><option id="7" value="7">7</option><option id="8" value="8">8</option><option id="9" value="9">9</option><option id="10" value="10">10</option><option id="11" value="11">11</option></select><div class="qty">(11)</div><div class="bloc_cart"><div class="bloc_each_cart_mini">
+<button type="submit" name="addToCart" value="0" class="btn addToCart tagSmallOrange tagProduct" data-localisation="0" data-id="505019" title="Ajouter au panier en livraison" alt="Ajouter au panier en livraison">
+<div class="add_cart_logo_mini"></div>
+</button>
+<div class="explain_new_btn_orange">Livraison</div>
+</div><div class="bloc_each_cart_mini">
+<div class="btn btn_store btn_violet showStoreSelect tagSmallVioletModal tagProduct" title="Choisir un magasin de retrait" alt="Choisir un magasin de retrait" data-modal-type="505019">
+<div class="add_cart_store_logo_mini"></div>
 </div>
+<div class="explain_new_btn_violet">Retrait magasin</div>
+</div><div class="select_favourite_store">
+<div class="store_nav" id="505019">
+<div class="store_nav_content">
+<span class="close">&times;</span>
+<div class="modal-title">Retirer en magasin</div>
+<ul><li class="store_list" value="1">
+<div class="bloc head_store">Playin Paris BNF</div><div class="bloc availability">
+<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
+<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
+<span class="localAvailable" ">&#10004;&nbsp;Disponible sous 2h</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
+<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
 </div>
-</a><div class="tag btn_grey">
-<div class="bloc">
-<img src="/img/symbole/lang/fr.png" title="Français" alt="Français" loading="lazy" />
-<span>Français</span>
-</div>
+<div class="bloc set_store_btn_bloc">
+<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="1">
+<div class="add_cart_btn_img add_cart_store_btn_img"></div>
+<div class="add_cart_text">Choisir ce magasin</div>
+</button>
 </div><div class="clear"></div>
-</div><div class="clear"></div><div class="container_tag_jds"><a href="/jeux_de_societe/recherche/?theme=Animaux">
-<div class="tag btn_grey">
-<div class="bloc">
-<div class="img_theme"></div>
-<span>Animaux</span>
+</li><li class="store_list" value="2">
+<div class="bloc head_store">Playin Annecy</div><div class="bloc availability">
+<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
+<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
+<span class="localAvailable" ">&#10004;&nbsp;Disponible sous 2h</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
+<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
+</div>
+<div class="bloc set_store_btn_bloc">
+<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="2">
+<div class="add_cart_btn_img add_cart_store_btn_img"></div>
+<div class="add_cart_text">Choisir ce magasin</div>
+</button>
+</div><div class="clear"></div>
+</li><li class="store_list" value="3">
+<div class="bloc head_store">Playin Paris Rivoli</div><div class="bloc availability">
+<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
+<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
+<span class="localAvailable" style="display : none">&#10004;&nbsp;Disponible sous 2h</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
+<span class="orderAvailable" ">&#10004;&nbsp;Sur commande (72h)</span>
+<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
+</div>
+<div class="bloc set_store_btn_bloc">
+<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="3">
+<div class="add_cart_btn_img add_cart_store_btn_img"></div>
+<div class="add_cart_text">Choisir ce magasin</div>
+</button>
+</div><div class="clear"></div>
+</li></ul>
 </div>
 </div>
-</a><a href="/jeux_de_societe/recherche/?theme=Nature">
-<div class="tag btn_grey">
-<div class="bloc">
-<div class="img_theme"></div>
-<span>Nature</span>
+</div></div></form>
 </div>
 </div>
-</a><a href="/jeux_de_societe/recherche/?type=Collection">
-<div class="tag btn_grey">
-<div class="bloc">
-<div class="img_type_game"></div>
-<span>Collection</span>
 </div>
-</div>
-</a><a href="/jeux_de_societe/recherche/?type=Combinaisons">
-<div class="tag btn_grey">
-<div class="bloc">
-<div class="img_type_game"></div>
-<span>Combinaisons</span>
-</div>
-</div>
-</a><a href="/jeux_de_societe/recherche/?type=Jeux+de+Stratégie">
-<div class="tag btn_grey">
-<div class="bloc">
-<div class="img_type_game"></div>
-<span>Jeux de Stratégie</span>
-</div>
-</div>
-</a><div class="clear"></div>
-</div><div class="clear"></div><div class="clear"></div><div class="mini_img_product sliderProduct"><div class="MS-content"><div class="list_product item"><a href="/img/product/secondary/foret-mixte-jeu-look-out-spiele-dos-boite.jpg" data-lightbox="product-set-mobile" data-title><img src="/img/product/secondary/s/foret-mixte-jeu-look-out-spiele-dos-boite.jpg" title="Forêt Mixte" alt="foret mixte jeu look out spiele boite " /></a></div><div class="list_product item"><a href="/img/product/secondary/foret-mixte-jeu-look-out-spiele-cartes.jpg" data-lightbox="product-set-mobile" data-title><img src="/img/product/secondary/s/foret-mixte-jeu-look-out-spiele-cartes.jpg" title="Forêt Mixte" alt="foret mixte jeu look out spiele boite " /></a></div><div class="list_product item"><a href="/img/product/secondary/foret-mixte-jeu-look-out-spiele-dos-mise-en-place.jpg" data-lightbox="product-set-mobile" data-title><img src="/img/product/secondary/s/foret-mixte-jeu-look-out-spiele-dos-mise-en-place.jpg" title="Forêt Mixte" alt="foret mixte jeu look out spiele boite " /></a></div></div>
-<div class="MS-controls">
-<button class="MS-left"><div class="arrow_left_img"></div></button>
-<button class="MS-right"><div class="arrow_right_img"></div></button>
-</div></div></div><div class="col_bottom  col_bottom_mobile  "><div class="container_title_onglet"><h2 class="tab_title tab tab_desc onclickTab title_selected tab_selected" data-tab="desc"><span>Descriptif</span></h2><h2 class="tab_title tab tab_features onclickTab" data-tab="features"><span class="long-text">Caractéristiques</span></h2><h2 class="tab_title tab tab_video no_title" data-tab="video"><span>Vidéo</span></h2><h2 id="tab_rating" class="tab_title tab tab_rating onclickTab " data-tab="rating"><span class="long-text">Avis client</span></h2><div class="clear"></div>
-</div><div class="tab bloc_tab tab_desc tab_selected"><h2>For&ecirc;t Mixte : Un sous-bois grouillant de vie</h2>
-<p>For&ecirc;t Mixte est <strong>un jeu de gestion de main et combinaisons de cartes</strong> dans lequel joueurs et joueuses posent des arbres et d&eacute;veloppent la vie autour ! Il se joue de 2 &agrave; 5, d&egrave;s 10 ans, pour 60 minutes.</p>
-<h2>Plantez des arbres pour abriter des animaux</h2>
-<p><em>Dans une for&ecirc;t, les arbres grouillent de vie, des racines au fa&icirc;te. Multipliez les essences pour accueillir un maximum de diversit&eacute; dans votre for&ecirc;t mixte pour pr&eacute;parer la venue de l'hiver.</em></p>
-<p>Durant une partie, <strong>les tours des joueurs s'alternent</strong> jusqu'&agrave; ce que trois cartes d'Hiver soient r&eacute;v&eacute;l&eacute;es. &Agrave; votre tour, vous avez le choix entre <strong>prendre jusqu'&agrave; deux cartes</strong> de la pioche et/ou la clairi&egrave;re, jusqu'&agrave; une limite de 10, ou <strong>jouer une carte</strong> de votre main. Chaque carte a un co&ucirc;t en cartes que vous devez <strong>d&eacute;fausser de votre main vers la clairi&egrave;re</strong>. Les cartes d'Arbres se posent &eacute;cart&eacute;es les unes des autres sur votre plateau. Pour les autres cartes, choisissez la moiti&eacute; (droite/gauche ou haut/bas) que vous voulez utiliser et glissez l'autre dans un emplacement disponible sous un arbre. Chaque carte apporte en plus <strong>des capacit&eacute;s imm&eacute;diates, permanentes ou de fin de partie</strong> en fonction de leur type, qui s'activent si vous avez pay&eacute; des cartes du type pr&eacute;f&eacute;r&eacute; de l'animal jou&eacute;. <strong>Trois cartes Hiver</strong> sont plac&eacute;es dans le dernier tiers de la pioche. Quand toutes les trois sont r&eacute;v&eacute;l&eacute;es, la partie s'arr&ecirc;te imm&eacute;diatement. Comptez les points de <strong>tous les &eacute;l&eacute;ments de votre for&ecirc;t</strong> pour obtenir e meilleur score et remporter la partie !</p>
-<h2>Des combinaisons multiples</h2>
-<p>For&ecirc;t Mixte offre <strong>une exp&eacute;rience de jeu touffue</strong>, pleine d'options, mais aux <strong>r&egrave;gles simples de prise en main</strong>. Il ravira les joueurs de tous &acirc;ges et niveaux par son <strong>ambiance calme</strong>, ses <strong>splendides illustrations</strong> et les choix que proposent chacune de ses cartes. <strong>Amoureux de la nature</strong>, red&eacute;couvrez les sous-bois avec For&ecirc;t Mixte !</p><strong>Contenu&nbsp;:</strong>
-<ul><li>180 cartes (66 arbres, 48 cartes eau/bas, 44 droite/gauche, 3 hiver, 14 cartes références, 5 grottes)</li><li>1 plateau clairière</li><li>1 bloc de score</li><li>1 livret de règles</li></ul><strong><i>À partir de 10 ans, de 2 à 4 joueurs et pour des parties d'environ 60 minutes.</i></strong></div><div class="tab bloc_tab tab_features tab_hidden"><table class="table_tag_jds"><tr class="container_lang tr_impair">
-<th scope="row">Langue</th>
-<td class="text"><div>Français</div></td>
-</tr>
-<tr class="container_player tr_pair">
-<th scope="row">Nombre de joueurs</th>
-<td class="text">
-<a href="/jeux_de_societe/recherche/?&player%5B%5D=2&player%5B%5D=3&player%5B%5D=4"><div>De 2 à 4 joueurs</div></a>
-</td>
-</tr>
-<tr class="container_time tr_impair">
-<th scope="row">Durée</th>
-<td class="text"><a href="/jeux_de_societe/recherche/?time%5B%5D=60"><div>60 minutes</div></a></td>
-</tr>
-<tr class="container_age tr_pair">
-<th scope="row">Âge</th>
-<td class="text">
-<a href="/jeux_de_societe/recherche/?age%5B%5D=plus_10"><div>À partir de 10 ans</div></a>
-</td>
-</tr>
-<tr class="container_theme tr_impair">
-<th scope="row">Thème(s)</th>
-<td class="text"><a href="/jeux_de_societe/recherche/?theme=Animaux" /><div>Animaux</div></a></td></tr><tr class="container_theme line_repeat tr_impair"><th scope="row"></th><td class="text"><a href="/jeux_de_societe/recherche/?theme=Nature" /><div>Nature</div></a></td>
-</tr>
-<tr class="container_type tr_pair">
-<th scope="row">Type(s)</th>
-<td class="text"><a href="/jeux_de_societe/recherche/?type=Collection" /><div>Collection</div></a></td></tr><tr class="container_type line_repeat"><th scope="row"></th><td class="text"><a href="/jeux_de_societe/recherche/?type=Combinaisons" /><div>Combinaisons</div></a></td></tr><tr class="container_type line_repeat"><th scope="row"></th><td class="text"><a href="/jeux_de_societe/recherche/?type=Jeux+de+Stratégie" /><div>Jeux de Stratégie</div></a></td>
-</tr>
-<tr class="container_type tr_impair">
-<th scope="row">Gamme</th><td class="text"><div>Aucune gamme</div></td></tr>
-<tr class="container_editor tr_pair">
-<th scope="row">Éditeur(s)</th>
-<td class="text"><div>Look Out Spiele</div></td>
-</tr>
-<tr class="container_author tr_impair">
-<th scope="row">Auteur(s)</th>
-<td class="text"><div>Kosch</div></td>
-</tr>
-<tr class="container_illustrator tr_pair">
-<th scope="row">Illustrateur(s)</th>
-<td class="text"><div>Judit Piella</div></td></tr><tr class="container_theme line_repeat"><th scope="row"></th><td class="text"><div>Toni Llobet</div></td>
-</tr></table></div><div class="tab bloc_tab tab_video tab bloc_tab tab_video"><div class="video"><div class="container"></div></div></div><div class="tab bloc_tab tab_rating  tab bloc_tab tab_rating tab_hidden"><div class="rating_available">Merci de vous connecter afin de déposer votre avis.</div><div class="container_page_rating"><div id="page_0" class="each_pagination" data-id="0"><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_empty"></span></div><div class="username_rating">Bruno V</div><div class="valid_purchase">Achat vérifié</div><div id="user_comment_41333" class="user_comment">Plein de cartes et plein de combos possibles ! Ça prend de la place sur la table mais c&#039;est ultra sympa à 2 ou 3. Au delà, on attend pas mal son tour. Je ne le conseille pas</div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">Gassian S</div><div class="valid_purchase">Achat vérifié</div><div id="user_comment_41433" class="user_comment">Jeu simple de compréhension des règles mais qui demande un esprit de stratégie pour jongler entre les différentes combinaisons de cartes possibles. Les parties ne se ressemblent jamais selon les choix que nous effectuerons. Je recommande !</div></div></div></div></div><div class="container_present_card"><div class="alert container_alert_bug">
-<div class="toggleTarget clicOut" data-target="signal_bug">Vous souhaitez nous signaler un bug&nbsp;?</div>
-<div class="send_ok"></div>
-<div class="boxToggle clicOut alert_target signal_bug"><div class> <div class="send_ok not_connected">Vous devez être connecté pour signaler un bug</div> </div></div>
-</div></div>
-</div><div class="col_info_mobile">
-<div class="bloc_encart bloc_logos_rassurants bloc_logos_paiement">
-<div class="sentence_present">Paiement sécurisé avec Axepta, par CB et Paypal</div>
-<div class="container_logos_img"><div class="img img_first_logo img_logo_bnp"></div><div class="img img_logo_cb"></div>
-<div class="img img_logo_visa"></div>
-<div class="img img_logo_mastercard"></div>
-<div class="img img_logo_paypal"></div>
-</div>
-<div class="sentence_present bloc_shipping">Colis soigné, envoi rapide et sécurisé</div>
-<div class="container_logos_img">
-<div class="img img_first_logo img_logo_laposte"></div>
-<div class="img img_logo_colissimo"></div>
-<div class="img img_logo_chronopost"></div>
-</div>
-</div>
-<div class="bloc_encart bloc_logos_rassurants share_link_product">
-<div class="sentence_present">Envie de partager cette page&nbsp;?</div>
-<div class="container_logos_img">
-<a href="https://www.facebook.com/sharer/sharer.php?u=https://www.play-in.com/produit/505661-foret_mixte&amp;src=sdkpreparse" class="link_fb fb-xfbml-parse-ignore" target="_blank">
-<div class="facebook" data-href="https://www.play-in.com/produit/505661-foret_mixte" data-layout="button" data-size="large" data-mobile-iframe="true">
-<div class="facebook_img"></div>
-<div class="bloc">Partager</div>
-</div>
-</a>
-<a href="https://twitter.com/share?text=Forêt Mixte@Playin_by_MB&url=https://www.play-in.com/produit/505661-foret_mixte" class="link link_twitter">
-<div class="twitter">
-<div class="twitter_img"></div>
-<div class="bloc">Tweetter</div>
-</div>
-</a>
-</div>
-</div></div> </div>
+<div class="clear"></div></div></div></div> </div>
 <div class="clear"></div>
 </div>
 </section>
@@ -3136,7 +4518,7 @@ Le jeu a été ajouté au panier </div>
 </div>
 <div class="mb_footer mail_mb_footer">
 <div class="mail_mb_footer_img"></div>
-<div class="info_mb_footer"><a href="/cdn-cgi/l/email-protection#89eae6e7fde8eafdc9f9e5e8f0a4e0e7a7eae6e4" target="_blank"><span class="__cf_email__" data-cfemail="8ae9e5e4feebe9fecafae6ebf3a7e3e4a4e9e5e7">[email&#160;protected]</span></a></div>
+<div class="info_mb_footer"><a href="/cdn-cgi/l/email-protection#bbd8d4d5cfdad8cffbcbd7dac296d2d595d8d4d6" target="_blank"><span class="__cf_email__" data-cfemail="f695999882979582b6869a978fdb9f98d895999b">[email&#160;protected]</span></a></div>
 </div>
 </div>
 </div>

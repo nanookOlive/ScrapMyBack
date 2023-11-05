@@ -1,0 +1,23 @@
+{% extends 'base.html.twig' %}
+{% block body %}
+
+<h3>{{data.nom}}</h3>
+<img src='{{data.image}}'>
+
+<ul>les types
+    {% for type in data.types %}
+        <li>{{type}}</li>
+    {% endfor %}
+</ul>
+<p>partie de : {{data.duration}}</p>
+<ul>les auteurs
+    {% for auteur in data.auteurs %}
+            <li>{{auteur}}</li>
+    {% endfor %}
+</ul>
+<ul>les dessinateurs
+    {% for dessinateur in data.dessinateurs %}
+            <li>{{dessinateur}}</li>
+    {% endfor %}
+</ul>
+{% endblock %}
