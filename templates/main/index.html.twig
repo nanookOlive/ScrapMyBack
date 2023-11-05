@@ -21,8 +21,11 @@
         
 
       <tr>
+        <td>{{item.id}}</td>
         <td>{{item.name}}</td>
-        <td><a href="https://www.play-in.com{{item.href}}"><button type="button" class="btn btn-primary">Voir</button> </a></td>
+        
+        <td>{{item.href}}</td>
+        <td><a href={{path("app_show",{'id':item.id})}}><button type="button" class="btn btn-primary">Voir</button> </a></td>
       </tr>
 
 

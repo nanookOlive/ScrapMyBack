@@ -15,54 +15,42 @@ class Game
     private ?int $id = null;
 
     #[ORM\Column(length: 500)]
-    private ?string $name = null;
+    private ?string $nom = null;
 
-    #[ORM\Column(length: 500)]
-    private ?string $shortDescription = null;
-
-    #[ORM\Column(type: Types::SMALLINT)]
-    private ?int $nbPlayers = null;
+    #[ORM\Column(length: 255)]
+    private ?string $editeur = null;
 
     #[ORM\Column(type: Types::SMALLINT)]
     private ?int $duration = null;
+
+    #[ORM\Column(type: Types::SMALLINT)]
+    private ?int $age = null;
 
     public function getId(): ?int
     {
         return $this->id;
     }
 
-    public function getName(): ?string
+    public function getNom(): ?string
     {
-        return $this->name;
+        return $this->nom;
     }
 
-    public function setName(string $name): static
+    public function setNom(string $nom): static
     {
-        $this->name = $name;
+        $this->nom = $nom;
 
         return $this;
     }
 
-    public function getShortDescription(): ?string
+    public function getEditeur(): ?string
     {
-        return $this->shortDescription;
+        return $this->editeur;
     }
 
-    public function setShortDescription(string $shortDescription): static
+    public function setEditeur(string $editeur): static
     {
-        $this->shortDescription = $shortDescription;
-
-        return $this;
-    }
-
-    public function getNbPlayers(): ?int
-    {
-        return $this->nbPlayers;
-    }
-
-    public function setNbPlayers(int $nbPlayers): static
-    {
-        $this->nbPlayers = $nbPlayers;
+        $this->editeur = $editeur;
 
         return $this;
     }
@@ -75,6 +63,18 @@ class Game
     public function setDuration(int $duration): static
     {
         $this->duration = $duration;
+
+        return $this;
+    }
+
+    public function getAge(): ?int
+    {
+        return $this->age;
+    }
+
+    public function setAge(int $age): static
+    {
+        $this->age = $age;
 
         return $this;
     }

@@ -20,7 +20,15 @@ class GameTmpRepository extends ServiceEntityRepository
     {
         parent::__construct($registry, GameTmp::class);
     }
+    public function add(GameTmp $game,$flush=false){
 
+        $this->getEntityManager()->persist($game);
+        if($flush){
+
+            $this->getEntityManager()->flush();
+        }
+
+    }
 //    /**
 //     * @return GameTmp[] Returns an array of GameTmp objects
 //     */
