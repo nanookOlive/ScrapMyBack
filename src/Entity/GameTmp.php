@@ -13,23 +13,22 @@ class GameTmp
     #[ORM\Column]
     private ?int $id = null;
 
-    #[ORM\Column(length: 255)]
+    #[ORM\Column(length: 500)]
     private ?string $name = null;
 
     #[ORM\Column(length: 1000)]
     private ?string $href = null;
 
-    #[ORM\Column(length: 1000)]
-    private ?string $description = null;
-
     public function getId(): ?int
     {
         return $this->id;
     }
-    public function setId($id){
 
+    public function setId(int $id)
+    {
         $this->id=$id;
     }
+
     public function getName(): ?string
     {
         return $this->name;
@@ -50,18 +49,6 @@ class GameTmp
     public function setHref(string $href): static
     {
         $this->href = $href;
-
-        return $this;
-    }
-
-    public function getDescription(): ?string
-    {
-        return $this->description;
-    }
-
-    public function setDescription(string $description): static
-    {
-        $this->description = $description;
 
         return $this;
     }

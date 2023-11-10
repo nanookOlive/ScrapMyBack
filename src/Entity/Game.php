@@ -3,6 +3,8 @@
 namespace App\Entity;
 
 use App\Repository\GameRepository;
+use Doctrine\Common\Collections\ArrayCollection;
+use Doctrine\Common\Collections\Collection;
 use Doctrine\DBAL\Types\Types;
 use Doctrine\ORM\Mapping as ORM;
 
@@ -17,7 +19,10 @@ class Game
     #[ORM\Column(length: 500)]
     private ?string $nom = null;
 
-    #[ORM\Column(length: 255)]
+    #[ORM\Column(length: 1000)]
+    private ?string $image = null;
+
+    #[ORM\Column(length: 500)]
     private ?string $editeur = null;
 
     #[ORM\Column(type: Types::SMALLINT)]
@@ -25,6 +30,14 @@ class Game
 
     #[ORM\Column(type: Types::SMALLINT)]
     private ?int $age = null;
+
+    #[ORM\ManyToMany(targetEntity: GameType::class, mappedBy: 'Game')]
+    private Collection $gameTypes;
+
+    public function __construct()
+    {
+        $this->gameTypes = new ArrayCollection();
+    }
 
     public function getId(): ?int
     {
@@ -39,6 +52,18 @@ class Game
     public function setNom(string $nom): static
     {
         $this->nom = $nom;
+
+        return $this;
+    }
+
+    public function getImage(): ?string
+    {
+        return $this->image;
+    }
+
+    public function setImage(string $image): static
+    {
+        $this->image = $image;
 
         return $this;
     }
@@ -75,6 +100,33 @@ class Game
     public function setAge(int $age): static
     {
         $this->age = $age;
+
+        return $this;
+    }
+
+    /**
+     * @return Collection<int, GameType>
+     */
+    public function getGameTypes(): Collection
+    {
+        return $this->gameTypes;
+    }
+
+    public function addGameType(GameType $gameType): static
+    {
+        if (!$this->gameTypes->contains($gameType)) {
+            $this->gameTypes->add($gameType);
+            $gameType->addGame($this);
+        }
+
+        return $this;
+    }
+
+    public function removeGameType(GameType $gameType): static
+    {
+        if ($this->gameTypes->removeElement($gameType)) {
+            $gameType->removeGame($this);
+        }
 
         return $this;
     }

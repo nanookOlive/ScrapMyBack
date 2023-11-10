@@ -1,6 +1,5 @@
 {% extends 'base.html.twig' %}
 {% block body %}
-
 <h3>{{data.nom}}</h3>
 <img src='{{data.image}}'>
 
@@ -20,4 +19,17 @@
             <li>{{dessinateur}}</li>
     {% endfor %}
 </ul>
+<ul>les thèmes
+    {% for theme in data.themes %}
+            <li>{{theme}}</li>
+    {% endfor %}
+</ul>
+<p>de {{data.nbJoueurs['min']}} à {{data.nbJoueurs['max']}} joueurs </p>
+<p>édité par => {{data.editeur}}</p>
+<ul>les auteurs
+    {% for auteur in data.auteurs %}
+            <li>{{auteur}}</li>
+    {% endfor %}
+</ul>
+<p>à partir de {{data.age}} ans</p>
 {% endblock %}

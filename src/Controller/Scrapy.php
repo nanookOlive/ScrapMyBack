@@ -1,0 +1,422 @@
+<?php 
+
+/**
+ * 
+ * on veut pouvoir renvoyer un objetr de type scrapy
+ * avec un ensemble de méthodes 
+ */
+namespace App\Controller;
+use  App\Entity\Game;
+use App\Entity\GameTmp;
+use App\Entity\GameType;
+use App\Repository\GameRepository;
+use App\Repository\GameTmpRepository;
+use App\Repository\GameTypeRepository;
+use Doctrine\Persistence\ManagerRegistry;
+use Symfony\Component\DomCrawler\Crawler;
+use Symfony\Component\HttpClient\HttpClient;
+use Symfony\Component\BrowserKit\HttpBrowser;
+
+//pour récupérer les genres d'un jeu preg => <div>(([$A-Za-zéèà-]+\s*)*)<\/div>
+class Scrapy {
+
+    private $invalide;
+    private $manager;
+    private $tmpFile;
+    private $url;
+    private $browser;
+    private $gameArray;
+    private $formats=array(
+        'name'=>['line'=>'/class="name_product"/','itemInLine'=>'/>((\w+\s*\W*)+)</'],
+        'duration'=>[],
+        'shortDescription'=>['line'=>'/class="desc_short"/','itemInLine'=>'/>((\w+\s*\W*)+)</'],
+        'nbPlayers'=>[],
+        'blockGame'=>['line'=>'/class="container_info/'],
+        'href'=>["line"=>'/^<a\shref="\/produit\/\d+/',"itemInLine"=>'/"(.*)"/']  
+    );
+
+    public function __construct(GameRepository $gameRepository,GameTypeRepository $typeRepo,GameTmpRepository $gameTmpRepo){
+
+        $this->tmpFile=__DIR__."/../../docs/tmpFile.txt";
+        $this->browser=new HttpBrowser(HttpClient::create());
+        $this->gameArray=[];
+        // $this->manager=new ManagerRegistry;
+        $this->gameRepository=$gameRepository;
+        $this->typeRepo=$typeRepo;
+        $this->gameTmpRepo=$gameTmpRepo;
+        $this->url='https://www.play-in.com/jeux_de_societe/recherche/';
+        
+
+    }
+
+    //va renvoyer les informations de chaque ligne correspondante
+    //critères preg
+
+
+    public function crawler(string $row,string $needle)
+    {
+
+
+            if(preg_match($this->formats[$needle]['line'],$row)){
+
+                preg_match($this->formats[$needle]['itemInLine'],$row,$matches);
+                if(isset($matches[1])){
+
+                    return $matches[1];
+                }
+                
+            }
+            else{
+                
+                false;
+            }
+
+        }
+    
+        //une fois sur la page de détail d'un jeu  on lance le crawler dédié
+
+
+    public function crawlerDetail(GameTmp $gameTmp){
+
+            $name=$gameTmp->getName();
+            $game = new Game();
+            $game->setNom($name);
+
+            $this->invalide=FALSE;
+            $this->browser->request('GET','https://play-in.com/'.$gameTmp->getHref());//la ressource browser
+
+            $contentPageString=($this->browser->getResponse())->getContent();
+            file_put_contents($this->tmpFile,$contentPageString);
+            //on récupére le contenu du txt sous la forme d'un tableau
+            $arrayContent=file($this->tmpFile);
+            $arrayResponse=[
+                'nom'=>$name,
+                'types'=>[],
+                'themes'=>[],
+                'editeur'=>'',
+                'auteurs'=>[],
+                'dessinateurs'=>[],
+                'duration'=>'',
+                'nbJoueurs'=>['min'=>null,'max'=>null],
+                'age'=>'',
+                'image'=>''
+            ];
+
+            $arrayPreg=[
+                'image'=>'/https:\/\/www.play.in.com\/img\/product\/l\/(\w*\W)*.[jpg]*[png]+/',
+                'duration'=>'/^<th\sscope="row">Durée<\/th>/',
+                'age'=>'/^<th\sscope="row">Âge<\/th>/',
+                'nbJoueurs'=>'/^<th\sscope="row">Nombre\sde\sjoueurs<\/th>/',
+                'types'=>'/^<td\sclass="text"><a\shref="\/jeux_de_societe\/recherche\/\?type/',
+                'themes'=>'/^<th\sscope="row">Thème\(s\)<\/th>$/',
+                'auteurs'=>'/^<th\sscope="row">Auteur\(s\)<\/th>$/',
+                'editeur'=>'/^<th\sscope="row">Éditeur\(s\)<\/th>$/',
+                'dessinateurs'=>'/<th\sscope="row">Illustrateur\(s\)<\/th>/'
+
+            ];
+
+            $a=0;
+
+            for($a=0;$a<count($arrayContent);$a++)
+            {
+
+                $line=$arrayContent[$a];
+                // image du jeu
+                if(preg_match($arrayPreg['image'],$line,$matches)){
+                    
+                    //vérification 
+                    if(!empty($matches)){
+                        $arrayResponse['image']=$matches[0];
+                        
+                    }
+                    else{
+
+                        $this->writeLog($name,"image");
+                        //on inscrit l'erreur dans les log et on break
+                      
+                    }
+                    
+                }
+                //si la line = durée
+                if(preg_match($arrayPreg["duration"],$line)){
+
+                    preg_match('/<div>((\d*\w*[éè]*\s*)*)/',$arrayContent[$a+1],$matches);
+
+                    if(!empty($matches)){
+                    
+                        $arrayResponse['duration']=$matches[1];
+
+                    }
+                    else{
+
+                        $this->writeLog($name,"duration");
+                    }
+
+                }      
+                //si la line = age
+                
+                if(preg_match($arrayPreg["age"],$line)){
+
+                    preg_match('/<div>(\w*[À]*\s)*(\d*)/',$arrayContent[$a+2],$matches);
+                  
+                    if(!empty($matches)){
+
+                        $arrayResponse['age']=$matches[1];
+                    }
+
+                    else{
+
+                        $this->writeLog($name,"age");
+
+                    }
+                }                
+                //si la line = nbJoueurs
+                if(preg_match($arrayPreg['nbJoueurs'],$line)){
+
+                    
+                    preg_match('/<div>\w*\s*(\d*)\sà\s(\d*)/',$arrayContent[$a+2],$matches);
+                    if(!empty($matches)){
+                        $arrayResponse['nbJoueurs']["min"]=$matches[1];
+                        $arrayResponse['nbJoueurs']['max']=$matches[2];
+                    }
+                    else{
+
+                        $this->writeLog($name,'nbJouers');
+                    }
+                    
+                    
+                }
+
+                //si la line = type
+                if(preg_match($arrayPreg['types'],$line)){
+
+                    if(empty($arrayResponse['types']))
+                    {
+                        //on crée le tableau des types
+                        preg_match_all('/<div>((\w*[éà]*\s*)+)<\/div>/',$line,$arrayTypes);
+                        if(!empty($arrayTypes)){
+
+                            foreach($arrayTypes[1] as $types){
+
+                                array_push($arrayResponse['types'],$types);
+                                //est ce que le type existe en base
+                                //$type=$typeRepository->findByName($type);
+                                //si type = false; alors on persist et flush
+                                // if(!$type){
+                                //     $typeRepository->add($type);
+                                // }
+                                // $game->addTypes();
+                            }
+                        }
+                        else{
+
+                            $this->writeLog($name,"types");
+                        }
+                       
+                    }
+                }
+                //si la line = theme
+
+                if(preg_match($arrayPreg["themes"],$line)){
+
+                   preg_match_all('/<div>((\w*[éèà]*\s*)*)/',$arrayContent[$a+1],$matches);
+                   if(!empty($matches)){
+
+                    $arrayResponse["themes"]=$matches[1];
+
+                   }
+                   else{
+                    $this->writeLog($name,"themes");
+                   }
+                }
+
+                //si line = auteur
+                if(preg_match($arrayPreg['auteurs'],$line)){
+
+                    preg_match_all('/<div>((\w*[éáè]*\s*)*)<\/di/',$arrayContent[$a+1],$arrayAuteurs);
+                    if(!empty($arrayAuteurs)){
+                        foreach($arrayAuteurs[1] as $auteur){
+                        //solution provisoire pour éviter d'avoir les résultats en double
+                        if(!in_array($auteur,$arrayResponse['auteurs'])){
+
+                            array_push($arrayResponse['auteurs'],$auteur);
+
+                        }
+                    }
+                    }
+                    else{
+
+                        $this->writeLog($name,'auteurs');
+                    }
+                    
+                                       
+                }
+                //si la line = editeur
+                if(preg_match($arrayPreg['editeur'],$line)){
+
+                    preg_match_all('/<div>((\w*\s*[é\-èà]*)*)</',$arrayContent[$a+1],$matches);
+                    if(!empty($matches[1])){
+                        $arrayResponse['editeur']=$matches[1][0];
+                    }
+                    else{
+                        $this->writeLog($name,"editeur");
+                    }
+                }
+                
+                //si la line = dessinateur
+                //j'ai eu une erreur quand même 
+                if(preg_match($arrayPreg['dessinateurs'],$line)){
+
+                    preg_match_all('/<div>((\w*[éèà]*\s*)+)/',$arrayContent[$a+1],$arrayDessinateurs);
+
+                    if(!empty($arrayDessinateurs)){
+                        foreach($arrayDessinateurs[1] as $dessinateur){
+
+                            if(!in_array($dessinateur,$arrayResponse['dessinateurs'])){
+
+                                array_push($arrayResponse["dessinateurs"],$dessinateur);
+                            }
+                        }
+    
+                    }
+                    else{
+
+                        $this->writeLog($name,'dessinateurs');
+                    }
+                    
+                }
+                
+            
+            }
+            if($this->invalide){
+
+                dd('jeu invalide check the log');
+            }
+
+            //sinon on persist et on flush le game
+            $game->setImage($arrayResponse['image']);
+            $game->setEditeur($arrayResponse['editeur']);
+            $game->setDuration((int)$arrayResponse['duration']);
+            $game->setAge((int)$arrayResponse['age']);
+            $this->gameRepository->add($game);
+
+            //on ajoute les types à la base si ils n'existent pas en base
+            //on ajoute à la relation game_types
+            foreach($arrayResponse['types'] as $name){
+                if(empty($this->typeRepo->findByName($name))){
+                    $type=new GameType;
+                    $type->setName($name);
+                    $this->typeRepo->add($type);
+                    $game->addGameType($type);
+                    $this->gameRepository->add($game);
+                }
+                
+
+
+            }
+            
+
+
+            
+            //on ajoute les auteurs à la base si ils n'existent pas en base
+            //on ajoute à la relation game_auteurs
+            //on ajoute les dessinateurs à la base si ils n'existent pas en base
+            //on ajoute à la relation game_dessinateurs
+            //on ajoute les themes à la base si ils n'existent pas en base
+            //on ajoute à la relation game_theme
+
+
+            
+            
+            return $arrayResponse;
+        }
+        //renvoie un tableau avec dans l'ordre le href, le nom, description
+    public function getListGames(int $nbPagesToScrap) 
+    {
+        //mon tableau qui sera retourné
+
+        $arrayResponse=[];
+
+        for($gu=1;$gu<$nbPagesToScrap;$gu++){
+
+            //on va chercher les noms des jeux sur nbPagesToScrap pages
+            //on accede aux pages de ce site en particulier de la façon suivante
+            //https://www.play-in.com/jeux_de_societe/recherche/?p=1, 2 etc ... 
+
+            $urlToScrap=$this->url.$gu; // l'url de la page à scrap
+            $this->browser->request('GET',$urlToScrap);//la ressource browser
+
+            //on crée un objet Response en string
+
+            $contentPageString=($this->browser->getResponse())->getContent();
+
+        
+            //on ecrit dans un txt le string retourné par la ligne précédente
+            file_put_contents($this->tmpFile,$contentPageString);
+            //on récupére le contenu du txt sous la forme d'un tableau
+            $arrayContent=file($this->tmpFile);
+            //id en attendant la db
+            $a=0;
+
+            
+            while($a<count($arrayContent)){
+                // récupération du nom du jeu
+            $game = new GameTmp;
+
+                while(is_null($game->getName())){
+                    
+                    
+
+                    if($this->crawler($arrayContent[$a],"href")){
+
+                        $href=$this->crawler($arrayContent[$a],"href");
+                        $game->setHref($href);
+                    
+                        // if(is_null($game->getHref())){
+                            
+                        //    $game->setHref($href);
+                        //     // array_push($arrayResponse,$href);
+
+                        // }
+                    }
+
+                    if($this->crawler($arrayContent[$a],'name'))
+                    {
+
+                        $name=$this->crawler($arrayContent[$a], "name");
+                        // array_push($arrayResponse,$name);
+                        $game->setName($name);
+                        
+                    }
+
+                    $a++;
+                    if($a >= count($arrayContent)){
+                        break;
+                    }
+                }
+
+                $game->setId($a);
+                //$game->setDescription('blabla');
+
+                if(!is_null($game->getName()) && !is_null($game->getHref()) ){
+
+                    $this->gameTmpRepo->add($game,true);
+                }
+           
+
+            }
+        }
+        return $arrayResponse;
+            
+    }
+
+    private function writeLog(string $nomJeu,string $error){
+
+        $this->invalide=TRUE;
+        $handle=fopen('../var/log/log.txt','a');
+        $message="Erreur déclenchée pour le jeu $nomJeu. $error non trouvé.".PHP_EOL;
+        fwrite($handle,$message );
+        fclose($handle);
+
+    }
+}

@@ -1,21 +1,21 @@
 <?php
 
 namespace App\Controller;
-use App\utils\Scrapy;
+use App\Entity\GameTmp;
+use App\Controller\Scrapy;
 use App\Repository\GameTmpRepository;
-use Symfony\Bundle\FrameworkBundle\Controller\AbstractController;
+use Doctrine\Persistence\ManagerRegistry;
 use Symfony\Component\HttpFoundation\Response;
 use Symfony\Component\Routing\Annotation\Route;
-use Doctrine\Persistence\ManagerRegistry;
+use Symfony\Bundle\FrameworkBundle\Controller\AbstractController;
 
 class MainController extends AbstractController
 {
     //méthode qui affiche l'ensemble des jeux temporaires disponibles désormais en base 
     #[Route('/', name: 'app_main')]
-    public function index(ManagerRegistry $manager,GameTmpRepository $gameRepo): Response
+    public function index(GameTmpRepository $gameRepo): Response
     {
-        
-        
+    
         $arrayGameTmp=$gameRepo->findAll();
         return $this->render("main/index.html.twig",["data"=>$arrayGameTmp]);
        
@@ -23,14 +23,19 @@ class MainController extends AbstractController
 
     //méthode qui va afficher le détai d'un jeux
     #[Route("/show/{id}",name: "app_show")]
+    public function show(GameTmp $gameTmp,Scrapy $scrapy){
 
-    public function show($id,ManagerRegistry $manager,GameTmpRepository $gameRepo){
+
         set_time_limit(0);//le temps de passé à rercher peut être long
         //on veut éviter de le processus s'arreter avant la fin de la recherche
-        $game=$gameRepo->find($id);
-        $scrapy=new Scrapy("../docs/tmpFile.txt");
-        $data=$scrapy->crawlerDetail("https://www.play-in.com".$game->getHref(),$game->getName());
-        //dd($data);
-        return $this->render("main/show.html.twig",['data'=>$data]);
+        $game=$scrapy->crawlerDetail($gameTmp);
+        return $this->render("main/show.html.twig",['data'=>$game]);
+    }
+    #[Route('/create',name:'app_init_db')]
+    public function create(Scrapy $scrapy){
+        
+        $scrapy->getListGames(20);
+        return $this->redirectToRoute('app_main');
+
     }
 }
