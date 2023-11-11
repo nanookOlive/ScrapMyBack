@@ -40,9 +40,13 @@ class Game
     #[ORM\Column(length: 5000)]
     private ?string $longDescription = null;
 
+    #[ORM\ManyToMany(targetEntity: Theme::class, mappedBy: 'Game')]
+    private Collection $yes;
+
     public function __construct()
     {
         $this->gameTypes = new ArrayCollection();
+        $this->yes = new ArrayCollection();
     }
 
     public function getId(): ?int
@@ -157,6 +161,33 @@ class Game
     public function setLongDescription(string $longDescription): static
     {
         $this->longDescription = $longDescription;
+
+        return $this;
+    }
+
+    /**
+     * @return Collection<int, Theme>
+     */
+    public function getYes(): Collection
+    {
+        return $this->yes;
+    }
+
+    public function addYe(Theme $ye): static
+    {
+        if (!$this->yes->contains($ye)) {
+            $this->yes->add($ye);
+            $ye->addGame($this);
+        }
+
+        return $this;
+    }
+
+    public function removeYe(Theme $ye): static
+    {
+        if ($this->yes->removeElement($ye)) {
+            $ye->removeGame($this);
+        }
 
         return $this;
     }
