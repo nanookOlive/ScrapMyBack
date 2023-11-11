@@ -3,12 +3,14 @@
 <h3>{{data.nom}}</h3>
 <img src='{{data.image}}'>
 <p>{{data.shortDescription}}</p>
+
 <ul>les types
     {% for type in data.types %}
         <li>{{type}}</li>
     {% endfor %}
 </ul>
 <p>partie de : {{data.duration}}</p>
+<p>{{data.longDescription}}</p>
 <ul>les auteurs
     {% for auteur in data.auteurs %}
             <li>{{auteur}}</li>

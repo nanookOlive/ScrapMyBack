@@ -114,9 +114,12 @@ class Scrapy {
                 'auteurs'=>'/^<th\sscope="row">Auteur\(s\)<\/th>$/',
                 'editeur'=>'/^<th\sscope="row">Éditeur\(s\)<\/th>$/',
                 'dessinateurs'=>'/<th\sscope="row">Illustrateur\(s\)<\/th>/',
-                'shortDescription'=>'/<div\sclass="shortdesc_product">(.*)<\/div/'
+                'shortDescription'=>'/<div\sclass="shortdesc_product">(.*)<\/div/',
+                'longDescription'=>'/<\/div><div\sclass="tab\sbloc_tab\stab_desc\stab_selected">/'
 
             ];
+            $decodeString=['&eacute;','&egrave;','&agrave;','&nbsp;','&ecirc;','&ccedil;','&ugrave;','&acirc;','&ouml;','&amp;','&ucirc;','&hellip;','&ocirc;'];
+            $replaceString=['é','è','à',' ','ê','ç','ù','â','ö','&','û','...','ô'];
 
             $a=0;
 
@@ -125,6 +128,22 @@ class Scrapy {
 
                 $line=$arrayContent[$a];
                 // image du jeu
+
+                if(preg_match($arrayPreg['longDescription'],$line)){
+
+                    $longDescriptionArray=[];
+                    while(!preg_match('/^<th\sscope="row">Langue<\/th>$/',$arrayContent[$a])){
+
+                        
+                        $str=mb_convert_encoding(strip_tags($arrayContent[$a]),'utf-8');
+                        $str=str_replace($decodeString,$replaceString,$str);
+                        $longDescriptionArray[]=$str;
+
+                        $a++;
+                    }
+                    //dd($longDescriptionArray);
+                    $arrayResponse['longDescription']=implode(PHP_EOL,$longDescriptionArray);
+                }
                 if(preg_match($arrayPreg['image'],$line,$matches)){
                     
                     //vérification 
@@ -151,7 +170,7 @@ class Scrapy {
                     }
                     else{
 
-                        $this->writeLog($name,"duration");
+                        $this->writeLog($name,"shortDescription");
                     }
                 }
                 //si la line = durée
@@ -236,7 +255,7 @@ class Scrapy {
 
                 if(preg_match($arrayPreg["themes"],$line)){
 
-                   preg_match_all('/<div>((\w*[éèà]*\s*)*)/',$arrayContent[$a+1],$matches);
+                   preg_match_all('/<div>((\w*[éèêà]*\s*)*)/',$arrayContent[$a+1],$matches);
                    if(!empty($matches)){
 
                     $arrayResponse["themes"]=$matches[1];
@@ -315,6 +334,7 @@ class Scrapy {
             $game->setEditeur($arrayResponse['editeur']);
             $game->setDuration((int)$arrayResponse['duration']);
             $game->setAge((int)$arrayResponse['age']);
+            $game->setShortDescription($arrayResponse['shortDescription']);
             $this->gameRepository->add($game);
 
             //on ajoute les types à la base si ils n'existent pas en base
