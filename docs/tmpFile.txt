@@ -7,11 +7,11 @@
             function gtag(){dataLayer.push(arguments);}
             gtag("js", new Date());
             gtag("config", "G-4ZGZBRWKLF");
-        </script> <title>Kluster - Acheter vos Jeux de société en famille &amp; entre amis - Playin by Magic Bazar</title>
+        </script> <title>Welcome To Your Perfect Home - Édition Collector - Acheter vos Jeux de société en famille &amp; entre amis - Playin by Magic Bazar</title>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta name="robots" content="index,follow">
 <meta name="rating" content="general">
-<meta name="Description" content="Kluster est un jeu d&#039;aimants stratégique totalement fou, rapide et fun ! Placez toutes vos pierres avant vos adversaires mais attention au champ magnétique !">
+<meta name="Description" content="Dans cette version collector de Welcome to Your Perfect Home, retrouvez le jeu original retravaillé et embelli, avec toutes ses extensions plus 3 inédites !">
 <meta content="7 days" name="revisit-after">
 <meta name="Author" content="Playin by Magic Bazar">
 <meta name="Identifier-URL" Content=" https://www.play-in.com">
@@ -26,11 +26,11 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=6">
 
-<meta property="og:title" content="Kluster - Acheter vos Jeux de société en famille &amp; entre amis - Playin by Magic Bazar" />
+<meta property="og:title" content="Welcome To Your Perfect Home - Édition Collector - Acheter vos Jeux de société en famille &amp; entre amis - Playin by Magic Bazar" />
 <meta property="og:type" content="product" />
-<meta property="og:url" content="https://www.play-in.com/produit/279818-kluster" />
-<meta property="og:image" content="https://www.play-in.com/img/product/l/kluster.jpg" />
-<meta property="og:description" content="Kluster est un jeu d&#039;aimants stratégique totalement fou, rapide et fun ! Placez toutes vos pierres avant vos adversaires mais attention au champ magnétique !" />
+<meta property="og:url" content="https://www.play-in.com/produit/500944-welcome_to_your_perfect_home_-_Edition_collector" />
+<meta property="og:image" content="https://www.play-in.com/img/product/l/welcome-to-your-perfect-home-edition-collector-jeu-blue-cocker-boite.jpg" />
+<meta property="og:description" content="Dans cette version collector de Welcome to Your Perfect Home, retrouvez le jeu original retravaillé et embelli, avec toutes ses extensions plus 3 inédites !" />
 <meta property="og:app_id" content="936206876519095" />
 
 <script>
@@ -59,163 +59,33 @@
             {
             "@context": "http://schema.org",
                 "@type": "Product",
-                    "name":"Kluster",
-                    "description":"Kluster est un jeu d&#039;aimants stratégique totalement fou, rapide et fun ! Placez toutes vos pierres avant vos adversaires mais attention au champ magnétique !",
-                    "image":"https://www.play-in.com/img/product/l/kluster.jpg",
+                    "name":"Welcome To Your Perfect Home - Édition Collector",
+                    "description":"Dans cette version collector de Welcome to Your Perfect Home, retrouvez le jeu original retravaillé et embelli, avec toutes ses extensions plus 3 inédites !",
+                    "image":"https://www.play-in.com/img/product/l/welcome-to-your-perfect-home-edition-collector-jeu-blue-cocker-boite.jpg",
                     "brand": "",
-                    "gtin14": "03770003625605",
+                    "gtin14": "03770006370236",
                 "aggregateRating": {
                     "@type": "AggregateRating",
-                    "ratingValue": "4.4",
-                    "reviewCount": "15"
+                    "ratingValue": "4.5",
+                    "reviewCount": "2"
                 },
                 "review": 
                     [{
                         "@type": "Review",
-                        "url":"https://www.play-in.com/produit/279818-kluster",
-                        "author": "Antoine R",
-                        "datePublished": "2021-04-14 13:37:34",
-                        "reviewBody": "Un jeu simple avec des aimants, tu colle un aimant à un autre par erreur, tu les récupères et ton tour fini. Ici il faut se débarrasser de tout ses aimants en premier pour gagner en posant les un après les autres chaque tour. Mais attention, Un joueur malin s&#039;amusera à les poser sur la tranche, augmentant nettement plus de champs de mine magnétique et surtout si vous jouez sur un table en VERRE. La difficulté du jeu change nettement selon votre support, naturellement, une nappe un peu antidérapente tue assez vite le fun du jeu.<br/><br/>Pétit bémol, je trouve que le jeu est léger niveau aimant a 4 joueur, si vous voulez augmenter la capacité de joueur ou drastiquement augmenté la difficulté a 4 joueur, prenez un 2nd jeu. Au pire ça peut faire de très bon aimant pour le frigo ou alors un excellent anti stressant en jouant avec les aimants tout joueurs (clac clac)",
+                        "url":"https://www.play-in.com/produit/500944-welcome_to_your_perfect_home_-_Edition_collector",
+                        "author": "Pascal R",
+                        "datePublished": "2023-10-22 10:26:39",
+                        "reviewBody": "Une édition aux petits oignons avec tout ce qu&#039;il faut pour apprécier un monument du Roll &amp; Write. Le jeu est relativement accessible, les extensions amènent un peu de fraicheur pour varier les expériences.",
                         "reviewRating": {
                         "@type": "Rating",
                         "ratingValue": "4"
                         }
                     },{
                         "@type": "Review",
-                        "url":"https://www.play-in.com/produit/279818-kluster",
-                        "author": "MICHAEL V",
-                        "datePublished": "2021-08-18 21:44:36",
-                        "reviewBody": "Jeu simple agréable à sortir partout. Une ou deux parties avant de faire un jeu plus costaud.",
-                        "reviewRating": {
-                        "@type": "Rating",
-                        "ratingValue": "3"
-                        }
-                    },{
-                        "@type": "Review",
-                        "url":"https://www.play-in.com/produit/279818-kluster",
-                        "author": "Gael K",
-                        "datePublished": "2021-12-20 10:37:31",
+                        "url":"https://www.play-in.com/produit/500944-welcome_to_your_perfect_home_-_Edition_collector",
+                        "author": "Benjamin B",
+                        "datePublished": "2023-11-02 11:49:01",
                         "reviewBody": "",
-                        "reviewRating": {
-                        "@type": "Rating",
-                        "ratingValue": "3"
-                        }
-                    },{
-                        "@type": "Review",
-                        "url":"https://www.play-in.com/produit/279818-kluster",
-                        "author": "L D",
-                        "datePublished": "2021-12-31 11:02:26",
-                        "reviewBody": "Très amusant et challenge les nerfs. Ai joué avec ma nièce de 11 ans",
-                        "reviewRating": {
-                        "@type": "Rating",
-                        "ratingValue": "5"
-                        }
-                    },{
-                        "@type": "Review",
-                        "url":"https://www.play-in.com/produit/279818-kluster",
-                        "author": "Guillaume B",
-                        "datePublished": "2022-02-06 09:12:13",
-                        "reviewBody": "Un jeu d&#039;aimants sympa pour jouer avec des enfants ou à l&#039;apéro. Dans un premier, temps on se contente de poser les aimants comme ils viennent en essayant de ne pas en récupérer d&#039;autres. Après quelques parties on prend le coup de main et l&#039;on sait s&#039;il faut poser un aimant coucher pour jouer safe ou debout pour augmenter le champs magnétique et rendre la vie plus compliquée au suivant. On peut aussi déplacer les aimants posés précédemment sans les toucher, juste à l&#039;aide du champ magnétique, afin de se faire la place nécessaire pour poser son aimant du tour.",
-                        "reviewRating": {
-                        "@type": "Rating",
-                        "ratingValue": "4"
-                        }
-                    },{
-                        "@type": "Review",
-                        "url":"https://www.play-in.com/produit/279818-kluster",
-                        "author": "Patricia D",
-                        "datePublished": "2022-03-15 14:40:44",
-                        "reviewBody": "",
-                        "reviewRating": {
-                        "@type": "Rating",
-                        "ratingValue": "5"
-                        }
-                    },{
-                        "@type": "Review",
-                        "url":"https://www.play-in.com/produit/279818-kluster",
-                        "author": "Thomas M",
-                        "datePublished": "2022-04-18 10:41:33",
-                        "reviewBody": "Un jeu simple ou les règles sont évidentes pour tout le monde! Mais très sympa!",
-                        "reviewRating": {
-                        "@type": "Rating",
-                        "ratingValue": "4"
-                        }
-                    },{
-                        "@type": "Review",
-                        "url":"https://www.play-in.com/produit/279818-kluster",
-                        "author": "Thomas C",
-                        "datePublished": "2022-09-17 15:56:59",
-                        "reviewBody": "Très marrant pour des soirées entre amis!",
-                        "reviewRating": {
-                        "@type": "Rating",
-                        "ratingValue": "5"
-                        }
-                    },{
-                        "@type": "Review",
-                        "url":"https://www.play-in.com/produit/279818-kluster",
-                        "author": "Romain P",
-                        "datePublished": "2022-09-18 10:41:37",
-                        "reviewBody": "",
-                        "reviewRating": {
-                        "@type": "Rating",
-                        "ratingValue": "5"
-                        }
-                    },{
-                        "@type": "Review",
-                        "url":"https://www.play-in.com/produit/279818-kluster",
-                        "author": "Noe G",
-                        "datePublished": "2022-11-14 11:37:19",
-                        "reviewBody": "Un jeu super simple à comprendre et démarrer, qui se transporte dans une petite pochette, le jeu d&#039;apéro parfait",
-                        "reviewRating": {
-                        "@type": "Rating",
-                        "ratingValue": "5"
-                        }
-                    },{
-                        "@type": "Review",
-                        "url":"https://www.play-in.com/produit/279818-kluster",
-                        "author": "Téo S",
-                        "datePublished": "2022-12-28 13:34:43",
-                        "reviewBody": "",
-                        "reviewRating": {
-                        "@type": "Rating",
-                        "ratingValue": "5"
-                        }
-                    },{
-                        "@type": "Review",
-                        "url":"https://www.play-in.com/produit/279818-kluster",
-                        "author": "Marc B",
-                        "datePublished": "2023-04-20 10:58:05",
-                        "reviewBody": "",
-                        "reviewRating": {
-                        "@type": "Rating",
-                        "ratingValue": "5"
-                        }
-                    },{
-                        "@type": "Review",
-                        "url":"https://www.play-in.com/produit/279818-kluster",
-                        "author": "Nicolas B",
-                        "datePublished": "2023-04-20 13:56:59",
-                        "reviewBody": "",
-                        "reviewRating": {
-                        "@type": "Rating",
-                        "ratingValue": "3"
-                        }
-                    },{
-                        "@type": "Review",
-                        "url":"https://www.play-in.com/produit/279818-kluster",
-                        "author": "Philippe C",
-                        "datePublished": "2023-05-04 20:14:46",
-                        "reviewBody": "Super jeu apéro, facile à expliquer et très fun, le tout dans une boite facilement transportable pour prendre en voyage.",
-                        "reviewRating": {
-                        "@type": "Rating",
-                        "ratingValue": "5"
-                        }
-                    },{
-                        "@type": "Review",
-                        "url":"https://www.play-in.com/produit/279818-kluster",
-                        "author": "Emily J",
-                        "datePublished": "2023-05-24 11:53:34",
-                        "reviewBody": "Un jeu fort sympathique qui prouve la qualité de l&#039;offre de Play&#039;in dans ce domaine.",
                         "reviewRating": {
                         "@type": "Rating",
                         "ratingValue": "5"
@@ -226,22 +96,22 @@
                     "priceCurrency":"EUR",
                     "availability":"InStock",
                     "availability_date":"",
-                    "price":"18.50",
-                    "availableAtOrFrom":"/produit/279818-kluster",
+                    "price":"37.50",
+                    "availableAtOrFrom":"/produit/500944-welcome_to_your_perfect_home_-_Edition_collector",
                     "itemCondition":"NewCondition",
                     "priceValidUntil":"",
-                    "url":"https://www.play-in.com/produit/279818-kluster"
+                    "url":"https://www.play-in.com/produit/500944-welcome_to_your_perfect_home_-_Edition_collector"
             }
         }
         </script><script>
 	dataLayer.push({
 		'PageType': 'product',
-        'id': '279818',
-        'name': 'Kluster',
+        'id': '500944',
+        'name': 'Welcome To Your Perfect Home - Édition Collector',
         'category': 'En famille et entre amis',
-        'price': '18.50'
+        'price': '37.50'
 	});
-</script> <link rel="canonical" href="https://www.play-in.com/produit/279818-kluster">
+</script> <link rel="canonical" href="https://www.play-in.com/produit/500944-welcome_to_your_perfect_home_-_Edition_collector">
 <link rel="icon" type="image/ico" href="/favicon.ico" /><link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
 
 <link rel="dns-prefetch" href="https://unpkg.com/multiple-select@1.3.1/dist/multiple-select.min.css" as="style" />
@@ -277,7 +147,7 @@
 <link rel="dns-prefetch" href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" as="style" crossorigin="anonymous">
 <link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">
-<link rel="alternate" hreflang="en" href="https://en.play-in.com/produit/279818-kluster" /><link rel="alternate" hreflang="fr" href="https://www.play-in.com/produit/279818-kluster" /><link rel="alternate" hreflang="x-default" href="https://www.play-in.com/produit/279818-kluster" />
+<link rel="alternate" hreflang="en" href="https://en.play-in.com/produit/500944-welcome_to_your_perfect_home_-_Edition_collector" /><link rel="alternate" hreflang="fr" href="https://www.play-in.com/produit/500944-welcome_to_your_perfect_home_-_Edition_collector" /><link rel="alternate" hreflang="x-default" href="https://www.play-in.com/produit/500944-welcome_to_your_perfect_home_-_Edition_collector" />
 <script type="text/javascript" src="/js/tarteaucitron/tarteaucitron.js?v=15"></script>
 <script type="text/javascript">
             tarteaucitron.init({
@@ -421,13 +291,13 @@
 <div class="clear"></div>
 <div class="pwd_lost"><a href="/user/forgot.php">Mot de passe perdu ?</a></div>
 <input type="submit" value="Me connecter" class="btn connexion_account" data-user="username_popup" data-pwd="pwd_popup" data-popup="true" name="_submit_login">
-<a href="https://www.facebook.com/v3.2/dialog/oauth?scope=email&amp;state=39e74ac494793bedc4c006816840b19a&amp;response_type=code&amp;approval_prompt=auto&amp;redirect_uri=https%3A%2F%2Fwww.play-in.com%2Fuser%2Ffb_callback.php&amp;client_id=936206876519095">
+<a href="https://www.facebook.com/v3.2/dialog/oauth?scope=email&amp;state=fbc3c39e643802b061eff4089e29e7a8&amp;response_type=code&amp;approval_prompt=auto&amp;redirect_uri=https%3A%2F%2Fwww.play-in.com%2Fuser%2Ffb_callback.php&amp;client_id=936206876519095">
 <div class="btn_facebook">
 <div class="facebook_img"></div>
 Me connecter
 </div>
 </a>
-<input type="hidden" name="redirect" value="../produit/279818-kluster">
+<input type="hidden" name="redirect" value="../produit/500944-welcome_to_your_perfect_home_-_Edition_collector">
 <div id="g_id_onload" data-client_id="352511216272-q0kmev906091sein9bohqbcvjfa8jvcr.apps.googleusercontent.com" data-context="signin" data-ux_mode="popup" data-auto_prompt="false" data-callback="googleSignIn">
 </div>
 <div class="g_id_signin" style="margin-top: 5px;" data-type="standard" data-size="medium" data-text="signin" data-width="182" data-onsuccess="googleSignIn">
@@ -438,7 +308,7 @@ Me connecter
 <a href="/user/signin.php"><div class="btn_account">Créer un compte</div></a></div>
 </div>
 </div><div class="header_container_flag">
-<a href="https://en.play-in.com/produit/279818-kluster">
+<a href="https://en.play-in.com/produit/500944-welcome_to_your_perfect_home_-_Edition_collector">
 <div class="header_flag_en" title="Playin by Magic Bazar in english" alt="Playin by Magic Bazar in english"></div>
 </a>
 <a href="#">
@@ -464,7 +334,7 @@ Me connecter
 <a href="#">
 <div class="flag_header_mobile_fr" title="Playin by Magic Bazar en français" alt="Playin by Magic Bazar en français"></div>
 </a>
-<a href="https://en.play-in.com/produit/279818-kluster">
+<a href="https://en.play-in.com/produit/500944-welcome_to_your_perfect_home_-_Edition_collector">
 <div class="flag_header_mobile_en" title="Playin by Magic Bazar in english" alt="Playin by Magic Bazar in english"></div>
 </a>
 </div>
@@ -517,13 +387,13 @@ Me connecter
 <div class="clear"></div>
 <div class="pwd_lost"><a href="/user/forgot.php">Mot de passe perdu ?</a></div>
 <input type="submit" value="Me connecter" class="btn connexion_account" data-user="username_popup" data-pwd="pwd_popup" data-popup="true" name="_submit_login">
-<a href="https://www.facebook.com/v3.2/dialog/oauth?scope=email&amp;state=39e74ac494793bedc4c006816840b19a&amp;response_type=code&amp;approval_prompt=auto&amp;redirect_uri=https%3A%2F%2Fwww.play-in.com%2Fuser%2Ffb_callback.php&amp;client_id=936206876519095">
+<a href="https://www.facebook.com/v3.2/dialog/oauth?scope=email&amp;state=fbc3c39e643802b061eff4089e29e7a8&amp;response_type=code&amp;approval_prompt=auto&amp;redirect_uri=https%3A%2F%2Fwww.play-in.com%2Fuser%2Ffb_callback.php&amp;client_id=936206876519095">
 <div class="btn_facebook">
 <div class="facebook_img"></div>
 Me connecter
 </div>
 </a>
-<input type="hidden" name="redirect" value="../produit/279818-kluster">
+<input type="hidden" name="redirect" value="../produit/500944-welcome_to_your_perfect_home_-_Edition_collector">
 <div id="g_id_onload" data-client_id="352511216272-q0kmev906091sein9bohqbcvjfa8jvcr.apps.googleusercontent.com" data-context="signin" data-ux_mode="popup" data-auto_prompt="false" data-callback="googleSignIn">
 </div>
 <div class="g_id_signin" style="margin-top: 5px;" data-type="standard" data-size="medium" data-text="signin" data-width="182" data-onsuccess="googleSignIn">
@@ -534,7 +404,7 @@ Me connecter
 <a href="/user/signin.php"><div class="btn_account">Créer un compte</div></a></div>
 </div>
 </div><div class="header_container_flag">
-<a href="https://en.play-in.com/produit/279818-kluster">
+<a href="https://en.play-in.com/produit/500944-welcome_to_your_perfect_home_-_Edition_collector">
 <div class="header_flag_en" title="Playin by Magic Bazar in english" alt="Playin by Magic Bazar in english"></div>
 </a>
 <a href="#">
@@ -2761,48 +2631,48 @@ Yu-Gi-Oh! </div></a>
 <a href="/"><div>Accueil</div></a><a href="/jeux_de_societe/"><div class="breadcrumbs_img"></div>
 <div>Jeux de société</div></a><a href="/jeux_de_societe/categorie/7-en_famille_et_entre_amis"><div class="breadcrumbs_img"></div>
 <div>En famille et entre amis</div></a></div>
-<div id="container_present_product" class="container_present_product" data-id="279818">
+<div id="container_present_product" class="container_present_product" data-id="500944">
 <div class="return_msg_bag"></div>
 <div class="container_main_left">
 <div class="col_left"><div class="big_img_product ">
-<a class href="/img/product/kluster.jpg" data-lightbox="product-set" data-title>
+<a class href="/img/product/welcome-to-your-perfect-home-edition-collector-jeu-blue-cocker-boite.jpg" data-lightbox="product-set" data-title>
 <div class="main_img_product">
-<picture><source srcset="/img/product/l/kluster.webp" type="image/webp"><source srcset="/img/product/l/kluster.jpg" type="image/jpeg">
-<img src="/img/product/l/kluster.jpg" title="Kluster" alt="kluster " />
+<picture><source srcset="/img/product/l/welcome-to-your-perfect-home-edition-collector-jeu-blue-cocker-boite.webp" type="image/webp"><source srcset="/img/product/l/welcome-to-your-perfect-home-edition-collector-jeu-blue-cocker-boite.jpg" type="image/jpeg">
+<img src="/img/product/l/welcome-to-your-perfect-home-edition-collector-jeu-blue-cocker-boite.jpg" title="Welcome To Your Perfect Home - Édition Collector" alt="welcome to your perfect home edition collector jeu blue cocker boite " />
 </picture>
 </div>
 </a>
 </div><div class="big_img_product big_img_product_mobile ">
-<a class href="/img/product/kluster.jpg" data-lightbox="product-set-mobile" data-title>
+<a class href="/img/product/welcome-to-your-perfect-home-edition-collector-jeu-blue-cocker-boite.jpg" data-lightbox="product-set-mobile" data-title>
 <div class="main_img_product">
-<img src="/img/product/l/kluster.jpg" title="Kluster" alt="kluster " />
+<img src="/img/product/l/welcome-to-your-perfect-home-edition-collector-jeu-blue-cocker-boite.jpg" title="Welcome To Your Perfect Home - Édition Collector" alt="welcome to your perfect home edition collector jeu blue cocker boite " />
 </div>
 </a>
 </div>
 </div>
 <div class="col_middle">
-<h1>KLUSTER</h1><div class="bloc_desc">
-<div class="shortdesc_product">Kluster est un jeu d'aimants stratégique totalement fou, rapide et fun ! Placez toutes vos pierres avant vos adversaires mais attention au champ magnétique !</div><div class="rating_summary"><a class="onclickTab" data-tab="rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_half"></span> 4.4/5
-<span class="rating_link">(15 avis clients)</span>
-</a></div><div class="container_tag_jds"><a href="/jeux_de_societe/recherche/?&player%5B%5D=1&player%5B%5D=2&player%5B%5D=3&player%5B%5D=4">
+<h1>WELCOME TO YOUR PERFECT HOME - ÉDITION COLLECTOR</h1><div class="bloc_desc">
+<div class="shortdesc_product">Dans cette version collector de Welcome to Your Perfect Home, retrouvez le jeu original retravaillé et embelli, avec toutes ses extensions plus 3 inédites !</div><div class="rating_summary"><a class="onclickTab" data-tab="rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_half"></span> 4.5/5
+<span class="rating_link">(2 avis clients)</span>
+</a></div><div class="container_tag_jds"><a href="/jeux_de_societe/recherche/?&player%5B%5D=1&player%5B%5D=2&player%5B%5D=3&player%5B%5D=4&player%5B%5D=5&player%5B%5D=6">
 <div class="tag btn_grey">
 <div class="bloc">
 <div class="img_nbr_player"></div>
-<span>1 à 4 joueurs</span>
+<span>1 à 6 joueurs</span>
 </div>
 </div>
 </a><a href="/jeux_de_societe/recherche/?time%5B%5D=30">
 <div class="tag btn_grey">
 <div class="bloc">
 <div class="img_time"></div>
-<span>Environ 10 min</span>
+<span>Environ 25 min</span>
 </div>
 </div>
-</a><a href="/jeux_de_societe/recherche/?age%5B%5D=plus_14">
+</a><a href="/jeux_de_societe/recherche/?age%5B%5D=plus_10">
 <div class="tag btn_grey">
 <div class="bloc">
 <div class="img_age"></div>
-<span>À partir de 14 ans</span>
+<span>À partir de 10 ans</span>
 </div>
 </div>
 </a><div class="tag btn_grey">
@@ -2811,116 +2681,352 @@ Yu-Gi-Oh! </div></a>
 <span>Français</span>
 </div>
 </div><div class="clear"></div>
-</div><div class="clear"></div><div class="container_tag_jds"><a href="/jeux_de_societe/recherche/?theme=Abstrait">
+</div><div class="clear"></div><div class="container_tag_jds"><a href="/jeux_de_societe/recherche/?theme=Belle+Époque">
 <div class="tag btn_grey">
 <div class="bloc">
 <div class="img_theme"></div>
-<span>Abstrait</span>
+<span>Belle Époque</span>
 </div>
 </div>
-</a><a href="/jeux_de_societe/recherche/?type=Adresse">
+</a><a href="/jeux_de_societe/recherche/?theme=Construction+de+Ville">
+<div class="tag btn_grey">
+<div class="bloc">
+<div class="img_theme"></div>
+<span>Construction de Ville</span>
+</div>
+</div>
+</a><a href="/jeux_de_societe/recherche/?type=Combinaisons">
 <div class="tag btn_grey">
 <div class="bloc">
 <div class="img_type_game"></div>
-<span>Adresse</span>
+<span>Combinaisons</span>
 </div>
 </div>
-</a><a href="/jeux_de_societe/recherche/?type=Apéro">
+</a><a href="/jeux_de_societe/recherche/?type=Jeux+de+Gestion">
 <div class="tag btn_grey">
 <div class="bloc">
 <div class="img_type_game"></div>
-<span>Apéro</span>
+<span>Jeux de Gestion</span>
 </div>
 </div>
-</a><a href="/jeux_de_societe/recherche/?type=Jeux+Ambiance">
+</a><a href="/jeux_de_societe/recherche/?type=Jeux+de+Stratégie">
 <div class="tag btn_grey">
 <div class="bloc">
 <div class="img_type_game"></div>
-<span>Jeux Ambiance</span>
+<span>Jeux de Stratégie</span>
+</div>
+</div>
+</a><a href="/jeux_de_societe/recherche/?type=Jeux+de+Voyage">
+<div class="tag btn_grey">
+<div class="bloc">
+<div class="img_type_game"></div>
+<span>Jeux de Voyage</span>
+</div>
+</div>
+</a><a href="/jeux_de_societe/recherche/?type=Jeux+Solo">
+<div class="tag btn_grey">
+<div class="bloc">
+<div class="img_type_game"></div>
+<span>Jeux Solo</span>
+</div>
+</div>
+</a><a href="/jeux_de_societe/recherche/?type=Roll+%26+Write">
+<div class="tag btn_grey">
+<div class="bloc">
+<div class="img_type_game"></div>
+<span>Roll & Write</span>
+</div>
+</div>
+</a><a href="/jeux_de_societe/recherche/?type=Temps+réel">
+<div class="tag btn_grey">
+<div class="bloc">
+<div class="img_type_game"></div>
+<span>Temps réel</span>
 </div>
 </div>
 </a><div class="clear"></div>
-</div><div class="clear"></div><div class="clear"></div><div class="mini_img_product sliderProduct"><div class="MS-content"><div class="list_product item"><a href="/img/product/secondary/kluster-jeu-borderline-editions-materiel.jpg" data-lightbox="product-set" data-title><img src="/img/product/secondary/s/kluster-jeu-borderline-editions-materiel.jpg" title="Kluster" alt="kluster " /></a></div><div class="list_product item"><a href="/img/product/secondary/kluster_1.jpg" data-lightbox="product-set" data-title><img src="/img/product/secondary/s/kluster_1.jpg" title="Kluster" alt="kluster " /></a></div></div>
+</div><div class="clear"></div><div class="clear"></div><div class="mini_img_product sliderProduct"><div class="MS-content"><div class="list_product item"><a href="/img/product/secondary/welcome-to-your-perfect-home-edition-collector-jeu-blue-cocker-materiel.jpg" data-lightbox="product-set" data-title><img src="/img/product/secondary/s/welcome-to-your-perfect-home-edition-collector-jeu-blue-cocker-materiel.jpg" title="Welcome To Your Perfect Home - Édition Collector" alt="welcome to your perfect home edition collector jeu blue cocker boite " /></a></div><div class="list_product item"><a href="/img/product/secondary/welcome-to-your-perfect-home-edition-collector-jeu-blue-cocker-dos-boite.jpg" data-lightbox="product-set" data-title><img src="/img/product/secondary/s/welcome-to-your-perfect-home-edition-collector-jeu-blue-cocker-dos-boite.jpg" title="Welcome To Your Perfect Home - Édition Collector" alt="welcome to your perfect home edition collector jeu blue cocker boite " /></a></div></div>
 <div class="MS-controls">
 <button class="MS-left"><div class="arrow_left_img"></div></button>
 <button class="MS-right"><div class="arrow_right_img"></div></button>
 </div></div></div>
-</div><div class="col_bottom  "><div class="container_title_onglet"><h2 class="tab_title tab tab_desc onclickTab title_selected tab_selected" data-tab="desc"><span>Descriptif</span></h2><h2 class="tab_title tab tab_features onclickTab" data-tab="features"><span class="long-text">Caractéristiques</span></h2><h2 class="tab_title tab tab_video onclickTab" data-tab="video"><span>Vidéo</span></h2><h2 id="tab_rating" class="tab_title tab tab_rating onclickTab " data-tab="rating"><span class="long-text">Avis client</span></h2><div class="clear"></div>
-</div><div class="tab bloc_tab tab_desc tab_selected"><p style="text-align: center;"><strong>Pr&eacute;sent dans les listes suivantes :</strong></p>
-<table style="width: 70%; background-color: #dfeef2; border-radius: 10px; margin-left: auto; margin-right: auto;">
-<tbody>
-<tr>
-<td style="width: 594.95px;">
-<ul>
-<li style="text-align: justify;"><a href="../article/418-notre_top_des_meilleurs_jeux_de_societe_de_voyage" target="_blank" rel="noopener"><strong>S&eacute;lection des meilleurs jeux de voyage</strong></a></li>
-</ul>
-</td>
-</tr>
-</tbody>
-</table>
-<h2 style="text-align: justify;">Kluster : Magn&eacute;tisme strat&eacute;gique</h2>
-<p style="text-align: justify;">Kluster est <strong>un jeu d'adresse et de strat&eacute;gie</strong> qui repose sur l'utilisation d'un<strong> champ magn&eacute;tique</strong>.</p>
-<p style="text-align: justify;">Chaque joueur re&ccedil;oit en d&eacute;but de partie un nombre &eacute;gal de pierres aimant&eacute;es. Chacun &agrave; votre tour, vous devez placer une pierre dans la zone d&eacute;finie par la corde. Le premier &agrave; se d&eacute;barasser de toutes ses pierres est d&eacute;clar&eacute; vainqueur. Mais attention, si votre pierre s'aimante &agrave; celle d'un autre joueur, vous devez les r&eacute;cup&eacute;rer toutes les deux !</p>
-<p style="text-align: justify;">Kluster introduit <strong>des ruses &agrave; utiliser contre vos adversaires</strong> : d&eacute;placer la corde, utiliser le champ magn&eacute;tique, poser des pierres verticalement, placer vos pierres les unes &agrave; c&ocirc;t&eacute; des autres...Chaque pierre est diff&eacute;rente (taille et forme) et n'a pas le m&ecirc;me pouvoir magn&eacute;tique !</p>
-<p style="text-align: justify;">Passez entre les pierres, ma&icirc;trisez le champ magn&eacute;tique, imposez votre strat&eacute;gie !</p>
-<p style="text-align: justify;">&nbsp;</p>
-<p style="text-align: justify;"><strong>En raison des lois belges regardant la vente de jeux et jouets, Kluster n'est pas disponible pour la Belgique.</strong></p><strong>Contenu&nbsp;:</strong>
-<ul><li>24 pierres magné­tiques</li><li>1 corde</li><li>1 sac de trans­port</li></ul><strong><i>À partir de 14 ans, de 1 à 4 joueurs et pour des parties d'environ 10 minutes.</i></strong></div><div class="tab bloc_tab tab_features tab_hidden"><table class="table_tag_jds"><tr class="container_lang tr_impair">
+</div><div class="col_bottom  "><div class="container_title_onglet"><h2 class="tab_title tab tab_desc onclickTab title_selected tab_selected" data-tab="desc"><span>Descriptif</span></h2><h2 class="tab_title tab tab_features onclickTab" data-tab="features"><span class="long-text">Caractéristiques</span></h2><h2 class="tab_title tab tab_video onclickTab" data-tab="video"><span>Vidéo</span></h2><h2 class="tab_title tab tab_title_ext tab_ext onclickTab" data-tab="ext">
+<span class="line">Gamme &</span>
+<span class="line">extensions</span>
+</h2><h2 id="tab_rating" class="tab_title tab tab_rating onclickTab " data-tab="rating"><span class="long-text">Avis client</span></h2><div class="clear"></div>
+</div><div class="tab bloc_tab tab_desc tab_selected"><h2>Welcome to your Perfect Home - &Eacute;dition Collector : La compl&egrave;te indispensable</h2>
+<p>l'&eacute;dition collector de Welcome To Your Perfect Home contient <strong>le jeu de base et toutes les extensions pour ce jeu de <em>flip and write</em> culte</strong> ! D&eacute;veloppez-y un charmant lotissement en comp&eacute;tition avec les autres joueurs ! Il se joue de 1 &agrave; 6 joueurs et joueuses, d&egrave;s 10 ans, pour des parties de 25 minutes environ.</p>
+<h2>Retournez et cochez</h2>
+<p>Dans&nbsp;<strong>Welcome</strong>, on joue tous <strong>en m&ecirc;me temps</strong>&nbsp;! Chacun dispose devant lui d'<strong>une fiche de jeu</strong>, avec son plateau et son d&eacute;compte des points personnels.&nbsp;Le but est de r&eacute;colter le plus de points en remplissant les <strong>objectifs visibles</strong>. Pour cela, choisissez le num&eacute;ro que vous voulez et l'action que vous souhaitez accomplir sur l'un des trois tas de cartes disponibles, le tout <strong>en m&ecirc;me temps que vos adversaires</strong>. Remplissez les actions que vous menez sur votre fiche de jeu personnel.</p>
+<p><strong>Combinez</strong>&nbsp;correctement les num&eacute;ros et les actions pour remplir les objectifs, marquer des points, et&nbsp;<strong>gagner la partie</strong> ! Le jeu se termine de plusieurs mani&egrave;res possibles : Si un joueur parvient &agrave; remplir <strong>3 objectifs</strong>, si un joueur construit <strong>l'int&eacute;gralit&eacute; des maisons</strong> de ses trois rues ou si un joueur <strong>refuse pour la troisi&egrave;me fois</strong> de construire une maison. Faites alors le d&eacute;compte de votre plateau, le meilleur score remporte la victoire !</p>
+<h2>Une version augment&eacute;e &agrave; plus d'un titre</h2>
+<p>L'&eacute;dition collector comporte <strong>tout le mat&eacute;riel de base</strong> de Welcome, dans une <strong>qualit&eacute; augment&eacute;e</strong> : plus de feuillets papier, place aux <strong>feuilles effa&ccedil;ables</strong> ! De plus, <strong>6 variantes graphiques</strong> splendidement illustr&eacute;es par de grands noms du jeu de soci&eacute;t&eacute; ont &eacute;t&eacute; ajout&eacute;es, ainsi que les <strong>cartes postales</strong> qui correspondent &agrave; chacun de ces lotissements. <strong>Toutes les extensions</strong> existantes sont incluses, ainsi que<strong> 3 extensions in&eacute;dites</strong> : Coin-coin, American Dream et Roswell, ainsi que <strong>pl&eacute;thore de nouveaux objectifs</strong>. Une version ultime <strong>indispensable </strong>aux amateurs de jeux &agrave; cocher !</p><strong>Contenu&nbsp;:</strong>
+<ul><li>63 cartes Travaux</li><li>21 cartes Plan de base</li><li>17 cartes Plan Avancé</li><li>6 feuilles Classique effaçables</li><li>6 feuilles Blueprins effaçables</li><li>6 aides de jeu</li><li>6 feutres</li><li>6 chiffonnettes</li><li>3 cartes Validation AAA</li><li>6 cartes Adversaire AAA</li><li>1 règle du jeu de base</li><li>54 feuilles Extension effaçables</li><li>3 cartes 9¾</li><li> 40 cartes Plan Extension C</li><li>9 Cartes Plan American Dream A B C</li><li>3 cartes Zombies</li><li>1 Diplôme</li><li>6 feuilles Classique revisitées effaçables uniques</li><li>6 cartes postales</li><li>1 règle des extensions</li></ul><strong><i>À partir de 10 ans, de 1 à 6 joueurs et pour des parties d'environ 25 minutes.</i></strong></div><div class="tab bloc_tab tab_features tab_hidden"><table class="table_tag_jds"><tr class="container_lang tr_impair">
 <th scope="row">Langue</th>
 <td class="text"><div>Français</div></td>
 </tr>
 <tr class="container_player tr_pair">
 <th scope="row">Nombre de joueurs</th>
 <td class="text">
-<a href="/jeux_de_societe/recherche/?&player%5B%5D=1&player%5B%5D=2&player%5B%5D=3&player%5B%5D=4"><div>De 1 à 4 joueurs</div></a>
+<a href="/jeux_de_societe/recherche/?&player%5B%5D=1&player%5B%5D=2&player%5B%5D=3&player%5B%5D=4&player%5B%5D=5&player%5B%5D=6"><div>De 1 à 6 joueurs</div></a>
 </td>
 </tr>
 <tr class="container_time tr_impair">
 <th scope="row">Durée</th>
-<td class="text"><a href="/jeux_de_societe/recherche/?time%5B%5D=30"><div>10 minutes</div></a></td>
+<td class="text"><a href="/jeux_de_societe/recherche/?time%5B%5D=30"><div>25 minutes</div></a></td>
 </tr>
 <tr class="container_age tr_pair">
 <th scope="row">Âge</th>
 <td class="text">
-<a href="/jeux_de_societe/recherche/?age%5B%5D=plus_14"><div>À partir de 14 ans</div></a>
+<a href="/jeux_de_societe/recherche/?age%5B%5D=plus_10"><div>À partir de 10 ans</div></a>
 </td>
 </tr>
 <tr class="container_theme tr_impair">
 <th scope="row">Thème(s)</th>
-<td class="text"><a href="/jeux_de_societe/recherche/?theme=Abstrait" /><div>Abstrait</div></a></td>
+<td class="text"><a href="/jeux_de_societe/recherche/?theme=Belle+Époque" /><div>Belle Époque</div></a></td></tr><tr class="container_theme line_repeat tr_impair"><th scope="row"></th><td class="text"><a href="/jeux_de_societe/recherche/?theme=Construction+de+Ville" /><div>Construction de Ville</div></a></td>
 </tr>
 <tr class="container_type tr_pair">
 <th scope="row">Type(s)</th>
-<td class="text"><a href="/jeux_de_societe/recherche/?type=Adresse" /><div>Adresse</div></a></td></tr><tr class="container_type line_repeat"><th scope="row"></th><td class="text"><a href="/jeux_de_societe/recherche/?type=Apéro" /><div>Apéro</div></a></td></tr><tr class="container_type line_repeat"><th scope="row"></th><td class="text"><a href="/jeux_de_societe/recherche/?type=Jeux+Ambiance" /><div>Jeux Ambiance</div></a></td>
+<td class="text"><a href="/jeux_de_societe/recherche/?type=Combinaisons" /><div>Combinaisons</div></a></td></tr><tr class="container_type line_repeat"><th scope="row"></th><td class="text"><a href="/jeux_de_societe/recherche/?type=Jeux+de+Gestion" /><div>Jeux de Gestion</div></a></td></tr><tr class="container_type line_repeat"><th scope="row"></th><td class="text"><a href="/jeux_de_societe/recherche/?type=Jeux+de+Stratégie" /><div>Jeux de Stratégie</div></a></td></tr><tr class="container_type line_repeat"><th scope="row"></th><td class="text"><a href="/jeux_de_societe/recherche/?type=Jeux+de+Voyage" /><div>Jeux de Voyage</div></a></td></tr><tr class="container_type line_repeat"><th scope="row"></th><td class="text"><a href="/jeux_de_societe/recherche/?type=Jeux+Solo" /><div>Jeux Solo</div></a></td></tr><tr class="container_type line_repeat"><th scope="row"></th><td class="text"><a href="/jeux_de_societe/recherche/?type=Roll+%26+Write" /><div>Roll & Write</div></a></td></tr><tr class="container_type line_repeat"><th scope="row"></th><td class="text"><a href="/jeux_de_societe/recherche/?type=Temps+réel" /><div>Temps réel</div></a></td>
 </tr>
 <tr class="container_type tr_impair">
-<th scope="row">Gamme</th><td class="text"><div>Aucune gamme</div></td></tr>
+<th scope="row">Gamme</th><td class="text"><div>Welcome</div></td></tr>
 <tr class="container_editor tr_pair">
 <th scope="row">Éditeur(s)</th>
-<td class="text"><div>Borderline</div></td>
+<td class="text"><div>Blue Cocker</div></td>
 </tr>
 <tr class="container_author tr_impair">
 <th scope="row">Auteur(s)</th>
-<td class="text"><div>Paula Henning</div></td></tr><tr class="container_theme line_repeat tr_impair"><th scope="row"></th><td class="text"><div>Robert Henning</div></td>
+<td class="text"><div>Alexis Allard</div></td></tr><tr class="container_theme line_repeat tr_impair"><th scope="row"></th><td class="text"><div>Benoit Turpin</div></td>
 </tr>
 <tr class="container_illustrator tr_pair">
 <th scope="row">Illustrateur(s)</th>
-<td class="text"><div>Non renseigné</div></td>
-</tr></table></div><div class="tab bloc_tab tab_video tab_hidden tab bloc_tab tab_video"><div class="video"><div class="container"><iframe width="560" height="315" src="https://www.youtube.com/embed/mjHVCnFdZ7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><iframe width="560" height="315" src="https://www.youtube.com/embed/nJkgHlRWubU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></div></div><div class="tab bloc_tab tab_rating  tab bloc_tab tab_rating tab_hidden"><div class="rating_available">Merci de vous connecter afin de déposer votre avis.</div><div class="container_page_rating"><div id="page_0" class="each_pagination" data-id="0"><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_empty"></span></div><div class="username_rating">Anonyme</div><div class="valid_purchase"></div><div id="user_comment_708" class="user_comment" data-id="708">Un jeu simple avec des aimants, tu colle un aimant à un autre par erreur, tu les récupères et ton tour fini. Ici il faut se débarrasser de tout ses aimants en premier pour gagner en posant les un après les autres chaque tour. Mais attention, Un joueur malin s&#039;amusera <span id="dots_comment_708" data-id="708">...</span>
-<span id="read_more_708" class="read_more_comment" data-id="708">à les poser sur la tranche, augmentant nettement plus de champs de mine magnétique et surtout si vous jouez sur un table en VERRE. La difficulté du jeu change nettement selon votre support, naturellement, une nappe un peu antidérapente tue assez vite le fun du jeu. <br/> <br/>Pétit bémol, je trouve que le jeu est léger niveau aimant a 4 joueur, si vous voulez augmenter la capacité de joueur ou drastiquement augmenté la difficulté a 4 joueur, prenez un 2nd jeu. Au pire ça peut faire de très bon aimant pour le frigo ou alors un excellent anti stressant en jouant avec les aimants tout joueurs (clac clac) </span></div><div class="container_more_less_btn">
-<div id="btn_more_708" class="btn_more_content" data-id="708">Voir plus</div>
-<div id="btn_less_708" class="btn_less_content" data-id="708">Voir moins</div>
-</div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_empty"></span><span class="img_middle_star_empty"></span></div><div class="username_rating">MICHAEL V</div><div class="valid_purchase">Achat vérifié</div><div id="user_comment_5240" class="user_comment">Jeu simple agréable à sortir partout. Une ou deux parties avant de faire un jeu plus costaud.</div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_empty"></span><span class="img_middle_star_empty"></span></div><div class="username_rating">Gael K</div><div class="valid_purchase"></div><div id="user_comment_11071" class="user_comment"></div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">L D</div><div class="valid_purchase">Achat vérifié</div><div id="user_comment_11392" class="user_comment">Très amusant et challenge les nerfs. Ai joué avec ma nièce de 11 ans</div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_empty"></span></div><div class="username_rating">Guillaume B</div><div class="valid_purchase"></div><div id="user_comment_15290" class="user_comment" data-id="15290">Un jeu d&#039;aimants sympa pour jouer avec des enfants ou à l&#039;apéro. Dans un premier, temps on se contente de poser les aimants comme ils viennent en essayant de ne pas en récupérer d&#039;autres. Après quelques parties on prend le coup de main et l&#039;on sait s&#039;il faut poser un <span id="dots_comment_15290" data-id="15290">...</span>
-<span id="read_more_15290" class="read_more_comment" data-id="15290">aimant coucher pour jouer safe ou debout pour augmenter le champs magnétique et rendre la vie plus compliquée au suivant. On peut aussi déplacer les aimants posés précédemment sans les toucher, juste à l&#039;aide du champ magnétique, afin de se faire la place nécessaire pour poser son aimant du tour. </span></div><div class="container_more_less_btn">
-<div id="btn_more_15290" class="btn_more_content" data-id="15290">Voir plus</div>
-<div id="btn_less_15290" class="btn_less_content" data-id="15290">Voir moins</div>
-</div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">Patricia D</div><div class="valid_purchase">Achat vérifié</div><div id="user_comment_16064" class="user_comment"></div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_empty"></span></div><div class="username_rating">Thomas M</div><div class="valid_purchase">Achat vérifié</div><div id="user_comment_16709" class="user_comment">Un jeu simple ou les règles sont évidentes pour tout le monde! Mais très sympa!</div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">Thomas C</div><div class="valid_purchase">Achat vérifié</div><div id="user_comment_22899" class="user_comment">Très marrant pour des soirées entre amis!</div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">Anonyme</div><div class="valid_purchase"></div><div id="user_comment_23937" class="user_comment"></div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">Noe G</div><div class="valid_purchase">Achat vérifié</div><div id="user_comment_28763" class="user_comment">Un jeu super simple à comprendre et démarrer, qui se transporte dans une petite pochette, le jeu d&#039;apéro parfait</div></div></div><div id="page_1" class="each_pagination" data-id="1"><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">Téo S</div><div class="valid_purchase">Achat vérifié</div><div id="user_comment_31751" class="user_comment"></div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">Anonyme</div><div class="valid_purchase"></div><div id="user_comment_34178" class="user_comment"></div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_empty"></span><span class="img_middle_star_empty"></span></div><div class="username_rating">Nicolas B</div><div class="valid_purchase"></div><div id="user_comment_34179" class="user_comment"></div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">Philippe C</div><div class="valid_purchase">Achat vérifié</div><div id="user_comment_38044" class="user_comment">Super jeu apéro, facile à expliquer et très fun, le tout dans une boite facilement transportable pour prendre en voyage.</div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">Emily J</div><div class="valid_purchase">Achat vérifié</div><div id="user_comment_38404" class="user_comment">Un jeu fort sympathique qui prouve la qualité de l&#039;offre de Play&#039;in dans ce domaine.</div></div></div></div><div class="pagination_bloc container_btn_pagination">
-<div class="pagination_selector pagination_first"><<</div>
-<div class="pagination_selector pagination_prev"><</div>
-<div class="pagination_selector bloc_selector"></div>
-<div class="pagination_selector pagination_next">></div>
-<div class="pagination_selector pagination_last">>></div>
-</div></div><div class="container_present_card"><div class="alert container_alert_bug">
+<td class="text"><div>Anne Heidsieck</div></td>
+</tr></table></div><div class="tab bloc_tab tab_video tab_hidden tab bloc_tab tab_video"><div class="video"><div class="container"><iframe width="560" height="315" src="https://www.youtube.com/embed/W9A_GTuwdxM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><iframe width="560" height="315" src="https://www.youtube.com/embed/V27IGRa_9Jg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><iframe width="560" height="315" src="https://www.youtube.com/embed/kRCMlC6Rdpw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></div></div><div class="tab bloc_tab tab_ext tab_hidden tab bloc_tab tab_ext"><div class="title_ext">Le produit Welcome To Your Perfect Home - Édition Collector est une boite de base.</div><div class="title_ext title_all_ext">Découvrez les autres jeux de la gamme&nbsp;:</div><div class="list_product_full case_product_full filterElement" data-family="5" data-sales="0">
+<div class="container_img_product">
+<a href="/produit/296684-welcome_to_la_petite_mort_-_extension_crossover">
+<div class="img_product"><picture><source srcset="/img/product/m/welcome-to-la-petite-mort-boite.webp" type="image/webp"><source srcset="/img/product/m/welcome-to-la-petite-mort-boite.jpg" type="image/jpeg">
+<img src="/img/product/m/welcome-to-la-petite-mort-boite.jpg" title="Welcome to la Petite Mort - Extension Crossover" alt="Welcome to la Petite Mort - Extension Crossover" loading="lazy" />
+</picture>
+</div><div class="clear"></div>
+</a>
+</div>
+<div class="container_info_product container_info_product_with_rating">
+<a href="/produit/296684-welcome_to_la_petite_mort_-_extension_crossover">
+<div class="name_product" title="Welcome to la Petite Mort - Extension Crossover">Welcome to la Petite Mort - Extension Crossover</div>
+<div class="desc_short">La Petite Mort de Davy Mourier s’incruste dans le joli quartier de Welcome To ! Cette extensions crossover permet de regrouper ces deux jeux mythiques.</div>
+</a><div class="container_move_product">
+<div class="separateur separateur_product"></div><div class="bloc_rating_product" title="Note 5/5, 1 avis"><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_full"></span></div><div class="bloc_preco_product"></div>
+</div>
+</div>
+<div class="block_cart "><div class="container_prices"><div class="price_product simple_price_product">11,90&nbsp;€</div></div><div class="product_not_available">Indisponible actuellement</div>
+</div>
+<div class="clear"></div>
+</div><div class="list_product_full case_product_full filterElement" data-family="5" data-sales="0">
+<div class="container_img_product">
+<a href="/produit/218489-welcome_to_your_perfect_home">
+<div class="img_product"><picture><source srcset="/img/product/m/welcome_to-your_perfect_world_jeu_blue_cocker_boite.png" type="image/jpeg">
+<img src="/img/product/m/welcome_to-your_perfect_world_jeu_blue_cocker_boite.png" title="Welcome To Your Perfect Home" alt="Welcome To Your Perfect Home" loading="lazy" />
+</picture>
+</div><div class="clear"></div>
+</a>
+</div>
+<div class="container_info_product container_info_product_with_rating">
+<a href="/produit/218489-welcome_to_your_perfect_home">
+<div class="name_product" title="Welcome To Your Perfect Home">Welcome To Your Perfect Home</div>
+<div class="desc_short">Construisez plus rapidement que les autres architectes dans Welcome, le jeu de construction immobilière où tout le monde joue en même temps !</div>
+</a><div class="container_move_product">
+<div class="separateur separateur_product"></div><div class="bloc_rating_product" title="Note 4.2/5, 8 avis"><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_empty"></span></div><div class="bloc_preco_product"></div>
+</div>
+</div>
+<div class="block_cart "><div class="container_prices"><div class="price_product simple_price_product">21,50&nbsp;€</div></div><div class="cart">
+<div class="add_cart_btn add_cart_btn_mini">
+<form method="POST">
+<input type="hidden" aria-label="id_product" name="id_product" value="218489"><label for="218489_1"></label><select name="qty_product" aria-label="218489" class="select" id="218489_1"><option id="1" value="1">1</option></select><div class="qty">(1)</div><div class="bloc_cart"><div class="bloc_each_cart_mini">
+<button type="submit" name="addToCart" value="0" class="btn addToCart tagSmallOrange tagProduct" data-localisation="0" data-id="218489" title="Ajouter au panier en livraison" alt="Ajouter au panier en livraison">
+<div class="add_cart_logo_mini"></div>
+</button>
+<div class="explain_new_btn_orange">Livraison</div>
+</div><div class="bloc_each_cart_mini">
+<div class="btn btn_store btn_violet showStoreSelect tagSmallVioletModal tagProduct" title="Choisir un magasin de retrait" alt="Choisir un magasin de retrait" data-modal-type="218489">
+<div class="add_cart_store_logo_mini"></div>
+</div>
+<div class="explain_new_btn_violet">Retrait magasin</div>
+</div><div class="select_favourite_store">
+<div class="store_nav" id="218489">
+<div class="store_nav_content">
+<span class="close">&times;</span>
+<div class="modal-title">Retirer en magasin</div>
+<ul><li class="store_list" value="1">
+<div class="bloc head_store">Playin Paris BNF</div><div class="bloc availability">
+<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
+<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
+<span class="localAvailable" ">&#10004;&nbsp;Disponible sous 2h</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
+<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
+</div>
+<div class="bloc set_store_btn_bloc">
+<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="1">
+<div class="add_cart_btn_img add_cart_store_btn_img"></div>
+<div class="add_cart_text">Choisir ce magasin</div>
+</button>
+</div><div class="clear"></div>
+</li><li class="store_list" value="2">
+<div class="bloc head_store">Playin Annecy</div><div class="bloc availability">
+<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
+<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
+<span class="localAvailable" style="display : none">&#10004;&nbsp;Disponible sous 2h</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
+<span class="orderAvailable" ">&#10004;&nbsp;Sur commande (72h)</span>
+<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
+</div>
+<div class="bloc set_store_btn_bloc">
+<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="2">
+<div class="add_cart_btn_img add_cart_store_btn_img"></div>
+<div class="add_cart_text">Choisir ce magasin</div>
+</button>
+</div><div class="clear"></div>
+</li><li class="store_list" value="3">
+<div class="bloc head_store">Playin Paris Rivoli</div><div class="bloc availability">
+<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
+<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
+<span class="localAvailable" style="display : none">&#10004;&nbsp;Disponible sous 2h</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
+<span class="orderAvailable" ">&#10004;&nbsp;Sur commande (72h)</span>
+<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
+</div>
+<div class="bloc set_store_btn_bloc">
+<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="3">
+<div class="add_cart_btn_img add_cart_store_btn_img"></div>
+<div class="add_cart_text">Choisir ce magasin</div>
+</button>
+</div><div class="clear"></div>
+</li></ul>
+</div>
+</div>
+</div></div></form>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div><div class="list_product_full case_product_full filterElement" data-family="5" data-sales="0">
+<div class="container_img_product">
+<a href="/produit/359555-welcome_to_the_moon">
+<div class="img_product"><picture><source srcset="/img/product/m/welcome-to-the_moon-jeu-blue-cocker-boite.webp" type="image/webp"><source srcset="/img/product/m/welcome-to-the_moon-jeu-blue-cocker-boite.jpg" type="image/jpeg">
+<img src="/img/product/m/welcome-to-the_moon-jeu-blue-cocker-boite.jpg" title="Welcome To the Moon" alt="Welcome To the Moon" loading="lazy" />
+</picture>
+</div><div class="clear"></div>
+</a>
+</div>
+<div class="container_info_product container_info_product_with_rating">
+<a href="/produit/359555-welcome_to_the_moon">
+<div class="name_product" title="Welcome To the Moon">Welcome To the Moon</div>
+<div class="desc_short">Partez à la conquête de l'espace dans le dernier volet de la trilogie de Welcome To ! Posez vox pieds sur la Lune dans ce Flip & Write en campagne et évo...</div>
+</a><div class="container_move_product">
+<div class="separateur separateur_product"></div><div class="bloc_rating_product" title="Note 4.9/5, 17 avis"><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_full"></span></div><div class="bloc_preco_product"></div>
+</div>
+</div>
+<div class="block_cart "><div class="container_prices"><div class="price_product simple_price_product">35,90&nbsp;€</div></div><div class="cart">
+<div class="add_cart_btn add_cart_btn_mini">
+<form method="POST">
+<input type="hidden" aria-label="id_product" name="id_product" value="359555"><label for="359555_1"></label><select name="qty_product" aria-label="359555" class="select" id="359555_1"><option id="1" value="1">1</option></select><div class="qty">(1)</div><div class="bloc_cart"><div class="bloc_each_cart_mini">
+<button type="submit" name="addToCart" value="0" class="btn addToCart tagSmallOrange tagProduct" data-localisation="0" data-id="359555" title="Ajouter au panier en livraison" alt="Ajouter au panier en livraison">
+<div class="add_cart_logo_mini"></div>
+</button>
+<div class="explain_new_btn_orange">Livraison</div>
+</div><div class="bloc_each_cart_mini">
+<div class="btn btn_store btn_violet showStoreSelect tagSmallVioletModal tagProduct" title="Choisir un magasin de retrait" alt="Choisir un magasin de retrait" data-modal-type="359555">
+<div class="add_cart_store_logo_mini"></div>
+</div>
+<div class="explain_new_btn_violet">Retrait magasin</div>
+</div><div class="select_favourite_store">
+<div class="store_nav" id="359555">
+<div class="store_nav_content">
+<span class="close">&times;</span>
+<div class="modal-title">Retirer en magasin</div>
+<ul><li class="store_list" value="1">
+<div class="bloc head_store">Playin Paris BNF</div><div class="bloc availability">
+<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
+<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
+<span class="localAvailable" ">&#10004;&nbsp;Disponible sous 2h</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
+<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
+</div>
+<div class="bloc set_store_btn_bloc">
+<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="1">
+<div class="add_cart_btn_img add_cart_store_btn_img"></div>
+<div class="add_cart_text">Choisir ce magasin</div>
+</button>
+</div><div class="clear"></div>
+</li><li class="store_list" value="2">
+<div class="bloc head_store">Playin Annecy</div><div class="bloc availability">
+<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
+<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
+<span class="localAvailable" style="display : none">&#10004;&nbsp;Disponible sous 2h</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
+<span class="orderAvailable" ">&#10004;&nbsp;Sur commande (72h)</span>
+<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
+</div>
+<div class="bloc set_store_btn_bloc">
+<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="2">
+<div class="add_cart_btn_img add_cart_store_btn_img"></div>
+<div class="add_cart_text">Choisir ce magasin</div>
+</button>
+</div><div class="clear"></div>
+</li><li class="store_list" value="3">
+<div class="bloc head_store">Playin Paris Rivoli</div><div class="bloc availability">
+<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
+<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
+<span class="localAvailable" ">&#10004;&nbsp;Disponible sous 2h</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
+<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
+</div>
+<div class="bloc set_store_btn_bloc">
+<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="3">
+<div class="add_cart_btn_img add_cart_store_btn_img"></div>
+<div class="add_cart_text">Choisir ce magasin</div>
+</button>
+</div><div class="clear"></div>
+</li></ul>
+</div>
+</div>
+</div></div></form>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div><div class="list_product_full case_product_full filterElement" data-family="5" data-sales="0">
+<div class="container_img_product">
+<a href="/produit/264142-welcome_to_new_las_vegas">
+<div class="img_product"><picture><source srcset="/img/product/m/welcome_to_new_las_vegas_jeu_blue_cocker_boite.webp" type="image/webp"><source srcset="/img/product/m/welcome_to_new_las_vegas_jeu_blue_cocker_boite.jpg" type="image/jpeg">
+<img src="/img/product/m/welcome_to_new_las_vegas_jeu_blue_cocker_boite.jpg" title="Welcome To New Las Vegas" alt="Welcome To New Las Vegas" loading="lazy" />
+</picture>
+</div><div class="clear"></div>
+</a>
+</div>
+<div class="container_info_product container_info_product_with_rating">
+<a href="/produit/264142-welcome_to_new_las_vegas">
+<div class="name_product" title="Welcome To New Las Vegas">Welcome To New Las Vegas</div>
+<div class="desc_short">Construisez la ville-Casino la plus imposante et amusante pour gagner le jeu ! Un Roll & Write qui peut se jouer jusqu'à 100 joueurs en simultané !</div>
+</a><div class="container_move_product">
+<div class="separateur separateur_product"></div><div class="bloc_rating_product" title="Note 4.3/5, 3 avis"><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_half"></span></div><div class="bloc_preco_product"></div>
+</div>
+</div>
+<div class="block_cart "><div class="container_prices"><div class="price_product simple_price_product">21,50&nbsp;€</div></div><div class="cart">
+<div class="add_cart_btn add_cart_btn_mini">
+<form method="POST">
+<input type="hidden" aria-label="id_product" name="id_product" value="264142"><a href="/produit/264142-welcome_to_new_las_vegas" class="bloc_more_info">
+<div class="bloc_more_info_img"></div>
+<div class="text">Voir le produit</div>
+</a></form>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div><div class="clear"></div></div><div class="tab bloc_tab tab_rating  tab bloc_tab tab_rating tab_hidden"><div class="rating_available">Merci de vous connecter afin de déposer votre avis.</div><div class="container_page_rating"><div id="page_0" class="each_pagination" data-id="0"><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_empty"></span></div><div class="username_rating">Pascal R</div><div class="valid_purchase">Achat vérifié</div><div id="user_comment_41278" class="user_comment">Une édition aux petits oignons avec tout ce qu&#039;il faut pour apprécier un monument du Roll &amp; Write. Le jeu est relativement accessible, les extensions amènent un peu de fraicheur pour varier les expériences.</div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">Benjamin B</div><div class="valid_purchase">Achat vérifié</div><div id="user_comment_41429" class="user_comment"></div></div></div></div></div><div class="container_present_card"><div class="alert container_alert_bug">
 <div class="toggleTarget clicOut" data-target="signal_bug">Vous souhaitez nous signaler un bug&nbsp;?</div>
 <div class="send_ok"></div>
 <div class="boxToggle clicOut alert_target signal_bug"><div class> <div class="send_ok not_connected">Vous devez être connecté pour signaler un bug</div> </div></div>
@@ -2928,172 +3034,13 @@ Yu-Gi-Oh! </div></a>
 </div> </div>
 <div class="container_main_right">
 <div class="container_select_carts col_middle">
-<section><div class="bloc_encart container_product bloc_encart_price bloc_encart_price_fidelity"><div class="bloc_price"><div class="price">18,50&nbsp;€</div></div><div class="container_fidelity_point container_recap_fidelity">
-<a href="/article/247-les_points_votre_programme_fidelite_par_playin_"><span>Gagnez jusqu'à </span><span class="bold_black">18&nbsp;<span class="img_points_fidelity_black"></span>oint(s)</span></a><div class="togglePopup clicOutPopup img_explain_fidelity_points_orange" title="Voir le détail des Points" data-target="boxTogglePopupFidelity"></div>
+<section><div class="bloc_encart container_product bloc_encart_price bloc_encart_price_fidelity"><div class="bloc_price"><div class="price">37,50&nbsp;€</div></div><div class="container_fidelity_point container_recap_fidelity">
+<a href="/article/247-les_points_votre_programme_fidelite_par_playin_"><span>Gagnez jusqu'à </span><span class="bold_black">37&nbsp;<span class="img_points_fidelity_black"></span>oint(s)</span></a><div class="togglePopup clicOutPopup img_explain_fidelity_points_orange" title="Voir le détail des Points" data-target="boxTogglePopupFidelity"></div>
 <div class="clear"></div>
 <div class="popup_fidelity_points boxTogglePopupFidelity clicOutPopup hide">
 <div class="bold_orange">Les <span class="img_points_fidelity_orange"></span>oints, votre programme de fidelité&nbsp;!</div>
-<div class="txt">1 € dépensé = 1 Point gagné&nbsp;!</div><div class="txt">Ce produit vous rapportera jusqu'à <b>18 Points</b>.</div><a href="/article/247-les_points_votre_programme_fidelite_par_playin_" class="link">En savoir plus sur les Points</a>
-</div></div><form method="post"><div class="select_favourite_store">
-<div class="store_nav" id="421092">
-<div class="store_nav_content">
-<span class="close">&times;</span>
-<div class="modal-title">Retirer en magasin</div>
-<ul><li class="store_list" value="1">
-<div class="bloc head_store">Playin Paris BNF</div><div class="bloc availability">
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Disponible sous 2h</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
-<span class="localUnavailable" ">&cross;&nbsp;Non disponible</span>
-</div>
-<div class="bloc set_store_btn_bloc">
-<button type="submit" class="btn btn_violet btn_grey_unavailable" aria-pressed="true" name="_submit_store_cart" value="1" disabled>
-<div class="add_cart_btn_img add_cart_store_btn_img"></div>
-<div class="add_cart_text">Choisir ce magasin</div>
-</button>
-</div><div class="clear"></div>
-</li><li class="store_list" value="2">
-<div class="bloc head_store">Playin Annecy</div><div class="bloc availability">
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Disponible sous 2h</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
-<span class="localUnavailable" ">&cross;&nbsp;Non disponible</span>
-</div>
-<div class="bloc set_store_btn_bloc">
-<button type="submit" class="btn btn_violet btn_grey_unavailable" aria-pressed="true" name="_submit_store_cart" value="2" disabled>
-<div class="add_cart_btn_img add_cart_store_btn_img"></div>
-<div class="add_cart_text">Choisir ce magasin</div>
-</button>
-</div><div class="clear"></div>
-</li><li class="store_list" value="3">
-<div class="bloc head_store">Playin Paris Rivoli</div><div class="bloc availability">
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Disponible sous 2h</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
-<span class="localUnavailable" ">&cross;&nbsp;Non disponible</span>
-</div>
-<div class="bloc set_store_btn_bloc">
-<button type="submit" class="btn btn_violet btn_grey_unavailable" aria-pressed="true" name="_submit_store_cart" value="3" disabled>
-<div class="add_cart_btn_img add_cart_store_btn_img"></div>
-<div class="add_cart_text">Choisir ce magasin</div>
-</button>
-</div><div class="clear"></div>
-</li></ul>
-</div>
-</div>
-</div></form><form method="post"><div class="select_favourite_store">
-<div class="store_nav" id="421093">
-<div class="store_nav_content">
-<span class="close">&times;</span>
-<div class="modal-title">Retirer en magasin</div>
-<ul><li class="store_list" value="1">
-<div class="bloc head_store">Playin Paris BNF</div><div class="bloc availability">
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Disponible sous 2h</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
-<span class="localUnavailable" ">&cross;&nbsp;Non disponible</span>
-</div>
-<div class="bloc set_store_btn_bloc">
-<button type="submit" class="btn btn_violet btn_grey_unavailable" aria-pressed="true" name="_submit_store_cart" value="1" disabled>
-<div class="add_cart_btn_img add_cart_store_btn_img"></div>
-<div class="add_cart_text">Choisir ce magasin</div>
-</button>
-</div><div class="clear"></div>
-</li><li class="store_list" value="2">
-<div class="bloc head_store">Playin Annecy</div><div class="bloc availability">
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Disponible sous 2h</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
-<span class="localUnavailable" ">&cross;&nbsp;Non disponible</span>
-</div>
-<div class="bloc set_store_btn_bloc">
-<button type="submit" class="btn btn_violet btn_grey_unavailable" aria-pressed="true" name="_submit_store_cart" value="2" disabled>
-<div class="add_cart_btn_img add_cart_store_btn_img"></div>
-<div class="add_cart_text">Choisir ce magasin</div>
-</button>
-</div><div class="clear"></div>
-</li><li class="store_list" value="3">
-<div class="bloc head_store">Playin Paris Rivoli</div><div class="bloc availability">
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Disponible sous 2h</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
-<span class="localUnavailable" ">&cross;&nbsp;Non disponible</span>
-</div>
-<div class="bloc set_store_btn_bloc">
-<button type="submit" class="btn btn_violet btn_grey_unavailable" aria-pressed="true" name="_submit_store_cart" value="3" disabled>
-<div class="add_cart_btn_img add_cart_store_btn_img"></div>
-<div class="add_cart_text">Choisir ce magasin</div>
-</button>
-</div><div class="clear"></div>
-</li></ul>
-</div>
-</div>
-</div></form><form method="post"><div class="select_favourite_store">
-<div class="store_nav" id="421094">
-<div class="store_nav_content">
-<span class="close">&times;</span>
-<div class="modal-title">Retirer en magasin</div>
-<ul><li class="store_list" value="1">
-<div class="bloc head_store">Playin Paris BNF</div><div class="bloc availability">
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Disponible sous 2h</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
-<span class="localUnavailable" ">&cross;&nbsp;Non disponible</span>
-</div>
-<div class="bloc set_store_btn_bloc">
-<button type="submit" class="btn btn_violet btn_grey_unavailable" aria-pressed="true" name="_submit_store_cart" value="1" disabled>
-<div class="add_cart_btn_img add_cart_store_btn_img"></div>
-<div class="add_cart_text">Choisir ce magasin</div>
-</button>
-</div><div class="clear"></div>
-</li><li class="store_list" value="2">
-<div class="bloc head_store">Playin Annecy</div><div class="bloc availability">
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Disponible sous 2h</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
-<span class="localUnavailable" ">&cross;&nbsp;Non disponible</span>
-</div>
-<div class="bloc set_store_btn_bloc">
-<button type="submit" class="btn btn_violet btn_grey_unavailable" aria-pressed="true" name="_submit_store_cart" value="2" disabled>
-<div class="add_cart_btn_img add_cart_store_btn_img"></div>
-<div class="add_cart_text">Choisir ce magasin</div>
-</button>
-</div><div class="clear"></div>
-</li><li class="store_list" value="3">
-<div class="bloc head_store">Playin Paris Rivoli</div><div class="bloc availability">
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Disponible sous 2h</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
-<span class="localUnavailable" ">&cross;&nbsp;Non disponible</span>
-</div>
-<div class="bloc set_store_btn_bloc">
-<button type="submit" class="btn btn_violet btn_grey_unavailable" aria-pressed="true" name="_submit_store_cart" value="3" disabled>
-<div class="add_cart_btn_img add_cart_store_btn_img"></div>
-<div class="add_cart_text">Choisir ce magasin</div>
-</button>
-</div><div class="clear"></div>
-</li></ul>
-</div>
-</div>
-</div></form> <div id="container_secondhand" style="display:none">
+<div class="txt">1 € dépensé = 1 Point gagné&nbsp;!</div><div class="txt">Ce produit vous rapportera jusqu'à <b>37 Points</b>.</div><a href="/article/247-les_points_votre_programme_fidelite_par_playin_" class="link">En savoir plus sur les Points</a>
+</div></div> <div id="container_secondhand" style="display:none">
 <div id="popup_secondhand">
 <div class="form_secondhand container_select_carts" id="info_valid_cart" style="display:none;">
 <div style="font-weight: bold;font-size: 14px;margin-bottom: 15px;">
@@ -3101,14 +3048,14 @@ Yu-Gi-Oh! </div></a>
 Le jeu a été ajouté au panier </div>
 </div>
 <div class="form_secondhand container_select_carts" id="popupForm">
-<img id="logo_gege" src="/img/play_back/Gégé_1_125.png" />
+<img id="logo_gege" src="/img/play_back/Gégé_2_125.png" />
 <img src="/img/play_back/Essai_logo_2_50.png" />
 <h2 class="title_secondhand">Les jeux d'occasion par Playin</h2>
-<img id="image_seconhand" src="/img/product/l/kluster.jpg" title="Kluster" alt="kluster " />
+<img id="image_seconhand" src="/img/product/l/welcome-to-your-perfect-home-edition-collector-jeu-blue-cocker-boite.jpg" title="Welcome To Your Perfect Home - Édition Collector" alt="welcome to your perfect home edition collector jeu blue cocker boite " />
 <form action class="form-container">
 <div id="container_select_secondhand">
 <select name="secondhand" class="select_secondhand select">
-<option id="421092" value="421092" disabled>Kluster - Très bon état (indisponible)</option><option id="421093" value="421093" disabled>Kluster - Bon état (indisponible)</option><option id="421094" value="421094" disabled>Kluster - Jouable (indisponible)</option> </select>
+</select>
 <a href="/article/551-vos_jeux_de_societe_doccasion_avec_playback__" class="link" target="_blank">
 <img id="image_info" src="/img/style/info.png" />
 </a>
@@ -3118,7 +3065,7 @@ Le jeu a été ajouté au panier </div>
 </div>
 </div> </div><div class="bloc_encart container_product"><div class="bloc_cart_product"><div class="add_cart_btn">
 <form method="POST">
-<label for="id_product"><input type="hidden" name="id_product" value="279818"></label><select name="qty_product" class="select"><option value="1">1</option></select><div class="bloc_btn"><button type="submit" name="addToCart" value="0" class="btn addToCart tagBigOrange tagProduct" data-localisation="0" data-family="5" data-id="279818">
+<label for="id_product"><input type="hidden" name="id_product" value="500944"></label><select name="qty_product" class="select"><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option></select><div class="bloc_btn"><button type="submit" name="addToCart" value="0" class="btn addToCart tagBigOrange tagProduct" data-localisation="0" data-family="5" data-id="500944">
 <div class="add_cart_btn_img"></div>
 <div class="add_cart_text">Ajouter au panier <div class="small_text">(Livraison)</div></div>
 </button></div>
@@ -3133,12 +3080,12 @@ Le jeu a été ajouté au panier </div>
 <div class="container_stock">Frais de port à partir de 2,50&nbsp;€. Offert dès 35,00&nbsp;€ d'achat.</div>
 </div><div class="filters_boardgame_product"></div></div><div class="bloc_encart bloc_encart_retrait container_product"><div class="bloc_encart container_product"><div class="bloc_cart_product"><div class="add_cart_btn">
 <form method="POST">
-<input type="hidden" name="id_product" value="279818"><div class="bloc_btn"><div class="btn btn_no_favourite btn_store btn_violet showStoreSelect" title="Choisir un magasin de retrait" alt="Choisir un magasin de retrait" data-modal-type="279818">
+<input type="hidden" name="id_product" value="500944"><div class="bloc_btn"><div class="btn btn_no_favourite btn_store btn_violet showStoreSelect" title="Choisir un magasin de retrait" alt="Choisir un magasin de retrait" data-modal-type="500944">
 <div class="add_cart_btn_img add_cart_store_btn_img"></div>
 <div class="add_cart_text">Trouver un magasin Playin</div>
 </div>
 </div><form method="post"><div class="select_favourite_store">
-<div class="store_nav" id="279818">
+<div class="store_nav" id="500944">
 <div class="store_nav_content">
 <span class="close">&times;</span>
 <div class="modal-title">Retirer en magasin</div>
@@ -3176,9 +3123,9 @@ Le jeu a été ajouté au panier </div>
 <div class="bloc head_store">Playin Paris Rivoli</div><div class="bloc availability">
 <span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
 <span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Disponible sous 2h</span>
+<span class="localAvailable" ">&#10004;&nbsp;Disponible sous 2h</span>
 <span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" ">&#10004;&nbsp;Sur commande (72h)</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
 <span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
 </div>
 <div class="bloc set_store_btn_bloc">
@@ -3195,27 +3142,27 @@ Le jeu a été ajouté au panier </div>
 <div class="shipping_boutique_img_gris_fonce"></div>
 <div class="container_stock"><div>Retrait gratuit en magasin, sous 2h ou 72h selon disponibilité.</div></div>
 </div></section><div class="bloc_desc bloc_desc_mobile">
-<div class="shortdesc_product">Kluster est un jeu d'aimants stratégique totalement fou, rapide et fun ! Placez toutes vos pierres avant vos adversaires mais attention au champ magnétique !</div><div class="rating_summary"><a class="onclickTab" data-tab="rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_half"></span> 4.4/5
-<span class="rating_link">(15 avis clients)</span>
-</a></div><div class="container_tag_jds"><a href="/jeux_de_societe/recherche/?&player%5B%5D=1&player%5B%5D=2&player%5B%5D=3&player%5B%5D=4">
+<div class="shortdesc_product">Dans cette version collector de Welcome to Your Perfect Home, retrouvez le jeu original retravaillé et embelli, avec toutes ses extensions plus 3 inédites !</div><div class="rating_summary"><a class="onclickTab" data-tab="rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_half"></span> 4.5/5
+<span class="rating_link">(2 avis clients)</span>
+</a></div><div class="container_tag_jds"><a href="/jeux_de_societe/recherche/?&player%5B%5D=1&player%5B%5D=2&player%5B%5D=3&player%5B%5D=4&player%5B%5D=5&player%5B%5D=6">
 <div class="tag btn_grey">
 <div class="bloc">
 <div class="img_nbr_player"></div>
-<span>1 à 4 joueurs</span>
+<span>1 à 6 joueurs</span>
 </div>
 </div>
 </a><a href="/jeux_de_societe/recherche/?time%5B%5D=30">
 <div class="tag btn_grey">
 <div class="bloc">
 <div class="img_time"></div>
-<span>Environ 10 min</span>
+<span>Environ 25 min</span>
 </div>
 </div>
-</a><a href="/jeux_de_societe/recherche/?age%5B%5D=plus_14">
+</a><a href="/jeux_de_societe/recherche/?age%5B%5D=plus_10">
 <div class="tag btn_grey">
 <div class="bloc">
 <div class="img_age"></div>
-<span>À partir de 14 ans</span>
+<span>À partir de 10 ans</span>
 </div>
 </div>
 </a><div class="tag btn_grey">
@@ -3224,115 +3171,351 @@ Le jeu a été ajouté au panier </div>
 <span>Français</span>
 </div>
 </div><div class="clear"></div>
-</div><div class="clear"></div><div class="container_tag_jds"><a href="/jeux_de_societe/recherche/?theme=Abstrait">
+</div><div class="clear"></div><div class="container_tag_jds"><a href="/jeux_de_societe/recherche/?theme=Belle+Époque">
 <div class="tag btn_grey">
 <div class="bloc">
 <div class="img_theme"></div>
-<span>Abstrait</span>
+<span>Belle Époque</span>
 </div>
 </div>
-</a><a href="/jeux_de_societe/recherche/?type=Adresse">
+</a><a href="/jeux_de_societe/recherche/?theme=Construction+de+Ville">
+<div class="tag btn_grey">
+<div class="bloc">
+<div class="img_theme"></div>
+<span>Construction de Ville</span>
+</div>
+</div>
+</a><a href="/jeux_de_societe/recherche/?type=Combinaisons">
 <div class="tag btn_grey">
 <div class="bloc">
 <div class="img_type_game"></div>
-<span>Adresse</span>
+<span>Combinaisons</span>
 </div>
 </div>
-</a><a href="/jeux_de_societe/recherche/?type=Apéro">
+</a><a href="/jeux_de_societe/recherche/?type=Jeux+de+Gestion">
 <div class="tag btn_grey">
 <div class="bloc">
 <div class="img_type_game"></div>
-<span>Apéro</span>
+<span>Jeux de Gestion</span>
 </div>
 </div>
-</a><a href="/jeux_de_societe/recherche/?type=Jeux+Ambiance">
+</a><a href="/jeux_de_societe/recherche/?type=Jeux+de+Stratégie">
 <div class="tag btn_grey">
 <div class="bloc">
 <div class="img_type_game"></div>
-<span>Jeux Ambiance</span>
+<span>Jeux de Stratégie</span>
+</div>
+</div>
+</a><a href="/jeux_de_societe/recherche/?type=Jeux+de+Voyage">
+<div class="tag btn_grey">
+<div class="bloc">
+<div class="img_type_game"></div>
+<span>Jeux de Voyage</span>
+</div>
+</div>
+</a><a href="/jeux_de_societe/recherche/?type=Jeux+Solo">
+<div class="tag btn_grey">
+<div class="bloc">
+<div class="img_type_game"></div>
+<span>Jeux Solo</span>
+</div>
+</div>
+</a><a href="/jeux_de_societe/recherche/?type=Roll+%26+Write">
+<div class="tag btn_grey">
+<div class="bloc">
+<div class="img_type_game"></div>
+<span>Roll & Write</span>
+</div>
+</div>
+</a><a href="/jeux_de_societe/recherche/?type=Temps+réel">
+<div class="tag btn_grey">
+<div class="bloc">
+<div class="img_type_game"></div>
+<span>Temps réel</span>
 </div>
 </div>
 </a><div class="clear"></div>
-</div><div class="clear"></div><div class="clear"></div><div class="mini_img_product sliderProduct"><div class="MS-content"><div class="list_product item"><a href="/img/product/secondary/kluster-jeu-borderline-editions-materiel.jpg" data-lightbox="product-set-mobile" data-title><img src="/img/product/secondary/s/kluster-jeu-borderline-editions-materiel.jpg" title="Kluster" alt="kluster " /></a></div><div class="list_product item"><a href="/img/product/secondary/kluster_1.jpg" data-lightbox="product-set-mobile" data-title><img src="/img/product/secondary/s/kluster_1.jpg" title="Kluster" alt="kluster " /></a></div></div>
+</div><div class="clear"></div><div class="clear"></div><div class="mini_img_product sliderProduct"><div class="MS-content"><div class="list_product item"><a href="/img/product/secondary/welcome-to-your-perfect-home-edition-collector-jeu-blue-cocker-materiel.jpg" data-lightbox="product-set-mobile" data-title><img src="/img/product/secondary/s/welcome-to-your-perfect-home-edition-collector-jeu-blue-cocker-materiel.jpg" title="Welcome To Your Perfect Home - Édition Collector" alt="welcome to your perfect home edition collector jeu blue cocker boite " /></a></div><div class="list_product item"><a href="/img/product/secondary/welcome-to-your-perfect-home-edition-collector-jeu-blue-cocker-dos-boite.jpg" data-lightbox="product-set-mobile" data-title><img src="/img/product/secondary/s/welcome-to-your-perfect-home-edition-collector-jeu-blue-cocker-dos-boite.jpg" title="Welcome To Your Perfect Home - Édition Collector" alt="welcome to your perfect home edition collector jeu blue cocker boite " /></a></div></div>
 <div class="MS-controls">
 <button class="MS-left"><div class="arrow_left_img"></div></button>
 <button class="MS-right"><div class="arrow_right_img"></div></button>
-</div></div></div><div class="col_bottom  col_bottom_mobile  "><div class="container_title_onglet"><h2 class="tab_title tab tab_desc onclickTab title_selected tab_selected" data-tab="desc"><span>Descriptif</span></h2><h2 class="tab_title tab tab_features onclickTab" data-tab="features"><span class="long-text">Caractéristiques</span></h2><h2 class="tab_title tab tab_video onclickTab" data-tab="video"><span>Vidéo</span></h2><h2 id="tab_rating" class="tab_title tab tab_rating onclickTab " data-tab="rating"><span class="long-text">Avis client</span></h2><div class="clear"></div>
-</div><div class="tab bloc_tab tab_desc tab_selected"><p style="text-align: center;"><strong>Pr&eacute;sent dans les listes suivantes :</strong></p>
-<table style="width: 70%; background-color: #dfeef2; border-radius: 10px; margin-left: auto; margin-right: auto;">
-<tbody>
-<tr>
-<td style="width: 594.95px;">
-<ul>
-<li style="text-align: justify;"><a href="../article/418-notre_top_des_meilleurs_jeux_de_societe_de_voyage" target="_blank" rel="noopener"><strong>S&eacute;lection des meilleurs jeux de voyage</strong></a></li>
-</ul>
-</td>
-</tr>
-</tbody>
-</table>
-<h2 style="text-align: justify;">Kluster : Magn&eacute;tisme strat&eacute;gique</h2>
-<p style="text-align: justify;">Kluster est <strong>un jeu d'adresse et de strat&eacute;gie</strong> qui repose sur l'utilisation d'un<strong> champ magn&eacute;tique</strong>.</p>
-<p style="text-align: justify;">Chaque joueur re&ccedil;oit en d&eacute;but de partie un nombre &eacute;gal de pierres aimant&eacute;es. Chacun &agrave; votre tour, vous devez placer une pierre dans la zone d&eacute;finie par la corde. Le premier &agrave; se d&eacute;barasser de toutes ses pierres est d&eacute;clar&eacute; vainqueur. Mais attention, si votre pierre s'aimante &agrave; celle d'un autre joueur, vous devez les r&eacute;cup&eacute;rer toutes les deux !</p>
-<p style="text-align: justify;">Kluster introduit <strong>des ruses &agrave; utiliser contre vos adversaires</strong> : d&eacute;placer la corde, utiliser le champ magn&eacute;tique, poser des pierres verticalement, placer vos pierres les unes &agrave; c&ocirc;t&eacute; des autres...Chaque pierre est diff&eacute;rente (taille et forme) et n'a pas le m&ecirc;me pouvoir magn&eacute;tique !</p>
-<p style="text-align: justify;">Passez entre les pierres, ma&icirc;trisez le champ magn&eacute;tique, imposez votre strat&eacute;gie !</p>
-<p style="text-align: justify;">&nbsp;</p>
-<p style="text-align: justify;"><strong>En raison des lois belges regardant la vente de jeux et jouets, Kluster n'est pas disponible pour la Belgique.</strong></p><strong>Contenu&nbsp;:</strong>
-<ul><li>24 pierres magné­tiques</li><li>1 corde</li><li>1 sac de trans­port</li></ul><strong><i>À partir de 14 ans, de 1 à 4 joueurs et pour des parties d'environ 10 minutes.</i></strong></div><div class="tab bloc_tab tab_features tab_hidden"><table class="table_tag_jds"><tr class="container_lang tr_impair">
+</div></div></div><div class="col_bottom  col_bottom_mobile  "><div class="container_title_onglet"><h2 class="tab_title tab tab_desc onclickTab title_selected tab_selected" data-tab="desc"><span>Descriptif</span></h2><h2 class="tab_title tab tab_features onclickTab" data-tab="features"><span class="long-text">Caractéristiques</span></h2><h2 class="tab_title tab tab_video onclickTab" data-tab="video"><span>Vidéo</span></h2><h2 class="tab_title tab tab_title_ext tab_ext onclickTab" data-tab="ext">
+<span class="line">Gamme &</span>
+<span class="line">extensions</span>
+</h2><h2 id="tab_rating" class="tab_title tab tab_rating onclickTab " data-tab="rating"><span class="long-text">Avis client</span></h2><div class="clear"></div>
+</div><div class="tab bloc_tab tab_desc tab_selected"><h2>Welcome to your Perfect Home - &Eacute;dition Collector : La compl&egrave;te indispensable</h2>
+<p>l'&eacute;dition collector de Welcome To Your Perfect Home contient <strong>le jeu de base et toutes les extensions pour ce jeu de <em>flip and write</em> culte</strong> ! D&eacute;veloppez-y un charmant lotissement en comp&eacute;tition avec les autres joueurs ! Il se joue de 1 &agrave; 6 joueurs et joueuses, d&egrave;s 10 ans, pour des parties de 25 minutes environ.</p>
+<h2>Retournez et cochez</h2>
+<p>Dans&nbsp;<strong>Welcome</strong>, on joue tous <strong>en m&ecirc;me temps</strong>&nbsp;! Chacun dispose devant lui d'<strong>une fiche de jeu</strong>, avec son plateau et son d&eacute;compte des points personnels.&nbsp;Le but est de r&eacute;colter le plus de points en remplissant les <strong>objectifs visibles</strong>. Pour cela, choisissez le num&eacute;ro que vous voulez et l'action que vous souhaitez accomplir sur l'un des trois tas de cartes disponibles, le tout <strong>en m&ecirc;me temps que vos adversaires</strong>. Remplissez les actions que vous menez sur votre fiche de jeu personnel.</p>
+<p><strong>Combinez</strong>&nbsp;correctement les num&eacute;ros et les actions pour remplir les objectifs, marquer des points, et&nbsp;<strong>gagner la partie</strong> ! Le jeu se termine de plusieurs mani&egrave;res possibles : Si un joueur parvient &agrave; remplir <strong>3 objectifs</strong>, si un joueur construit <strong>l'int&eacute;gralit&eacute; des maisons</strong> de ses trois rues ou si un joueur <strong>refuse pour la troisi&egrave;me fois</strong> de construire une maison. Faites alors le d&eacute;compte de votre plateau, le meilleur score remporte la victoire !</p>
+<h2>Une version augment&eacute;e &agrave; plus d'un titre</h2>
+<p>L'&eacute;dition collector comporte <strong>tout le mat&eacute;riel de base</strong> de Welcome, dans une <strong>qualit&eacute; augment&eacute;e</strong> : plus de feuillets papier, place aux <strong>feuilles effa&ccedil;ables</strong> ! De plus, <strong>6 variantes graphiques</strong> splendidement illustr&eacute;es par de grands noms du jeu de soci&eacute;t&eacute; ont &eacute;t&eacute; ajout&eacute;es, ainsi que les <strong>cartes postales</strong> qui correspondent &agrave; chacun de ces lotissements. <strong>Toutes les extensions</strong> existantes sont incluses, ainsi que<strong> 3 extensions in&eacute;dites</strong> : Coin-coin, American Dream et Roswell, ainsi que <strong>pl&eacute;thore de nouveaux objectifs</strong>. Une version ultime <strong>indispensable </strong>aux amateurs de jeux &agrave; cocher !</p><strong>Contenu&nbsp;:</strong>
+<ul><li>63 cartes Travaux</li><li>21 cartes Plan de base</li><li>17 cartes Plan Avancé</li><li>6 feuilles Classique effaçables</li><li>6 feuilles Blueprins effaçables</li><li>6 aides de jeu</li><li>6 feutres</li><li>6 chiffonnettes</li><li>3 cartes Validation AAA</li><li>6 cartes Adversaire AAA</li><li>1 règle du jeu de base</li><li>54 feuilles Extension effaçables</li><li>3 cartes 9¾</li><li> 40 cartes Plan Extension C</li><li>9 Cartes Plan American Dream A B C</li><li>3 cartes Zombies</li><li>1 Diplôme</li><li>6 feuilles Classique revisitées effaçables uniques</li><li>6 cartes postales</li><li>1 règle des extensions</li></ul><strong><i>À partir de 10 ans, de 1 à 6 joueurs et pour des parties d'environ 25 minutes.</i></strong></div><div class="tab bloc_tab tab_features tab_hidden"><table class="table_tag_jds"><tr class="container_lang tr_impair">
 <th scope="row">Langue</th>
 <td class="text"><div>Français</div></td>
 </tr>
 <tr class="container_player tr_pair">
 <th scope="row">Nombre de joueurs</th>
 <td class="text">
-<a href="/jeux_de_societe/recherche/?&player%5B%5D=1&player%5B%5D=2&player%5B%5D=3&player%5B%5D=4"><div>De 1 à 4 joueurs</div></a>
+<a href="/jeux_de_societe/recherche/?&player%5B%5D=1&player%5B%5D=2&player%5B%5D=3&player%5B%5D=4&player%5B%5D=5&player%5B%5D=6"><div>De 1 à 6 joueurs</div></a>
 </td>
 </tr>
 <tr class="container_time tr_impair">
 <th scope="row">Durée</th>
-<td class="text"><a href="/jeux_de_societe/recherche/?time%5B%5D=30"><div>10 minutes</div></a></td>
+<td class="text"><a href="/jeux_de_societe/recherche/?time%5B%5D=30"><div>25 minutes</div></a></td>
 </tr>
 <tr class="container_age tr_pair">
 <th scope="row">Âge</th>
 <td class="text">
-<a href="/jeux_de_societe/recherche/?age%5B%5D=plus_14"><div>À partir de 14 ans</div></a>
+<a href="/jeux_de_societe/recherche/?age%5B%5D=plus_10"><div>À partir de 10 ans</div></a>
 </td>
 </tr>
 <tr class="container_theme tr_impair">
 <th scope="row">Thème(s)</th>
-<td class="text"><a href="/jeux_de_societe/recherche/?theme=Abstrait" /><div>Abstrait</div></a></td>
+<td class="text"><a href="/jeux_de_societe/recherche/?theme=Belle+Époque" /><div>Belle Époque</div></a></td></tr><tr class="container_theme line_repeat tr_impair"><th scope="row"></th><td class="text"><a href="/jeux_de_societe/recherche/?theme=Construction+de+Ville" /><div>Construction de Ville</div></a></td>
 </tr>
 <tr class="container_type tr_pair">
 <th scope="row">Type(s)</th>
-<td class="text"><a href="/jeux_de_societe/recherche/?type=Adresse" /><div>Adresse</div></a></td></tr><tr class="container_type line_repeat"><th scope="row"></th><td class="text"><a href="/jeux_de_societe/recherche/?type=Apéro" /><div>Apéro</div></a></td></tr><tr class="container_type line_repeat"><th scope="row"></th><td class="text"><a href="/jeux_de_societe/recherche/?type=Jeux+Ambiance" /><div>Jeux Ambiance</div></a></td>
+<td class="text"><a href="/jeux_de_societe/recherche/?type=Combinaisons" /><div>Combinaisons</div></a></td></tr><tr class="container_type line_repeat"><th scope="row"></th><td class="text"><a href="/jeux_de_societe/recherche/?type=Jeux+de+Gestion" /><div>Jeux de Gestion</div></a></td></tr><tr class="container_type line_repeat"><th scope="row"></th><td class="text"><a href="/jeux_de_societe/recherche/?type=Jeux+de+Stratégie" /><div>Jeux de Stratégie</div></a></td></tr><tr class="container_type line_repeat"><th scope="row"></th><td class="text"><a href="/jeux_de_societe/recherche/?type=Jeux+de+Voyage" /><div>Jeux de Voyage</div></a></td></tr><tr class="container_type line_repeat"><th scope="row"></th><td class="text"><a href="/jeux_de_societe/recherche/?type=Jeux+Solo" /><div>Jeux Solo</div></a></td></tr><tr class="container_type line_repeat"><th scope="row"></th><td class="text"><a href="/jeux_de_societe/recherche/?type=Roll+%26+Write" /><div>Roll & Write</div></a></td></tr><tr class="container_type line_repeat"><th scope="row"></th><td class="text"><a href="/jeux_de_societe/recherche/?type=Temps+réel" /><div>Temps réel</div></a></td>
 </tr>
 <tr class="container_type tr_impair">
-<th scope="row">Gamme</th><td class="text"><div>Aucune gamme</div></td></tr>
+<th scope="row">Gamme</th><td class="text"><div>Welcome</div></td></tr>
 <tr class="container_editor tr_pair">
 <th scope="row">Éditeur(s)</th>
-<td class="text"><div>Borderline</div></td>
+<td class="text"><div>Blue Cocker</div></td>
 </tr>
 <tr class="container_author tr_impair">
 <th scope="row">Auteur(s)</th>
-<td class="text"><div>Paula Henning</div></td></tr><tr class="container_theme line_repeat tr_impair"><th scope="row"></th><td class="text"><div>Robert Henning</div></td>
+<td class="text"><div>Alexis Allard</div></td></tr><tr class="container_theme line_repeat tr_impair"><th scope="row"></th><td class="text"><div>Benoit Turpin</div></td>
 </tr>
 <tr class="container_illustrator tr_pair">
 <th scope="row">Illustrateur(s)</th>
-<td class="text"><div>Non renseigné</div></td>
-</tr></table></div><div class="tab bloc_tab tab_video tab_hidden tab bloc_tab tab_video"><div class="video"><div class="container"><iframe width="560" height="315" src="https://www.youtube.com/embed/mjHVCnFdZ7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><iframe width="560" height="315" src="https://www.youtube.com/embed/nJkgHlRWubU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></div></div><div class="tab bloc_tab tab_rating  tab bloc_tab tab_rating tab_hidden"><div class="rating_available">Merci de vous connecter afin de déposer votre avis.</div><div class="container_page_rating"><div id="page_0" class="each_pagination" data-id="0"><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_empty"></span></div><div class="username_rating">Anonyme</div><div class="valid_purchase"></div><div id="user_comment_708" class="user_comment" data-id="708">Un jeu simple avec des aimants, tu colle un aimant à un autre par erreur, tu les récupères et ton tour fini. Ici il faut se débarrasser de tout ses aimants en premier pour gagner en posant les un après les autres chaque tour. Mais attention, Un joueur malin s&#039;amusera <span id="dots_comment_708" data-id="708">...</span>
-<span id="read_more_708" class="read_more_comment" data-id="708">à les poser sur la tranche, augmentant nettement plus de champs de mine magnétique et surtout si vous jouez sur un table en VERRE. La difficulté du jeu change nettement selon votre support, naturellement, une nappe un peu antidérapente tue assez vite le fun du jeu. <br/> <br/>Pétit bémol, je trouve que le jeu est léger niveau aimant a 4 joueur, si vous voulez augmenter la capacité de joueur ou drastiquement augmenté la difficulté a 4 joueur, prenez un 2nd jeu. Au pire ça peut faire de très bon aimant pour le frigo ou alors un excellent anti stressant en jouant avec les aimants tout joueurs (clac clac) </span></div><div class="container_more_less_btn">
-<div id="btn_more_708" class="btn_more_content" data-id="708">Voir plus</div>
-<div id="btn_less_708" class="btn_less_content" data-id="708">Voir moins</div>
-</div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_empty"></span><span class="img_middle_star_empty"></span></div><div class="username_rating">MICHAEL V</div><div class="valid_purchase">Achat vérifié</div><div id="user_comment_5240" class="user_comment">Jeu simple agréable à sortir partout. Une ou deux parties avant de faire un jeu plus costaud.</div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_empty"></span><span class="img_middle_star_empty"></span></div><div class="username_rating">Gael K</div><div class="valid_purchase"></div><div id="user_comment_11071" class="user_comment"></div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">L D</div><div class="valid_purchase">Achat vérifié</div><div id="user_comment_11392" class="user_comment">Très amusant et challenge les nerfs. Ai joué avec ma nièce de 11 ans</div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_empty"></span></div><div class="username_rating">Guillaume B</div><div class="valid_purchase"></div><div id="user_comment_15290" class="user_comment" data-id="15290">Un jeu d&#039;aimants sympa pour jouer avec des enfants ou à l&#039;apéro. Dans un premier, temps on se contente de poser les aimants comme ils viennent en essayant de ne pas en récupérer d&#039;autres. Après quelques parties on prend le coup de main et l&#039;on sait s&#039;il faut poser un <span id="dots_comment_15290" data-id="15290">...</span>
-<span id="read_more_15290" class="read_more_comment" data-id="15290">aimant coucher pour jouer safe ou debout pour augmenter le champs magnétique et rendre la vie plus compliquée au suivant. On peut aussi déplacer les aimants posés précédemment sans les toucher, juste à l&#039;aide du champ magnétique, afin de se faire la place nécessaire pour poser son aimant du tour. </span></div><div class="container_more_less_btn">
-<div id="btn_more_15290" class="btn_more_content" data-id="15290">Voir plus</div>
-<div id="btn_less_15290" class="btn_less_content" data-id="15290">Voir moins</div>
-</div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">Patricia D</div><div class="valid_purchase">Achat vérifié</div><div id="user_comment_16064" class="user_comment"></div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_empty"></span></div><div class="username_rating">Thomas M</div><div class="valid_purchase">Achat vérifié</div><div id="user_comment_16709" class="user_comment">Un jeu simple ou les règles sont évidentes pour tout le monde! Mais très sympa!</div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">Thomas C</div><div class="valid_purchase">Achat vérifié</div><div id="user_comment_22899" class="user_comment">Très marrant pour des soirées entre amis!</div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">Anonyme</div><div class="valid_purchase"></div><div id="user_comment_23937" class="user_comment"></div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">Noe G</div><div class="valid_purchase">Achat vérifié</div><div id="user_comment_28763" class="user_comment">Un jeu super simple à comprendre et démarrer, qui se transporte dans une petite pochette, le jeu d&#039;apéro parfait</div></div></div><div id="page_1" class="each_pagination" data-id="1"><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">Téo S</div><div class="valid_purchase">Achat vérifié</div><div id="user_comment_31751" class="user_comment"></div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">Anonyme</div><div class="valid_purchase"></div><div id="user_comment_34178" class="user_comment"></div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_empty"></span><span class="img_middle_star_empty"></span></div><div class="username_rating">Nicolas B</div><div class="valid_purchase"></div><div id="user_comment_34179" class="user_comment"></div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">Philippe C</div><div class="valid_purchase">Achat vérifié</div><div id="user_comment_38044" class="user_comment">Super jeu apéro, facile à expliquer et très fun, le tout dans une boite facilement transportable pour prendre en voyage.</div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">Emily J</div><div class="valid_purchase">Achat vérifié</div><div id="user_comment_38404" class="user_comment">Un jeu fort sympathique qui prouve la qualité de l&#039;offre de Play&#039;in dans ce domaine.</div></div></div></div><div class="pagination_bloc container_btn_pagination">
-<div class="pagination_selector pagination_first"><<</div>
-<div class="pagination_selector pagination_prev"><</div>
-<div class="pagination_selector bloc_selector"></div>
-<div class="pagination_selector pagination_next">></div>
-<div class="pagination_selector pagination_last">>></div>
-</div></div><div class="container_present_card"><div class="alert container_alert_bug">
+<td class="text"><div>Anne Heidsieck</div></td>
+</tr></table></div><div class="tab bloc_tab tab_video tab_hidden tab bloc_tab tab_video"><div class="video"><div class="container"><iframe width="560" height="315" src="https://www.youtube.com/embed/W9A_GTuwdxM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><iframe width="560" height="315" src="https://www.youtube.com/embed/V27IGRa_9Jg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><iframe width="560" height="315" src="https://www.youtube.com/embed/kRCMlC6Rdpw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></div></div><div class="tab bloc_tab tab_ext tab_hidden tab bloc_tab tab_ext"><div class="title_ext">Le produit Welcome To Your Perfect Home - Édition Collector est une boite de base.</div><div class="title_ext title_all_ext">Découvrez les autres jeux de la gamme&nbsp;:</div><div class="list_product_full case_product_full filterElement" data-family="5" data-sales="0">
+<div class="container_img_product">
+<a href="/produit/296684-welcome_to_la_petite_mort_-_extension_crossover">
+<div class="img_product"><picture><source srcset="/img/product/m/welcome-to-la-petite-mort-boite.webp" type="image/webp"><source srcset="/img/product/m/welcome-to-la-petite-mort-boite.jpg" type="image/jpeg">
+<img src="/img/product/m/welcome-to-la-petite-mort-boite.jpg" title="Welcome to la Petite Mort - Extension Crossover" alt="Welcome to la Petite Mort - Extension Crossover" loading="lazy" />
+</picture>
+</div><div class="clear"></div>
+</a>
+</div>
+<div class="container_info_product container_info_product_with_rating">
+<a href="/produit/296684-welcome_to_la_petite_mort_-_extension_crossover">
+<div class="name_product" title="Welcome to la Petite Mort - Extension Crossover">Welcome to la Petite Mort - Extension Crossover</div>
+<div class="desc_short">La Petite Mort de Davy Mourier s’incruste dans le joli quartier de Welcome To ! Cette extensions crossover permet de regrouper ces deux jeux mythiques.</div>
+</a><div class="container_move_product">
+<div class="separateur separateur_product"></div><div class="bloc_rating_product" title="Note 5/5, 1 avis"><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_full"></span></div><div class="bloc_preco_product"></div>
+</div>
+</div>
+<div class="block_cart "><div class="container_prices"><div class="price_product simple_price_product">11,90&nbsp;€</div></div><div class="product_not_available">Indisponible actuellement</div>
+</div>
+<div class="clear"></div>
+</div><div class="list_product_full case_product_full filterElement" data-family="5" data-sales="0">
+<div class="container_img_product">
+<a href="/produit/218489-welcome_to_your_perfect_home">
+<div class="img_product"><picture><source srcset="/img/product/m/welcome_to-your_perfect_world_jeu_blue_cocker_boite.png" type="image/jpeg">
+<img src="/img/product/m/welcome_to-your_perfect_world_jeu_blue_cocker_boite.png" title="Welcome To Your Perfect Home" alt="Welcome To Your Perfect Home" loading="lazy" />
+</picture>
+</div><div class="clear"></div>
+</a>
+</div>
+<div class="container_info_product container_info_product_with_rating">
+<a href="/produit/218489-welcome_to_your_perfect_home">
+<div class="name_product" title="Welcome To Your Perfect Home">Welcome To Your Perfect Home</div>
+<div class="desc_short">Construisez plus rapidement que les autres architectes dans Welcome, le jeu de construction immobilière où tout le monde joue en même temps !</div>
+</a><div class="container_move_product">
+<div class="separateur separateur_product"></div><div class="bloc_rating_product" title="Note 4.2/5, 8 avis"><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_empty"></span></div><div class="bloc_preco_product"></div>
+</div>
+</div>
+<div class="block_cart "><div class="container_prices"><div class="price_product simple_price_product">21,50&nbsp;€</div></div><div class="cart">
+<div class="add_cart_btn add_cart_btn_mini">
+<form method="POST">
+<input type="hidden" aria-label="id_product" name="id_product" value="218489"><label for="218489_1"></label><select name="qty_product" aria-label="218489" class="select" id="218489_1"><option id="1" value="1">1</option></select><div class="qty">(1)</div><div class="bloc_cart"><div class="bloc_each_cart_mini">
+<button type="submit" name="addToCart" value="0" class="btn addToCart tagSmallOrange tagProduct" data-localisation="0" data-id="218489" title="Ajouter au panier en livraison" alt="Ajouter au panier en livraison">
+<div class="add_cart_logo_mini"></div>
+</button>
+<div class="explain_new_btn_orange">Livraison</div>
+</div><div class="bloc_each_cart_mini">
+<div class="btn btn_store btn_violet showStoreSelect tagSmallVioletModal tagProduct" title="Choisir un magasin de retrait" alt="Choisir un magasin de retrait" data-modal-type="218489">
+<div class="add_cart_store_logo_mini"></div>
+</div>
+<div class="explain_new_btn_violet">Retrait magasin</div>
+</div><div class="select_favourite_store">
+<div class="store_nav" id="218489">
+<div class="store_nav_content">
+<span class="close">&times;</span>
+<div class="modal-title">Retirer en magasin</div>
+<ul><li class="store_list" value="1">
+<div class="bloc head_store">Playin Paris BNF</div><div class="bloc availability">
+<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
+<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
+<span class="localAvailable" ">&#10004;&nbsp;Disponible sous 2h</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
+<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
+</div>
+<div class="bloc set_store_btn_bloc">
+<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="1">
+<div class="add_cart_btn_img add_cart_store_btn_img"></div>
+<div class="add_cart_text">Choisir ce magasin</div>
+</button>
+</div><div class="clear"></div>
+</li><li class="store_list" value="2">
+<div class="bloc head_store">Playin Annecy</div><div class="bloc availability">
+<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
+<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
+<span class="localAvailable" style="display : none">&#10004;&nbsp;Disponible sous 2h</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
+<span class="orderAvailable" ">&#10004;&nbsp;Sur commande (72h)</span>
+<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
+</div>
+<div class="bloc set_store_btn_bloc">
+<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="2">
+<div class="add_cart_btn_img add_cart_store_btn_img"></div>
+<div class="add_cart_text">Choisir ce magasin</div>
+</button>
+</div><div class="clear"></div>
+</li><li class="store_list" value="3">
+<div class="bloc head_store">Playin Paris Rivoli</div><div class="bloc availability">
+<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
+<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
+<span class="localAvailable" style="display : none">&#10004;&nbsp;Disponible sous 2h</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
+<span class="orderAvailable" ">&#10004;&nbsp;Sur commande (72h)</span>
+<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
+</div>
+<div class="bloc set_store_btn_bloc">
+<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="3">
+<div class="add_cart_btn_img add_cart_store_btn_img"></div>
+<div class="add_cart_text">Choisir ce magasin</div>
+</button>
+</div><div class="clear"></div>
+</li></ul>
+</div>
+</div>
+</div></div></form>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div><div class="list_product_full case_product_full filterElement" data-family="5" data-sales="0">
+<div class="container_img_product">
+<a href="/produit/359555-welcome_to_the_moon">
+<div class="img_product"><picture><source srcset="/img/product/m/welcome-to-the_moon-jeu-blue-cocker-boite.webp" type="image/webp"><source srcset="/img/product/m/welcome-to-the_moon-jeu-blue-cocker-boite.jpg" type="image/jpeg">
+<img src="/img/product/m/welcome-to-the_moon-jeu-blue-cocker-boite.jpg" title="Welcome To the Moon" alt="Welcome To the Moon" loading="lazy" />
+</picture>
+</div><div class="clear"></div>
+</a>
+</div>
+<div class="container_info_product container_info_product_with_rating">
+<a href="/produit/359555-welcome_to_the_moon">
+<div class="name_product" title="Welcome To the Moon">Welcome To the Moon</div>
+<div class="desc_short">Partez à la conquête de l'espace dans le dernier volet de la trilogie de Welcome To ! Posez vox pieds sur la Lune dans ce Flip & Write en campagne et évo...</div>
+</a><div class="container_move_product">
+<div class="separateur separateur_product"></div><div class="bloc_rating_product" title="Note 4.9/5, 17 avis"><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_full"></span></div><div class="bloc_preco_product"></div>
+</div>
+</div>
+<div class="block_cart "><div class="container_prices"><div class="price_product simple_price_product">35,90&nbsp;€</div></div><div class="cart">
+<div class="add_cart_btn add_cart_btn_mini">
+<form method="POST">
+<input type="hidden" aria-label="id_product" name="id_product" value="359555"><label for="359555_1"></label><select name="qty_product" aria-label="359555" class="select" id="359555_1"><option id="1" value="1">1</option></select><div class="qty">(1)</div><div class="bloc_cart"><div class="bloc_each_cart_mini">
+<button type="submit" name="addToCart" value="0" class="btn addToCart tagSmallOrange tagProduct" data-localisation="0" data-id="359555" title="Ajouter au panier en livraison" alt="Ajouter au panier en livraison">
+<div class="add_cart_logo_mini"></div>
+</button>
+<div class="explain_new_btn_orange">Livraison</div>
+</div><div class="bloc_each_cart_mini">
+<div class="btn btn_store btn_violet showStoreSelect tagSmallVioletModal tagProduct" title="Choisir un magasin de retrait" alt="Choisir un magasin de retrait" data-modal-type="359555">
+<div class="add_cart_store_logo_mini"></div>
+</div>
+<div class="explain_new_btn_violet">Retrait magasin</div>
+</div><div class="select_favourite_store">
+<div class="store_nav" id="359555">
+<div class="store_nav_content">
+<span class="close">&times;</span>
+<div class="modal-title">Retirer en magasin</div>
+<ul><li class="store_list" value="1">
+<div class="bloc head_store">Playin Paris BNF</div><div class="bloc availability">
+<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
+<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
+<span class="localAvailable" ">&#10004;&nbsp;Disponible sous 2h</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
+<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
+</div>
+<div class="bloc set_store_btn_bloc">
+<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="1">
+<div class="add_cart_btn_img add_cart_store_btn_img"></div>
+<div class="add_cart_text">Choisir ce magasin</div>
+</button>
+</div><div class="clear"></div>
+</li><li class="store_list" value="2">
+<div class="bloc head_store">Playin Annecy</div><div class="bloc availability">
+<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
+<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
+<span class="localAvailable" style="display : none">&#10004;&nbsp;Disponible sous 2h</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
+<span class="orderAvailable" ">&#10004;&nbsp;Sur commande (72h)</span>
+<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
+</div>
+<div class="bloc set_store_btn_bloc">
+<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="2">
+<div class="add_cart_btn_img add_cart_store_btn_img"></div>
+<div class="add_cart_text">Choisir ce magasin</div>
+</button>
+</div><div class="clear"></div>
+</li><li class="store_list" value="3">
+<div class="bloc head_store">Playin Paris Rivoli</div><div class="bloc availability">
+<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
+<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
+<span class="localAvailable" ">&#10004;&nbsp;Disponible sous 2h</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
+<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
+</div>
+<div class="bloc set_store_btn_bloc">
+<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="3">
+<div class="add_cart_btn_img add_cart_store_btn_img"></div>
+<div class="add_cart_text">Choisir ce magasin</div>
+</button>
+</div><div class="clear"></div>
+</li></ul>
+</div>
+</div>
+</div></div></form>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div><div class="list_product_full case_product_full filterElement" data-family="5" data-sales="0">
+<div class="container_img_product">
+<a href="/produit/264142-welcome_to_new_las_vegas">
+<div class="img_product"><picture><source srcset="/img/product/m/welcome_to_new_las_vegas_jeu_blue_cocker_boite.webp" type="image/webp"><source srcset="/img/product/m/welcome_to_new_las_vegas_jeu_blue_cocker_boite.jpg" type="image/jpeg">
+<img src="/img/product/m/welcome_to_new_las_vegas_jeu_blue_cocker_boite.jpg" title="Welcome To New Las Vegas" alt="Welcome To New Las Vegas" loading="lazy" />
+</picture>
+</div><div class="clear"></div>
+</a>
+</div>
+<div class="container_info_product container_info_product_with_rating">
+<a href="/produit/264142-welcome_to_new_las_vegas">
+<div class="name_product" title="Welcome To New Las Vegas">Welcome To New Las Vegas</div>
+<div class="desc_short">Construisez la ville-Casino la plus imposante et amusante pour gagner le jeu ! Un Roll & Write qui peut se jouer jusqu'à 100 joueurs en simultané !</div>
+</a><div class="container_move_product">
+<div class="separateur separateur_product"></div><div class="bloc_rating_product" title="Note 4.3/5, 3 avis"><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_half"></span></div><div class="bloc_preco_product"></div>
+</div>
+</div>
+<div class="block_cart "><div class="container_prices"><div class="price_product simple_price_product">21,50&nbsp;€</div></div><div class="cart">
+<div class="add_cart_btn add_cart_btn_mini">
+<form method="POST">
+<input type="hidden" aria-label="id_product" name="id_product" value="264142"><a href="/produit/264142-welcome_to_new_las_vegas" class="bloc_more_info">
+<div class="bloc_more_info_img"></div>
+<div class="text">Voir le produit</div>
+</a></form>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div><div class="clear"></div></div><div class="tab bloc_tab tab_rating  tab bloc_tab tab_rating tab_hidden"><div class="rating_available">Merci de vous connecter afin de déposer votre avis.</div><div class="container_page_rating"><div id="page_0" class="each_pagination" data-id="0"><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_empty"></span></div><div class="username_rating">Pascal R</div><div class="valid_purchase">Achat vérifié</div><div id="user_comment_41278" class="user_comment">Une édition aux petits oignons avec tout ce qu&#039;il faut pour apprécier un monument du Roll &amp; Write. Le jeu est relativement accessible, les extensions amènent un peu de fraicheur pour varier les expériences.</div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">Benjamin B</div><div class="valid_purchase">Achat vérifié</div><div id="user_comment_41429" class="user_comment"></div></div></div></div></div><div class="container_present_card"><div class="alert container_alert_bug">
 <div class="toggleTarget clicOut" data-target="signal_bug">Vous souhaitez nous signaler un bug&nbsp;?</div>
 <div class="send_ok"></div>
 <div class="boxToggle clicOut alert_target signal_bug"><div class> <div class="send_ok not_connected">Vous devez être connecté pour signaler un bug</div> </div></div>
@@ -3355,13 +3538,13 @@ Le jeu a été ajouté au panier </div>
 <div class="bloc_encart bloc_logos_rassurants share_link_product">
 <div class="sentence_present">Envie de partager cette page&nbsp;?</div>
 <div class="container_logos_img">
-<a href="https://www.facebook.com/sharer/sharer.php?u=https://www.play-in.com/produit/279818-kluster&amp;src=sdkpreparse" class="link_fb fb-xfbml-parse-ignore" target="_blank">
-<div class="facebook" data-href="https://www.play-in.com/produit/279818-kluster" data-layout="button" data-size="large" data-mobile-iframe="true">
+<a href="https://www.facebook.com/sharer/sharer.php?u=https://www.play-in.com/produit/500944-welcome_to_your_perfect_home_-_Edition_collector&amp;src=sdkpreparse" class="link_fb fb-xfbml-parse-ignore" target="_blank">
+<div class="facebook" data-href="https://www.play-in.com/produit/500944-welcome_to_your_perfect_home_-_Edition_collector" data-layout="button" data-size="large" data-mobile-iframe="true">
 <div class="facebook_img"></div>
 <div class="bloc">Partager</div>
 </div>
 </a>
-<a href="https://twitter.com/share?text=Kluster@Playin_by_MB&url=https://www.play-in.com/produit/279818-kluster" class="link link_twitter">
+<a href="https://twitter.com/share?text=Welcome To Your Perfect Home - Édition Collector@Playin_by_MB&url=https://www.play-in.com/produit/500944-welcome_to_your_perfect_home_-_Edition_collector" class="link link_twitter">
 <div class="twitter">
 <div class="twitter_img"></div>
 <div class="bloc">Tweetter</div>
@@ -3372,192 +3555,30 @@ Le jeu a été ajouté au panier </div>
 <div class="sentence_present">Vous aimerez aussi...</div>
 </div><div class="col_suggested_product"><div class="list_product item">
 <div class="container_left">
-<a href="/produit/295354-A_la_conquete_des_catacombes">
+<a href="/produit/449661-des_de_valeria">
 <div class="img_list_product">
-<img src="/img/product/m/a-la-conquete-des-catacombes.jpg" title="À la Conquête des Catacombes" alt="À la Conquête des Catacombes" loading="lazy" />
+<img src="/img/product/m/des-de-valeria-boite-de-jeu.jpg" title="Dés de Valeria" alt="Dés de Valeria" loading="lazy" />
 </div>
 </a>
 </div><div class="container_right">
-<a href="/produit/295354-A_la_conquete_des_catacombes">
-<div class="name_product" title="À la Conquête des Catacombes">À la Conquête des Catacombes</div>
+<a href="/produit/449661-des_de_valeria">
+<div class="name_product" title="Dés de Valeria">Dés de Valeria</div>
 </a>
-<div class="preco_product bloc_preco_product bloc_preco_product_rating"></div><div class="container_prices"><div class="price_product simple_price_product">19,90&nbsp;€</div></div><div class="cart">
+<div class="preco_product bloc_preco_product bloc_preco_product_rating"></div><div class="container_prices"><div class="price_product simple_price_product">22,50&nbsp;€</div></div><div class="cart">
 <div class="add_cart_btn add_cart_btn_mini">
 <form method="POST">
-<input type="hidden" aria-label="id_product" name="id_product" value="295354"><label for="295354_1"></label><select name="qty_product" aria-label="295354" class="select" id="295354_1"><option id="1" value="1">1</option></select><div class="qty">(1)</div><div class="bloc_cart"><div class="bloc_each_cart_mini">
-<button type="submit" name="addToCart" value="0" class="btn addToCart tagSmallOrange tagProduct" data-localisation="0" data-id="295354" title="Ajouter au panier en livraison" alt="Ajouter au panier en livraison">
+<input type="hidden" aria-label="id_product" name="id_product" value="449661"><label for="449661_3"></label><select name="qty_product" aria-label="449661" class="select" id="449661_3"><option id="1" value="1">1</option><option id="2" value="2">2</option><option id="3" value="3">3</option></select><div class="qty">(3)</div><div class="bloc_cart"><div class="bloc_each_cart_mini">
+<button type="submit" name="addToCart" value="0" class="btn addToCart tagSmallOrange tagProduct" data-localisation="0" data-id="449661" title="Ajouter au panier en livraison" alt="Ajouter au panier en livraison">
 <div class="add_cart_logo_mini"></div>
 </button>
 <div class="explain_new_btn_orange">Livraison</div>
 </div><div class="bloc_each_cart_mini">
-<div class="btn btn_store btn_violet showStoreSelect tagSmallVioletModal tagProduct" title="Choisir un magasin de retrait" alt="Choisir un magasin de retrait" data-modal-type="295354">
+<div class="btn btn_store btn_violet showStoreSelect tagSmallVioletModal tagProduct" title="Choisir un magasin de retrait" alt="Choisir un magasin de retrait" data-modal-type="449661">
 <div class="add_cart_store_logo_mini"></div>
 </div>
 <div class="explain_new_btn_violet">Retrait magasin</div>
 </div><div class="select_favourite_store">
-<div class="store_nav" id="295354">
-<div class="store_nav_content">
-<span class="close">&times;</span>
-<div class="modal-title">Retirer en magasin</div>
-<ul><li class="store_list" value="1">
-<div class="bloc head_store">Playin Paris BNF</div><div class="bloc availability">
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Disponible sous 2h</span>
-<span class="orderAvailable" ">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
-<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
-</div>
-<div class="bloc set_store_btn_bloc">
-<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="1">
-<div class="add_cart_btn_img add_cart_store_btn_img"></div>
-<div class="add_cart_text">Choisir ce magasin</div>
-</button>
-</div><div class="clear"></div>
-</li><li class="store_list" value="2">
-<div class="bloc head_store">Playin Annecy</div><div class="bloc availability">
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Disponible sous 2h</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" ">&#10004;&nbsp;Sur commande (72h)</span>
-<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
-</div>
-<div class="bloc set_store_btn_bloc">
-<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="2">
-<div class="add_cart_btn_img add_cart_store_btn_img"></div>
-<div class="add_cart_text">Choisir ce magasin</div>
-</button>
-</div><div class="clear"></div>
-</li><li class="store_list" value="3">
-<div class="bloc head_store">Playin Paris Rivoli</div><div class="bloc availability">
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Disponible sous 2h</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" ">&#10004;&nbsp;Sur commande (72h)</span>
-<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
-</div>
-<div class="bloc set_store_btn_bloc">
-<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="3">
-<div class="add_cart_btn_img add_cart_store_btn_img"></div>
-<div class="add_cart_text">Choisir ce magasin</div>
-</button>
-</div><div class="clear"></div>
-</li></ul>
-</div>
-</div>
-</div></div></form>
-</div>
-</div>
-</div>
-<div class="clear"></div></div><div class="list_product item">
-<div class="container_left">
-<a href="/produit/207138-suspend">
-<div class="img_list_product">
-<img src="/img/product/m/suspend.png" title="Suspend" alt="Suspend" loading="lazy" />
-</div>
-</a>
-</div><div class="container_right">
-<a href="/produit/207138-suspend">
-<div class="name_product" title="Suspend">Suspend</div>
-</a>
-<div class="preco_product bloc_preco_product bloc_preco_product_rating"></div><div class="container_prices"><div class="price_product simple_price_product">26,90&nbsp;€</div></div><div class="cart">
-<div class="add_cart_btn add_cart_btn_mini">
-<form method="POST">
-<input type="hidden" aria-label="id_product" name="id_product" value="207138"><label for="207138_7"></label><select name="qty_product" aria-label="207138" class="select" id="207138_7"><option id="1" value="1">1</option><option id="2" value="2">2</option><option id="3" value="3">3</option><option id="4" value="4">4</option><option id="5" value="5">5</option><option id="6" value="6">6</option><option id="7" value="7">7</option></select><div class="qty">(7)</div><div class="bloc_cart"><div class="bloc_each_cart_mini">
-<button type="submit" name="addToCart" value="0" class="btn addToCart tagSmallOrange tagProduct" data-localisation="0" data-id="207138" title="Ajouter au panier en livraison" alt="Ajouter au panier en livraison">
-<div class="add_cart_logo_mini"></div>
-</button>
-<div class="explain_new_btn_orange">Livraison</div>
-</div><div class="bloc_each_cart_mini">
-<div class="btn btn_store btn_violet showStoreSelect tagSmallVioletModal tagProduct" title="Choisir un magasin de retrait" alt="Choisir un magasin de retrait" data-modal-type="207138">
-<div class="add_cart_store_logo_mini"></div>
-</div>
-<div class="explain_new_btn_violet">Retrait magasin</div>
-</div><div class="select_favourite_store">
-<div class="store_nav" id="207138">
-<div class="store_nav_content">
-<span class="close">&times;</span>
-<div class="modal-title">Retirer en magasin</div>
-<ul><li class="store_list" value="1">
-<div class="bloc head_store">Playin Paris BNF</div><div class="bloc availability">
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" ">&#10004;&nbsp;Disponible sous 2h</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
-<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
-</div>
-<div class="bloc set_store_btn_bloc">
-<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="1">
-<div class="add_cart_btn_img add_cart_store_btn_img"></div>
-<div class="add_cart_text">Choisir ce magasin</div>
-</button>
-</div><div class="clear"></div>
-</li><li class="store_list" value="2">
-<div class="bloc head_store">Playin Annecy</div><div class="bloc availability">
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Disponible sous 2h</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" ">&#10004;&nbsp;Sur commande (72h)</span>
-<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
-</div>
-<div class="bloc set_store_btn_bloc">
-<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="2">
-<div class="add_cart_btn_img add_cart_store_btn_img"></div>
-<div class="add_cart_text">Choisir ce magasin</div>
-</button>
-</div><div class="clear"></div>
-</li><li class="store_list" value="3">
-<div class="bloc head_store">Playin Paris Rivoli</div><div class="bloc availability">
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Disponible sous 2h</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" ">&#10004;&nbsp;Sur commande (72h)</span>
-<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
-</div>
-<div class="bloc set_store_btn_bloc">
-<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="3">
-<div class="add_cart_btn_img add_cart_store_btn_img"></div>
-<div class="add_cart_text">Choisir ce magasin</div>
-</button>
-</div><div class="clear"></div>
-</li></ul>
-</div>
-</div>
-</div></div></form>
-</div>
-</div>
-</div>
-<div class="clear"></div></div><div class="list_product item">
-<div class="container_left">
-<a href="/produit/237996-rock_me_archimedes">
-<div class="img_list_product">
-<img src="/img/product/m/rock_me_archimedes_jeu_marbles_brain_store_boite.png" title="Rock Me Archimedes" alt="Rock Me Archimedes" loading="lazy" />
-</div>
-</a>
-</div><div class="container_right">
-<a href="/produit/237996-rock_me_archimedes">
-<div class="name_product" title="Rock Me Archimedes">Rock Me Archimedes</div>
-</a>
-<div class="preco_product bloc_preco_product bloc_preco_product_rating"></div><div class="container_prices"><div class="price_product simple_price_product">35,90&nbsp;€</div></div><div class="cart">
-<div class="add_cart_btn add_cart_btn_mini">
-<form method="POST">
-<input type="hidden" aria-label="id_product" name="id_product" value="237996"><label for="237996_12"></label><select name="qty_product" aria-label="237996" class="select" id="237996_12"><option id="1" value="1">1</option><option id="2" value="2">2</option><option id="3" value="3">3</option><option id="4" value="4">4</option><option id="5" value="5">5</option><option id="6" value="6">6</option><option id="7" value="7">7</option><option id="8" value="8">8</option><option id="9" value="9">9</option><option id="10" value="10">10</option><option id="11" value="11">11</option><option id="12" value="12">12</option></select><div class="qty">(12)</div><div class="bloc_cart"><div class="bloc_each_cart_mini">
-<button type="submit" name="addToCart" value="0" class="btn addToCart tagSmallOrange tagProduct" data-localisation="0" data-id="237996" title="Ajouter au panier en livraison" alt="Ajouter au panier en livraison">
-<div class="add_cart_logo_mini"></div>
-</button>
-<div class="explain_new_btn_orange">Livraison</div>
-</div><div class="bloc_each_cart_mini">
-<div class="btn btn_store btn_violet showStoreSelect tagSmallVioletModal tagProduct" title="Choisir un magasin de retrait" alt="Choisir un magasin de retrait" data-modal-type="237996">
-<div class="add_cart_store_logo_mini"></div>
-</div>
-<div class="explain_new_btn_violet">Retrait magasin</div>
-</div><div class="select_favourite_store">
-<div class="store_nav" id="237996">
+<div class="store_nav" id="449661">
 <div class="store_nav_content">
 <span class="close">&times;</span>
 <div class="modal-title">Retirer en magasin</div>
@@ -3713,7 +3734,7 @@ Le jeu a été ajouté au panier </div>
 </div>
 <div class="mb_footer mail_mb_footer">
 <div class="mail_mb_footer_img"></div>
-<div class="info_mb_footer"><a href="/cdn-cgi/l/email-protection#15767a7b61747661556579746c387c7b3b767a78" target="_blank"><span class="__cf_email__" data-cfemail="2b4844455f4a485f6b5b474a5206424505484446">[email&#160;protected]</span></a></div>
+<div class="info_mb_footer"><a href="/cdn-cgi/l/email-protection#2a4945445e4b495e6a5a464b5307434404494547" target="_blank"><span class="__cf_email__" data-cfemail="7b1814150f1a180f3b0b171a0256121555181416">[email&#160;protected]</span></a></div>
 </div>
 </div>
 </div>

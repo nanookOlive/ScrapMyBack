@@ -2,7 +2,7 @@
 {% block body %}
 <h3>{{data.nom}}</h3>
 <img src='{{data.image}}'>
-
+<p>{{data.shortDescription}}</p>
 <ul>les types
     {% for type in data.types %}
         <li>{{type}}</li>

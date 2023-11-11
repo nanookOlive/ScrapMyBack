@@ -31,6 +31,10 @@ class MainController extends AbstractController
         $game=$scrapy->crawlerDetail($gameTmp);
         return $this->render("main/show.html.twig",['data'=>$game]);
     }
+
+    //route qui va créer un ensemble de jeurx temporaires en base de données
+    //ils n'ont que deux champs leur nom et l'url qui amène sur la page de détail d'un sur le site play in
+    //on peut décider du nombre de pages qui seront scrapper
     #[Route('/create',name:'app_init_db')]
     public function create(Scrapy $scrapy){
         

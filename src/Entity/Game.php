@@ -34,6 +34,9 @@ class Game
     #[ORM\ManyToMany(targetEntity: GameType::class, mappedBy: 'Game')]
     private Collection $gameTypes;
 
+    #[ORM\Column(length: 1000)]
+    private ?string $shortDescription = null;
+
     public function __construct()
     {
         $this->gameTypes = new ArrayCollection();
@@ -127,6 +130,18 @@ class Game
         if ($this->gameTypes->removeElement($gameType)) {
             $gameType->removeGame($this);
         }
+
+        return $this;
+    }
+
+    public function getShortDescription(): ?string
+    {
+        return $this->shortDescription;
+    }
+
+    public function setShortDescription(string $shortDescription): static
+    {
+        $this->shortDescription = $shortDescription;
 
         return $this;
     }

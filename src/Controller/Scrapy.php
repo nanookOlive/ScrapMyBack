@@ -99,7 +99,9 @@ class Scrapy {
                 'duration'=>'',
                 'nbJoueurs'=>['min'=>null,'max'=>null],
                 'age'=>'',
-                'image'=>''
+                'image'=>'',
+                'shortDescription'=>'',
+                'longDescription'=>""
             ];
 
             $arrayPreg=[
@@ -111,7 +113,8 @@ class Scrapy {
                 'themes'=>'/^<th\sscope="row">Thème\(s\)<\/th>$/',
                 'auteurs'=>'/^<th\sscope="row">Auteur\(s\)<\/th>$/',
                 'editeur'=>'/^<th\sscope="row">Éditeur\(s\)<\/th>$/',
-                'dessinateurs'=>'/<th\sscope="row">Illustrateur\(s\)<\/th>/'
+                'dessinateurs'=>'/<th\sscope="row">Illustrateur\(s\)<\/th>/',
+                'shortDescription'=>'/<div\sclass="shortdesc_product">(.*)<\/div/'
 
             ];
 
@@ -136,6 +139,20 @@ class Scrapy {
                       
                     }
                     
+                }
+
+                //si line=short descri
+                if(preg_match($arrayPreg['shortDescription'],$line,$matches))
+                {
+                    if(!empty($matches)){
+                    
+                        $arrayResponse['shortDescription']=$matches[1];
+
+                    }
+                    else{
+
+                        $this->writeLog($name,"duration");
+                    }
                 }
                 //si la line = durée
                 if(preg_match($arrayPreg["duration"],$line)){
@@ -361,7 +378,7 @@ class Scrapy {
             
             while($a<count($arrayContent)){
                 // récupération du nom du jeu
-            $game = new GameTmp;
+            $gameTmp = new GameTmp;
 
                 while(is_null($game->getName())){
                     
@@ -370,22 +387,16 @@ class Scrapy {
                     if($this->crawler($arrayContent[$a],"href")){
 
                         $href=$this->crawler($arrayContent[$a],"href");
-                        $game->setHref($href);
+                        $gameTmp->setHref($href);
                     
-                        // if(is_null($game->getHref())){
-                            
-                        //    $game->setHref($href);
-                        //     // array_push($arrayResponse,$href);
-
-                        // }
+                       
                     }
 
                     if($this->crawler($arrayContent[$a],'name'))
                     {
 
                         $name=$this->crawler($arrayContent[$a], "name");
-                        // array_push($arrayResponse,$name);
-                        $game->setName($name);
+                        $gameTmp->setName($name);
                         
                     }
 
@@ -395,12 +406,12 @@ class Scrapy {
                     }
                 }
 
-                $game->setId($a);
-                //$game->setDescription('blabla');
+                $gameTmp->setId($a);
 
-                if(!is_null($game->getName()) && !is_null($game->getHref()) ){
+                if(!is_null($gameTmp->getName()) && !is_null($gameTmp->getHref()) ){
 
-                    $this->gameTmpRepo->add($game,true);
+
+                    $this->gameTmpRepo->add($gameTmp,true);
                 }
            
 
@@ -409,6 +420,8 @@ class Scrapy {
         return $arrayResponse;
             
     }
+//méthode qui inscrit dans var/log/log.txt les jeux qui ont rencontré une erreur lors de leur création
+//et qui ne seront pas dans la base de données 
 
     private function writeLog(string $nomJeu,string $error){
 
