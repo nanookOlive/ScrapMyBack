@@ -37,6 +37,9 @@ class Game
     #[ORM\Column(length: 1000)]
     private ?string $shortDescription = null;
 
+    #[ORM\Column(length: 5000)]
+    private ?string $longDescription = null;
+
     public function __construct()
     {
         $this->gameTypes = new ArrayCollection();
@@ -142,6 +145,18 @@ class Game
     public function setShortDescription(string $shortDescription): static
     {
         $this->shortDescription = $shortDescription;
+
+        return $this;
+    }
+
+    public function getLongDescription(): ?string
+    {
+        return $this->longDescription;
+    }
+
+    public function setLongDescription(string $longDescription): static
+    {
+        $this->longDescription = $longDescription;
 
         return $this;
     }
