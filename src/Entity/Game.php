@@ -43,10 +43,14 @@ class Game
     #[ORM\ManyToMany(targetEntity: Theme::class, mappedBy: 'Game')]
     private Collection $yes;
 
+    #[ORM\ManyToMany(targetEntity: Auteur::class, mappedBy: 'Game')]
+    private Collection $auteurs;
+
     public function __construct()
     {
         $this->gameTypes = new ArrayCollection();
         $this->yes = new ArrayCollection();
+        $this->auteurs = new ArrayCollection();
     }
 
     public function getId(): ?int
@@ -187,6 +191,33 @@ class Game
     {
         if ($this->yes->removeElement($ye)) {
             $ye->removeGame($this);
+        }
+
+        return $this;
+    }
+
+    /**
+     * @return Collection<int, Auteur>
+     */
+    public function getAuteurs(): Collection
+    {
+        return $this->auteurs;
+    }
+
+    public function addAuteur(Auteur $auteur): static
+    {
+        if (!$this->auteurs->contains($auteur)) {
+            $this->auteurs->add($auteur);
+            $auteur->addGame($this);
+        }
+
+        return $this;
+    }
+
+    public function removeAuteur(Auteur $auteur): static
+    {
+        if ($this->auteurs->removeElement($auteur)) {
+            $auteur->removeGame($this);
         }
 
         return $this;
