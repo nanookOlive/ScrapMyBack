@@ -46,11 +46,15 @@ class Game
     #[ORM\ManyToMany(targetEntity: Auteur::class, mappedBy: 'Game')]
     private Collection $auteurs;
 
+    #[ORM\ManyToMany(targetEntity: Dessinateur::class, mappedBy: 'game')]
+    private Collection $dessinateurs;
+
     public function __construct()
     {
         $this->gameTypes = new ArrayCollection();
         $this->yes = new ArrayCollection();
         $this->auteurs = new ArrayCollection();
+        $this->dessinateurs = new ArrayCollection();
     }
 
     public function getId(): ?int
@@ -218,6 +222,33 @@ class Game
     {
         if ($this->auteurs->removeElement($auteur)) {
             $auteur->removeGame($this);
+        }
+
+        return $this;
+    }
+
+    /**
+     * @return Collection<int, Dessinateur>
+     */
+    public function getDessinateurs(): Collection
+    {
+        return $this->dessinateurs;
+    }
+
+    public function addDessinateur(Dessinateur $dessinateur): static
+    {
+        if (!$this->dessinateurs->contains($dessinateur)) {
+            $this->dessinateurs->add($dessinateur);
+            $dessinateur->addGame($this);
+        }
+
+        return $this;
+    }
+
+    public function removeDessinateur(Dessinateur $dessinateur): static
+    {
+        if ($this->dessinateurs->removeElement($dessinateur)) {
+            $dessinateur->removeGame($this);
         }
 
         return $this;
