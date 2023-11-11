@@ -6,8 +6,11 @@ use App\Repository\AuteurRepository;
 use Doctrine\Common\Collections\ArrayCollection;
 use Doctrine\Common\Collections\Collection;
 use Doctrine\ORM\Mapping as ORM;
+use Symfony\Component\Validator\Constraints as Assert;
 
 #[ORM\Entity(repositoryClass: AuteurRepository::class)]
+#[UniqueEntity('name')]
+
 class Auteur
 {
     #[ORM\Id]
@@ -16,6 +19,7 @@ class Auteur
     private ?int $id = null;
 
     #[ORM\Column(length: 255)]
+    #[Assert\Unique]
     private ?string $name = null;
 
     #[ORM\ManyToMany(targetEntity: Game::class, inversedBy: 'auteurs')]
@@ -65,5 +69,10 @@ class Auteur
         $this->Game->removeElement($game);
 
         return $this;
+    }
+
+    public function __toString()
+    {
+        return $this->name;
     }
 }

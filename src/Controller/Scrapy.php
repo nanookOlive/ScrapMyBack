@@ -7,11 +7,15 @@
  */
 namespace App\Controller;
 use  App\Entity\Game;
+use App\Entity\Auteur;
 use App\Entity\GameTmp;
 use App\Entity\GameType;
+use App\Entity\Dessinateur;
 use App\Repository\GameRepository;
+use App\Repository\AuteurRepository;
 use App\Repository\GameTmpRepository;
 use App\Repository\GameTypeRepository;
+use App\Repository\DessinateurRepository;
 use Doctrine\Persistence\ManagerRegistry;
 use Symfony\Component\DomCrawler\Crawler;
 use Symfony\Component\HttpClient\HttpClient;
@@ -35,7 +39,8 @@ class Scrapy {
         'href'=>["line"=>'/^<a\shref="\/produit\/\d+/',"itemInLine"=>'/"(.*)"/']  
     );
 
-    public function __construct(GameRepository $gameRepository,GameTypeRepository $typeRepo,GameTmpRepository $gameTmpRepo){
+    public function __construct(GameRepository $gameRepository,GameTypeRepository $typeRepo,GameTmpRepository $gameTmpRepo,
+    AuteurRepository $auteurRepo,DessinateurRepository $dessinateurRepo){
 
         $this->tmpFile=__DIR__."/../../docs/tmpFile.txt";
         $this->browser=new HttpBrowser(HttpClient::create());
@@ -44,7 +49,9 @@ class Scrapy {
         $this->gameRepository=$gameRepository;
         $this->typeRepo=$typeRepo;
         $this->gameTmpRepo=$gameTmpRepo;
-        $this->url='https://www.play-in.com/jeux_de_societe/recherche/';
+        $this->auteurRepo=$auteurRepo;
+        $this->dessinateurRepo=$dessinateurRepo;
+        $this->url='https://www.play-in.com/jeux_de_societe/recherche/?p=';
         
 
     }
@@ -97,7 +104,8 @@ class Scrapy {
                 'auteurs'=>[],
                 'dessinateurs'=>[],
                 'duration'=>'',
-                'nbJoueurs'=>['min'=>null,'max'=>null],
+                'nbJoueursMin'=>'',
+                'nbJoueursMax'=>'',
                 'age'=>'',
                 'image'=>'',
                 'shortDescription'=>'',
@@ -127,7 +135,7 @@ class Scrapy {
             {
 
                 $line=$arrayContent[$a];
-                // image du jeu
+                // longue description
 
                 if(preg_match($arrayPreg['longDescription'],$line)){
 
@@ -141,9 +149,17 @@ class Scrapy {
 
                         $a++;
                     }
-                    //dd($longDescriptionArray);
-                    $arrayResponse['longDescription']=implode(PHP_EOL,$longDescriptionArray);
+                    if(!empty(implode(PHP_EOL,$longDescriptionArray))){
+                    
+                        $arrayResponse['longDescription']=implode(PHP_EOL,$longDescriptionArray);
+
+                    }
+                    else{
+
+                        $this->writeLog($name,"longDescription");
+                    }
                 }
+                //image
                 if(preg_match($arrayPreg['image'],$line,$matches)){
                     
                     //vérification 
@@ -212,8 +228,8 @@ class Scrapy {
                     
                     preg_match('/<div>\w*\s*(\d*)\sà\s(\d*)/',$arrayContent[$a+2],$matches);
                     if(!empty($matches)){
-                        $arrayResponse['nbJoueurs']["min"]=$matches[1];
-                        $arrayResponse['nbJoueurs']['max']=$matches[2];
+                        $arrayResponse['nbJoueursMin']=$matches[1];
+                        $arrayResponse['nbJoueursMax']=$matches[2];
                     }
                     else{
 
@@ -335,46 +351,92 @@ class Scrapy {
             $game->setDuration((int)$arrayResponse['duration']);
             $game->setAge((int)$arrayResponse['age']);
             $game->setShortDescription($arrayResponse['shortDescription']);
+            $game->setLongDescription($arrayResponse['longDescription']);
+            $game->setNbJoueursMax($arrayResponse['nbJoueursMax']);
+            $game->setNbJoueursMin($arrayResponse['nbJoueursMin']);
             $this->gameRepository->add($game);
 
             //on ajoute les types à la base si ils n'existent pas en base
             //on ajoute à la relation game_types
             foreach($arrayResponse['types'] as $name){
+
+                    
                 if(empty($this->typeRepo->findByName($name))){
+
                     $type=new GameType;
                     $type->setName($name);
                     $this->typeRepo->add($type);
-                    $game->addGameType($type);
-                    $this->gameRepository->add($game);
+
+                    
+                }                               
+                $type=$this->typeRepo->findByName($name);
+                foreach($type as $item)
+                {
+                    $game->addGameType($item);
+
                 }
-                
-
-
             }
-            
-
-
-            
             //on ajoute les auteurs à la base si ils n'existent pas en base
             //on ajoute à la relation game_auteurs
+
+            foreach($arrayResponse['auteurs'] as $nameAuteur){
+
+                if(empty($this->auteurRepo->findByName($nameAuteur))){
+
+                    $auteur=new Auteur;
+                    $auteur->setName($nameAuteur);
+                    $this->auteurRepo->add($auteur);
+
+                }                               
+                $auteur=$this->auteurRepo->findByName($nameAuteur);
+               
+                foreach($auteur as $item)
+                {
+                    $game->addAuteur($item);
+                }
+            }
             //on ajoute les dessinateurs à la base si ils n'existent pas en base
-            //on ajoute à la relation game_dessinateurs
+            //on ajoute à la relation game_dessinateurs    
+            foreach($arrayResponse['dessinateurs'] as $nameDessinateur){
+
+                if(empty($this->dessinateurRepo->findByName($nameDessinateur))){
+
+                    $dessinateur=new Dessinateur;
+                    $dessinateur->setName($nameDessinateur);
+                    $this->dessinateurRepo->add($dessinateur);
+
+                }        
+                                   
+                $dessinateur=$this->dessinateurRepo->findByName($nameDessinateur);
+               
+                foreach($dessinateur as $item)
+                {
+                    $game->addDessinateur($item);
+                }
+            }
+            
+            
+            $this->gameRepository->add($game);
+
+           
+
+            
             //on ajoute les themes à la base si ils n'existent pas en base
             //on ajoute à la relation game_theme
 
 
             
             
-            return $arrayResponse;
+            return $game;
         }
         //renvoie un tableau avec dans l'ordre le href, le nom, description
     public function getListGames(int $nbPagesToScrap) 
     {
         //mon tableau qui sera retourné
 
-        $arrayResponse=[];
 
         for($gu=1;$gu<$nbPagesToScrap;$gu++){
+
 
             //on va chercher les noms des jeux sur nbPagesToScrap pages
             //on accede aux pages de ce site en particulier de la façon suivante
@@ -400,7 +462,7 @@ class Scrapy {
                 // récupération du nom du jeu
             $gameTmp = new GameTmp;
 
-                while(is_null($game->getName())){
+                while(is_null($gameTmp->getName())){
                     
                     
 
@@ -437,7 +499,6 @@ class Scrapy {
 
             }
         }
-        return $arrayResponse;
             
     }
 //méthode qui inscrit dans var/log/log.txt les jeux qui ont rencontré une erreur lors de leur création

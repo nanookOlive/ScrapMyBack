@@ -20,7 +20,17 @@ class AuteurRepository extends ServiceEntityRepository
     {
         parent::__construct($registry, Auteur::class);
     }
+    public function findByName(string $name)
+    {
+        $query =$this->getEntityManager()->createQuery("SELECT a FROM ".Auteur::class." a WHERE a.name='$name'");
+        return $query->getResult();
+    }
 
+    public function add(Auteur $auteur){
+
+        $this->getEntityManager()->persist($auteur);
+        $this->getEntityManager()->flush();
+    }
 //    /**
 //     * @return Auteur[] Returns an array of Auteur objects
 //     */

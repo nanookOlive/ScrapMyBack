@@ -16,14 +16,14 @@ class Theme
     private ?int $id = null;
 
     #[ORM\Column(length: 255)]
-    private ?string $nom = null;
+    private ?string $name = null;
 
-    #[ORM\ManyToMany(targetEntity: Game::class, inversedBy: 'yes')]
-    private Collection $Game;
+    #[ORM\ManyToMany(targetEntity: Game::class, inversedBy: 'themes')]
+    private Collection $game;
 
     public function __construct()
     {
-        $this->Game = new ArrayCollection();
+        $this->game = new ArrayCollection();
     }
 
     public function getId(): ?int
@@ -31,14 +31,14 @@ class Theme
         return $this->id;
     }
 
-    public function getNom(): ?string
+    public function getName(): ?string
     {
-        return $this->nom;
+        return $this->name;
     }
 
-    public function setNom(string $nom): static
+    public function setName(string $name): static
     {
-        $this->nom = $nom;
+        $this->name = $name;
 
         return $this;
     }
@@ -48,13 +48,13 @@ class Theme
      */
     public function getGame(): Collection
     {
-        return $this->Game;
+        return $this->game;
     }
 
     public function addGame(Game $game): static
     {
-        if (!$this->Game->contains($game)) {
-            $this->Game->add($game);
+        if (!$this->game->contains($game)) {
+            $this->game->add($game);
         }
 
         return $this;
@@ -62,7 +62,7 @@ class Theme
 
     public function removeGame(Game $game): static
     {
-        $this->Game->removeElement($game);
+        $this->game->removeElement($game);
 
         return $this;
     }

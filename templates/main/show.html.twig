@@ -5,8 +5,8 @@
 <p>{{data.shortDescription}}</p>
 
 <ul>les types
-    {% for type in data.types %}
-        <li>{{type}}</li>
+    {% for type in data.gameTypes %}
+        <li>{{type.name}}</li>
     {% endfor %}
 </ul>
 <p>partie de : {{data.duration}}</p>
@@ -21,16 +21,16 @@
             <li>{{dessinateur}}</li>
     {% endfor %}
 </ul>
-<ul>les thèmes
-    {% for theme in data.themes %}
-            <li>{{theme}}</li>
+{# <ul>les thèmes
+    {% for themes in data.getThemes %}
+            <li>{{themes.name}}</li>
     {% endfor %}
-</ul>
-<p>de {{data.nbJoueurs['min']}} à {{data.nbJoueurs['max']}} joueurs </p>
+</ul> #}
+<p>de {{data.nbJoueursMin}} à {{data.nbJoueursMax}} joueurs </p>
 <p>édité par => {{data.editeur}}</p>
 <ul>les auteurs
     {% for auteur in data.auteurs %}
-            <li>{{auteur}}</li>
+            <li>{{auteur.id}}</li>
     {% endfor %}
 </ul>
 <p>à partir de {{data.age}} ans</p>

@@ -26,10 +26,10 @@ class GameTypeRepository extends ServiceEntityRepository
         $this->getEntityManager()->flush();
     }
 
-    public function findByName(string $name):array
+    
+    public function findByName(string $name)
     {
         $query =$this->getEntityManager()->createQuery("SELECT t FROM ".GameType::class." t WHERE t.name='$name'");
-        //dd($query);
         return $query->getResult();
     }
 //    /**

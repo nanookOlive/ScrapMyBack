@@ -7,8 +7,11 @@ use Doctrine\Common\Collections\ArrayCollection;
 use Doctrine\Common\Collections\Collection;
 use Doctrine\DBAL\Types\Types;
 use Doctrine\ORM\Mapping as ORM;
+use Symfony\Component\Validator\Constraints as Assert;
 
 #[ORM\Entity(repositoryClass: GameRepository::class)]
+#[UniqueEntity('nom')]
+
 class Game
 {
     #[ORM\Id]
@@ -17,6 +20,8 @@ class Game
     private ?int $id = null;
 
     #[ORM\Column(length: 500)]
+    #[Assert\Unique]
+
     private ?string $nom = null;
 
     #[ORM\Column(length: 1000)]
@@ -40,14 +45,21 @@ class Game
     #[ORM\Column(length: 5000)]
     private ?string $longDescription = null;
 
-    #[ORM\ManyToMany(targetEntity: Theme::class, mappedBy: 'Game')]
-    private Collection $yes;
-
+    
     #[ORM\ManyToMany(targetEntity: Auteur::class, mappedBy: 'Game')]
     private Collection $auteurs;
 
     #[ORM\ManyToMany(targetEntity: Dessinateur::class, mappedBy: 'game')]
     private Collection $dessinateurs;
+
+    #[ORM\Column(type: Types::SMALLINT)]
+    private ?int $nbJoueursMin = null;
+
+    #[ORM\Column(type: Types::SMALLINT)]
+    private ?int $nbJoueursMax = null;
+
+    #[ORM\ManyToMany(targetEntity: Theme::class, mappedBy: 'game')]
+    private Collection $themes;
 
     public function __construct()
     {
@@ -55,6 +67,7 @@ class Game
         $this->yes = new ArrayCollection();
         $this->auteurs = new ArrayCollection();
         $this->dessinateurs = new ArrayCollection();
+        $this->themes = new ArrayCollection();
     }
 
     public function getId(): ?int
@@ -176,25 +189,25 @@ class Game
     /**
      * @return Collection<int, Theme>
      */
-    public function getYes(): Collection
+    public function getThemes(): Collection
     {
-        return $this->yes;
+        return $this->theme;
     }
 
-    public function addYe(Theme $ye): static
+    public function addTheme(Theme $theme): static
     {
-        if (!$this->yes->contains($ye)) {
-            $this->yes->add($ye);
-            $ye->addGame($this);
+        if (!$this->themes->contains($theme)) {
+            $this->themes->add($theme);
+            $theme->addGame($this);
         }
 
         return $this;
     }
 
-    public function removeYe(Theme $ye): static
+    public function removeTheme(Theme $theme): static
     {
-        if ($this->yes->removeElement($ye)) {
-            $ye->removeGame($this);
+        if ($this->themes->removeElement($theme)) {
+            $themes->removeGame($this);
         }
 
         return $this;
@@ -250,6 +263,30 @@ class Game
         if ($this->dessinateurs->removeElement($dessinateur)) {
             $dessinateur->removeGame($this);
         }
+
+        return $this;
+    }
+
+    public function getNbJoueursMin(): ?int
+    {
+        return $this->nbJoueursMin;
+    }
+
+    public function setNbJoueursMin(int $nbJoueursMin): static
+    {
+        $this->nbJoueursMin = $nbJoueursMin;
+
+        return $this;
+    }
+
+    public function getNbJoueursMax(): ?int
+    {
+        return $this->nbJoueursMax;
+    }
+
+    public function setNbJoueursMax(int $nbJoueursMax): static
+    {
+        $this->nbJoueursMax = $nbJoueursMax;
 
         return $this;
     }

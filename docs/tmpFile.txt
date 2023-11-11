@@ -7,11 +7,11 @@
             function gtag(){dataLayer.push(arguments);}
             gtag("js", new Date());
             gtag("config", "G-4ZGZBRWKLF");
-        </script> <title>Cartaventura - Versailles - Acheter vos Jeux de société en famille &amp; entre amis - Playin by Magic Bazar</title>
+        </script> <title>Sea Salt &amp; Paper - Extension Extra Salt - Acheter vos Jeux de société en famille &amp; entre amis - Playin by Magic Bazar</title>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta name="robots" content="index,follow">
 <meta name="rating" content="general">
-<meta name="Description" content="Cartaventura est une série de jeux de cartes narratifs et historiques. En 1687, incarnez Julie d&#039;Aubigny, une femme qui choisit de se rebeller contre son destin.">
+<meta name="Description" content="Dans l&#039;extension Extra Salt pour Sea Salt &amp; Paper, découvrez 13 nouvelles cartes et leurs effets, à ajouter à votre boîte !">
 <meta content="7 days" name="revisit-after">
 <meta name="Author" content="Playin by Magic Bazar">
 <meta name="Identifier-URL" Content=" https://www.play-in.com">
@@ -26,11 +26,11 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=6">
 
-<meta property="og:title" content="Cartaventura - Versailles - Acheter vos Jeux de société en famille &amp; entre amis - Playin by Magic Bazar" />
+<meta property="og:title" content="Sea Salt &amp; Paper - Extension Extra Salt - Acheter vos Jeux de société en famille &amp; entre amis - Playin by Magic Bazar" />
 <meta property="og:type" content="product" />
-<meta property="og:url" content="https://www.play-in.com/produit/468066-cartaventura_-_versailles" />
-<meta property="og:image" content="https://www.play-in.com/img/product/l/cartaventura-versailles-boite-de-jeu.jpg" />
-<meta property="og:description" content="Cartaventura est une série de jeux de cartes narratifs et historiques. En 1687, incarnez Julie d&#039;Aubigny, une femme qui choisit de se rebeller contre son destin." />
+<meta property="og:url" content="https://www.play-in.com/produit/502744-sea_salt_et_paper_-_extension_extra_salt" />
+<meta property="og:image" content="https://www.play-in.com/img/product/l/extra-salt-extension-sea-salt-and-paper-jeu-bombyx-booster.jpg" />
+<meta property="og:description" content="Dans l&#039;extension Extra Salt pour Sea Salt &amp; Paper, découvrez 13 nouvelles cartes et leurs effets, à ajouter à votre boîte !" />
 <meta property="og:app_id" content="936206876519095" />
 
 <script>
@@ -59,26 +59,56 @@
             {
             "@context": "http://schema.org",
                 "@type": "Product",
-                    "name":"Cartaventura - Versailles",
-                    "description":"Cartaventura est une série de jeux de cartes narratifs et historiques. En 1687, incarnez Julie d&#039;Aubigny, une femme qui choisit de se rebeller contre son destin.",
-                    "image":"https://www.play-in.com/img/product/l/cartaventura-versailles-boite-de-jeu.jpg",
+                    "name":"Sea Salt &amp; Paper - Extension Extra Salt",
+                    "description":"Dans l&#039;extension Extra Salt pour Sea Salt &amp; Paper, découvrez 13 nouvelles cartes et leurs effets, à ajouter à votre boîte !",
+                    "image":"https://www.play-in.com/img/product/l/extra-salt-extension-sea-salt-and-paper-jeu-bombyx-booster.jpg",
                     "brand": "",
-                    "gtin14": "03770005767358",
+                    "gtin14": "03760267991097",
                 "aggregateRating": {
                     "@type": "AggregateRating",
-                    "ratingValue": "4",
-                    "reviewCount": "1"
+                    "ratingValue": "4.75",
+                    "reviewCount": "4"
                 },
                 "review": 
                     [{
                         "@type": "Review",
-                        "url":"https://www.play-in.com/produit/468066-cartaventura_-_versailles",
-                        "author": "Pascal R",
-                        "datePublished": "2023-10-12 22:33:08",
-                        "reviewBody": "Un Cartaventura comme les autres efficaces avec une thématique un peu moins prenante pour moi mais c&#039;est très subjectif. Les avantages (beau, éducatif, rapide, efficace, une nouvelle petite mécanique à chaque aventure) et inconvénients (ce n&#039;est clairement pas autre chose que du jeu solo, peu de réel re-jouabilité une fois une des grosses fins atteintes) de tous Cartaventura mais personnellement j&#039;aime toujours autant le principe.<br/>",
+                        "url":"https://www.play-in.com/produit/502744-sea_salt_et_paper_-_extension_extra_salt",
+                        "author": "Margot G",
+                        "datePublished": "2023-09-19 13:16:53",
+                        "reviewBody": "",
+                        "reviewRating": {
+                        "@type": "Rating",
+                        "ratingValue": "5"
+                        }
+                    },{
+                        "@type": "Review",
+                        "url":"https://www.play-in.com/produit/502744-sea_salt_et_paper_-_extension_extra_salt",
+                        "author": "STEPHANE R",
+                        "datePublished": "2023-09-21 08:21:29",
+                        "reviewBody": "Un peu cher pour 8 cartes.... mais vraiment plaisant !",
                         "reviewRating": {
                         "@type": "Rating",
                         "ratingValue": "4"
+                        }
+                    },{
+                        "@type": "Review",
+                        "url":"https://www.play-in.com/produit/502744-sea_salt_et_paper_-_extension_extra_salt",
+                        "author": "Tristan B",
+                        "datePublished": "2023-09-22 11:34:37",
+                        "reviewBody": "",
+                        "reviewRating": {
+                        "@type": "Rating",
+                        "ratingValue": "5"
+                        }
+                    },{
+                        "@type": "Review",
+                        "url":"https://www.play-in.com/produit/502744-sea_salt_et_paper_-_extension_extra_salt",
+                        "author": "Arthur A",
+                        "datePublished": "2023-09-24 19:10:49",
+                        "reviewBody": "très bonne extension acheté à un ami",
+                        "reviewRating": {
+                        "@type": "Rating",
+                        "ratingValue": "5"
                         }
                     }],
             "offers":{
@@ -86,22 +116,22 @@
                     "priceCurrency":"EUR",
                     "availability":"InStock",
                     "availability_date":"",
-                    "price":"12.90",
-                    "availableAtOrFrom":"/produit/468066-cartaventura_-_versailles",
+                    "price":"4.90",
+                    "availableAtOrFrom":"/produit/502744-sea_salt_et_paper_-_extension_extra_salt",
                     "itemCondition":"NewCondition",
                     "priceValidUntil":"",
-                    "url":"https://www.play-in.com/produit/468066-cartaventura_-_versailles"
+                    "url":"https://www.play-in.com/produit/502744-sea_salt_et_paper_-_extension_extra_salt"
             }
         }
         </script><script>
 	dataLayer.push({
 		'PageType': 'product',
-        'id': '468066',
-        'name': 'Cartaventura - Versailles',
+        'id': '502744',
+        'name': 'Sea Salt & Paper - Extension Extra Salt',
         'category': 'En famille et entre amis',
-        'price': '12.90'
+        'price': '4.90'
 	});
-</script> <link rel="canonical" href="https://www.play-in.com/produit/468066-cartaventura_-_versailles">
+</script> <link rel="canonical" href="https://www.play-in.com/produit/502744-sea_salt_et_paper_-_extension_extra_salt">
 <link rel="icon" type="image/ico" href="/favicon.ico" /><link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
 
 <link rel="dns-prefetch" href="https://unpkg.com/multiple-select@1.3.1/dist/multiple-select.min.css" as="style" />
@@ -137,7 +167,7 @@
 <link rel="dns-prefetch" href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" as="style" crossorigin="anonymous">
 <link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">
-<link rel="alternate" hreflang="en" href="https://en.play-in.com/produit/468066-cartaventura_-_versailles" /><link rel="alternate" hreflang="fr" href="https://www.play-in.com/produit/468066-cartaventura_-_versailles" /><link rel="alternate" hreflang="x-default" href="https://www.play-in.com/produit/468066-cartaventura_-_versailles" />
+<link rel="alternate" hreflang="en" href="https://en.play-in.com/produit/502744-sea_salt_et_paper_-_extension_extra_salt" /><link rel="alternate" hreflang="fr" href="https://www.play-in.com/produit/502744-sea_salt_et_paper_-_extension_extra_salt" /><link rel="alternate" hreflang="x-default" href="https://www.play-in.com/produit/502744-sea_salt_et_paper_-_extension_extra_salt" />
 <script type="text/javascript" src="/js/tarteaucitron/tarteaucitron.js?v=15"></script>
 <script type="text/javascript">
             tarteaucitron.init({
@@ -281,13 +311,13 @@
 <div class="clear"></div>
 <div class="pwd_lost"><a href="/user/forgot.php">Mot de passe perdu ?</a></div>
 <input type="submit" value="Me connecter" class="btn connexion_account" data-user="username_popup" data-pwd="pwd_popup" data-popup="true" name="_submit_login">
-<a href="https://www.facebook.com/v3.2/dialog/oauth?scope=email&amp;state=0b6a120381fd7b34c225fe87bace8a66&amp;response_type=code&amp;approval_prompt=auto&amp;redirect_uri=https%3A%2F%2Fwww.play-in.com%2Fuser%2Ffb_callback.php&amp;client_id=936206876519095">
+<a href="https://www.facebook.com/v3.2/dialog/oauth?scope=email&amp;state=63d1fbadb0c38b71693ab698f132b9b0&amp;response_type=code&amp;approval_prompt=auto&amp;redirect_uri=https%3A%2F%2Fwww.play-in.com%2Fuser%2Ffb_callback.php&amp;client_id=936206876519095">
 <div class="btn_facebook">
 <div class="facebook_img"></div>
 Me connecter
 </div>
 </a>
-<input type="hidden" name="redirect" value="../produit/468066-cartaventura_-_versailles">
+<input type="hidden" name="redirect" value="../produit/502744-sea_salt_et_paper_-_extension_extra_salt">
 <div id="g_id_onload" data-client_id="352511216272-q0kmev906091sein9bohqbcvjfa8jvcr.apps.googleusercontent.com" data-context="signin" data-ux_mode="popup" data-auto_prompt="false" data-callback="googleSignIn">
 </div>
 <div class="g_id_signin" style="margin-top: 5px;" data-type="standard" data-size="medium" data-text="signin" data-width="182" data-onsuccess="googleSignIn">
@@ -298,7 +328,7 @@ Me connecter
 <a href="/user/signin.php"><div class="btn_account">Créer un compte</div></a></div>
 </div>
 </div><div class="header_container_flag">
-<a href="https://en.play-in.com/produit/468066-cartaventura_-_versailles">
+<a href="https://en.play-in.com/produit/502744-sea_salt_et_paper_-_extension_extra_salt">
 <div class="header_flag_en" title="Playin by Magic Bazar in english" alt="Playin by Magic Bazar in english"></div>
 </a>
 <a href="#">
@@ -324,7 +354,7 @@ Me connecter
 <a href="#">
 <div class="flag_header_mobile_fr" title="Playin by Magic Bazar en français" alt="Playin by Magic Bazar en français"></div>
 </a>
-<a href="https://en.play-in.com/produit/468066-cartaventura_-_versailles">
+<a href="https://en.play-in.com/produit/502744-sea_salt_et_paper_-_extension_extra_salt">
 <div class="flag_header_mobile_en" title="Playin by Magic Bazar in english" alt="Playin by Magic Bazar in english"></div>
 </a>
 </div>
@@ -377,13 +407,13 @@ Me connecter
 <div class="clear"></div>
 <div class="pwd_lost"><a href="/user/forgot.php">Mot de passe perdu ?</a></div>
 <input type="submit" value="Me connecter" class="btn connexion_account" data-user="username_popup" data-pwd="pwd_popup" data-popup="true" name="_submit_login">
-<a href="https://www.facebook.com/v3.2/dialog/oauth?scope=email&amp;state=0b6a120381fd7b34c225fe87bace8a66&amp;response_type=code&amp;approval_prompt=auto&amp;redirect_uri=https%3A%2F%2Fwww.play-in.com%2Fuser%2Ffb_callback.php&amp;client_id=936206876519095">
+<a href="https://www.facebook.com/v3.2/dialog/oauth?scope=email&amp;state=63d1fbadb0c38b71693ab698f132b9b0&amp;response_type=code&amp;approval_prompt=auto&amp;redirect_uri=https%3A%2F%2Fwww.play-in.com%2Fuser%2Ffb_callback.php&amp;client_id=936206876519095">
 <div class="btn_facebook">
 <div class="facebook_img"></div>
 Me connecter
 </div>
 </a>
-<input type="hidden" name="redirect" value="../produit/468066-cartaventura_-_versailles">
+<input type="hidden" name="redirect" value="../produit/502744-sea_salt_et_paper_-_extension_extra_salt">
 <div id="g_id_onload" data-client_id="352511216272-q0kmev906091sein9bohqbcvjfa8jvcr.apps.googleusercontent.com" data-context="signin" data-ux_mode="popup" data-auto_prompt="false" data-callback="googleSignIn">
 </div>
 <div class="g_id_signin" style="margin-top: 5px;" data-type="standard" data-size="medium" data-text="signin" data-width="182" data-onsuccess="googleSignIn">
@@ -394,7 +424,7 @@ Me connecter
 <a href="/user/signin.php"><div class="btn_account">Créer un compte</div></a></div>
 </div>
 </div><div class="header_container_flag">
-<a href="https://en.play-in.com/produit/468066-cartaventura_-_versailles">
+<a href="https://en.play-in.com/produit/502744-sea_salt_et_paper_-_extension_extra_salt">
 <div class="header_flag_en" title="Playin by Magic Bazar in english" alt="Playin by Magic Bazar in english"></div>
 </a>
 <a href="#">
@@ -2621,48 +2651,48 @@ Yu-Gi-Oh! </div></a>
 <a href="/"><div>Accueil</div></a><a href="/jeux_de_societe/"><div class="breadcrumbs_img"></div>
 <div>Jeux de société</div></a><a href="/jeux_de_societe/categorie/7-en_famille_et_entre_amis"><div class="breadcrumbs_img"></div>
 <div>En famille et entre amis</div></a></div>
-<div id="container_present_product" class="container_present_product" data-id="468066">
+<div id="container_present_product" class="container_present_product" data-id="502744">
 <div class="return_msg_bag"></div>
 <div class="container_main_left">
 <div class="col_left"><div class="big_img_product ">
-<a class href="/img/product/cartaventura-versailles-boite-de-jeu.jpg" data-lightbox="product-set" data-title>
+<a class href="/img/product/extra-salt-extension-sea-salt-and-paper-jeu-bombyx-booster.jpg" data-lightbox="product-set" data-title>
 <div class="main_img_product">
-<picture><source srcset="/img/product/l/cartaventura-versailles-boite-de-jeu.webp" type="image/webp"><source srcset="/img/product/l/cartaventura-versailles-boite-de-jeu.jpg" type="image/jpeg">
-<img src="/img/product/l/cartaventura-versailles-boite-de-jeu.jpg" title="Cartaventura - Versailles" alt="cartaventura versailles boite de jeu " />
+<picture><source srcset="/img/product/l/extra-salt-extension-sea-salt-and-paper-jeu-bombyx-booster.webp" type="image/webp"><source srcset="/img/product/l/extra-salt-extension-sea-salt-and-paper-jeu-bombyx-booster.jpg" type="image/jpeg">
+<img src="/img/product/l/extra-salt-extension-sea-salt-and-paper-jeu-bombyx-booster.jpg" title="Sea Salt & Paper - Extension Extra Salt" alt="extra salt extension sea salt and paper jeu bombyx booster " />
 </picture>
 </div>
 </a>
 </div><div class="big_img_product big_img_product_mobile ">
-<a class href="/img/product/cartaventura-versailles-boite-de-jeu.jpg" data-lightbox="product-set-mobile" data-title>
+<a class href="/img/product/extra-salt-extension-sea-salt-and-paper-jeu-bombyx-booster.jpg" data-lightbox="product-set-mobile" data-title>
 <div class="main_img_product">
-<img src="/img/product/l/cartaventura-versailles-boite-de-jeu.jpg" title="Cartaventura - Versailles" alt="cartaventura versailles boite de jeu " />
+<img src="/img/product/l/extra-salt-extension-sea-salt-and-paper-jeu-bombyx-booster.jpg" title="Sea Salt & Paper - Extension Extra Salt" alt="extra salt extension sea salt and paper jeu bombyx booster " />
 </div>
 </a>
 </div>
 </div>
 <div class="col_middle">
-<h1>CARTAVENTURA - VERSAILLES</h1><div class="bloc_desc">
-<div class="shortdesc_product">Cartaventura est une série de jeux de cartes narratifs et historiques. En 1687, incarnez Julie d'Aubigny, une femme qui choisit de se rebeller contre son destin.</div><div class="rating_summary"><a class="onclickTab" data-tab="rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_empty"></span> 4/5
-<span class="rating_link">(1 avis clients)</span>
-</a></div><div class="container_tag_jds"><a href="/jeux_de_societe/recherche/?&player%5B%5D=1&player%5B%5D=2&player%5B%5D=3&player%5B%5D=4&player%5B%5D=5&player%5B%5D=6">
+<h1>SEA SALT & PAPER - EXTENSION EXTRA SALT</h1><div class="bloc_desc">
+<div class="shortdesc_product">Dans l'extension Extra Salt pour Sea Salt & Paper, découvrez 13 nouvelles cartes et leurs effets, à ajouter à votre boîte !</div><div class="rating_summary"><a class="onclickTab" data-tab="rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span> 4.75/5
+<span class="rating_link">(4 avis clients)</span>
+</a></div><div class="container_tag_jds"><a href="/jeux_de_societe/recherche/?&player%5B%5D=2&player%5B%5D=3&player%5B%5D=4">
 <div class="tag btn_grey">
 <div class="bloc">
 <div class="img_nbr_player"></div>
-<span>1 à 6 joueurs</span>
+<span>2 à 4 joueurs</span>
 </div>
 </div>
-</a><a href="/jeux_de_societe/recherche/?time%5B%5D=60">
+</a><a href="/jeux_de_societe/recherche/?time%5B%5D=30">
 <div class="tag btn_grey">
 <div class="bloc">
 <div class="img_time"></div>
-<span>Environ 1h</span>
+<span>Environ 30 min</span>
 </div>
 </div>
-</a><a href="/jeux_de_societe/recherche/?age%5B%5D=plus_10">
+</a><a href="/jeux_de_societe/recherche/?&age%5B%5D=8_10&age%5B%5D=plus_10">
 <div class="tag btn_grey">
 <div class="bloc">
 <div class="img_age"></div>
-<span>À partir de 10 ans</span>
+<span>À partir de 8 ans</span>
 </div>
 </div>
 </a><div class="tag btn_grey">
@@ -2671,25 +2701,25 @@ Yu-Gi-Oh! </div></a>
 <span>Français</span>
 </div>
 </div><div class="clear"></div>
-</div><div class="clear"></div><div class="container_tag_jds"><a href="/jeux_de_societe/recherche/?theme=Exploration+et++Dungeon+Crawler">
+</div><div class="clear"></div><div class="container_tag_jds"><a href="/jeux_de_societe/recherche/?theme=Océan">
 <div class="tag btn_grey">
 <div class="bloc">
 <div class="img_theme"></div>
-<span>Exploration et Dungeon Crawler</span>
+<span>Océan</span>
 </div>
 </div>
-</a><a href="/jeux_de_societe/recherche/?theme=Historique">
-<div class="tag btn_grey">
-<div class="bloc">
-<div class="img_theme"></div>
-<span>Historique</span>
-</div>
-</div>
-</a><a href="/jeux_de_societe/recherche/?type=Jeux+Coopératifs">
+</a><a href="/jeux_de_societe/recherche/?type=Apéro">
 <div class="tag btn_grey">
 <div class="bloc">
 <div class="img_type_game"></div>
-<span>Jeux Coopératifs</span>
+<span>Apéro</span>
+</div>
+</div>
+</a><a href="/jeux_de_societe/recherche/?type=Collection">
+<div class="tag btn_grey">
+<div class="bloc">
+<div class="img_type_game"></div>
+<span>Collection</span>
 </div>
 </div>
 </a><a href="/jeux_de_societe/recherche/?type=Jeux+de+Voyage">
@@ -2699,15 +2729,8 @@ Yu-Gi-Oh! </div></a>
 <span>Jeux de Voyage</span>
 </div>
 </div>
-</a><a href="/jeux_de_societe/recherche/?type=Narratif">
-<div class="tag btn_grey">
-<div class="bloc">
-<div class="img_type_game"></div>
-<span>Narratif</span>
-</div>
-</div>
 </a><div class="clear"></div>
-</div><div class="clear"></div><div class="clear"></div><div class="mini_img_product sliderProduct"><div class="MS-content"><div class="list_product item"><a href="/img/product/secondary/cartaventura-versailles-boite-de-jeu-dos.jpg" data-lightbox="product-set" data-title><img src="/img/product/secondary/s/cartaventura-versailles-boite-de-jeu-dos.jpg" title="Cartaventura - Versailles" alt="cartaventura versailles boite de jeu " /></a></div><div class="list_product item"><a href="/img/product/secondary/cartaventura-versailles-materiel-de-jeu.jpg" data-lightbox="product-set" data-title><img src="/img/product/secondary/s/cartaventura-versailles-materiel-de-jeu.jpg" title="Cartaventura - Versailles" alt="cartaventura versailles boite de jeu " /></a></div></div>
+</div><div class="clear"></div><div class="clear"></div><div class="mini_img_product sliderProduct"><div class="MS-content"><div class="list_product item"><a href="/img/product/secondary/sea-salt-and-paper-extension-extra-salt-cartes-de-jeu.jpg" data-lightbox="product-set" data-title><img src="/img/product/secondary/s/sea-salt-and-paper-extension-extra-salt-cartes-de-jeu.jpg" title="Sea Salt & Paper - Extension Extra Salt" alt="extra salt extension sea salt and paper jeu bombyx booster " /></a></div></div>
 <div class="MS-controls">
 <button class="MS-left"><div class="arrow_left_img"></div></button>
 <button class="MS-right"><div class="arrow_right_img"></div></button>
@@ -2716,94 +2739,84 @@ Yu-Gi-Oh! </div></a>
 <span class="line">Gamme &</span>
 <span class="line">extensions</span>
 </h2><h2 id="tab_rating" class="tab_title tab tab_rating onclickTab " data-tab="rating"><span class="long-text">Avis client</span></h2><div class="clear"></div>
-</div><div class="tab bloc_tab tab_desc tab_selected"><h2>Cartaventura - des jeux familiaux narratifs</h2>
-<p>Cartaventura est&nbsp;<strong>une s&eacute;rie des jeux de cartes &agrave; la fois historiques, narratifs et immersifs</strong>.&nbsp;<strong>Les joueurs vivent ensemble une v&eacute;ritable aventure</strong>&nbsp;li&eacute;e &agrave; l'histoire de notre monde. Des vikings aux l&eacute;gendes arthuriennes jusqu'&agrave; l'exploration de l'Himalaya, d&eacute;couvrez toutes les richesses de notre plan&egrave;te ! Chaque aventure est pr&eacute;vue pour 1-6 joueurs, d&egrave;s 10 ans et pour des parties de 30-60 minutes.</p>
-<h2>Cartaventura - d&eacute;couvrez la cour du roi Soleil</h2>
-<p>1687. Vous incarnez Julie d'Aubigny, une jeune femme de la cour destin&eacute;e &agrave; un mariage qui ne l'enchante gu&egrave;re. Allez-vous plaider votre cause aupr&egrave;s de<strong> Louis XIV</strong>, chercher le soutien des <strong>courtisans </strong>ou apprendre l'art de <strong>l'escrime </strong>pour vous &eacute;manciper ? Arpentez diff&eacute;rents chemins de l'histoire pour d&eacute;couvrir <strong>5 fins diff&eacute;rentes</strong>, et explorez l'histoire rocambolesque de la future Mademoiselle de Maupin !</p>
-<p>Chaque &eacute;pisode de Cartaventura est l'occasion de rencontrer des personnalit&eacute;s, d'en apprendre davantage sur des contextes historiques et culturels et d'&eacute;voluer dans&nbsp;<strong>un r&eacute;cit &agrave; embranchements multiples</strong>. Chaque choix que vous faites vous permettra de r&eacute;v&eacute;ler une partie des secrets de votre aventure, mais pas tous ! Rejouez et empruntez de nouveaux cheminements afin de profiter de toute la richesse de l'histoire.</p>
-<p><strong>Les plus :</strong></p>
-<ul>
-<li>des illustrations &agrave; l'aquarelle, en hommage aux plus beaux carnets de voyage</li>
-<li>construisez votre itin&eacute;raire en coop&eacute;ration en fonction de la cartographie r&eacute;v&eacute;l&eacute;e</li>
-<li>rejouez pour d&eacute;couvrir les diff&eacute;rentes fins du sc&eacute;nario</li>
-</ul>
-<p><strong>Pr&eacute;sent dans les listes suivantes :</strong></p>
-<ul>
-<li><strong><a href="../article/264-notre_top_des_meilleurs_jeux_de_societe_famille" target="_blank" rel="noopener">S&eacute;lection meilleurs jeux famille</a></strong></li>
-</ul><strong>Contenu&nbsp;:</strong>
-<ul><li>70 grandes cartes carrées</li><li>1 livret historique</li></ul><strong><i>À partir de 10 ans, de 1 à 6 joueurs et pour des parties d'environ 60 minutes.</i></strong></div><div class="tab bloc_tab tab_features tab_hidden"><table class="table_tag_jds"><tr class="container_lang tr_impair">
+</div><div class="tab bloc_tab tab_desc tab_selected"><h2>Sea Salt &amp; Paper - Extension Extra Salt</h2>
+<p>Extra Salt est <strong>une extension pour Sea Salt &amp; Paper, un jeu de cartes fun et l&eacute;ger</strong> o&ugrave; vous collectionnez des cartes illustr&eacute;es d'origamis au th&egrave;me marin. Elle ajoute de nouvelles cartes et effets. Elle se joue de 2 &agrave; 4, d&egrave;s 8 ans, pour des parties de 30 minutes environ.</p>
+<h2>De nouvelles cr&eacute;atures sous-marines en papier pli&eacute;</h2>
+<p>Extra Salt apporte de nouvelles cartes et leurs r&egrave;gles sp&eacute;ciales &agrave; vos parties. Accueillez la <strong>m&eacute;duse </strong>et son venin paralysant, le <strong>homard</strong> et le crabe qui utilisent leurs pinces, le <strong>panier de crabes</strong> pour les collectionneurs de carapaces, l'<strong>&eacute;toile de mer</strong> qui sait toujours se rendre utile et l'<strong>hippocampe</strong> qui compl&egrave;te les collections&hellip;</p>
+<p>De quoi vous faire reprendre la mer et retrouver le go&ucirc;t sal&eacute; des vacances !</p><strong>Contenu&nbsp;:</strong>
+<ul><li>13 cartes</li></ul><strong><i>À partir de 8 ans, de 2 à 4 joueurs et pour des parties d'environ 30 minutes.</i></strong></div><div class="tab bloc_tab tab_features tab_hidden"><table class="table_tag_jds"><tr class="container_lang tr_impair">
 <th scope="row">Langue</th>
 <td class="text"><div>Français</div></td>
 </tr>
 <tr class="container_player tr_pair">
 <th scope="row">Nombre de joueurs</th>
 <td class="text">
-<a href="/jeux_de_societe/recherche/?&player%5B%5D=1&player%5B%5D=2&player%5B%5D=3&player%5B%5D=4&player%5B%5D=5&player%5B%5D=6"><div>De 1 à 6 joueurs</div></a>
+<a href="/jeux_de_societe/recherche/?&player%5B%5D=2&player%5B%5D=3&player%5B%5D=4"><div>De 2 à 4 joueurs</div></a>
 </td>
 </tr>
 <tr class="container_time tr_impair">
 <th scope="row">Durée</th>
-<td class="text"><a href="/jeux_de_societe/recherche/?time%5B%5D=60"><div>60 minutes</div></a></td>
+<td class="text"><a href="/jeux_de_societe/recherche/?time%5B%5D=30"><div>30 minutes</div></a></td>
 </tr>
 <tr class="container_age tr_pair">
 <th scope="row">Âge</th>
 <td class="text">
-<a href="/jeux_de_societe/recherche/?age%5B%5D=plus_10"><div>À partir de 10 ans</div></a>
+<a href="/jeux_de_societe/recherche/?&age%5B%5D=8_10&age%5B%5D=plus_10"><div>À partir de 8 ans</div></a>
 </td>
 </tr>
 <tr class="container_theme tr_impair">
 <th scope="row">Thème(s)</th>
-<td class="text"><a href="/jeux_de_societe/recherche/?theme=Exploration+et++Dungeon+Crawler" /><div>Exploration et Dungeon Crawler</div></a></td></tr><tr class="container_theme line_repeat tr_impair"><th scope="row"></th><td class="text"><a href="/jeux_de_societe/recherche/?theme=Historique" /><div>Historique</div></a></td>
+<td class="text"><a href="/jeux_de_societe/recherche/?theme=Océan" /><div>Océan</div></a></td>
 </tr>
 <tr class="container_type tr_pair">
 <th scope="row">Type(s)</th>
-<td class="text"><a href="/jeux_de_societe/recherche/?type=Jeux+Coopératifs" /><div>Jeux Coopératifs</div></a></td></tr><tr class="container_type line_repeat"><th scope="row"></th><td class="text"><a href="/jeux_de_societe/recherche/?type=Jeux+de+Voyage" /><div>Jeux de Voyage</div></a></td></tr><tr class="container_type line_repeat"><th scope="row"></th><td class="text"><a href="/jeux_de_societe/recherche/?type=Narratif" /><div>Narratif</div></a></td>
+<td class="text"><a href="/jeux_de_societe/recherche/?type=Apéro" /><div>Apéro</div></a></td></tr><tr class="container_type line_repeat"><th scope="row"></th><td class="text"><a href="/jeux_de_societe/recherche/?type=Collection" /><div>Collection</div></a></td></tr><tr class="container_type line_repeat"><th scope="row"></th><td class="text"><a href="/jeux_de_societe/recherche/?type=Jeux+de+Voyage" /><div>Jeux de Voyage</div></a></td>
 </tr>
 <tr class="container_type tr_impair">
-<th scope="row">Gamme</th><td class="text"><div>Cartaventura</div></td></tr>
+<th scope="row">Gamme</th><td class="text"><div>Sea Salt & Paper</div></td></tr>
 <tr class="container_editor tr_pair">
 <th scope="row">Éditeur(s)</th>
-<td class="text"><div>Blam</div></td>
+<td class="text"><div>Bombyx</div></td>
 </tr>
 <tr class="container_author tr_impair">
 <th scope="row">Auteur(s)</th>
-<td class="text"><div>Peggy Chassenet</div></td></tr><tr class="container_theme line_repeat tr_impair"><th scope="row"></th><td class="text"><div>Thomas Dupont</div></td>
+<td class="text"><div>Bruno Cathala</div></td></tr><tr class="container_theme line_repeat tr_impair"><th scope="row"></th><td class="text"><div>Théo Rivière</div></td>
 </tr>
 <tr class="container_illustrator tr_pair">
 <th scope="row">Illustrateur(s)</th>
-<td class="text"><div>Guillaume Bernon</div></td></tr><tr class="container_theme line_repeat"><th scope="row"></th><td class="text"><div>Jeanne Landart</div></td>
-</tr></table></div><div class="tab bloc_tab tab_video tab bloc_tab tab_video"><div class="video"><div class="container"></div></div></div><div class="tab bloc_tab tab_ext tab_hidden tab bloc_tab tab_ext"><div class="title_ext">Le produit Cartaventura - Versailles est une boite de base.</div><div class="title_ext title_all_ext">Découvrez les autres jeux de la gamme&nbsp;:</div><div class="list_product_full case_product_full filterElement" data-family="5" data-sales="0">
+<td class="text"><div>Lucien Derainne</div></td></tr><tr class="container_theme line_repeat"><th scope="row"></th><td class="text"><div>Pierre-Yves Gallard</div></td>
+</tr></table></div><div class="tab bloc_tab tab_video tab bloc_tab tab_video"><div class="video"><div class="container"></div></div></div><div class="tab bloc_tab tab_ext tab_hidden tab bloc_tab tab_ext"><div class="title_ext">Découvrez la (ou l'une des) boite(s) de base compatibles&nbsp;:</div><div class="list_product_full case_product_full filterElement" data-family="5" data-sales="0">
 <div class="container_img_product">
-<a href="/produit/359447-cartaventura_-_oklahoma">
-<div class="img_product"><picture><source srcset="/img/product/m/cartaventura-oklahoma-jeu-blam-boite.webp" type="image/webp"><source srcset="/img/product/m/cartaventura-oklahoma-jeu-blam-boite.jpg" type="image/jpeg">
-<img src="/img/product/m/cartaventura-oklahoma-jeu-blam-boite.jpg" title="Cartaventura - Oklahoma" alt="Cartaventura - Oklahoma" loading="lazy" />
+<a href="/produit/442627-sea_salt_et_paper">
+<div class="img_product"><picture><source srcset="/img/product/m/sea-salt-and-paper-jeu-bombyx-boite.webp" type="image/webp"><source srcset="/img/product/m/sea-salt-and-paper-jeu-bombyx-boite.jpg" type="image/jpeg">
+<img src="/img/product/m/sea-salt-and-paper-jeu-bombyx-boite.jpg" title="Sea Salt & Paper" alt="Sea Salt & Paper" loading="lazy" />
 </picture>
 </div><div class="clear"></div>
 </a>
 </div>
 <div class="container_info_product container_info_product_with_rating">
-<a href="/produit/359447-cartaventura_-_oklahoma">
-<div class="name_product" title="Cartaventura - Oklahoma">Cartaventura - Oklahoma</div>
-<div class="desc_short">Cartaventura est une série de jeux de cartes narratifs et historiques. 1854, sur les traces de Bass Reeves, parcourez l'Ouest américain dans un grand pér...</div>
+<a href="/produit/442627-sea_salt_et_paper">
+<div class="name_product" title="Sea Salt & Paper">Sea Salt & Paper</div>
+<div class="desc_short">Dans Sea Salt & Paper, collectionnez les cartes représentant des origamis marins et arrêtez la manche quand vous pensez être en tête… </div>
 </a><div class="container_move_product">
-<div class="separateur separateur_product"></div><div class="bloc_rating_product" title="Note 4.7/5, 3 avis"><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_half"></span></div><div class="bloc_preco_product"></div>
+<div class="separateur separateur_product"></div><div class="bloc_rating_product" title="Note 4.8/5, 19 avis"><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_full"></span></div><div class="bloc_preco_product"></div>
 </div>
 </div>
-<div class="block_cart "><div class="container_prices"><div class="price_product simple_price_product">12,90&nbsp;€</div></div><div class="cart">
+<div class="block_cart "><div class="container_prices"><div class="price_product simple_price_product">11,90&nbsp;€</div></div><div class="cart">
 <div class="add_cart_btn add_cart_btn_mini">
 <form method="POST">
-<input type="hidden" aria-label="id_product" name="id_product" value="359447"><label for="359447_8"></label><select name="qty_product" aria-label="359447" class="select" id="359447_8"><option id="1" value="1">1</option><option id="2" value="2">2</option><option id="3" value="3">3</option><option id="4" value="4">4</option><option id="5" value="5">5</option><option id="6" value="6">6</option><option id="7" value="7">7</option><option id="8" value="8">8</option></select><div class="qty">(8)</div><div class="bloc_cart"><div class="bloc_each_cart_mini">
-<button type="submit" name="addToCart" value="0" class="btn addToCart tagSmallOrange tagProduct" data-localisation="0" data-id="359447" title="Ajouter au panier en livraison" alt="Ajouter au panier en livraison">
+<input type="hidden" aria-label="id_product" name="id_product" value="442627"><label for="442627_20"></label><select name="qty_product" aria-label="442627" class="select" id="442627_20"><option id="1" value="1">1</option><option id="2" value="2">2</option><option id="3" value="3">3</option><option id="4" value="4">4</option><option id="5" value="5">5</option><option id="6" value="6">6</option><option id="7" value="7">7</option><option id="8" value="8">8</option><option id="9" value="9">9</option><option id="10" value="10">10</option><option id="11" value="11">11</option><option id="12" value="12">12</option><option id="13" value="13">13</option><option id="14" value="14">14</option><option id="15" value="15">15</option><option id="16" value="16">16</option><option id="17" value="17">17</option><option id="18" value="18">18</option><option id="19" value="19">19</option><option id="20" value="20">20</option></select><div class="qty">(20)</div><div class="bloc_cart"><div class="bloc_each_cart_mini">
+<button type="submit" name="addToCart" value="0" class="btn addToCart tagSmallOrange tagProduct" data-localisation="0" data-id="442627" title="Ajouter au panier en livraison" alt="Ajouter au panier en livraison">
 <div class="add_cart_logo_mini"></div>
 </button>
 <div class="explain_new_btn_orange">Livraison</div>
 </div><div class="bloc_each_cart_mini">
-<div class="btn btn_store btn_violet showStoreSelect tagSmallVioletModal tagProduct" title="Choisir un magasin de retrait" alt="Choisir un magasin de retrait" data-modal-type="359447">
+<div class="btn btn_store btn_violet showStoreSelect tagSmallVioletModal tagProduct" title="Choisir un magasin de retrait" alt="Choisir un magasin de retrait" data-modal-type="442627">
 <div class="add_cart_store_logo_mini"></div>
 </div>
 <div class="explain_new_btn_violet">Retrait magasin</div>
 </div><div class="select_favourite_store">
-<div class="store_nav" id="359447">
+<div class="store_nav" id="442627">
 <div class="store_nav_content">
 <span class="close">&times;</span>
 <div class="modal-title">Retirer en magasin</div>
@@ -2860,627 +2873,7 @@ Yu-Gi-Oh! </div></a>
 </div>
 </div>
 <div class="clear"></div>
-</div><div class="list_product_full case_product_full filterElement" data-family="5" data-sales="0">
-<div class="container_img_product">
-<a href="/produit/386083-cartaventura_-_caravanes">
-<div class="img_product"><picture><source srcset="/img/product/m/cartaventura-caravanes-boite-de-jeu.webp" type="image/webp"><source srcset="/img/product/m/cartaventura-caravanes-boite-de-jeu.jpg" type="image/jpeg">
-<img src="/img/product/m/cartaventura-caravanes-boite-de-jeu.jpg" title="Cartaventura - Caravanes" alt="Cartaventura - Caravanes" loading="lazy" />
-</picture>
-</div><div class="clear"></div>
-</a>
-</div>
-<div class="container_info_product container_info_product_with_rating">
-<a href="/produit/386083-cartaventura_-_caravanes">
-<div class="name_product" title="Cartaventura - Caravanes">Cartaventura - Caravanes</div>
-<div class="desc_short">Cartaventura est une série de jeux de cartes narratifs et historiques. 1331, parcourez la Route de la Soie orientale en caravane à la recherche d'Ibn Batt...</div>
-</a><div class="container_move_product">
-<div class="separateur separateur_product"></div><div class="bloc_rating_product" title="Note 4.7/5, 3 avis"><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_half"></span></div><div class="bloc_preco_product"></div>
-</div>
-</div>
-<div class="block_cart "><div class="container_prices"><div class="price_product simple_price_product">12,90&nbsp;€</div></div><div class="cart">
-<div class="add_cart_btn add_cart_btn_mini">
-<form method="POST">
-<input type="hidden" aria-label="id_product" name="id_product" value="386083"><label for="386083_4"></label><select name="qty_product" aria-label="386083" class="select" id="386083_4"><option id="1" value="1">1</option><option id="2" value="2">2</option><option id="3" value="3">3</option><option id="4" value="4">4</option></select><div class="qty">(4)</div><div class="bloc_cart"><div class="bloc_each_cart_mini">
-<button type="submit" name="addToCart" value="0" class="btn addToCart tagSmallOrange tagProduct" data-localisation="0" data-id="386083" title="Ajouter au panier en livraison" alt="Ajouter au panier en livraison">
-<div class="add_cart_logo_mini"></div>
-</button>
-<div class="explain_new_btn_orange">Livraison</div>
-</div><div class="bloc_each_cart_mini">
-<div class="btn btn_store btn_violet showStoreSelect tagSmallVioletModal tagProduct" title="Choisir un magasin de retrait" alt="Choisir un magasin de retrait" data-modal-type="386083">
-<div class="add_cart_store_logo_mini"></div>
-</div>
-<div class="explain_new_btn_violet">Retrait magasin</div>
-</div><div class="select_favourite_store">
-<div class="store_nav" id="386083">
-<div class="store_nav_content">
-<span class="close">&times;</span>
-<div class="modal-title">Retirer en magasin</div>
-<ul><li class="store_list" value="1">
-<div class="bloc head_store">Playin Paris BNF</div><div class="bloc availability">
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" ">&#10004;&nbsp;Disponible sous 2h</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
-<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
-</div>
-<div class="bloc set_store_btn_bloc">
-<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="1">
-<div class="add_cart_btn_img add_cart_store_btn_img"></div>
-<div class="add_cart_text">Choisir ce magasin</div>
-</button>
-</div><div class="clear"></div>
-</li><li class="store_list" value="2">
-<div class="bloc head_store">Playin Annecy</div><div class="bloc availability">
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" ">&#10004;&nbsp;Disponible sous 2h</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
-<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
-</div>
-<div class="bloc set_store_btn_bloc">
-<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="2">
-<div class="add_cart_btn_img add_cart_store_btn_img"></div>
-<div class="add_cart_text">Choisir ce magasin</div>
-</button>
-</div><div class="clear"></div>
-</li><li class="store_list" value="3">
-<div class="bloc head_store">Playin Paris Rivoli</div><div class="bloc availability">
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" ">&#10004;&nbsp;Disponible sous 2h</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
-<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
-</div>
-<div class="bloc set_store_btn_bloc">
-<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="3">
-<div class="add_cart_btn_img add_cart_store_btn_img"></div>
-<div class="add_cart_text">Choisir ce magasin</div>
-</button>
-</div><div class="clear"></div>
-</li></ul>
-</div>
-</div>
-</div></div></form>
-</div>
-</div>
-</div>
-<div class="clear"></div>
-</div><div class="list_product_full case_product_full filterElement" data-family="5" data-sales="0">
-<div class="container_img_product">
-<a href="/produit/441190-cartaventura_odyssee_-_le_tresor_de_libertalia">
-<div class="img_product"><picture><source srcset="/img/product/m/cartaventura-odyssee-le-tresor-de-libertalia-jeu-blam-boite.webp" type="image/webp"><source srcset="/img/product/m/cartaventura-odyssee-le-tresor-de-libertalia-jeu-blam-boite.jpg" type="image/jpeg">
-<img src="/img/product/m/cartaventura-odyssee-le-tresor-de-libertalia-jeu-blam-boite.jpg" title="Cartaventura Odyssée - Le Trésor de Libertalia" alt="Cartaventura Odyssée - Le Trésor de Libertalia" loading="lazy" />
-</picture>
-</div><div class="clear"></div>
-</a>
-</div>
-<div class="container_info_product container_info_product_with_rating">
-<a href="/produit/441190-cartaventura_odyssee_-_le_tresor_de_libertalia">
-<div class="name_product" title="Cartaventura Odyssée - Le Trésor de Libertalia">Cartaventura Odyssée - Le Trésor de Libertalia</div>
-<div class="desc_short">Cartaventura Odyssée est une série de jeux de cartes narratifs pour toute la famille. Avec le Trésor de Libertalia, mettez voile sur les îles pirates !</div>
-</a><div class="container_move_product">
-<div class="separateur separateur_product"></div><div class="bloc_rating_product" title="Note 4.5/5, 2 avis"><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_half"></span></div><div class="bloc_preco_product"></div>
-</div>
-</div>
-<div class="block_cart "><div class="container_prices"><div class="price_product simple_price_product">14,90&nbsp;€</div></div><div class="cart">
-<div class="add_cart_btn add_cart_btn_mini">
-<form method="POST">
-<input type="hidden" aria-label="id_product" name="id_product" value="441190"><label for="441190_20"></label><select name="qty_product" aria-label="441190" class="select" id="441190_20"><option id="1" value="1">1</option><option id="2" value="2">2</option><option id="3" value="3">3</option><option id="4" value="4">4</option><option id="5" value="5">5</option><option id="6" value="6">6</option><option id="7" value="7">7</option><option id="8" value="8">8</option><option id="9" value="9">9</option><option id="10" value="10">10</option><option id="11" value="11">11</option><option id="12" value="12">12</option><option id="13" value="13">13</option><option id="14" value="14">14</option><option id="15" value="15">15</option><option id="16" value="16">16</option><option id="17" value="17">17</option><option id="18" value="18">18</option><option id="19" value="19">19</option><option id="20" value="20">20</option></select><div class="qty">(20)</div><div class="bloc_cart"><div class="bloc_each_cart_mini">
-<button type="submit" name="addToCart" value="0" class="btn addToCart tagSmallOrange tagProduct" data-localisation="0" data-id="441190" title="Ajouter au panier en livraison" alt="Ajouter au panier en livraison">
-<div class="add_cart_logo_mini"></div>
-</button>
-<div class="explain_new_btn_orange">Livraison</div>
-</div><div class="bloc_each_cart_mini">
-<div class="btn btn_store btn_violet showStoreSelect tagSmallVioletModal tagProduct" title="Choisir un magasin de retrait" alt="Choisir un magasin de retrait" data-modal-type="441190">
-<div class="add_cart_store_logo_mini"></div>
-</div>
-<div class="explain_new_btn_violet">Retrait magasin</div>
-</div><div class="select_favourite_store">
-<div class="store_nav" id="441190">
-<div class="store_nav_content">
-<span class="close">&times;</span>
-<div class="modal-title">Retirer en magasin</div>
-<ul><li class="store_list" value="1">
-<div class="bloc head_store">Playin Paris BNF</div><div class="bloc availability">
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" ">&#10004;&nbsp;Disponible sous 2h</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
-<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
-</div>
-<div class="bloc set_store_btn_bloc">
-<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="1">
-<div class="add_cart_btn_img add_cart_store_btn_img"></div>
-<div class="add_cart_text">Choisir ce magasin</div>
-</button>
-</div><div class="clear"></div>
-</li><li class="store_list" value="2">
-<div class="bloc head_store">Playin Annecy</div><div class="bloc availability">
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" ">&#10004;&nbsp;Disponible sous 2h</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
-<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
-</div>
-<div class="bloc set_store_btn_bloc">
-<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="2">
-<div class="add_cart_btn_img add_cart_store_btn_img"></div>
-<div class="add_cart_text">Choisir ce magasin</div>
-</button>
-</div><div class="clear"></div>
-</li><li class="store_list" value="3">
-<div class="bloc head_store">Playin Paris Rivoli</div><div class="bloc availability">
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" ">&#10004;&nbsp;Disponible sous 2h</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
-<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
-</div>
-<div class="bloc set_store_btn_bloc">
-<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="3">
-<div class="add_cart_btn_img add_cart_store_btn_img"></div>
-<div class="add_cart_text">Choisir ce magasin</div>
-</button>
-</div><div class="clear"></div>
-</li></ul>
-</div>
-</div>
-</div></div></form>
-</div>
-</div>
-</div>
-<div class="clear"></div>
-</div><div class="list_product_full case_product_full filterElement" data-family="5" data-sales="0">
-<div class="container_img_product">
-<a href="/produit/346231-cartaventura_-_lhassa">
-<div class="img_product"><picture><source srcset="/img/product/m/cartaventura-lhassa-jeu-blam-boite.webp" type="image/webp"><source srcset="/img/product/m/cartaventura-lhassa-jeu-blam-boite.jpg" type="image/jpeg">
-<img src="/img/product/m/cartaventura-lhassa-jeu-blam-boite.jpg" title="Cartaventura - Lhassa" alt="Cartaventura - Lhassa" loading="lazy" />
-</picture>
-</div><div class="clear"></div>
-</a>
-</div>
-<div class="container_info_product container_info_product_with_rating">
-<a href="/produit/346231-cartaventura_-_lhassa">
-<div class="name_product" title="Cartaventura - Lhassa">Cartaventura - Lhassa</div>
-<div class="desc_short">Cartaventura est une série de jeux de cartes narratifs et historiques. 1916, après l'enfer des tranchées, vous partez découvrir la mystérieuse cité de...</div>
-</a><div class="container_move_product">
-<div class="separateur separateur_product"></div><div class="bloc_rating_product" title="Note 4.3/5, 10 avis"><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_empty"></span></div><div class="bloc_preco_product"></div>
-</div>
-</div>
-<div class="block_cart "><div class="container_prices"><div class="price_product simple_price_product">12,90&nbsp;€</div></div><div class="cart">
-<div class="add_cart_btn add_cart_btn_mini">
-<form method="POST">
-<input type="hidden" aria-label="id_product" name="id_product" value="346231"><label for="346231_20"></label><select name="qty_product" aria-label="346231" class="select" id="346231_20"><option id="1" value="1">1</option><option id="2" value="2">2</option><option id="3" value="3">3</option><option id="4" value="4">4</option><option id="5" value="5">5</option><option id="6" value="6">6</option><option id="7" value="7">7</option><option id="8" value="8">8</option><option id="9" value="9">9</option><option id="10" value="10">10</option><option id="11" value="11">11</option><option id="12" value="12">12</option><option id="13" value="13">13</option><option id="14" value="14">14</option><option id="15" value="15">15</option><option id="16" value="16">16</option><option id="17" value="17">17</option><option id="18" value="18">18</option><option id="19" value="19">19</option><option id="20" value="20">20</option></select><div class="qty">(20)</div><div class="bloc_cart"><div class="bloc_each_cart_mini">
-<button type="submit" name="addToCart" value="0" class="btn addToCart tagSmallOrange tagProduct" data-localisation="0" data-id="346231" title="Ajouter au panier en livraison" alt="Ajouter au panier en livraison">
-<div class="add_cart_logo_mini"></div>
-</button>
-<div class="explain_new_btn_orange">Livraison</div>
-</div><div class="bloc_each_cart_mini">
-<div class="btn btn_store btn_violet showStoreSelect tagSmallVioletModal tagProduct" title="Choisir un magasin de retrait" alt="Choisir un magasin de retrait" data-modal-type="346231">
-<div class="add_cart_store_logo_mini"></div>
-</div>
-<div class="explain_new_btn_violet">Retrait magasin</div>
-</div><div class="select_favourite_store">
-<div class="store_nav" id="346231">
-<div class="store_nav_content">
-<span class="close">&times;</span>
-<div class="modal-title">Retirer en magasin</div>
-<ul><li class="store_list" value="1">
-<div class="bloc head_store">Playin Paris BNF</div><div class="bloc availability">
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" ">&#10004;&nbsp;Disponible sous 2h</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
-<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
-</div>
-<div class="bloc set_store_btn_bloc">
-<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="1">
-<div class="add_cart_btn_img add_cart_store_btn_img"></div>
-<div class="add_cart_text">Choisir ce magasin</div>
-</button>
-</div><div class="clear"></div>
-</li><li class="store_list" value="2">
-<div class="bloc head_store">Playin Annecy</div><div class="bloc availability">
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" ">&#10004;&nbsp;Disponible sous 2h</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
-<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
-</div>
-<div class="bloc set_store_btn_bloc">
-<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="2">
-<div class="add_cart_btn_img add_cart_store_btn_img"></div>
-<div class="add_cart_text">Choisir ce magasin</div>
-</button>
-</div><div class="clear"></div>
-</li><li class="store_list" value="3">
-<div class="bloc head_store">Playin Paris Rivoli</div><div class="bloc availability">
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" ">&#10004;&nbsp;Disponible sous 2h</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
-<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
-</div>
-<div class="bloc set_store_btn_bloc">
-<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="3">
-<div class="add_cart_btn_img add_cart_store_btn_img"></div>
-<div class="add_cart_text">Choisir ce magasin</div>
-</button>
-</div><div class="clear"></div>
-</li></ul>
-</div>
-</div>
-</div></div></form>
-</div>
-</div>
-</div>
-<div class="clear"></div>
-</div><div class="list_product_full case_product_full filterElement" data-family="5" data-sales="0">
-<div class="container_img_product">
-<a href="/produit/500937-cartaventura_odyssee_-_le_secret_des_pharaons">
-<div class="img_product"><picture><source srcset="/img/product/m/cartaventura-odyssee-le-secret-des-pharaons-jeu-blam-boite.webp" type="image/webp"><source srcset="/img/product/m/cartaventura-odyssee-le-secret-des-pharaons-jeu-blam-boite.jpg" type="image/jpeg">
-<img src="/img/product/m/cartaventura-odyssee-le-secret-des-pharaons-jeu-blam-boite.jpg" title="Cartaventura Odyssée - Le Secret des Pharaons" alt="Cartaventura Odyssée - Le Secret des Pharaons" loading="lazy" />
-</picture>
-</div><div class="clear"></div>
-</a>
-</div>
-<div class="container_info_product container_info_product_with_rating">
-<a href="/produit/500937-cartaventura_odyssee_-_le_secret_des_pharaons">
-<div class="name_product" title="Cartaventura Odyssée - Le Secret des Pharaons">Cartaventura Odyssée - Le Secret des Pharaons</div>
-<div class="desc_short">Cartaventura Odyssée est une série de jeux de cartes narratifs pour toute la famille. Avec le Secret des Pharaons, partez à la rencontre de l'Égypte ant...</div>
-</a><div class="container_move_product">
-<div class="separateur separateur_product"></div><div class="bloc_preco_product"></div>
-</div>
-</div>
-<div class="block_cart "><div class="container_prices"><div class="price_product simple_price_product">14,90&nbsp;€</div></div><div class="cart">
-<div class="add_cart_btn add_cart_btn_mini">
-<form method="POST">
-<input type="hidden" aria-label="id_product" name="id_product" value="500937"><label for="500937_13"></label><select name="qty_product" aria-label="500937" class="select" id="500937_13"><option id="1" value="1">1</option><option id="2" value="2">2</option><option id="3" value="3">3</option><option id="4" value="4">4</option><option id="5" value="5">5</option><option id="6" value="6">6</option><option id="7" value="7">7</option><option id="8" value="8">8</option><option id="9" value="9">9</option><option id="10" value="10">10</option><option id="11" value="11">11</option><option id="12" value="12">12</option><option id="13" value="13">13</option></select><div class="qty">(13)</div><div class="bloc_cart"><div class="bloc_each_cart_mini">
-<button type="submit" name="addToCart" value="0" class="btn addToCart tagSmallOrange tagProduct" data-localisation="0" data-id="500937" title="Ajouter au panier en livraison" alt="Ajouter au panier en livraison">
-<div class="add_cart_logo_mini"></div>
-</button>
-<div class="explain_new_btn_orange">Livraison</div>
-</div><div class="bloc_each_cart_mini">
-<div class="btn btn_store btn_violet showStoreSelect tagSmallVioletModal tagProduct" title="Choisir un magasin de retrait" alt="Choisir un magasin de retrait" data-modal-type="500937">
-<div class="add_cart_store_logo_mini"></div>
-</div>
-<div class="explain_new_btn_violet">Retrait magasin</div>
-</div><div class="select_favourite_store">
-<div class="store_nav" id="500937">
-<div class="store_nav_content">
-<span class="close">&times;</span>
-<div class="modal-title">Retirer en magasin</div>
-<ul><li class="store_list" value="1">
-<div class="bloc head_store">Playin Paris BNF</div><div class="bloc availability">
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" ">&#10004;&nbsp;Disponible sous 2h</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
-<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
-</div>
-<div class="bloc set_store_btn_bloc">
-<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="1">
-<div class="add_cart_btn_img add_cart_store_btn_img"></div>
-<div class="add_cart_text">Choisir ce magasin</div>
-</button>
-</div><div class="clear"></div>
-</li><li class="store_list" value="2">
-<div class="bloc head_store">Playin Annecy</div><div class="bloc availability">
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" ">&#10004;&nbsp;Disponible sous 2h</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
-<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
-</div>
-<div class="bloc set_store_btn_bloc">
-<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="2">
-<div class="add_cart_btn_img add_cart_store_btn_img"></div>
-<div class="add_cart_text">Choisir ce magasin</div>
-</button>
-</div><div class="clear"></div>
-</li><li class="store_list" value="3">
-<div class="bloc head_store">Playin Paris Rivoli</div><div class="bloc availability">
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" ">&#10004;&nbsp;Disponible sous 2h</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
-<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
-</div>
-<div class="bloc set_store_btn_bloc">
-<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="3">
-<div class="add_cart_btn_img add_cart_store_btn_img"></div>
-<div class="add_cart_text">Choisir ce magasin</div>
-</button>
-</div><div class="clear"></div>
-</li></ul>
-</div>
-</div>
-</div></div></form>
-</div>
-</div>
-</div>
-<div class="clear"></div>
-</div><div class="list_product_full case_product_full filterElement" data-family="5" data-sales="0">
-<div class="container_img_product">
-<a href="/produit/441804-cartaventura_-_hollywood">
-<div class="img_product"><picture><source srcset="/img/product/m/cartaventura-hollywood-jeu-blam-boite.webp" type="image/webp"><source srcset="/img/product/m/cartaventura-hollywood-jeu-blam-boite.jpg" type="image/jpeg">
-<img src="/img/product/m/cartaventura-hollywood-jeu-blam-boite.jpg" title="Cartaventura - Hollywood" alt="Cartaventura - Hollywood" loading="lazy" />
-</picture>
-</div><div class="clear"></div>
-</a>
-</div>
-<div class="container_info_product container_info_product_with_rating">
-<a href="/produit/441804-cartaventura_-_hollywood">
-<div class="name_product" title="Cartaventura - Hollywood">Cartaventura - Hollywood</div>
-<div class="desc_short">Cartaventura est une série de jeux de cartes narratifs et historiques. 1920, traversez les USA sur les traces de Chaplin, à la poursuite de vos rêves de ...</div>
-</a><div class="container_move_product">
-<div class="separateur separateur_product"></div><div class="bloc_rating_product" title="Note 5/5, 5 avis"><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_full"></span></div><div class="bloc_preco_product"></div>
-</div>
-</div>
-<div class="block_cart "><div class="container_prices"><div class="price_product simple_price_product">12,90&nbsp;€</div></div><div class="cart">
-<div class="add_cart_btn add_cart_btn_mini">
-<form method="POST">
-<input type="hidden" aria-label="id_product" name="id_product" value="441804"><label for="441804_6"></label><select name="qty_product" aria-label="441804" class="select" id="441804_6"><option id="1" value="1">1</option><option id="2" value="2">2</option><option id="3" value="3">3</option><option id="4" value="4">4</option><option id="5" value="5">5</option><option id="6" value="6">6</option></select><div class="qty">(6)</div><div class="bloc_cart"><div class="bloc_each_cart_mini">
-<button type="submit" name="addToCart" value="0" class="btn addToCart tagSmallOrange tagProduct" data-localisation="0" data-id="441804" title="Ajouter au panier en livraison" alt="Ajouter au panier en livraison">
-<div class="add_cart_logo_mini"></div>
-</button>
-<div class="explain_new_btn_orange">Livraison</div>
-</div><div class="bloc_each_cart_mini">
-<div class="btn btn_store btn_violet showStoreSelect tagSmallVioletModal tagProduct" title="Choisir un magasin de retrait" alt="Choisir un magasin de retrait" data-modal-type="441804">
-<div class="add_cart_store_logo_mini"></div>
-</div>
-<div class="explain_new_btn_violet">Retrait magasin</div>
-</div><div class="select_favourite_store">
-<div class="store_nav" id="441804">
-<div class="store_nav_content">
-<span class="close">&times;</span>
-<div class="modal-title">Retirer en magasin</div>
-<ul><li class="store_list" value="1">
-<div class="bloc head_store">Playin Paris BNF</div><div class="bloc availability">
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" ">&#10004;&nbsp;Disponible sous 2h</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
-<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
-</div>
-<div class="bloc set_store_btn_bloc">
-<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="1">
-<div class="add_cart_btn_img add_cart_store_btn_img"></div>
-<div class="add_cart_text">Choisir ce magasin</div>
-</button>
-</div><div class="clear"></div>
-</li><li class="store_list" value="2">
-<div class="bloc head_store">Playin Annecy</div><div class="bloc availability">
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" ">&#10004;&nbsp;Disponible sous 2h</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
-<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
-</div>
-<div class="bloc set_store_btn_bloc">
-<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="2">
-<div class="add_cart_btn_img add_cart_store_btn_img"></div>
-<div class="add_cart_text">Choisir ce magasin</div>
-</button>
-</div><div class="clear"></div>
-</li><li class="store_list" value="3">
-<div class="bloc head_store">Playin Paris Rivoli</div><div class="bloc availability">
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" ">&#10004;&nbsp;Disponible sous 2h</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
-<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
-</div>
-<div class="bloc set_store_btn_bloc">
-<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="3">
-<div class="add_cart_btn_img add_cart_store_btn_img"></div>
-<div class="add_cart_text">Choisir ce magasin</div>
-</button>
-</div><div class="clear"></div>
-</li></ul>
-</div>
-</div>
-</div></div></form>
-</div>
-</div>
-</div>
-<div class="clear"></div>
-</div><div class="list_product_full case_product_full filterElement" data-family="5" data-sales="0">
-<div class="container_img_product">
-<a href="/produit/347354-cartaventura_-_vinland">
-<div class="img_product"><picture><source srcset="/img/product/m/cartaventura-vinland-jeu-blam-boite.webp" type="image/webp"><source srcset="/img/product/m/cartaventura-vinland-jeu-blam-boite.jpg" type="image/jpeg">
-<img src="/img/product/m/cartaventura-vinland-jeu-blam-boite.jpg" title="Cartaventura - Vinland" alt="Cartaventura - Vinland" loading="lazy" />
-</picture>
-</div><div class="clear"></div>
-</a>
-</div>
-<div class="container_info_product container_info_product_with_rating">
-<a href="/produit/347354-cartaventura_-_vinland">
-<div class="name_product" title="Cartaventura - Vinland">Cartaventura - Vinland</div>
-<div class="desc_short">Cartaventura est une série de jeux de cartes narratifs et historiques. 998, partez en direction de l'Islande avec les Vikings sur les traces d'Erik le Roug...</div>
-</a><div class="container_move_product">
-<div class="separateur separateur_product"></div><div class="bloc_rating_product" title="Note 4.6/5, 14 avis"><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_half"></span></div><div class="bloc_preco_product"></div>
-</div>
-</div>
-<div class="block_cart "><div class="container_prices"><div class="price_product simple_price_product">12,90&nbsp;€</div></div><div class="cart">
-<div class="add_cart_btn add_cart_btn_mini">
-<form method="POST">
-<input type="hidden" aria-label="id_product" name="id_product" value="347354"><label for="347354_4"></label><select name="qty_product" aria-label="347354" class="select" id="347354_4"><option id="1" value="1">1</option><option id="2" value="2">2</option><option id="3" value="3">3</option><option id="4" value="4">4</option></select><div class="qty">(4)</div><div class="bloc_cart"><div class="bloc_each_cart_mini">
-<button type="submit" name="addToCart" value="0" class="btn addToCart tagSmallOrange tagProduct" data-localisation="0" data-id="347354" title="Ajouter au panier en livraison" alt="Ajouter au panier en livraison">
-<div class="add_cart_logo_mini"></div>
-</button>
-<div class="explain_new_btn_orange">Livraison</div>
-</div><div class="bloc_each_cart_mini">
-<div class="btn btn_store btn_violet showStoreSelect tagSmallVioletModal tagProduct" title="Choisir un magasin de retrait" alt="Choisir un magasin de retrait" data-modal-type="347354">
-<div class="add_cart_store_logo_mini"></div>
-</div>
-<div class="explain_new_btn_violet">Retrait magasin</div>
-</div><div class="select_favourite_store">
-<div class="store_nav" id="347354">
-<div class="store_nav_content">
-<span class="close">&times;</span>
-<div class="modal-title">Retirer en magasin</div>
-<ul><li class="store_list" value="1">
-<div class="bloc head_store">Playin Paris BNF</div><div class="bloc availability">
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" ">&#10004;&nbsp;Disponible sous 2h</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
-<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
-</div>
-<div class="bloc set_store_btn_bloc">
-<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="1">
-<div class="add_cart_btn_img add_cart_store_btn_img"></div>
-<div class="add_cart_text">Choisir ce magasin</div>
-</button>
-</div><div class="clear"></div>
-</li><li class="store_list" value="2">
-<div class="bloc head_store">Playin Annecy</div><div class="bloc availability">
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" ">&#10004;&nbsp;Disponible sous 2h</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
-<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
-</div>
-<div class="bloc set_store_btn_bloc">
-<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="2">
-<div class="add_cart_btn_img add_cart_store_btn_img"></div>
-<div class="add_cart_text">Choisir ce magasin</div>
-</button>
-</div><div class="clear"></div>
-</li><li class="store_list" value="3">
-<div class="bloc head_store">Playin Paris Rivoli</div><div class="bloc availability">
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" ">&#10004;&nbsp;Disponible sous 2h</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
-<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
-</div>
-<div class="bloc set_store_btn_bloc">
-<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="3">
-<div class="add_cart_btn_img add_cart_store_btn_img"></div>
-<div class="add_cart_text">Choisir ce magasin</div>
-</button>
-</div><div class="clear"></div>
-</li></ul>
-</div>
-</div>
-</div></div></form>
-</div>
-</div>
-</div>
-<div class="clear"></div>
-</div><div class="list_product_full case_product_full filterElement" data-family="5" data-sales="0">
-<div class="container_img_product">
-<a href="/produit/512478-les_trois_mousquetaires_-_lhonneur_de_la_reine">
-<div class="img_product"><picture><source srcset="/img/product/m/blam-cartaventura-les-trois-mousquetaires-l-honneur-de-la-reine-boite-de-jeu.webp" type="image/webp"><source srcset="/img/product/m/blam-cartaventura-les-trois-mousquetaires-l-honneur-de-la-reine-boite-de-jeu.jpg" type="image/jpeg">
-<img src="/img/product/m/blam-cartaventura-les-trois-mousquetaires-l-honneur-de-la-reine-boite-de-jeu.jpg" title="Les Trois Mousquetaires - L'Honneur de la Reine" alt="Les Trois Mousquetaires - L'Honneur de la Reine" loading="lazy" />
-</picture>
-</div><div class="clear"></div>
-</a>
-</div>
-<div class="container_info_product container_info_product_with_rating">
-<a href="/produit/512478-les_trois_mousquetaires_-_lhonneur_de_la_reine">
-<div class="name_product" title="Les Trois Mousquetaires - L'Honneur de la Reine">Les Trois Mousquetaires - L'Honneur de la Reine</div>
-<div class="desc_short">Retrouvez le film de Martin Bourboulon inspiré des romans de Dumas dans une aventure Cartaventura qui n'attend que vous pour prendre la place de D'Artagnan...</div>
-</a><div class="container_move_product">
-<div class="separateur separateur_product"></div><div class="bloc_preco_product"><div class="warning">!</div><div class="preco">En précommande</div></div>
-</div>
-</div>
-<div class="block_cart "><div class="container_prices"><div class="price_product simple_price_product">8,00&nbsp;€</div></div><div class="cart">
-<div class="add_cart_btn add_cart_btn_mini">
-<form method="POST">
-<input type="hidden" aria-label="id_product" name="id_product" value="512478"><label for="512478_20"></label><select name="qty_product" aria-label="512478" class="select" id="512478_20"><option id="1" value="1">1</option><option id="2" value="2">2</option><option id="3" value="3">3</option><option id="4" value="4">4</option><option id="5" value="5">5</option><option id="6" value="6">6</option><option id="7" value="7">7</option><option id="8" value="8">8</option><option id="9" value="9">9</option><option id="10" value="10">10</option><option id="11" value="11">11</option><option id="12" value="12">12</option><option id="13" value="13">13</option><option id="14" value="14">14</option><option id="15" value="15">15</option><option id="16" value="16">16</option><option id="17" value="17">17</option><option id="18" value="18">18</option><option id="19" value="19">19</option><option id="20" value="20">20</option></select><div class="qty">(20)</div><div class="bloc_cart"><div class="bloc_each_cart_mini">
-<button type="submit" name="addToCart" value="0" class="btn addToCart tagSmallOrange tagProduct" data-localisation="0" data-id="512478" title="Ajouter au panier en livraison" alt="Ajouter au panier en livraison">
-<div class="add_cart_logo_mini"></div>
-</button>
-<div class="explain_new_btn_orange">Livraison</div>
-</div><div class="bloc_each_cart_mini">
-<div class="btn btn_store btn_violet showStoreSelect tagSmallVioletModal tagProduct" title="Choisir un magasin de retrait" alt="Choisir un magasin de retrait" data-modal-type="512478">
-<div class="add_cart_store_logo_mini"></div>
-</div>
-<div class="explain_new_btn_violet">Retrait magasin</div>
-</div><div class="select_favourite_store">
-<div class="store_nav" id="512478">
-<div class="store_nav_content">
-<span class="close">&times;</span>
-<div class="modal-title">Retirer en magasin</div>
-<ul><li class="store_list" value="1">
-<div class="bloc head_store">Playin Paris BNF</div><div class="bloc availability">
-<span class="localAvailable" ">&#10004;&nbsp;Précommande</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Disponible sous 2h</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
-<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
-</div>
-<div class="bloc set_store_btn_bloc">
-<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="1">
-<div class="add_cart_btn_img add_cart_store_btn_img"></div>
-<div class="add_cart_text">Choisir ce magasin</div>
-</button>
-</div><div class="clear"></div>
-</li><li class="store_list" value="2">
-<div class="bloc head_store">Playin Annecy</div><div class="bloc availability">
-<span class="localAvailable" ">&#10004;&nbsp;Précommande</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Disponible sous 2h</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
-<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
-</div>
-<div class="bloc set_store_btn_bloc">
-<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="2">
-<div class="add_cart_btn_img add_cart_store_btn_img"></div>
-<div class="add_cart_text">Choisir ce magasin</div>
-</button>
-</div><div class="clear"></div>
-</li><li class="store_list" value="3">
-<div class="bloc head_store">Playin Paris Rivoli</div><div class="bloc availability">
-<span class="localAvailable" ">&#10004;&nbsp;Précommande</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Disponible sous 2h</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
-<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
-</div>
-<div class="bloc set_store_btn_bloc">
-<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="3">
-<div class="add_cart_btn_img add_cart_store_btn_img"></div>
-<div class="add_cart_text">Choisir ce magasin</div>
-</button>
-</div><div class="clear"></div>
-</li></ul>
-</div>
-</div>
-</div></div></form>
-</div>
-</div>
-</div>
-<div class="clear"></div>
-</div><div class="clear"></div></div><div class="tab bloc_tab tab_rating  tab bloc_tab tab_rating tab_hidden"><div class="rating_available">Merci de vous connecter afin de déposer votre avis.</div><div class="container_page_rating"><div id="page_0" class="each_pagination" data-id="0"><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_empty"></span></div><div class="username_rating">Pascal R</div><div class="valid_purchase">Achat vérifié</div><div id="user_comment_41191" class="user_comment" data-id="41191">Un Cartaventura comme les autres efficaces avec une thématique un peu moins prenante pour moi mais c&#039;est très subjectif. Les avantages (beau, éducatif, rapide, efficace, une nouvelle petite mécanique à chaque aventure) et inconvénients (ce n&#039;est clairement pas autre chose que du jeu solo, peu de réel re-jouabilité une fois <span id="dots_comment_41191" data-id="41191">...</span>
-<span id="read_more_41191" class="read_more_comment" data-id="41191">une des grosses fins atteintes) de tous Cartaventura mais personnellement j&#039;aime toujours autant le principe. <br/> </span></div><div class="container_more_less_btn">
-<div id="btn_more_41191" class="btn_more_content" data-id="41191">Voir plus</div>
-<div id="btn_less_41191" class="btn_less_content" data-id="41191">Voir moins</div>
-</div></div></div></div></div><div class="container_present_card"><div class="alert container_alert_bug">
+</div><div class="clear"></div><div class="title_ext title_all_ext">Le produit Sea Salt & Paper - Extension Extra Salt est une extension.</div></div><div class="tab bloc_tab tab_rating  tab bloc_tab tab_rating tab_hidden"><div class="rating_available">Merci de vous connecter afin de déposer votre avis.</div><div class="container_page_rating"><div id="page_0" class="each_pagination" data-id="0"><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">Margot G</div><div class="valid_purchase">Achat vérifié</div><div id="user_comment_40800" class="user_comment"></div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_empty"></span></div><div class="username_rating">STEPHANE R</div><div class="valid_purchase">Achat vérifié</div><div id="user_comment_40870" class="user_comment">Un peu cher pour 8 cartes.... mais vraiment plaisant !</div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">Tristan B</div><div class="valid_purchase">Achat vérifié</div><div id="user_comment_40901" class="user_comment"></div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">Arthur A</div><div class="valid_purchase">Achat vérifié</div><div id="user_comment_40978" class="user_comment">très bonne extension acheté à un ami</div></div></div></div></div><div class="container_present_card"><div class="alert container_alert_bug">
 <div class="toggleTarget clicOut" data-target="signal_bug">Vous souhaitez nous signaler un bug&nbsp;?</div>
 <div class="send_ok"></div>
 <div class="boxToggle clicOut alert_target signal_bug"><div class> <div class="send_ok not_connected">Vous devez être connecté pour signaler un bug</div> </div></div>
@@ -3488,12 +2881,12 @@ Yu-Gi-Oh! </div></a>
 </div> </div>
 <div class="container_main_right">
 <div class="container_select_carts col_middle">
-<section><div class="bloc_encart container_product bloc_encart_price bloc_encart_price_fidelity"><div class="bloc_price"><div class="price">12,90&nbsp;€</div></div><div class="container_fidelity_point container_recap_fidelity">
-<a href="/article/247-les_points_votre_programme_fidelite_par_playin_"><span>Gagnez jusqu'à </span><span class="bold_black">12&nbsp;<span class="img_points_fidelity_black"></span>oint(s)</span></a><div class="togglePopup clicOutPopup img_explain_fidelity_points_orange" title="Voir le détail des Points" data-target="boxTogglePopupFidelity"></div>
+<section><div class="bloc_encart container_product bloc_encart_price bloc_encart_price_fidelity"><div class="bloc_price"><div class="price">4,90&nbsp;€</div></div><div class="container_fidelity_point container_recap_fidelity">
+<a href="/article/247-les_points_votre_programme_fidelite_par_playin_"><span>Gagnez jusqu'à </span><span class="bold_black">4&nbsp;<span class="img_points_fidelity_black"></span>oint(s)</span></a><div class="togglePopup clicOutPopup img_explain_fidelity_points_orange" title="Voir le détail des Points" data-target="boxTogglePopupFidelity"></div>
 <div class="clear"></div>
 <div class="popup_fidelity_points boxTogglePopupFidelity clicOutPopup hide">
 <div class="bold_orange">Les <span class="img_points_fidelity_orange"></span>oints, votre programme de fidelité&nbsp;!</div>
-<div class="txt">1 € dépensé = 1 Point gagné&nbsp;!</div><div class="txt">Ce produit vous rapportera jusqu'à <b>12 Points</b>.</div><a href="/article/247-les_points_votre_programme_fidelite_par_playin_" class="link">En savoir plus sur les Points</a>
+<div class="txt">1 € dépensé = 1 Point gagné&nbsp;!</div><div class="txt">Ce produit vous rapportera jusqu'à <b>4 Points</b>.</div><a href="/article/247-les_points_votre_programme_fidelite_par_playin_" class="link">En savoir plus sur les Points</a>
 </div></div> <div id="container_secondhand" style="display:none">
 <div id="popup_secondhand">
 <div class="form_secondhand container_select_carts" id="info_valid_cart" style="display:none;">
@@ -3502,10 +2895,10 @@ Yu-Gi-Oh! </div></a>
 Le jeu a été ajouté au panier </div>
 </div>
 <div class="form_secondhand container_select_carts" id="popupForm">
-<img id="logo_gege" src="/img/play_back/Gégé_1_125.png" />
+<img id="logo_gege" src="/img/play_back/Gégé_2_125.png" />
 <img src="/img/play_back/Essai_logo_2_50.png" />
 <h2 class="title_secondhand">Les jeux d'occasion par Playin</h2>
-<img id="image_seconhand" src="/img/product/l/cartaventura-versailles-boite-de-jeu.jpg" title="Cartaventura - Versailles" alt="cartaventura versailles boite de jeu " />
+<img id="image_seconhand" src="/img/product/l/extra-salt-extension-sea-salt-and-paper-jeu-bombyx-booster.jpg" title="Sea Salt & Paper - Extension Extra Salt" alt="extra salt extension sea salt and paper jeu bombyx booster " />
 <form action class="form-container">
 <div id="container_select_secondhand">
 <select name="secondhand" class="select_secondhand select">
@@ -3519,7 +2912,7 @@ Le jeu a été ajouté au panier </div>
 </div>
 </div> </div><div class="bloc_encart container_product"><div class="bloc_cart_product"><div class="add_cart_btn">
 <form method="POST">
-<label for="id_product"><input type="hidden" name="id_product" value="468066"></label><select name="qty_product" class="select"><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9</option><option value="10">10</option><option value="11">11</option><option value="12">12</option></select><div class="bloc_btn"><button type="submit" name="addToCart" value="0" class="btn addToCart tagBigOrange tagProduct" data-localisation="0" data-family="5" data-id="468066">
+<label for="id_product"><input type="hidden" name="id_product" value="502744"></label><select name="qty_product" class="select"><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option><option value="17">17</option><option value="18">18</option><option value="19">19</option><option value="20">20</option></select><div class="bloc_btn"><button type="submit" name="addToCart" value="0" class="btn addToCart tagBigOrange tagProduct" data-localisation="0" data-family="5" data-id="502744">
 <div class="add_cart_btn_img"></div>
 <div class="add_cart_text">Ajouter au panier <div class="small_text">(Livraison)</div></div>
 </button></div>
@@ -3531,15 +2924,15 @@ Le jeu a été ajouté au panier </div>
 </div>
 </div><div class="bloc_shipping">
 <div class="shipping_img_gris_fonce"></div>
-<div class="container_stock">Frais de port à partir de 3,00&nbsp;€. Offert dès 35,00&nbsp;€ d'achat.</div>
+<div class="container_stock">Frais de port à partir de 2,50&nbsp;€. Offert dès 35,00&nbsp;€ d'achat.</div>
 </div><div class="filters_boardgame_product"></div></div><div class="bloc_encart bloc_encart_retrait container_product"><div class="bloc_encart container_product"><div class="bloc_cart_product"><div class="add_cart_btn">
 <form method="POST">
-<input type="hidden" name="id_product" value="468066"><div class="bloc_btn"><div class="btn btn_no_favourite btn_store btn_violet showStoreSelect" title="Choisir un magasin de retrait" alt="Choisir un magasin de retrait" data-modal-type="468066">
+<input type="hidden" name="id_product" value="502744"><div class="bloc_btn"><div class="btn btn_no_favourite btn_store btn_violet showStoreSelect" title="Choisir un magasin de retrait" alt="Choisir un magasin de retrait" data-modal-type="502744">
 <div class="add_cart_btn_img add_cart_store_btn_img"></div>
 <div class="add_cart_text">Trouver un magasin Playin</div>
 </div>
 </div><form method="post"><div class="select_favourite_store">
-<div class="store_nav" id="468066">
+<div class="store_nav" id="502744">
 <div class="store_nav_content">
 <span class="close">&times;</span>
 <div class="modal-title">Retirer en magasin</div>
@@ -3577,9 +2970,9 @@ Le jeu a été ajouté au panier </div>
 <div class="bloc head_store">Playin Paris Rivoli</div><div class="bloc availability">
 <span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
 <span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" ">&#10004;&nbsp;Disponible sous 2h</span>
+<span class="localAvailable" style="display : none">&#10004;&nbsp;Disponible sous 2h</span>
 <span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
+<span class="orderAvailable" ">&#10004;&nbsp;Sur commande (72h)</span>
 <span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
 </div>
 <div class="bloc set_store_btn_bloc">
@@ -3596,27 +2989,27 @@ Le jeu a été ajouté au panier </div>
 <div class="shipping_boutique_img_gris_fonce"></div>
 <div class="container_stock"><div>Retrait gratuit en magasin, sous 2h ou 72h selon disponibilité.</div></div>
 </div></section><div class="bloc_desc bloc_desc_mobile">
-<div class="shortdesc_product">Cartaventura est une série de jeux de cartes narratifs et historiques. En 1687, incarnez Julie d'Aubigny, une femme qui choisit de se rebeller contre son destin.</div><div class="rating_summary"><a class="onclickTab" data-tab="rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_empty"></span> 4/5
-<span class="rating_link">(1 avis clients)</span>
-</a></div><div class="container_tag_jds"><a href="/jeux_de_societe/recherche/?&player%5B%5D=1&player%5B%5D=2&player%5B%5D=3&player%5B%5D=4&player%5B%5D=5&player%5B%5D=6">
+<div class="shortdesc_product">Dans l'extension Extra Salt pour Sea Salt & Paper, découvrez 13 nouvelles cartes et leurs effets, à ajouter à votre boîte !</div><div class="rating_summary"><a class="onclickTab" data-tab="rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span> 4.75/5
+<span class="rating_link">(4 avis clients)</span>
+</a></div><div class="container_tag_jds"><a href="/jeux_de_societe/recherche/?&player%5B%5D=2&player%5B%5D=3&player%5B%5D=4">
 <div class="tag btn_grey">
 <div class="bloc">
 <div class="img_nbr_player"></div>
-<span>1 à 6 joueurs</span>
+<span>2 à 4 joueurs</span>
 </div>
 </div>
-</a><a href="/jeux_de_societe/recherche/?time%5B%5D=60">
+</a><a href="/jeux_de_societe/recherche/?time%5B%5D=30">
 <div class="tag btn_grey">
 <div class="bloc">
 <div class="img_time"></div>
-<span>Environ 1h</span>
+<span>Environ 30 min</span>
 </div>
 </div>
-</a><a href="/jeux_de_societe/recherche/?age%5B%5D=plus_10">
+</a><a href="/jeux_de_societe/recherche/?&age%5B%5D=8_10&age%5B%5D=plus_10">
 <div class="tag btn_grey">
 <div class="bloc">
 <div class="img_age"></div>
-<span>À partir de 10 ans</span>
+<span>À partir de 8 ans</span>
 </div>
 </div>
 </a><div class="tag btn_grey">
@@ -3625,25 +3018,25 @@ Le jeu a été ajouté au panier </div>
 <span>Français</span>
 </div>
 </div><div class="clear"></div>
-</div><div class="clear"></div><div class="container_tag_jds"><a href="/jeux_de_societe/recherche/?theme=Exploration+et++Dungeon+Crawler">
+</div><div class="clear"></div><div class="container_tag_jds"><a href="/jeux_de_societe/recherche/?theme=Océan">
 <div class="tag btn_grey">
 <div class="bloc">
 <div class="img_theme"></div>
-<span>Exploration et Dungeon Crawler</span>
+<span>Océan</span>
 </div>
 </div>
-</a><a href="/jeux_de_societe/recherche/?theme=Historique">
-<div class="tag btn_grey">
-<div class="bloc">
-<div class="img_theme"></div>
-<span>Historique</span>
-</div>
-</div>
-</a><a href="/jeux_de_societe/recherche/?type=Jeux+Coopératifs">
+</a><a href="/jeux_de_societe/recherche/?type=Apéro">
 <div class="tag btn_grey">
 <div class="bloc">
 <div class="img_type_game"></div>
-<span>Jeux Coopératifs</span>
+<span>Apéro</span>
+</div>
+</div>
+</a><a href="/jeux_de_societe/recherche/?type=Collection">
+<div class="tag btn_grey">
+<div class="bloc">
+<div class="img_type_game"></div>
+<span>Collection</span>
 </div>
 </div>
 </a><a href="/jeux_de_societe/recherche/?type=Jeux+de+Voyage">
@@ -3653,15 +3046,8 @@ Le jeu a été ajouté au panier </div>
 <span>Jeux de Voyage</span>
 </div>
 </div>
-</a><a href="/jeux_de_societe/recherche/?type=Narratif">
-<div class="tag btn_grey">
-<div class="bloc">
-<div class="img_type_game"></div>
-<span>Narratif</span>
-</div>
-</div>
 </a><div class="clear"></div>
-</div><div class="clear"></div><div class="clear"></div><div class="mini_img_product sliderProduct"><div class="MS-content"><div class="list_product item"><a href="/img/product/secondary/cartaventura-versailles-boite-de-jeu-dos.jpg" data-lightbox="product-set-mobile" data-title><img src="/img/product/secondary/s/cartaventura-versailles-boite-de-jeu-dos.jpg" title="Cartaventura - Versailles" alt="cartaventura versailles boite de jeu " /></a></div><div class="list_product item"><a href="/img/product/secondary/cartaventura-versailles-materiel-de-jeu.jpg" data-lightbox="product-set-mobile" data-title><img src="/img/product/secondary/s/cartaventura-versailles-materiel-de-jeu.jpg" title="Cartaventura - Versailles" alt="cartaventura versailles boite de jeu " /></a></div></div>
+</div><div class="clear"></div><div class="clear"></div><div class="mini_img_product sliderProduct"><div class="MS-content"><div class="list_product item"><a href="/img/product/secondary/sea-salt-and-paper-extension-extra-salt-cartes-de-jeu.jpg" data-lightbox="product-set-mobile" data-title><img src="/img/product/secondary/s/sea-salt-and-paper-extension-extra-salt-cartes-de-jeu.jpg" title="Sea Salt & Paper - Extension Extra Salt" alt="extra salt extension sea salt and paper jeu bombyx booster " /></a></div></div>
 <div class="MS-controls">
 <button class="MS-left"><div class="arrow_left_img"></div></button>
 <button class="MS-right"><div class="arrow_right_img"></div></button>
@@ -3669,94 +3055,84 @@ Le jeu a été ajouté au panier </div>
 <span class="line">Gamme &</span>
 <span class="line">extensions</span>
 </h2><h2 id="tab_rating" class="tab_title tab tab_rating onclickTab " data-tab="rating"><span class="long-text">Avis client</span></h2><div class="clear"></div>
-</div><div class="tab bloc_tab tab_desc tab_selected"><h2>Cartaventura - des jeux familiaux narratifs</h2>
-<p>Cartaventura est&nbsp;<strong>une s&eacute;rie des jeux de cartes &agrave; la fois historiques, narratifs et immersifs</strong>.&nbsp;<strong>Les joueurs vivent ensemble une v&eacute;ritable aventure</strong>&nbsp;li&eacute;e &agrave; l'histoire de notre monde. Des vikings aux l&eacute;gendes arthuriennes jusqu'&agrave; l'exploration de l'Himalaya, d&eacute;couvrez toutes les richesses de notre plan&egrave;te ! Chaque aventure est pr&eacute;vue pour 1-6 joueurs, d&egrave;s 10 ans et pour des parties de 30-60 minutes.</p>
-<h2>Cartaventura - d&eacute;couvrez la cour du roi Soleil</h2>
-<p>1687. Vous incarnez Julie d'Aubigny, une jeune femme de la cour destin&eacute;e &agrave; un mariage qui ne l'enchante gu&egrave;re. Allez-vous plaider votre cause aupr&egrave;s de<strong> Louis XIV</strong>, chercher le soutien des <strong>courtisans </strong>ou apprendre l'art de <strong>l'escrime </strong>pour vous &eacute;manciper ? Arpentez diff&eacute;rents chemins de l'histoire pour d&eacute;couvrir <strong>5 fins diff&eacute;rentes</strong>, et explorez l'histoire rocambolesque de la future Mademoiselle de Maupin !</p>
-<p>Chaque &eacute;pisode de Cartaventura est l'occasion de rencontrer des personnalit&eacute;s, d'en apprendre davantage sur des contextes historiques et culturels et d'&eacute;voluer dans&nbsp;<strong>un r&eacute;cit &agrave; embranchements multiples</strong>. Chaque choix que vous faites vous permettra de r&eacute;v&eacute;ler une partie des secrets de votre aventure, mais pas tous ! Rejouez et empruntez de nouveaux cheminements afin de profiter de toute la richesse de l'histoire.</p>
-<p><strong>Les plus :</strong></p>
-<ul>
-<li>des illustrations &agrave; l'aquarelle, en hommage aux plus beaux carnets de voyage</li>
-<li>construisez votre itin&eacute;raire en coop&eacute;ration en fonction de la cartographie r&eacute;v&eacute;l&eacute;e</li>
-<li>rejouez pour d&eacute;couvrir les diff&eacute;rentes fins du sc&eacute;nario</li>
-</ul>
-<p><strong>Pr&eacute;sent dans les listes suivantes :</strong></p>
-<ul>
-<li><strong><a href="../article/264-notre_top_des_meilleurs_jeux_de_societe_famille" target="_blank" rel="noopener">S&eacute;lection meilleurs jeux famille</a></strong></li>
-</ul><strong>Contenu&nbsp;:</strong>
-<ul><li>70 grandes cartes carrées</li><li>1 livret historique</li></ul><strong><i>À partir de 10 ans, de 1 à 6 joueurs et pour des parties d'environ 60 minutes.</i></strong></div><div class="tab bloc_tab tab_features tab_hidden"><table class="table_tag_jds"><tr class="container_lang tr_impair">
+</div><div class="tab bloc_tab tab_desc tab_selected"><h2>Sea Salt &amp; Paper - Extension Extra Salt</h2>
+<p>Extra Salt est <strong>une extension pour Sea Salt &amp; Paper, un jeu de cartes fun et l&eacute;ger</strong> o&ugrave; vous collectionnez des cartes illustr&eacute;es d'origamis au th&egrave;me marin. Elle ajoute de nouvelles cartes et effets. Elle se joue de 2 &agrave; 4, d&egrave;s 8 ans, pour des parties de 30 minutes environ.</p>
+<h2>De nouvelles cr&eacute;atures sous-marines en papier pli&eacute;</h2>
+<p>Extra Salt apporte de nouvelles cartes et leurs r&egrave;gles sp&eacute;ciales &agrave; vos parties. Accueillez la <strong>m&eacute;duse </strong>et son venin paralysant, le <strong>homard</strong> et le crabe qui utilisent leurs pinces, le <strong>panier de crabes</strong> pour les collectionneurs de carapaces, l'<strong>&eacute;toile de mer</strong> qui sait toujours se rendre utile et l'<strong>hippocampe</strong> qui compl&egrave;te les collections&hellip;</p>
+<p>De quoi vous faire reprendre la mer et retrouver le go&ucirc;t sal&eacute; des vacances !</p><strong>Contenu&nbsp;:</strong>
+<ul><li>13 cartes</li></ul><strong><i>À partir de 8 ans, de 2 à 4 joueurs et pour des parties d'environ 30 minutes.</i></strong></div><div class="tab bloc_tab tab_features tab_hidden"><table class="table_tag_jds"><tr class="container_lang tr_impair">
 <th scope="row">Langue</th>
 <td class="text"><div>Français</div></td>
 </tr>
 <tr class="container_player tr_pair">
 <th scope="row">Nombre de joueurs</th>
 <td class="text">
-<a href="/jeux_de_societe/recherche/?&player%5B%5D=1&player%5B%5D=2&player%5B%5D=3&player%5B%5D=4&player%5B%5D=5&player%5B%5D=6"><div>De 1 à 6 joueurs</div></a>
+<a href="/jeux_de_societe/recherche/?&player%5B%5D=2&player%5B%5D=3&player%5B%5D=4"><div>De 2 à 4 joueurs</div></a>
 </td>
 </tr>
 <tr class="container_time tr_impair">
 <th scope="row">Durée</th>
-<td class="text"><a href="/jeux_de_societe/recherche/?time%5B%5D=60"><div>60 minutes</div></a></td>
+<td class="text"><a href="/jeux_de_societe/recherche/?time%5B%5D=30"><div>30 minutes</div></a></td>
 </tr>
 <tr class="container_age tr_pair">
 <th scope="row">Âge</th>
 <td class="text">
-<a href="/jeux_de_societe/recherche/?age%5B%5D=plus_10"><div>À partir de 10 ans</div></a>
+<a href="/jeux_de_societe/recherche/?&age%5B%5D=8_10&age%5B%5D=plus_10"><div>À partir de 8 ans</div></a>
 </td>
 </tr>
 <tr class="container_theme tr_impair">
 <th scope="row">Thème(s)</th>
-<td class="text"><a href="/jeux_de_societe/recherche/?theme=Exploration+et++Dungeon+Crawler" /><div>Exploration et Dungeon Crawler</div></a></td></tr><tr class="container_theme line_repeat tr_impair"><th scope="row"></th><td class="text"><a href="/jeux_de_societe/recherche/?theme=Historique" /><div>Historique</div></a></td>
+<td class="text"><a href="/jeux_de_societe/recherche/?theme=Océan" /><div>Océan</div></a></td>
 </tr>
 <tr class="container_type tr_pair">
 <th scope="row">Type(s)</th>
-<td class="text"><a href="/jeux_de_societe/recherche/?type=Jeux+Coopératifs" /><div>Jeux Coopératifs</div></a></td></tr><tr class="container_type line_repeat"><th scope="row"></th><td class="text"><a href="/jeux_de_societe/recherche/?type=Jeux+de+Voyage" /><div>Jeux de Voyage</div></a></td></tr><tr class="container_type line_repeat"><th scope="row"></th><td class="text"><a href="/jeux_de_societe/recherche/?type=Narratif" /><div>Narratif</div></a></td>
+<td class="text"><a href="/jeux_de_societe/recherche/?type=Apéro" /><div>Apéro</div></a></td></tr><tr class="container_type line_repeat"><th scope="row"></th><td class="text"><a href="/jeux_de_societe/recherche/?type=Collection" /><div>Collection</div></a></td></tr><tr class="container_type line_repeat"><th scope="row"></th><td class="text"><a href="/jeux_de_societe/recherche/?type=Jeux+de+Voyage" /><div>Jeux de Voyage</div></a></td>
 </tr>
 <tr class="container_type tr_impair">
-<th scope="row">Gamme</th><td class="text"><div>Cartaventura</div></td></tr>
+<th scope="row">Gamme</th><td class="text"><div>Sea Salt & Paper</div></td></tr>
 <tr class="container_editor tr_pair">
 <th scope="row">Éditeur(s)</th>
-<td class="text"><div>Blam</div></td>
+<td class="text"><div>Bombyx</div></td>
 </tr>
 <tr class="container_author tr_impair">
 <th scope="row">Auteur(s)</th>
-<td class="text"><div>Peggy Chassenet</div></td></tr><tr class="container_theme line_repeat tr_impair"><th scope="row"></th><td class="text"><div>Thomas Dupont</div></td>
+<td class="text"><div>Bruno Cathala</div></td></tr><tr class="container_theme line_repeat tr_impair"><th scope="row"></th><td class="text"><div>Théo Rivière</div></td>
 </tr>
 <tr class="container_illustrator tr_pair">
 <th scope="row">Illustrateur(s)</th>
-<td class="text"><div>Guillaume Bernon</div></td></tr><tr class="container_theme line_repeat"><th scope="row"></th><td class="text"><div>Jeanne Landart</div></td>
-</tr></table></div><div class="tab bloc_tab tab_video tab bloc_tab tab_video"><div class="video"><div class="container"></div></div></div><div class="tab bloc_tab tab_ext tab_hidden tab bloc_tab tab_ext"><div class="title_ext">Le produit Cartaventura - Versailles est une boite de base.</div><div class="title_ext title_all_ext">Découvrez les autres jeux de la gamme&nbsp;:</div><div class="list_product_full case_product_full filterElement" data-family="5" data-sales="0">
+<td class="text"><div>Lucien Derainne</div></td></tr><tr class="container_theme line_repeat"><th scope="row"></th><td class="text"><div>Pierre-Yves Gallard</div></td>
+</tr></table></div><div class="tab bloc_tab tab_video tab bloc_tab tab_video"><div class="video"><div class="container"></div></div></div><div class="tab bloc_tab tab_ext tab_hidden tab bloc_tab tab_ext"><div class="title_ext">Découvrez la (ou l'une des) boite(s) de base compatibles&nbsp;:</div><div class="list_product_full case_product_full filterElement" data-family="5" data-sales="0">
 <div class="container_img_product">
-<a href="/produit/359447-cartaventura_-_oklahoma">
-<div class="img_product"><picture><source srcset="/img/product/m/cartaventura-oklahoma-jeu-blam-boite.webp" type="image/webp"><source srcset="/img/product/m/cartaventura-oklahoma-jeu-blam-boite.jpg" type="image/jpeg">
-<img src="/img/product/m/cartaventura-oklahoma-jeu-blam-boite.jpg" title="Cartaventura - Oklahoma" alt="Cartaventura - Oklahoma" loading="lazy" />
+<a href="/produit/442627-sea_salt_et_paper">
+<div class="img_product"><picture><source srcset="/img/product/m/sea-salt-and-paper-jeu-bombyx-boite.webp" type="image/webp"><source srcset="/img/product/m/sea-salt-and-paper-jeu-bombyx-boite.jpg" type="image/jpeg">
+<img src="/img/product/m/sea-salt-and-paper-jeu-bombyx-boite.jpg" title="Sea Salt & Paper" alt="Sea Salt & Paper" loading="lazy" />
 </picture>
 </div><div class="clear"></div>
 </a>
 </div>
 <div class="container_info_product container_info_product_with_rating">
-<a href="/produit/359447-cartaventura_-_oklahoma">
-<div class="name_product" title="Cartaventura - Oklahoma">Cartaventura - Oklahoma</div>
-<div class="desc_short">Cartaventura est une série de jeux de cartes narratifs et historiques. 1854, sur les traces de Bass Reeves, parcourez l'Ouest américain dans un grand pér...</div>
+<a href="/produit/442627-sea_salt_et_paper">
+<div class="name_product" title="Sea Salt & Paper">Sea Salt & Paper</div>
+<div class="desc_short">Dans Sea Salt & Paper, collectionnez les cartes représentant des origamis marins et arrêtez la manche quand vous pensez être en tête… </div>
 </a><div class="container_move_product">
-<div class="separateur separateur_product"></div><div class="bloc_rating_product" title="Note 4.7/5, 3 avis"><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_half"></span></div><div class="bloc_preco_product"></div>
+<div class="separateur separateur_product"></div><div class="bloc_rating_product" title="Note 4.8/5, 19 avis"><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_full"></span></div><div class="bloc_preco_product"></div>
 </div>
 </div>
-<div class="block_cart "><div class="container_prices"><div class="price_product simple_price_product">12,90&nbsp;€</div></div><div class="cart">
+<div class="block_cart "><div class="container_prices"><div class="price_product simple_price_product">11,90&nbsp;€</div></div><div class="cart">
 <div class="add_cart_btn add_cart_btn_mini">
 <form method="POST">
-<input type="hidden" aria-label="id_product" name="id_product" value="359447"><label for="359447_8"></label><select name="qty_product" aria-label="359447" class="select" id="359447_8"><option id="1" value="1">1</option><option id="2" value="2">2</option><option id="3" value="3">3</option><option id="4" value="4">4</option><option id="5" value="5">5</option><option id="6" value="6">6</option><option id="7" value="7">7</option><option id="8" value="8">8</option></select><div class="qty">(8)</div><div class="bloc_cart"><div class="bloc_each_cart_mini">
-<button type="submit" name="addToCart" value="0" class="btn addToCart tagSmallOrange tagProduct" data-localisation="0" data-id="359447" title="Ajouter au panier en livraison" alt="Ajouter au panier en livraison">
+<input type="hidden" aria-label="id_product" name="id_product" value="442627"><label for="442627_20"></label><select name="qty_product" aria-label="442627" class="select" id="442627_20"><option id="1" value="1">1</option><option id="2" value="2">2</option><option id="3" value="3">3</option><option id="4" value="4">4</option><option id="5" value="5">5</option><option id="6" value="6">6</option><option id="7" value="7">7</option><option id="8" value="8">8</option><option id="9" value="9">9</option><option id="10" value="10">10</option><option id="11" value="11">11</option><option id="12" value="12">12</option><option id="13" value="13">13</option><option id="14" value="14">14</option><option id="15" value="15">15</option><option id="16" value="16">16</option><option id="17" value="17">17</option><option id="18" value="18">18</option><option id="19" value="19">19</option><option id="20" value="20">20</option></select><div class="qty">(20)</div><div class="bloc_cart"><div class="bloc_each_cart_mini">
+<button type="submit" name="addToCart" value="0" class="btn addToCart tagSmallOrange tagProduct" data-localisation="0" data-id="442627" title="Ajouter au panier en livraison" alt="Ajouter au panier en livraison">
 <div class="add_cart_logo_mini"></div>
 </button>
 <div class="explain_new_btn_orange">Livraison</div>
 </div><div class="bloc_each_cart_mini">
-<div class="btn btn_store btn_violet showStoreSelect tagSmallVioletModal tagProduct" title="Choisir un magasin de retrait" alt="Choisir un magasin de retrait" data-modal-type="359447">
+<div class="btn btn_store btn_violet showStoreSelect tagSmallVioletModal tagProduct" title="Choisir un magasin de retrait" alt="Choisir un magasin de retrait" data-modal-type="442627">
 <div class="add_cart_store_logo_mini"></div>
 </div>
 <div class="explain_new_btn_violet">Retrait magasin</div>
 </div><div class="select_favourite_store">
-<div class="store_nav" id="359447">
+<div class="store_nav" id="442627">
 <div class="store_nav_content">
 <span class="close">&times;</span>
 <div class="modal-title">Retirer en magasin</div>
@@ -3813,627 +3189,7 @@ Le jeu a été ajouté au panier </div>
 </div>
 </div>
 <div class="clear"></div>
-</div><div class="list_product_full case_product_full filterElement" data-family="5" data-sales="0">
-<div class="container_img_product">
-<a href="/produit/386083-cartaventura_-_caravanes">
-<div class="img_product"><picture><source srcset="/img/product/m/cartaventura-caravanes-boite-de-jeu.webp" type="image/webp"><source srcset="/img/product/m/cartaventura-caravanes-boite-de-jeu.jpg" type="image/jpeg">
-<img src="/img/product/m/cartaventura-caravanes-boite-de-jeu.jpg" title="Cartaventura - Caravanes" alt="Cartaventura - Caravanes" loading="lazy" />
-</picture>
-</div><div class="clear"></div>
-</a>
-</div>
-<div class="container_info_product container_info_product_with_rating">
-<a href="/produit/386083-cartaventura_-_caravanes">
-<div class="name_product" title="Cartaventura - Caravanes">Cartaventura - Caravanes</div>
-<div class="desc_short">Cartaventura est une série de jeux de cartes narratifs et historiques. 1331, parcourez la Route de la Soie orientale en caravane à la recherche d'Ibn Batt...</div>
-</a><div class="container_move_product">
-<div class="separateur separateur_product"></div><div class="bloc_rating_product" title="Note 4.7/5, 3 avis"><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_half"></span></div><div class="bloc_preco_product"></div>
-</div>
-</div>
-<div class="block_cart "><div class="container_prices"><div class="price_product simple_price_product">12,90&nbsp;€</div></div><div class="cart">
-<div class="add_cart_btn add_cart_btn_mini">
-<form method="POST">
-<input type="hidden" aria-label="id_product" name="id_product" value="386083"><label for="386083_4"></label><select name="qty_product" aria-label="386083" class="select" id="386083_4"><option id="1" value="1">1</option><option id="2" value="2">2</option><option id="3" value="3">3</option><option id="4" value="4">4</option></select><div class="qty">(4)</div><div class="bloc_cart"><div class="bloc_each_cart_mini">
-<button type="submit" name="addToCart" value="0" class="btn addToCart tagSmallOrange tagProduct" data-localisation="0" data-id="386083" title="Ajouter au panier en livraison" alt="Ajouter au panier en livraison">
-<div class="add_cart_logo_mini"></div>
-</button>
-<div class="explain_new_btn_orange">Livraison</div>
-</div><div class="bloc_each_cart_mini">
-<div class="btn btn_store btn_violet showStoreSelect tagSmallVioletModal tagProduct" title="Choisir un magasin de retrait" alt="Choisir un magasin de retrait" data-modal-type="386083">
-<div class="add_cart_store_logo_mini"></div>
-</div>
-<div class="explain_new_btn_violet">Retrait magasin</div>
-</div><div class="select_favourite_store">
-<div class="store_nav" id="386083">
-<div class="store_nav_content">
-<span class="close">&times;</span>
-<div class="modal-title">Retirer en magasin</div>
-<ul><li class="store_list" value="1">
-<div class="bloc head_store">Playin Paris BNF</div><div class="bloc availability">
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" ">&#10004;&nbsp;Disponible sous 2h</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
-<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
-</div>
-<div class="bloc set_store_btn_bloc">
-<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="1">
-<div class="add_cart_btn_img add_cart_store_btn_img"></div>
-<div class="add_cart_text">Choisir ce magasin</div>
-</button>
-</div><div class="clear"></div>
-</li><li class="store_list" value="2">
-<div class="bloc head_store">Playin Annecy</div><div class="bloc availability">
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" ">&#10004;&nbsp;Disponible sous 2h</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
-<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
-</div>
-<div class="bloc set_store_btn_bloc">
-<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="2">
-<div class="add_cart_btn_img add_cart_store_btn_img"></div>
-<div class="add_cart_text">Choisir ce magasin</div>
-</button>
-</div><div class="clear"></div>
-</li><li class="store_list" value="3">
-<div class="bloc head_store">Playin Paris Rivoli</div><div class="bloc availability">
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" ">&#10004;&nbsp;Disponible sous 2h</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
-<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
-</div>
-<div class="bloc set_store_btn_bloc">
-<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="3">
-<div class="add_cart_btn_img add_cart_store_btn_img"></div>
-<div class="add_cart_text">Choisir ce magasin</div>
-</button>
-</div><div class="clear"></div>
-</li></ul>
-</div>
-</div>
-</div></div></form>
-</div>
-</div>
-</div>
-<div class="clear"></div>
-</div><div class="list_product_full case_product_full filterElement" data-family="5" data-sales="0">
-<div class="container_img_product">
-<a href="/produit/441190-cartaventura_odyssee_-_le_tresor_de_libertalia">
-<div class="img_product"><picture><source srcset="/img/product/m/cartaventura-odyssee-le-tresor-de-libertalia-jeu-blam-boite.webp" type="image/webp"><source srcset="/img/product/m/cartaventura-odyssee-le-tresor-de-libertalia-jeu-blam-boite.jpg" type="image/jpeg">
-<img src="/img/product/m/cartaventura-odyssee-le-tresor-de-libertalia-jeu-blam-boite.jpg" title="Cartaventura Odyssée - Le Trésor de Libertalia" alt="Cartaventura Odyssée - Le Trésor de Libertalia" loading="lazy" />
-</picture>
-</div><div class="clear"></div>
-</a>
-</div>
-<div class="container_info_product container_info_product_with_rating">
-<a href="/produit/441190-cartaventura_odyssee_-_le_tresor_de_libertalia">
-<div class="name_product" title="Cartaventura Odyssée - Le Trésor de Libertalia">Cartaventura Odyssée - Le Trésor de Libertalia</div>
-<div class="desc_short">Cartaventura Odyssée est une série de jeux de cartes narratifs pour toute la famille. Avec le Trésor de Libertalia, mettez voile sur les îles pirates !</div>
-</a><div class="container_move_product">
-<div class="separateur separateur_product"></div><div class="bloc_rating_product" title="Note 4.5/5, 2 avis"><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_half"></span></div><div class="bloc_preco_product"></div>
-</div>
-</div>
-<div class="block_cart "><div class="container_prices"><div class="price_product simple_price_product">14,90&nbsp;€</div></div><div class="cart">
-<div class="add_cart_btn add_cart_btn_mini">
-<form method="POST">
-<input type="hidden" aria-label="id_product" name="id_product" value="441190"><label for="441190_20"></label><select name="qty_product" aria-label="441190" class="select" id="441190_20"><option id="1" value="1">1</option><option id="2" value="2">2</option><option id="3" value="3">3</option><option id="4" value="4">4</option><option id="5" value="5">5</option><option id="6" value="6">6</option><option id="7" value="7">7</option><option id="8" value="8">8</option><option id="9" value="9">9</option><option id="10" value="10">10</option><option id="11" value="11">11</option><option id="12" value="12">12</option><option id="13" value="13">13</option><option id="14" value="14">14</option><option id="15" value="15">15</option><option id="16" value="16">16</option><option id="17" value="17">17</option><option id="18" value="18">18</option><option id="19" value="19">19</option><option id="20" value="20">20</option></select><div class="qty">(20)</div><div class="bloc_cart"><div class="bloc_each_cart_mini">
-<button type="submit" name="addToCart" value="0" class="btn addToCart tagSmallOrange tagProduct" data-localisation="0" data-id="441190" title="Ajouter au panier en livraison" alt="Ajouter au panier en livraison">
-<div class="add_cart_logo_mini"></div>
-</button>
-<div class="explain_new_btn_orange">Livraison</div>
-</div><div class="bloc_each_cart_mini">
-<div class="btn btn_store btn_violet showStoreSelect tagSmallVioletModal tagProduct" title="Choisir un magasin de retrait" alt="Choisir un magasin de retrait" data-modal-type="441190">
-<div class="add_cart_store_logo_mini"></div>
-</div>
-<div class="explain_new_btn_violet">Retrait magasin</div>
-</div><div class="select_favourite_store">
-<div class="store_nav" id="441190">
-<div class="store_nav_content">
-<span class="close">&times;</span>
-<div class="modal-title">Retirer en magasin</div>
-<ul><li class="store_list" value="1">
-<div class="bloc head_store">Playin Paris BNF</div><div class="bloc availability">
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" ">&#10004;&nbsp;Disponible sous 2h</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
-<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
-</div>
-<div class="bloc set_store_btn_bloc">
-<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="1">
-<div class="add_cart_btn_img add_cart_store_btn_img"></div>
-<div class="add_cart_text">Choisir ce magasin</div>
-</button>
-</div><div class="clear"></div>
-</li><li class="store_list" value="2">
-<div class="bloc head_store">Playin Annecy</div><div class="bloc availability">
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" ">&#10004;&nbsp;Disponible sous 2h</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
-<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
-</div>
-<div class="bloc set_store_btn_bloc">
-<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="2">
-<div class="add_cart_btn_img add_cart_store_btn_img"></div>
-<div class="add_cart_text">Choisir ce magasin</div>
-</button>
-</div><div class="clear"></div>
-</li><li class="store_list" value="3">
-<div class="bloc head_store">Playin Paris Rivoli</div><div class="bloc availability">
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" ">&#10004;&nbsp;Disponible sous 2h</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
-<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
-</div>
-<div class="bloc set_store_btn_bloc">
-<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="3">
-<div class="add_cart_btn_img add_cart_store_btn_img"></div>
-<div class="add_cart_text">Choisir ce magasin</div>
-</button>
-</div><div class="clear"></div>
-</li></ul>
-</div>
-</div>
-</div></div></form>
-</div>
-</div>
-</div>
-<div class="clear"></div>
-</div><div class="list_product_full case_product_full filterElement" data-family="5" data-sales="0">
-<div class="container_img_product">
-<a href="/produit/346231-cartaventura_-_lhassa">
-<div class="img_product"><picture><source srcset="/img/product/m/cartaventura-lhassa-jeu-blam-boite.webp" type="image/webp"><source srcset="/img/product/m/cartaventura-lhassa-jeu-blam-boite.jpg" type="image/jpeg">
-<img src="/img/product/m/cartaventura-lhassa-jeu-blam-boite.jpg" title="Cartaventura - Lhassa" alt="Cartaventura - Lhassa" loading="lazy" />
-</picture>
-</div><div class="clear"></div>
-</a>
-</div>
-<div class="container_info_product container_info_product_with_rating">
-<a href="/produit/346231-cartaventura_-_lhassa">
-<div class="name_product" title="Cartaventura - Lhassa">Cartaventura - Lhassa</div>
-<div class="desc_short">Cartaventura est une série de jeux de cartes narratifs et historiques. 1916, après l'enfer des tranchées, vous partez découvrir la mystérieuse cité de...</div>
-</a><div class="container_move_product">
-<div class="separateur separateur_product"></div><div class="bloc_rating_product" title="Note 4.3/5, 10 avis"><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_empty"></span></div><div class="bloc_preco_product"></div>
-</div>
-</div>
-<div class="block_cart "><div class="container_prices"><div class="price_product simple_price_product">12,90&nbsp;€</div></div><div class="cart">
-<div class="add_cart_btn add_cart_btn_mini">
-<form method="POST">
-<input type="hidden" aria-label="id_product" name="id_product" value="346231"><label for="346231_20"></label><select name="qty_product" aria-label="346231" class="select" id="346231_20"><option id="1" value="1">1</option><option id="2" value="2">2</option><option id="3" value="3">3</option><option id="4" value="4">4</option><option id="5" value="5">5</option><option id="6" value="6">6</option><option id="7" value="7">7</option><option id="8" value="8">8</option><option id="9" value="9">9</option><option id="10" value="10">10</option><option id="11" value="11">11</option><option id="12" value="12">12</option><option id="13" value="13">13</option><option id="14" value="14">14</option><option id="15" value="15">15</option><option id="16" value="16">16</option><option id="17" value="17">17</option><option id="18" value="18">18</option><option id="19" value="19">19</option><option id="20" value="20">20</option></select><div class="qty">(20)</div><div class="bloc_cart"><div class="bloc_each_cart_mini">
-<button type="submit" name="addToCart" value="0" class="btn addToCart tagSmallOrange tagProduct" data-localisation="0" data-id="346231" title="Ajouter au panier en livraison" alt="Ajouter au panier en livraison">
-<div class="add_cart_logo_mini"></div>
-</button>
-<div class="explain_new_btn_orange">Livraison</div>
-</div><div class="bloc_each_cart_mini">
-<div class="btn btn_store btn_violet showStoreSelect tagSmallVioletModal tagProduct" title="Choisir un magasin de retrait" alt="Choisir un magasin de retrait" data-modal-type="346231">
-<div class="add_cart_store_logo_mini"></div>
-</div>
-<div class="explain_new_btn_violet">Retrait magasin</div>
-</div><div class="select_favourite_store">
-<div class="store_nav" id="346231">
-<div class="store_nav_content">
-<span class="close">&times;</span>
-<div class="modal-title">Retirer en magasin</div>
-<ul><li class="store_list" value="1">
-<div class="bloc head_store">Playin Paris BNF</div><div class="bloc availability">
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" ">&#10004;&nbsp;Disponible sous 2h</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
-<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
-</div>
-<div class="bloc set_store_btn_bloc">
-<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="1">
-<div class="add_cart_btn_img add_cart_store_btn_img"></div>
-<div class="add_cart_text">Choisir ce magasin</div>
-</button>
-</div><div class="clear"></div>
-</li><li class="store_list" value="2">
-<div class="bloc head_store">Playin Annecy</div><div class="bloc availability">
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" ">&#10004;&nbsp;Disponible sous 2h</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
-<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
-</div>
-<div class="bloc set_store_btn_bloc">
-<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="2">
-<div class="add_cart_btn_img add_cart_store_btn_img"></div>
-<div class="add_cart_text">Choisir ce magasin</div>
-</button>
-</div><div class="clear"></div>
-</li><li class="store_list" value="3">
-<div class="bloc head_store">Playin Paris Rivoli</div><div class="bloc availability">
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" ">&#10004;&nbsp;Disponible sous 2h</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
-<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
-</div>
-<div class="bloc set_store_btn_bloc">
-<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="3">
-<div class="add_cart_btn_img add_cart_store_btn_img"></div>
-<div class="add_cart_text">Choisir ce magasin</div>
-</button>
-</div><div class="clear"></div>
-</li></ul>
-</div>
-</div>
-</div></div></form>
-</div>
-</div>
-</div>
-<div class="clear"></div>
-</div><div class="list_product_full case_product_full filterElement" data-family="5" data-sales="0">
-<div class="container_img_product">
-<a href="/produit/500937-cartaventura_odyssee_-_le_secret_des_pharaons">
-<div class="img_product"><picture><source srcset="/img/product/m/cartaventura-odyssee-le-secret-des-pharaons-jeu-blam-boite.webp" type="image/webp"><source srcset="/img/product/m/cartaventura-odyssee-le-secret-des-pharaons-jeu-blam-boite.jpg" type="image/jpeg">
-<img src="/img/product/m/cartaventura-odyssee-le-secret-des-pharaons-jeu-blam-boite.jpg" title="Cartaventura Odyssée - Le Secret des Pharaons" alt="Cartaventura Odyssée - Le Secret des Pharaons" loading="lazy" />
-</picture>
-</div><div class="clear"></div>
-</a>
-</div>
-<div class="container_info_product container_info_product_with_rating">
-<a href="/produit/500937-cartaventura_odyssee_-_le_secret_des_pharaons">
-<div class="name_product" title="Cartaventura Odyssée - Le Secret des Pharaons">Cartaventura Odyssée - Le Secret des Pharaons</div>
-<div class="desc_short">Cartaventura Odyssée est une série de jeux de cartes narratifs pour toute la famille. Avec le Secret des Pharaons, partez à la rencontre de l'Égypte ant...</div>
-</a><div class="container_move_product">
-<div class="separateur separateur_product"></div><div class="bloc_preco_product"></div>
-</div>
-</div>
-<div class="block_cart "><div class="container_prices"><div class="price_product simple_price_product">14,90&nbsp;€</div></div><div class="cart">
-<div class="add_cart_btn add_cart_btn_mini">
-<form method="POST">
-<input type="hidden" aria-label="id_product" name="id_product" value="500937"><label for="500937_13"></label><select name="qty_product" aria-label="500937" class="select" id="500937_13"><option id="1" value="1">1</option><option id="2" value="2">2</option><option id="3" value="3">3</option><option id="4" value="4">4</option><option id="5" value="5">5</option><option id="6" value="6">6</option><option id="7" value="7">7</option><option id="8" value="8">8</option><option id="9" value="9">9</option><option id="10" value="10">10</option><option id="11" value="11">11</option><option id="12" value="12">12</option><option id="13" value="13">13</option></select><div class="qty">(13)</div><div class="bloc_cart"><div class="bloc_each_cart_mini">
-<button type="submit" name="addToCart" value="0" class="btn addToCart tagSmallOrange tagProduct" data-localisation="0" data-id="500937" title="Ajouter au panier en livraison" alt="Ajouter au panier en livraison">
-<div class="add_cart_logo_mini"></div>
-</button>
-<div class="explain_new_btn_orange">Livraison</div>
-</div><div class="bloc_each_cart_mini">
-<div class="btn btn_store btn_violet showStoreSelect tagSmallVioletModal tagProduct" title="Choisir un magasin de retrait" alt="Choisir un magasin de retrait" data-modal-type="500937">
-<div class="add_cart_store_logo_mini"></div>
-</div>
-<div class="explain_new_btn_violet">Retrait magasin</div>
-</div><div class="select_favourite_store">
-<div class="store_nav" id="500937">
-<div class="store_nav_content">
-<span class="close">&times;</span>
-<div class="modal-title">Retirer en magasin</div>
-<ul><li class="store_list" value="1">
-<div class="bloc head_store">Playin Paris BNF</div><div class="bloc availability">
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" ">&#10004;&nbsp;Disponible sous 2h</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
-<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
-</div>
-<div class="bloc set_store_btn_bloc">
-<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="1">
-<div class="add_cart_btn_img add_cart_store_btn_img"></div>
-<div class="add_cart_text">Choisir ce magasin</div>
-</button>
-</div><div class="clear"></div>
-</li><li class="store_list" value="2">
-<div class="bloc head_store">Playin Annecy</div><div class="bloc availability">
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" ">&#10004;&nbsp;Disponible sous 2h</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
-<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
-</div>
-<div class="bloc set_store_btn_bloc">
-<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="2">
-<div class="add_cart_btn_img add_cart_store_btn_img"></div>
-<div class="add_cart_text">Choisir ce magasin</div>
-</button>
-</div><div class="clear"></div>
-</li><li class="store_list" value="3">
-<div class="bloc head_store">Playin Paris Rivoli</div><div class="bloc availability">
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" ">&#10004;&nbsp;Disponible sous 2h</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
-<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
-</div>
-<div class="bloc set_store_btn_bloc">
-<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="3">
-<div class="add_cart_btn_img add_cart_store_btn_img"></div>
-<div class="add_cart_text">Choisir ce magasin</div>
-</button>
-</div><div class="clear"></div>
-</li></ul>
-</div>
-</div>
-</div></div></form>
-</div>
-</div>
-</div>
-<div class="clear"></div>
-</div><div class="list_product_full case_product_full filterElement" data-family="5" data-sales="0">
-<div class="container_img_product">
-<a href="/produit/441804-cartaventura_-_hollywood">
-<div class="img_product"><picture><source srcset="/img/product/m/cartaventura-hollywood-jeu-blam-boite.webp" type="image/webp"><source srcset="/img/product/m/cartaventura-hollywood-jeu-blam-boite.jpg" type="image/jpeg">
-<img src="/img/product/m/cartaventura-hollywood-jeu-blam-boite.jpg" title="Cartaventura - Hollywood" alt="Cartaventura - Hollywood" loading="lazy" />
-</picture>
-</div><div class="clear"></div>
-</a>
-</div>
-<div class="container_info_product container_info_product_with_rating">
-<a href="/produit/441804-cartaventura_-_hollywood">
-<div class="name_product" title="Cartaventura - Hollywood">Cartaventura - Hollywood</div>
-<div class="desc_short">Cartaventura est une série de jeux de cartes narratifs et historiques. 1920, traversez les USA sur les traces de Chaplin, à la poursuite de vos rêves de ...</div>
-</a><div class="container_move_product">
-<div class="separateur separateur_product"></div><div class="bloc_rating_product" title="Note 5/5, 5 avis"><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_full"></span></div><div class="bloc_preco_product"></div>
-</div>
-</div>
-<div class="block_cart "><div class="container_prices"><div class="price_product simple_price_product">12,90&nbsp;€</div></div><div class="cart">
-<div class="add_cart_btn add_cart_btn_mini">
-<form method="POST">
-<input type="hidden" aria-label="id_product" name="id_product" value="441804"><label for="441804_6"></label><select name="qty_product" aria-label="441804" class="select" id="441804_6"><option id="1" value="1">1</option><option id="2" value="2">2</option><option id="3" value="3">3</option><option id="4" value="4">4</option><option id="5" value="5">5</option><option id="6" value="6">6</option></select><div class="qty">(6)</div><div class="bloc_cart"><div class="bloc_each_cart_mini">
-<button type="submit" name="addToCart" value="0" class="btn addToCart tagSmallOrange tagProduct" data-localisation="0" data-id="441804" title="Ajouter au panier en livraison" alt="Ajouter au panier en livraison">
-<div class="add_cart_logo_mini"></div>
-</button>
-<div class="explain_new_btn_orange">Livraison</div>
-</div><div class="bloc_each_cart_mini">
-<div class="btn btn_store btn_violet showStoreSelect tagSmallVioletModal tagProduct" title="Choisir un magasin de retrait" alt="Choisir un magasin de retrait" data-modal-type="441804">
-<div class="add_cart_store_logo_mini"></div>
-</div>
-<div class="explain_new_btn_violet">Retrait magasin</div>
-</div><div class="select_favourite_store">
-<div class="store_nav" id="441804">
-<div class="store_nav_content">
-<span class="close">&times;</span>
-<div class="modal-title">Retirer en magasin</div>
-<ul><li class="store_list" value="1">
-<div class="bloc head_store">Playin Paris BNF</div><div class="bloc availability">
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" ">&#10004;&nbsp;Disponible sous 2h</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
-<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
-</div>
-<div class="bloc set_store_btn_bloc">
-<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="1">
-<div class="add_cart_btn_img add_cart_store_btn_img"></div>
-<div class="add_cart_text">Choisir ce magasin</div>
-</button>
-</div><div class="clear"></div>
-</li><li class="store_list" value="2">
-<div class="bloc head_store">Playin Annecy</div><div class="bloc availability">
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" ">&#10004;&nbsp;Disponible sous 2h</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
-<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
-</div>
-<div class="bloc set_store_btn_bloc">
-<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="2">
-<div class="add_cart_btn_img add_cart_store_btn_img"></div>
-<div class="add_cart_text">Choisir ce magasin</div>
-</button>
-</div><div class="clear"></div>
-</li><li class="store_list" value="3">
-<div class="bloc head_store">Playin Paris Rivoli</div><div class="bloc availability">
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" ">&#10004;&nbsp;Disponible sous 2h</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
-<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
-</div>
-<div class="bloc set_store_btn_bloc">
-<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="3">
-<div class="add_cart_btn_img add_cart_store_btn_img"></div>
-<div class="add_cart_text">Choisir ce magasin</div>
-</button>
-</div><div class="clear"></div>
-</li></ul>
-</div>
-</div>
-</div></div></form>
-</div>
-</div>
-</div>
-<div class="clear"></div>
-</div><div class="list_product_full case_product_full filterElement" data-family="5" data-sales="0">
-<div class="container_img_product">
-<a href="/produit/347354-cartaventura_-_vinland">
-<div class="img_product"><picture><source srcset="/img/product/m/cartaventura-vinland-jeu-blam-boite.webp" type="image/webp"><source srcset="/img/product/m/cartaventura-vinland-jeu-blam-boite.jpg" type="image/jpeg">
-<img src="/img/product/m/cartaventura-vinland-jeu-blam-boite.jpg" title="Cartaventura - Vinland" alt="Cartaventura - Vinland" loading="lazy" />
-</picture>
-</div><div class="clear"></div>
-</a>
-</div>
-<div class="container_info_product container_info_product_with_rating">
-<a href="/produit/347354-cartaventura_-_vinland">
-<div class="name_product" title="Cartaventura - Vinland">Cartaventura - Vinland</div>
-<div class="desc_short">Cartaventura est une série de jeux de cartes narratifs et historiques. 998, partez en direction de l'Islande avec les Vikings sur les traces d'Erik le Roug...</div>
-</a><div class="container_move_product">
-<div class="separateur separateur_product"></div><div class="bloc_rating_product" title="Note 4.6/5, 14 avis"><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_half"></span></div><div class="bloc_preco_product"></div>
-</div>
-</div>
-<div class="block_cart "><div class="container_prices"><div class="price_product simple_price_product">12,90&nbsp;€</div></div><div class="cart">
-<div class="add_cart_btn add_cart_btn_mini">
-<form method="POST">
-<input type="hidden" aria-label="id_product" name="id_product" value="347354"><label for="347354_4"></label><select name="qty_product" aria-label="347354" class="select" id="347354_4"><option id="1" value="1">1</option><option id="2" value="2">2</option><option id="3" value="3">3</option><option id="4" value="4">4</option></select><div class="qty">(4)</div><div class="bloc_cart"><div class="bloc_each_cart_mini">
-<button type="submit" name="addToCart" value="0" class="btn addToCart tagSmallOrange tagProduct" data-localisation="0" data-id="347354" title="Ajouter au panier en livraison" alt="Ajouter au panier en livraison">
-<div class="add_cart_logo_mini"></div>
-</button>
-<div class="explain_new_btn_orange">Livraison</div>
-</div><div class="bloc_each_cart_mini">
-<div class="btn btn_store btn_violet showStoreSelect tagSmallVioletModal tagProduct" title="Choisir un magasin de retrait" alt="Choisir un magasin de retrait" data-modal-type="347354">
-<div class="add_cart_store_logo_mini"></div>
-</div>
-<div class="explain_new_btn_violet">Retrait magasin</div>
-</div><div class="select_favourite_store">
-<div class="store_nav" id="347354">
-<div class="store_nav_content">
-<span class="close">&times;</span>
-<div class="modal-title">Retirer en magasin</div>
-<ul><li class="store_list" value="1">
-<div class="bloc head_store">Playin Paris BNF</div><div class="bloc availability">
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" ">&#10004;&nbsp;Disponible sous 2h</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
-<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
-</div>
-<div class="bloc set_store_btn_bloc">
-<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="1">
-<div class="add_cart_btn_img add_cart_store_btn_img"></div>
-<div class="add_cart_text">Choisir ce magasin</div>
-</button>
-</div><div class="clear"></div>
-</li><li class="store_list" value="2">
-<div class="bloc head_store">Playin Annecy</div><div class="bloc availability">
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" ">&#10004;&nbsp;Disponible sous 2h</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
-<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
-</div>
-<div class="bloc set_store_btn_bloc">
-<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="2">
-<div class="add_cart_btn_img add_cart_store_btn_img"></div>
-<div class="add_cart_text">Choisir ce magasin</div>
-</button>
-</div><div class="clear"></div>
-</li><li class="store_list" value="3">
-<div class="bloc head_store">Playin Paris Rivoli</div><div class="bloc availability">
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" ">&#10004;&nbsp;Disponible sous 2h</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
-<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
-</div>
-<div class="bloc set_store_btn_bloc">
-<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="3">
-<div class="add_cart_btn_img add_cart_store_btn_img"></div>
-<div class="add_cart_text">Choisir ce magasin</div>
-</button>
-</div><div class="clear"></div>
-</li></ul>
-</div>
-</div>
-</div></div></form>
-</div>
-</div>
-</div>
-<div class="clear"></div>
-</div><div class="list_product_full case_product_full filterElement" data-family="5" data-sales="0">
-<div class="container_img_product">
-<a href="/produit/512478-les_trois_mousquetaires_-_lhonneur_de_la_reine">
-<div class="img_product"><picture><source srcset="/img/product/m/blam-cartaventura-les-trois-mousquetaires-l-honneur-de-la-reine-boite-de-jeu.webp" type="image/webp"><source srcset="/img/product/m/blam-cartaventura-les-trois-mousquetaires-l-honneur-de-la-reine-boite-de-jeu.jpg" type="image/jpeg">
-<img src="/img/product/m/blam-cartaventura-les-trois-mousquetaires-l-honneur-de-la-reine-boite-de-jeu.jpg" title="Les Trois Mousquetaires - L'Honneur de la Reine" alt="Les Trois Mousquetaires - L'Honneur de la Reine" loading="lazy" />
-</picture>
-</div><div class="clear"></div>
-</a>
-</div>
-<div class="container_info_product container_info_product_with_rating">
-<a href="/produit/512478-les_trois_mousquetaires_-_lhonneur_de_la_reine">
-<div class="name_product" title="Les Trois Mousquetaires - L'Honneur de la Reine">Les Trois Mousquetaires - L'Honneur de la Reine</div>
-<div class="desc_short">Retrouvez le film de Martin Bourboulon inspiré des romans de Dumas dans une aventure Cartaventura qui n'attend que vous pour prendre la place de D'Artagnan...</div>
-</a><div class="container_move_product">
-<div class="separateur separateur_product"></div><div class="bloc_preco_product"><div class="warning">!</div><div class="preco">En précommande</div></div>
-</div>
-</div>
-<div class="block_cart "><div class="container_prices"><div class="price_product simple_price_product">8,00&nbsp;€</div></div><div class="cart">
-<div class="add_cart_btn add_cart_btn_mini">
-<form method="POST">
-<input type="hidden" aria-label="id_product" name="id_product" value="512478"><label for="512478_20"></label><select name="qty_product" aria-label="512478" class="select" id="512478_20"><option id="1" value="1">1</option><option id="2" value="2">2</option><option id="3" value="3">3</option><option id="4" value="4">4</option><option id="5" value="5">5</option><option id="6" value="6">6</option><option id="7" value="7">7</option><option id="8" value="8">8</option><option id="9" value="9">9</option><option id="10" value="10">10</option><option id="11" value="11">11</option><option id="12" value="12">12</option><option id="13" value="13">13</option><option id="14" value="14">14</option><option id="15" value="15">15</option><option id="16" value="16">16</option><option id="17" value="17">17</option><option id="18" value="18">18</option><option id="19" value="19">19</option><option id="20" value="20">20</option></select><div class="qty">(20)</div><div class="bloc_cart"><div class="bloc_each_cart_mini">
-<button type="submit" name="addToCart" value="0" class="btn addToCart tagSmallOrange tagProduct" data-localisation="0" data-id="512478" title="Ajouter au panier en livraison" alt="Ajouter au panier en livraison">
-<div class="add_cart_logo_mini"></div>
-</button>
-<div class="explain_new_btn_orange">Livraison</div>
-</div><div class="bloc_each_cart_mini">
-<div class="btn btn_store btn_violet showStoreSelect tagSmallVioletModal tagProduct" title="Choisir un magasin de retrait" alt="Choisir un magasin de retrait" data-modal-type="512478">
-<div class="add_cart_store_logo_mini"></div>
-</div>
-<div class="explain_new_btn_violet">Retrait magasin</div>
-</div><div class="select_favourite_store">
-<div class="store_nav" id="512478">
-<div class="store_nav_content">
-<span class="close">&times;</span>
-<div class="modal-title">Retirer en magasin</div>
-<ul><li class="store_list" value="1">
-<div class="bloc head_store">Playin Paris BNF</div><div class="bloc availability">
-<span class="localAvailable" ">&#10004;&nbsp;Précommande</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Disponible sous 2h</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
-<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
-</div>
-<div class="bloc set_store_btn_bloc">
-<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="1">
-<div class="add_cart_btn_img add_cart_store_btn_img"></div>
-<div class="add_cart_text">Choisir ce magasin</div>
-</button>
-</div><div class="clear"></div>
-</li><li class="store_list" value="2">
-<div class="bloc head_store">Playin Annecy</div><div class="bloc availability">
-<span class="localAvailable" ">&#10004;&nbsp;Précommande</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Disponible sous 2h</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
-<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
-</div>
-<div class="bloc set_store_btn_bloc">
-<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="2">
-<div class="add_cart_btn_img add_cart_store_btn_img"></div>
-<div class="add_cart_text">Choisir ce magasin</div>
-</button>
-</div><div class="clear"></div>
-</li><li class="store_list" value="3">
-<div class="bloc head_store">Playin Paris Rivoli</div><div class="bloc availability">
-<span class="localAvailable" ">&#10004;&nbsp;Précommande</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Disponible sous 2h</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
-<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
-</div>
-<div class="bloc set_store_btn_bloc">
-<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="3">
-<div class="add_cart_btn_img add_cart_store_btn_img"></div>
-<div class="add_cart_text">Choisir ce magasin</div>
-</button>
-</div><div class="clear"></div>
-</li></ul>
-</div>
-</div>
-</div></div></form>
-</div>
-</div>
-</div>
-<div class="clear"></div>
-</div><div class="clear"></div></div><div class="tab bloc_tab tab_rating  tab bloc_tab tab_rating tab_hidden"><div class="rating_available">Merci de vous connecter afin de déposer votre avis.</div><div class="container_page_rating"><div id="page_0" class="each_pagination" data-id="0"><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_empty"></span></div><div class="username_rating">Pascal R</div><div class="valid_purchase">Achat vérifié</div><div id="user_comment_41191" class="user_comment" data-id="41191">Un Cartaventura comme les autres efficaces avec une thématique un peu moins prenante pour moi mais c&#039;est très subjectif. Les avantages (beau, éducatif, rapide, efficace, une nouvelle petite mécanique à chaque aventure) et inconvénients (ce n&#039;est clairement pas autre chose que du jeu solo, peu de réel re-jouabilité une fois <span id="dots_comment_41191" data-id="41191">...</span>
-<span id="read_more_41191" class="read_more_comment" data-id="41191">une des grosses fins atteintes) de tous Cartaventura mais personnellement j&#039;aime toujours autant le principe. <br/> </span></div><div class="container_more_less_btn">
-<div id="btn_more_41191" class="btn_more_content" data-id="41191">Voir plus</div>
-<div id="btn_less_41191" class="btn_less_content" data-id="41191">Voir moins</div>
-</div></div></div></div></div><div class="container_present_card"><div class="alert container_alert_bug">
+</div><div class="clear"></div><div class="title_ext title_all_ext">Le produit Sea Salt & Paper - Extension Extra Salt est une extension.</div></div><div class="tab bloc_tab tab_rating  tab bloc_tab tab_rating tab_hidden"><div class="rating_available">Merci de vous connecter afin de déposer votre avis.</div><div class="container_page_rating"><div id="page_0" class="each_pagination" data-id="0"><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">Margot G</div><div class="valid_purchase">Achat vérifié</div><div id="user_comment_40800" class="user_comment"></div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_empty"></span></div><div class="username_rating">STEPHANE R</div><div class="valid_purchase">Achat vérifié</div><div id="user_comment_40870" class="user_comment">Un peu cher pour 8 cartes.... mais vraiment plaisant !</div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">Tristan B</div><div class="valid_purchase">Achat vérifié</div><div id="user_comment_40901" class="user_comment"></div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">Arthur A</div><div class="valid_purchase">Achat vérifié</div><div id="user_comment_40978" class="user_comment">très bonne extension acheté à un ami</div></div></div></div></div><div class="container_present_card"><div class="alert container_alert_bug">
 <div class="toggleTarget clicOut" data-target="signal_bug">Vous souhaitez nous signaler un bug&nbsp;?</div>
 <div class="send_ok"></div>
 <div class="boxToggle clicOut alert_target signal_bug"><div class> <div class="send_ok not_connected">Vous devez être connecté pour signaler un bug</div> </div></div>
@@ -4456,13 +3212,13 @@ Le jeu a été ajouté au panier </div>
 <div class="bloc_encart bloc_logos_rassurants share_link_product">
 <div class="sentence_present">Envie de partager cette page&nbsp;?</div>
 <div class="container_logos_img">
-<a href="https://www.facebook.com/sharer/sharer.php?u=https://www.play-in.com/produit/468066-cartaventura_-_versailles&amp;src=sdkpreparse" class="link_fb fb-xfbml-parse-ignore" target="_blank">
-<div class="facebook" data-href="https://www.play-in.com/produit/468066-cartaventura_-_versailles" data-layout="button" data-size="large" data-mobile-iframe="true">
+<a href="https://www.facebook.com/sharer/sharer.php?u=https://www.play-in.com/produit/502744-sea_salt_et_paper_-_extension_extra_salt&amp;src=sdkpreparse" class="link_fb fb-xfbml-parse-ignore" target="_blank">
+<div class="facebook" data-href="https://www.play-in.com/produit/502744-sea_salt_et_paper_-_extension_extra_salt" data-layout="button" data-size="large" data-mobile-iframe="true">
 <div class="facebook_img"></div>
 <div class="bloc">Partager</div>
 </div>
 </a>
-<a href="https://twitter.com/share?text=Cartaventura - Versailles@Playin_by_MB&url=https://www.play-in.com/produit/468066-cartaventura_-_versailles" class="link link_twitter">
+<a href="https://twitter.com/share?text=Sea Salt & Paper - Extension Extra Salt@Playin_by_MB&url=https://www.play-in.com/produit/502744-sea_salt_et_paper_-_extension_extra_salt" class="link link_twitter">
 <div class="twitter">
 <div class="twitter_img"></div>
 <div class="bloc">Tweetter</div>
@@ -4569,7 +3325,7 @@ Le jeu a été ajouté au panier </div>
 </div>
 <div class="mb_footer mail_mb_footer">
 <div class="mail_mb_footer_img"></div>
-<div class="info_mb_footer"><a href="/cdn-cgi/l/email-protection#aecdc1c0dacfcddaeedec2cfd783c7c080cdc1c3" target="_blank"><span class="__cf_email__" data-cfemail="4d2e2223392c2e390d3d212c34602423632e2220">[email&#160;protected]</span></a></div>
+<div class="info_mb_footer"><a href="/cdn-cgi/l/email-protection#10737f7e6471736450607c71693d797e3e737f7d" target="_blank"><span class="__cf_email__" data-cfemail="264549485247455266564a475f0b4f480845494b">[email&#160;protected]</span></a></div>
 </div>
 </div>
 </div>

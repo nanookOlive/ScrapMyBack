@@ -21,6 +21,12 @@ class DessinateurRepository extends ServiceEntityRepository
         parent::__construct($registry, Dessinateur::class);
     }
 
+    public function add(Dessinateur $dessinateur){
+
+        $this->getEntityManager()->persist($dessinateur);
+        $this->getEntityManager()->flush();
+    }
+
 //    /**
 //     * @return Dessinateur[] Returns an array of Dessinateur objects
 //     */
