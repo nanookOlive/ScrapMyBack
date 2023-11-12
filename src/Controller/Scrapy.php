@@ -161,6 +161,7 @@ class Scrapy {
                     else{
 
                         $this->writeLog($name,"longDescription");
+                        break;
                     }
                 }
                 //image
@@ -174,6 +175,7 @@ class Scrapy {
                     else{
 
                         $this->writeLog($name,"image");
+                        break;
                         //on inscrit l'erreur dans les log et on break
                       
                     }
@@ -191,6 +193,7 @@ class Scrapy {
                     else{
 
                         $this->writeLog($name,"shortDescription");
+                        break;
                     }
                 }
                 //si la line = durée
@@ -206,6 +209,7 @@ class Scrapy {
                     else{
 
                         $this->writeLog($name,"duration");
+                        break;
                     }
 
                 }      
@@ -238,6 +242,7 @@ class Scrapy {
                     else{
 
                         $this->writeLog($name,'nbJouers');
+                        break;
                     }
                     
                     
@@ -255,18 +260,13 @@ class Scrapy {
                             foreach($arrayTypes[1] as $types){
 
                                 array_push($arrayResponse['types'],$types);
-                                //est ce que le type existe en base
-                                //$type=$typeRepository->findByName($type);
-                                //si type = false; alors on persist et flush
-                                // if(!$type){
-                                //     $typeRepository->add($type);
-                                // }
-                                // $game->addTypes();
+                                
                             }
                         }
                         else{
 
                             $this->writeLog($name,"types");
+                            break;
                         }
                        
                     }
@@ -283,6 +283,7 @@ class Scrapy {
                    }
                    else{
                     $this->writeLog($name,"themes");
+                    break;
                    }
                 }
 
@@ -303,6 +304,7 @@ class Scrapy {
                     else{
 
                         $this->writeLog($name,'auteurs');
+                        break;
                     }
                     
                                        
@@ -316,6 +318,7 @@ class Scrapy {
                     }
                     else{
                         $this->writeLog($name,"editeur");
+                        break;
                     }
                 }
                 
@@ -338,6 +341,7 @@ class Scrapy {
                     else{
 
                         $this->writeLog($name,'dessinateurs');
+                        break;
                     }
                     
                 }
