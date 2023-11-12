@@ -1,5 +1,6 @@
 {% extends 'base.html.twig' %}
 {% block body %}
+{{dump(data)}}
 <h3>{{data.nom}}</h3>
 <img src='{{data.image}}'>
 <p>{{data.shortDescription}}</p>
@@ -13,7 +14,7 @@
 <p>{{data.longDescription}}</p>
 <ul>les auteurs
     {% for auteur in data.auteurs %}
-            <li>{{auteur}}</li>
+            <li>{{auteur.name}}</li>
     {% endfor %}
 </ul>
 <ul>les dessinateurs
@@ -22,16 +23,12 @@
     {% endfor %}
 </ul>
 {# <ul>les thèmes
-    {% for themes in data.getThemes %}
-            <li>{{themes.name}}</li>
+    {% for theme in data.themes %}
+            <li>{{theme.name}}</li>
     {% endfor %}
 </ul> #}
 <p>de {{data.nbJoueursMin}} à {{data.nbJoueursMax}} joueurs </p>
 <p>édité par => {{data.editeur}}</p>
-<ul>les auteurs
-    {% for auteur in data.auteurs %}
-            <li>{{auteur.id}}</li>
-    {% endfor %}
-</ul>
+
 <p>à partir de {{data.age}} ans</p>
 {% endblock %}

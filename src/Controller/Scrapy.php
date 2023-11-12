@@ -7,11 +7,13 @@
  */
 namespace App\Controller;
 use  App\Entity\Game;
+use App\Entity\Theme;
 use App\Entity\Auteur;
 use App\Entity\GameTmp;
 use App\Entity\GameType;
 use App\Entity\Dessinateur;
 use App\Repository\GameRepository;
+use App\Repository\ThemeRepository;
 use App\Repository\AuteurRepository;
 use App\Repository\GameTmpRepository;
 use App\Repository\GameTypeRepository;
@@ -40,7 +42,7 @@ class Scrapy {
     );
 
     public function __construct(GameRepository $gameRepository,GameTypeRepository $typeRepo,GameTmpRepository $gameTmpRepo,
-    AuteurRepository $auteurRepo,DessinateurRepository $dessinateurRepo){
+    AuteurRepository $auteurRepo,DessinateurRepository $dessinateurRepo,ThemeRepository $themeRepo){
 
         $this->tmpFile=__DIR__."/../../docs/tmpFile.txt";
         $this->browser=new HttpBrowser(HttpClient::create());
@@ -51,6 +53,7 @@ class Scrapy {
         $this->gameTmpRepo=$gameTmpRepo;
         $this->auteurRepo=$auteurRepo;
         $this->dessinateurRepo=$dessinateurRepo;
+        $this->themeRepo=$themeRepo;
         $this->url='https://www.play-in.com/jeux_de_societe/recherche/?p=';
         
 
@@ -413,6 +416,28 @@ class Scrapy {
                 {
                     $game->addDessinateur($item);
                 }
+            } 
+            
+            //on ajoute les themes à la base si ils n'existent pas en base
+            //on ajoute à la relation game_theme
+
+
+             foreach($arrayResponse['themes'] as $nameTheme){
+
+                if(empty($this->themeRepo->findByName($nameTheme))){
+
+                    $theme=new Theme;
+                    $theme->setName($nameTheme);
+                    $this->themeRepo->add($theme);
+
+                }        
+                                   
+                $theme=$this->themeRepo->findByName($nameTheme);
+               
+                foreach($theme as $item)
+                {
+                    $game->addTheme($item);
+                }
             }
             
             
@@ -421,10 +446,7 @@ class Scrapy {
            
 
             
-            //on ajoute les themes à la base si ils n'existent pas en base
-            //on ajoute à la relation game_theme
-
-
+          
             
             
             return $game;

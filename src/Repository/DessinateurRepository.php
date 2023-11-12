@@ -26,7 +26,11 @@ class DessinateurRepository extends ServiceEntityRepository
         $this->getEntityManager()->persist($dessinateur);
         $this->getEntityManager()->flush();
     }
-
+    public function findByName(string $name)
+    {
+        $query =$this->getEntityManager()->createQuery("SELECT d FROM ".Dessinateur::class." d WHERE d.name='$name'");
+        return $query->getResult();
+    }
 //    /**
 //     * @return Dessinateur[] Returns an array of Dessinateur objects
 //     */
