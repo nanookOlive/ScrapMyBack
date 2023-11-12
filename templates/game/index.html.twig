@@ -1,0 +1,36 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Tous les jeux{% endblock %}
+
+{% block body %}
+<table class="table">
+    <thead>
+      <tr>
+        <th scope="col">Name</th>
+        <th scope="col">Voir</th></th>
+      </tr>
+    </thead>
+{% for game in allGames %}
+
+
+
+
+
+    <tbody>
+        
+        
+
+      <tr>
+        <td>{{game.id}}</td>
+        <td>{{game.name}}</td>
+        
+        
+        <td><a href={{path("app_base_show",{'id':game.id})}}><button type="button" class="btn btn-primary">Voir</button> </a></td>
+      </tr>
+
+
+      
+    </tbody>{% endfor %}
+  </table>
+
+{% endblock %}

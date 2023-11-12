@@ -348,10 +348,10 @@ class Scrapy {
                 
             
             }
-            if($this->invalide){
+            if(!$this->invalide){
 
-                dd('jeu invalide check the log');
-            }
+                //dd('jeu invalide check the log');
+           
 
             //sinon on persist et on flush le game
             $game->setImage($arrayResponse['image']);
@@ -360,8 +360,8 @@ class Scrapy {
             $game->setAge((int)$arrayResponse['age']);
             $game->setShortDescription($arrayResponse['shortDescription']);
             $game->setLongDescription($arrayResponse['longDescription']);
-            $game->setNbJoueursMax($arrayResponse['nbJoueursMax']);
-            $game->setNbJoueursMin($arrayResponse['nbJoueursMin']);
+            $game->setNbJoueursMax((int)$arrayResponse['nbJoueursMax']);
+            $game->setNbJoueursMin((int)$arrayResponse['nbJoueursMin']);
             $this->gameRepository->add($game,true);
 
             //on ajoute les types à la base si ils n'existent pas en base
@@ -407,6 +407,8 @@ class Scrapy {
             //on ajoute à la relation game_dessinateurs    
             foreach($arrayResponse['dessinateurs'] as $nameDessinateur){
 
+                $nameDessinateur=mb_convert_encoding($nameDessinateur,'UTF-8');
+
                 if(empty($this->dessinateurRepo->findByName($nameDessinateur))){
 
                     $dessinateur=new Dessinateur;
@@ -429,6 +431,7 @@ class Scrapy {
 
              foreach($arrayResponse['themes'] as $nameTheme){
 
+                $nameTheme=mb_convert_encoding($nameTheme,'UTF-8');
                 if(empty($this->themeRepo->findByName($nameTheme))){
 
                     $theme=new Theme;
@@ -447,9 +450,9 @@ class Scrapy {
             
             
             $this->gameRepository->add($game,true);
-
+        }
             
-            return $game;
+            //return $game;
         }
         //renvoie un tableau avec dans l'ordre le href, le nom, description
     public function getListGames(int $nbPagesToScrap) 

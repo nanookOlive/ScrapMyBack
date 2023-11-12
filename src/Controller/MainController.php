@@ -1,6 +1,7 @@
 <?php
 
 namespace App\Controller;
+use App\Entity\Game;
 use App\Entity\GameTmp;
 use App\Controller\Scrapy;
 use App\Repository\GameTmpRepository;
@@ -22,14 +23,21 @@ class MainController extends AbstractController
     }
 
     //méthode qui va afficher le détai d'un jeux
-    #[Route("/show/{id}",name: "app_show")]
-    public function show(GameTmp $gameTmp,Scrapy $scrapy){
+    #[Route("/scrapyDo",name: "app_scrapyDo")]
+    public function show(Scrapy $scrapy,GameTmpRepository $gameRepo){
 
 
         set_time_limit(0);//le temps de passé à rercher peut être long
         //on veut éviter de le processus s'arreter avant la fin de la recherche
-        $game=$scrapy->crawlerDetail($gameTmp);
-        return $this->render("main/show.html.twig",['data'=>$game]);
+        $arrayGameTmp=$gameRepo->findAll();
+
+        foreach($arrayGameTmp as $gameTmp){
+
+                $game=$scrapy->crawlerDetail($gameTmp);
+
+        }
+       
+        return $this->render("main/resultat.html.twig");
     }
 
     //route qui va créer un ensemble de jeux temporaires en base de données
