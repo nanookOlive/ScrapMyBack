@@ -2,15 +2,13 @@
 
 namespace App\Entity;
 
-use App\Repository\GameTypeRepository;
+use App\Repository\TypeRepository;
 use Doctrine\Common\Collections\ArrayCollection;
 use Doctrine\Common\Collections\Collection;
 use Doctrine\ORM\Mapping as ORM;
-use Symfony\Component\Validator\Constraints as Assert;
 
-#[ORM\Entity(repositoryClass: GameTypeRepository::class)]
-#[UniqueEntity('name')]
-class GameType
+#[ORM\Entity(repositoryClass: TypeRepository::class)]
+class Type
 {
     #[ORM\Id]
     #[ORM\GeneratedValue]
@@ -18,15 +16,14 @@ class GameType
     private ?int $id = null;
 
     #[ORM\Column(length: 255)]
-    #[Assert\Unique]
     private ?string $name = null;
 
-    #[ORM\ManyToMany(targetEntity: Game::class, inversedBy: 'gameTypes')]
-    private Collection $Game;
+    #[ORM\ManyToMany(targetEntity: Game::class, inversedBy: 'types')]
+    private Collection $game;
 
     public function __construct()
     {
-        $this->Game = new ArrayCollection();
+        $this->game = new ArrayCollection();
     }
 
     public function getId(): ?int
@@ -45,19 +42,23 @@ class GameType
 
         return $this;
     }
+    public function __toString(){
+
+        $this->getName();
+    }
 
     /**
      * @return Collection<int, Game>
      */
     public function getGame(): Collection
     {
-        return $this->Game;
+        return $this->game;
     }
 
     public function addGame(Game $game): static
     {
-        if (!$this->Game->contains($game)) {
-            $this->Game->add($game);
+        if (!$this->game->contains($game)) {
+            $this->game->add($game);
         }
 
         return $this;
@@ -65,7 +66,7 @@ class GameType
 
     public function removeGame(Game $game): static
     {
-        $this->Game->removeElement($game);
+        $this->game->removeElement($game);
 
         return $this;
     }

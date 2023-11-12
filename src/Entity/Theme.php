@@ -42,6 +42,10 @@ class Theme
 
         return $this;
     }
+    public function __toString(){
+
+        $this->getName();
+    }
 
     /**
      * @return Collection<int, Game>
@@ -65,10 +69,5 @@ class Theme
         $this->game->removeElement($game);
 
         return $this;
-    }
-
-    public function __toString(){
-
-        $this->getName();
     }
 }

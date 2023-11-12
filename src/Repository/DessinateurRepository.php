@@ -21,38 +21,18 @@ class DessinateurRepository extends ServiceEntityRepository
         parent::__construct($registry, Dessinateur::class);
     }
 
-    public function add(Dessinateur $dessinateur){
-
+    public function add(Dessinateur $dessinateur, bool $flush = false): void
+    {
         $this->getEntityManager()->persist($dessinateur);
-        $this->getEntityManager()->flush();
+
+        if ($flush) {
+            $this->getEntityManager()->flush();
+        }
     }
     public function findByName(string $name)
     {
         $query =$this->getEntityManager()->createQuery("SELECT d FROM ".Dessinateur::class." d WHERE d.name='$name'");
         return $query->getResult();
     }
-//    /**
-//     * @return Dessinateur[] Returns an array of Dessinateur objects
-//     */
-//    public function findByExampleField($value): array
-//    {
-//        return $this->createQueryBuilder('d')
-//            ->andWhere('d.exampleField = :val')
-//            ->setParameter('val', $value)
-//            ->orderBy('d.id', 'ASC')
-//            ->setMaxResults(10)
-//            ->getQuery()
-//            ->getResult()
-//        ;
-//    }
 
-//    public function findOneBySomeField($value): ?Dessinateur
-//    {
-//        return $this->createQueryBuilder('d')
-//            ->andWhere('d.exampleField = :val')
-//            ->setParameter('val', $value)
-//            ->getQuery()
-//            ->getOneOrNullResult()
-//        ;
-//    }
 }

@@ -1,12 +1,11 @@
 {% extends 'base.html.twig' %}
 {% block body %}
-{{dump(data)}}
-<h3>{{data.nom}}</h3>
+<h3>{{data.name}}</h3>
 <img src='{{data.image}}'>
 <p>{{data.shortDescription}}</p>
 
 <ul>les types
-    {% for type in data.gameTypes %}
+    {% for type in data.Types %}
         <li>{{type.name}}</li>
     {% endfor %}
 </ul>
@@ -22,11 +21,11 @@
             <li>{{dessinateur}}</li>
     {% endfor %}
 </ul>
-{# <ul>les thèmes
+<ul>les thèmes
     {% for theme in data.themes %}
             <li>{{theme.name}}</li>
     {% endfor %}
-</ul> #}
+</ul>
 <p>de {{data.nbJoueursMin}} à {{data.nbJoueursMax}} joueurs </p>
 <p>édité par => {{data.editeur}}</p>
 

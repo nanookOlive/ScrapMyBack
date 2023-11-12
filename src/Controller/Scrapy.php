@@ -6,6 +6,7 @@
  * avec un ensemble de méthodes 
  */
 namespace App\Controller;
+use App\Entity\Type;
 use  App\Entity\Game;
 use App\Entity\Theme;
 use App\Entity\Auteur;
@@ -13,10 +14,10 @@ use App\Entity\GameTmp;
 use App\Entity\GameType;
 use App\Entity\Dessinateur;
 use App\Repository\GameRepository;
+use App\Repository\TypeRepository;
 use App\Repository\ThemeRepository;
 use App\Repository\AuteurRepository;
 use App\Repository\GameTmpRepository;
-use App\Repository\GameTypeRepository;
 use App\Repository\DessinateurRepository;
 use Doctrine\Persistence\ManagerRegistry;
 use Symfony\Component\DomCrawler\Crawler;
@@ -41,7 +42,7 @@ class Scrapy {
         'href'=>["line"=>'/^<a\shref="\/produit\/\d+/',"itemInLine"=>'/"(.*)"/']  
     );
 
-    public function __construct(GameRepository $gameRepository,GameTypeRepository $typeRepo,GameTmpRepository $gameTmpRepo,
+    public function __construct(GameRepository $gameRepository,TypeRepository $typeRepo,GameTmpRepository $gameTmpRepo,
     AuteurRepository $auteurRepo,DessinateurRepository $dessinateurRepo,ThemeRepository $themeRepo){
 
         $this->tmpFile=__DIR__."/../../docs/tmpFile.txt";
@@ -90,7 +91,7 @@ class Scrapy {
 
             $name=$gameTmp->getName();
             $game = new Game();
-            $game->setNom($name);
+            $game->setName($name);
 
             $this->invalide=FALSE;
             $this->browser->request('GET','https://play-in.com/'.$gameTmp->getHref());//la ressource browser
@@ -357,7 +358,7 @@ class Scrapy {
             $game->setLongDescription($arrayResponse['longDescription']);
             $game->setNbJoueursMax($arrayResponse['nbJoueursMax']);
             $game->setNbJoueursMin($arrayResponse['nbJoueursMin']);
-            $this->gameRepository->add($game);
+            $this->gameRepository->add($game,true);
 
             //on ajoute les types à la base si ils n'existent pas en base
             //on ajoute à la relation game_types
@@ -366,16 +367,16 @@ class Scrapy {
                     
                 if(empty($this->typeRepo->findByName($name))){
 
-                    $type=new GameType;
+                    $type=new Type;
                     $type->setName($name);
-                    $this->typeRepo->add($type);
+                    $this->typeRepo->add($type,true);
 
                     
                 }                               
                 $type=$this->typeRepo->findByName($name);
                 foreach($type as $item)
                 {
-                    $game->addGameType($item);
+                    $game->addType($item,true);
 
                 }
             }
@@ -388,14 +389,14 @@ class Scrapy {
 
                     $auteur=new Auteur;
                     $auteur->setName($nameAuteur);
-                    $this->auteurRepo->add($auteur);
+                    $this->auteurRepo->add($auteur,true);
 
                 }                               
                 $auteur=$this->auteurRepo->findByName($nameAuteur);
                
                 foreach($auteur as $item)
                 {
-                    $game->addAuteur($item);
+                    $game->addAuteur($item,true);
                 }
             }
             //on ajoute les dessinateurs à la base si ils n'existent pas en base
@@ -406,7 +407,7 @@ class Scrapy {
 
                     $dessinateur=new Dessinateur;
                     $dessinateur->setName($nameDessinateur);
-                    $this->dessinateurRepo->add($dessinateur);
+                    $this->dessinateurRepo->add($dessinateur,true);
 
                 }        
                                    
@@ -414,7 +415,7 @@ class Scrapy {
                
                 foreach($dessinateur as $item)
                 {
-                    $game->addDessinateur($item);
+                    $game->addDessinateur($item,true);
                 }
             } 
             
@@ -428,7 +429,7 @@ class Scrapy {
 
                     $theme=new Theme;
                     $theme->setName($nameTheme);
-                    $this->themeRepo->add($theme);
+                    $this->themeRepo->add($theme,true);
 
                 }        
                                    
@@ -436,18 +437,13 @@ class Scrapy {
                
                 foreach($theme as $item)
                 {
-                    $game->addTheme($item);
+                    $game->addTheme($item,true);
                 }
             }
             
             
-            $this->gameRepository->add($game);
+            $this->gameRepository->add($game,true);
 
-           
-
-            
-          
-            
             
             return $game;
         }

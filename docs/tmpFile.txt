@@ -7,11 +7,11 @@
             function gtag(){dataLayer.push(arguments);}
             gtag("js", new Date());
             gtag("config", "G-4ZGZBRWKLF");
-        </script> <title>Perspectives - Acheter vos Jeux de société en famille &amp; entre amis - Playin by Magic Bazar</title>
+        </script> <title>Planet Unknown - Acheter vos Jeux de société en famille &amp; entre amis - Playin by Magic Bazar</title>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta name="robots" content="index,follow">
 <meta name="rating" content="general">
-<meta name="Description" content="Dans Perspectives, étudiez la scène depuis votre point de vue et communiquez chacun vos indices pour trouver ensemble la clé de l&#039;énigme.">
+<meta name="Description" content="Dans Planet Unknown, terraformez votre planète à coups de polyominos et faites-en le meilleur endroit pour accueillir l&#039;Humanité ! Serez-vous à la hauteur ?">
 <meta content="7 days" name="revisit-after">
 <meta name="Author" content="Playin by Magic Bazar">
 <meta name="Identifier-URL" Content=" https://www.play-in.com">
@@ -26,11 +26,11 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=6">
 
-<meta property="og:title" content="Perspectives - Acheter vos Jeux de société en famille &amp; entre amis - Playin by Magic Bazar" />
+<meta property="og:title" content="Planet Unknown - Acheter vos Jeux de société en famille &amp; entre amis - Playin by Magic Bazar" />
 <meta property="og:type" content="product" />
-<meta property="og:url" content="https://www.play-in.com/produit/506056-perspectives" />
-<meta property="og:image" content="https://www.play-in.com/img/product/l/perspectives-jeu-space-cowboys-boite.jpg" />
-<meta property="og:description" content="Dans Perspectives, étudiez la scène depuis votre point de vue et communiquez chacun vos indices pour trouver ensemble la clé de l&#039;énigme." />
+<meta property="og:url" content="https://www.play-in.com/produit/479334-planet_unknown" />
+<meta property="og:image" content="https://www.play-in.com/img/product/l/planet-unknown-boite-de-jeu.jpg" />
+<meta property="og:description" content="Dans Planet Unknown, terraformez votre planète à coups de polyominos et faites-en le meilleur endroit pour accueillir l&#039;Humanité ! Serez-vous à la hauteur ?" />
 <meta property="og:app_id" content="936206876519095" />
 
 <script>
@@ -59,49 +59,32 @@
             {
             "@context": "http://schema.org",
                 "@type": "Product",
-                    "name":"Perspectives",
-                    "description":"Dans Perspectives, étudiez la scène depuis votre point de vue et communiquez chacun vos indices pour trouver ensemble la clé de l&#039;énigme.",
-                    "image":"https://www.play-in.com/img/product/l/perspectives-jeu-space-cowboys-boite.jpg",
+                    "name":"Planet Unknown",
+                    "description":"Dans Planet Unknown, terraformez votre planète à coups de polyominos et faites-en le meilleur endroit pour accueillir l&#039;Humanité ! Serez-vous à la hauteur ?",
+                    "image":"https://www.play-in.com/img/product/l/planet-unknown-boite-de-jeu.jpg",
                     "brand": "",
-                    "gtin14": "03558380105657",
-                "aggregateRating": {
-                    "@type": "AggregateRating",
-                    "ratingValue": "5",
-                    "reviewCount": "1"
-                },
-                "review": 
-                    [{
-                        "@type": "Review",
-                        "url":"https://www.play-in.com/produit/506056-perspectives",
-                        "author": "Aurélien V",
-                        "datePublished": "2023-10-31 12:54:00",
-                        "reviewBody": "Un jeu d&#039;enquête très original, où la communication entre les joueurs est très importante. Le matériel est très réussi, et les scénarios sont très bons et bien écrits.",
-                        "reviewRating": {
-                        "@type": "Rating",
-                        "ratingValue": "5"
-                        }
-                    }],
+                    "gtin14": "03760243851704",
             "offers":{
                 "@type":"Offer",
                     "priceCurrency":"EUR",
                     "availability":"InStock",
                     "availability_date":"",
-                    "price":"31.90",
-                    "availableAtOrFrom":"/produit/506056-perspectives",
+                    "price":"59.90",
+                    "availableAtOrFrom":"/produit/479334-planet_unknown",
                     "itemCondition":"NewCondition",
                     "priceValidUntil":"",
-                    "url":"https://www.play-in.com/produit/506056-perspectives"
+                    "url":"https://www.play-in.com/produit/479334-planet_unknown"
             }
         }
         </script><script>
 	dataLayer.push({
 		'PageType': 'product',
-        'id': '506056',
-        'name': 'Perspectives',
+        'id': '479334',
+        'name': 'Planet Unknown',
         'category': 'En famille et entre amis',
-        'price': '31.90'
+        'price': '59.90'
 	});
-</script> <link rel="canonical" href="https://www.play-in.com/produit/506056-perspectives">
+</script> <link rel="canonical" href="https://www.play-in.com/produit/479334-planet_unknown">
 <link rel="icon" type="image/ico" href="/favicon.ico" /><link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
 
 <link rel="dns-prefetch" href="https://unpkg.com/multiple-select@1.3.1/dist/multiple-select.min.css" as="style" />
@@ -137,7 +120,7 @@
 <link rel="dns-prefetch" href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" as="style" crossorigin="anonymous">
 <link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">
-<link rel="alternate" hreflang="en" href="https://en.play-in.com/produit/506056-perspectives" /><link rel="alternate" hreflang="fr" href="https://www.play-in.com/produit/506056-perspectives" /><link rel="alternate" hreflang="x-default" href="https://www.play-in.com/produit/506056-perspectives" />
+<link rel="alternate" hreflang="en" href="https://en.play-in.com/produit/479334-planet_unknown" /><link rel="alternate" hreflang="fr" href="https://www.play-in.com/produit/479334-planet_unknown" /><link rel="alternate" hreflang="x-default" href="https://www.play-in.com/produit/479334-planet_unknown" />
 <script type="text/javascript" src="/js/tarteaucitron/tarteaucitron.js?v=15"></script>
 <script type="text/javascript">
             tarteaucitron.init({
@@ -281,13 +264,13 @@
 <div class="clear"></div>
 <div class="pwd_lost"><a href="/user/forgot.php">Mot de passe perdu ?</a></div>
 <input type="submit" value="Me connecter" class="btn connexion_account" data-user="username_popup" data-pwd="pwd_popup" data-popup="true" name="_submit_login">
-<a href="https://www.facebook.com/v3.2/dialog/oauth?scope=email&amp;state=b598c8b756a3de2abb6a7c7305ccc1c9&amp;response_type=code&amp;approval_prompt=auto&amp;redirect_uri=https%3A%2F%2Fwww.play-in.com%2Fuser%2Ffb_callback.php&amp;client_id=936206876519095">
+<a href="https://www.facebook.com/v3.2/dialog/oauth?scope=email&amp;state=93aba1583d3feb9cbc51236ced6c7e01&amp;response_type=code&amp;approval_prompt=auto&amp;redirect_uri=https%3A%2F%2Fwww.play-in.com%2Fuser%2Ffb_callback.php&amp;client_id=936206876519095">
 <div class="btn_facebook">
 <div class="facebook_img"></div>
 Me connecter
 </div>
 </a>
-<input type="hidden" name="redirect" value="../produit/506056-perspectives">
+<input type="hidden" name="redirect" value="../produit/479334-planet_unknown">
 <div id="g_id_onload" data-client_id="352511216272-q0kmev906091sein9bohqbcvjfa8jvcr.apps.googleusercontent.com" data-context="signin" data-ux_mode="popup" data-auto_prompt="false" data-callback="googleSignIn">
 </div>
 <div class="g_id_signin" style="margin-top: 5px;" data-type="standard" data-size="medium" data-text="signin" data-width="182" data-onsuccess="googleSignIn">
@@ -298,7 +281,7 @@ Me connecter
 <a href="/user/signin.php"><div class="btn_account">Créer un compte</div></a></div>
 </div>
 </div><div class="header_container_flag">
-<a href="https://en.play-in.com/produit/506056-perspectives">
+<a href="https://en.play-in.com/produit/479334-planet_unknown">
 <div class="header_flag_en" title="Playin by Magic Bazar in english" alt="Playin by Magic Bazar in english"></div>
 </a>
 <a href="#">
@@ -324,7 +307,7 @@ Me connecter
 <a href="#">
 <div class="flag_header_mobile_fr" title="Playin by Magic Bazar en français" alt="Playin by Magic Bazar en français"></div>
 </a>
-<a href="https://en.play-in.com/produit/506056-perspectives">
+<a href="https://en.play-in.com/produit/479334-planet_unknown">
 <div class="flag_header_mobile_en" title="Playin by Magic Bazar in english" alt="Playin by Magic Bazar in english"></div>
 </a>
 </div>
@@ -377,13 +360,13 @@ Me connecter
 <div class="clear"></div>
 <div class="pwd_lost"><a href="/user/forgot.php">Mot de passe perdu ?</a></div>
 <input type="submit" value="Me connecter" class="btn connexion_account" data-user="username_popup" data-pwd="pwd_popup" data-popup="true" name="_submit_login">
-<a href="https://www.facebook.com/v3.2/dialog/oauth?scope=email&amp;state=b598c8b756a3de2abb6a7c7305ccc1c9&amp;response_type=code&amp;approval_prompt=auto&amp;redirect_uri=https%3A%2F%2Fwww.play-in.com%2Fuser%2Ffb_callback.php&amp;client_id=936206876519095">
+<a href="https://www.facebook.com/v3.2/dialog/oauth?scope=email&amp;state=93aba1583d3feb9cbc51236ced6c7e01&amp;response_type=code&amp;approval_prompt=auto&amp;redirect_uri=https%3A%2F%2Fwww.play-in.com%2Fuser%2Ffb_callback.php&amp;client_id=936206876519095">
 <div class="btn_facebook">
 <div class="facebook_img"></div>
 Me connecter
 </div>
 </a>
-<input type="hidden" name="redirect" value="../produit/506056-perspectives">
+<input type="hidden" name="redirect" value="../produit/479334-planet_unknown">
 <div id="g_id_onload" data-client_id="352511216272-q0kmev906091sein9bohqbcvjfa8jvcr.apps.googleusercontent.com" data-context="signin" data-ux_mode="popup" data-auto_prompt="false" data-callback="googleSignIn">
 </div>
 <div class="g_id_signin" style="margin-top: 5px;" data-type="standard" data-size="medium" data-text="signin" data-width="182" data-onsuccess="googleSignIn">
@@ -394,7 +377,7 @@ Me connecter
 <a href="/user/signin.php"><div class="btn_account">Créer un compte</div></a></div>
 </div>
 </div><div class="header_container_flag">
-<a href="https://en.play-in.com/produit/506056-perspectives">
+<a href="https://en.play-in.com/produit/479334-planet_unknown">
 <div class="header_flag_en" title="Playin by Magic Bazar in english" alt="Playin by Magic Bazar in english"></div>
 </a>
 <a href="#">
@@ -2616,134 +2599,154 @@ Yu-Gi-Oh! </div></a>
 <a href="/"><div>Accueil</div></a><a href="/jeux_de_societe/"><div class="breadcrumbs_img"></div>
 <div>Jeux de société</div></a><a href="/jeux_de_societe/categorie/7-en_famille_et_entre_amis"><div class="breadcrumbs_img"></div>
 <div>En famille et entre amis</div></a></div>
-<div id="container_present_product" class="container_present_product" data-id="506056">
+<div id="container_present_product" class="container_present_product" data-id="479334">
 <div class="return_msg_bag"></div>
 <div class="container_main_left">
 <div class="col_left"><div class="big_img_product ">
-<a class href="/img/product/perspectives-jeu-space-cowboys-boite.jpg" data-lightbox="product-set" data-title>
+<a class href="/img/product/planet-unknown-boite-de-jeu.jpg" data-lightbox="product-set" data-title>
 <div class="main_img_product">
-<picture><source srcset="/img/product/l/perspectives-jeu-space-cowboys-boite.webp" type="image/webp"><source srcset="/img/product/l/perspectives-jeu-space-cowboys-boite.jpg" type="image/jpeg">
-<img src="/img/product/l/perspectives-jeu-space-cowboys-boite.jpg" title="Perspectives" alt="perspectives jeu space cowboys boite " />
+<picture><source srcset="/img/product/l/planet-unknown-boite-de-jeu.webp" type="image/webp"><source srcset="/img/product/l/planet-unknown-boite-de-jeu.jpg" type="image/jpeg">
+<img src="/img/product/l/planet-unknown-boite-de-jeu.jpg" title="Planet Unknown" alt="planet unknown boite de jeu " />
 </picture>
 </div>
 </a>
 </div><div class="big_img_product big_img_product_mobile ">
-<a class href="/img/product/perspectives-jeu-space-cowboys-boite.jpg" data-lightbox="product-set-mobile" data-title>
+<a class href="/img/product/planet-unknown-boite-de-jeu.jpg" data-lightbox="product-set-mobile" data-title>
 <div class="main_img_product">
-<img src="/img/product/l/perspectives-jeu-space-cowboys-boite.jpg" title="Perspectives" alt="perspectives jeu space cowboys boite " />
+<img src="/img/product/l/planet-unknown-boite-de-jeu.jpg" title="Planet Unknown" alt="planet unknown boite de jeu " />
 </div>
 </a>
 </div>
 </div>
 <div class="col_middle">
-<h1>PERSPECTIVES</h1><div class="bloc_desc">
-<div class="shortdesc_product">Dans Perspectives, étudiez la scène depuis votre point de vue et communiquez chacun vos indices pour trouver ensemble la clé de l'énigme.</div><div class="rating_summary"><a class="onclickTab" data-tab="rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span> 5/5
-<span class="rating_link">(1 avis clients)</span>
-</a></div><div class="container_tag_jds"><a href="/jeux_de_societe/recherche/?&player%5B%5D=2&player%5B%5D=3&player%5B%5D=4&player%5B%5D=5&player%5B%5D=6">
+<h1>PLANET UNKNOWN</h1><div class="bloc_desc">
+<div class="shortdesc_product">Dans Planet Unknown, terraformez votre planète à coups de polyominos et faites-en le meilleur endroit pour accueillir l'Humanité ! Serez-vous à la hauteur ?</div><div class="container_tag_jds"><a href="/jeux_de_societe/recherche/?&player%5B%5D=1&player%5B%5D=2&player%5B%5D=3&player%5B%5D=4&player%5B%5D=5&player%5B%5D=6">
 <div class="tag btn_grey">
 <div class="bloc">
 <div class="img_nbr_player"></div>
-<span>2 à 6 joueurs</span>
+<span>1 à 6 joueurs</span>
 </div>
 </div>
-</a><a href="/jeux_de_societe/recherche/?time%5B%5D=120">
+</a><a href="/jeux_de_societe/recherche/?time%5B%5D=60">
 <div class="tag btn_grey">
 <div class="bloc">
 <div class="img_time"></div>
-<span>Environ 1h30</span>
+<span>Environ 1h</span>
 </div>
 </div>
-</a><a href="/jeux_de_societe/recherche/?age%5B%5D=plus_14">
+</a><a href="/jeux_de_societe/recherche/?age%5B%5D=plus_10">
 <div class="tag btn_grey">
 <div class="bloc">
 <div class="img_age"></div>
-<span>À partir de 14 ans</span>
+<span>À partir de 10 ans</span>
 </div>
 </div>
-</a><div class="clear"></div>
-</div><div class="clear"></div><div class="container_tag_jds"><a href="/jeux_de_societe/recherche/?theme=Enquête">
+</a><div class="tag btn_grey">
+<div class="bloc">
+<img src="/img/symbole/lang/fr.png" title="Français" alt="Français" loading="lazy" />
+<span>Français</span>
+</div>
+</div><div class="clear"></div>
+</div><div class="clear"></div><div class="container_tag_jds"><a href="/jeux_de_societe/recherche/?theme=Science+Fiction">
 <div class="tag btn_grey">
 <div class="bloc">
 <div class="img_theme"></div>
-<span>Enquête</span>
+<span>Science Fiction</span>
 </div>
 </div>
-</a><a href="/jeux_de_societe/recherche/?type=Déduction">
+</a><a href="/jeux_de_societe/recherche/?type=Draft">
 <div class="tag btn_grey">
 <div class="bloc">
 <div class="img_type_game"></div>
-<span>Déduction</span>
+<span>Draft</span>
 </div>
 </div>
-</a><a href="/jeux_de_societe/recherche/?type=Jeux+Coopératifs">
+</a><a href="/jeux_de_societe/recherche/?type=Jeux+de+Stratégie">
 <div class="tag btn_grey">
 <div class="bloc">
 <div class="img_type_game"></div>
-<span>Jeux Coopératifs</span>
+<span>Jeux de Stratégie</span>
 </div>
 </div>
-</a><a href="/jeux_de_societe/recherche/?type=Observation+/+réflexe">
+</a><a href="/jeux_de_societe/recherche/?type=Modulable">
 <div class="tag btn_grey">
 <div class="bloc">
 <div class="img_type_game"></div>
-<span>Observation / réflexe</span>
+<span>Modulable</span>
+</div>
+</div>
+</a><a href="/jeux_de_societe/recherche/?type=Placement+de+Tuiles">
+<div class="tag btn_grey">
+<div class="bloc">
+<div class="img_type_game"></div>
+<span>Placement de Tuiles</span>
 </div>
 </div>
 </a><div class="clear"></div>
-</div><div class="clear"></div><div class="clear"></div><div class="mini_img_product sliderProduct"><div class="MS-content"><div class="list_product item"><a href="/img/product/secondary/perspectives-jeu-space-cowboys-materiel.jpg" data-lightbox="product-set" data-title><img src="/img/product/secondary/s/perspectives-jeu-space-cowboys-materiel.jpg" title="Perspectives" alt="perspectives jeu space cowboys boite " /></a></div><div class="list_product item"><a href="/img/product/secondary/perspectives-jeu-space-cowboys-dos-boite.jpg" data-lightbox="product-set" data-title><img src="/img/product/secondary/s/perspectives-jeu-space-cowboys-dos-boite.jpg" title="Perspectives" alt="perspectives jeu space cowboys boite " /></a></div></div>
+</div><div class="clear"></div><div class="clear"></div><div class="mini_img_product sliderProduct"><div class="MS-content"><div class="list_product item"><a href="/img/product/secondary/planet-unknown-premiere-edition-boite-de-jeu.jpg" data-lightbox="product-set" data-title><img src="/img/product/secondary/s/planet-unknown-premiere-edition-boite-de-jeu.jpg" title="Planet Unknown" alt="planet unknown boite de jeu " /></a></div><div class="list_product item"><a href="/img/product/secondary/planet-unknown-jeu-origames-dos-boite.jpg" data-lightbox="product-set" data-title><img src="/img/product/secondary/s/planet-unknown-jeu-origames-dos-boite.jpg" title="Planet Unknown" alt="planet unknown boite de jeu " /></a></div><div class="list_product item"><a href="/img/product/secondary/planet-unknown-jeu-origames-plateau-planete.jpg" data-lightbox="product-set" data-title><img src="/img/product/secondary/s/planet-unknown-jeu-origames-plateau-planete.jpg" title="Planet Unknown" alt="planet unknown boite de jeu " /></a></div><div class="list_product item"><a href="/img/product/secondary/planet-unknown-caroussel.jpg" data-lightbox="product-set" data-title><img src="/img/product/secondary/s/planet-unknown-caroussel.jpg" title="Planet Unknown" alt="planet unknown boite de jeu " /></a></div><div class="list_product item"><a href="/img/product/secondary/planet-unknown-tuiles-de-jeu.jpg" data-lightbox="product-set" data-title><img src="/img/product/secondary/s/planet-unknown-tuiles-de-jeu.jpg" title="Planet Unknown" alt="planet unknown boite de jeu " /></a></div></div>
 <div class="MS-controls">
 <button class="MS-left"><div class="arrow_left_img"></div></button>
 <button class="MS-right"><div class="arrow_right_img"></div></button>
 </div></div></div>
-</div><div class="col_bottom  "><div class="container_title_onglet"><h2 class="tab_title tab tab_desc onclickTab title_selected tab_selected" data-tab="desc"><span>Descriptif</span></h2><h2 class="tab_title tab tab_features onclickTab" data-tab="features"><span class="long-text">Caractéristiques</span></h2><h2 class="tab_title tab tab_video onclickTab" data-tab="video"><span>Vidéo</span></h2><h2 id="tab_rating" class="tab_title tab tab_rating onclickTab " data-tab="rating"><span class="long-text">Avis client</span></h2><div class="clear"></div>
-</div><div class="tab bloc_tab tab_desc tab_selected"><h2>Perspectives : Croisez vos regards sur la sc&egrave;ne de crime</h2>
-<p>Perspectives est <strong>un jeu d'enqu&ecirc;tes coop&eacute;ratif </strong>dans lequel joueurs et joueuses doivent d&eacute;crire les sc&egrave;nes qu'ils voient pour comprendre les &eacute;v&eacute;nements pass&eacute;s. Il se joue de 2 &agrave; 6, d&egrave;s 14 ans, pour des parties de 90 minutes environ.</p>
-<h2>D&eacute;crivez ce que vous voyez</h2>
-<p>Chaque enqu&ecirc;te se joue en <strong>quatre manches</strong>. Durant les trois premi&egrave;res, <strong>distribuez les cartes</strong> aux joueurs et joueuses. Vous pouvez <strong>examiner vos cartes</strong> autant que vous le voulez et les <strong>d&eacute;crire en d&eacute;tail</strong>&nbsp;&agrave; vos partenaires, mais il est interdit de les leur montrer. <strong>Croisez les &eacute;l&eacute;ments r&eacute;currents</strong>, interrogez vos partenaires pour comprendre. Il est possible de <strong>placer une carte face visible</strong> pour tout le monde, mais chaque autre carte r&eacute;v&eacute;l&eacute;e vous co&ucirc;te un point. Quand vous pensez avoir suffisamment compris les &eacute;v&eacute;nements qui ont boulevers&eacute; les sc&egrave;nes que vous observez, <strong>passez aux questions</strong>. Parviendrez-vous &agrave; r&eacute;pondre aux <strong>quatre myst&egrave;res</strong> de la manche ? Recommencez pour chaque manche jusqu'&agrave; la quatri&egrave;me, qui portera sur toutes les sc&egrave;nes de chaque manche pr&eacute;c&eacute;dente, et toutes sont visibles par tout le monde ! Le myst&egrave;re n'attend que vous !</p>
-<h2>Des enqu&ecirc;tes immersives</h2>
-<p>Perspectives propose <strong>une exp&eacute;rience d'observation et d&eacute;duction</strong> bas&eacute;e sur la communication ! Il contient<strong> un tutoriel</strong> pour d&eacute;couvrir son principe et <strong>trois aventures illustr&eacute;es</strong> par des illustrateurs et illustratrices de talent ! <strong>Original et accessible</strong>, il vous offrira de merveilleuses heures autour d'<strong>un d&eacute;fi passionnant</strong> !</p><strong>Contenu&nbsp;:</strong>
-<ul><li>3 enveloppes</li><li>12 dossiers</li><li>108 cartes</li><li>1 tutoriel</li></ul><strong><i>À partir de 14 ans, de 2 à 6 joueurs et pour des parties d'environ 90 minutes.</i></strong></div><div class="tab bloc_tab tab_features tab_hidden"><table class="table_tag_jds"><tr class="container_lang tr_impair">
+</div><div class="col_bottom  "><div class="container_title_onglet"><h2 class="tab_title tab tab_desc onclickTab title_selected tab_selected" data-tab="desc"><span>Descriptif</span></h2><h2 class="tab_title tab tab_features onclickTab" data-tab="features"><span class="long-text">Caractéristiques</span></h2><h2 class="tab_title tab tab_video onclickTab" data-tab="video"><span>Vidéo</span></h2><h2 class="tab_title tab tab_rules onclickTab" data-tab="rules"><span>Règles</span></h2><h2 id="tab_rating" class="tab_title tab tab_rating onclickTab " data-tab="rating"><span class="long-text">Avis client</span></h2><div class="clear"></div>
+</div><div class="tab bloc_tab tab_desc tab_selected"><h2>Planet Unknown : d&eacute;veloppez la surface de votre plan&egrave;te</h2>
+<p>Planet Unknown est <strong>un jeu de draft et placement simultan&eacute; de polyominos malin et original</strong> o&ugrave; chaque joueur doit se d&eacute;velopper au mieux sur sa plan&egrave;te. Il se joue de 1 &agrave; 6 joueurs, d&egrave;s 10 ans, pour des parties de 60 minutes environ.</p>
+<h2>Faites tourner le carrousel de terraformation</h2>
+<p><em>L'Humanit&eacute; a &eacute;puis&eacute; les ressources de la Terre, chacun de vous est all&eacute; chercher une plan&egrave;te d'accueil &agrave; pr&eacute;parer avant l'arriv&eacute;e des Humains. Parviendrez-vous &agrave; avoir la plan&egrave;te la plus attirante ?</em></p>
+<p>&Agrave; chaque tour, le commandant fait tourner le <strong>carrousel de tuiles</strong> afin que chaque joueur ait deux d&eacute;p&ocirc;ts de tuiles devant lui. Choisissez simultan&eacute;ment une tuile et posez-la sur votre plateau. La premi&egrave;re doit toucher un bord, les suivantes doivent toucher <strong>au moins une tuile</strong>. Chaque tuile que vous posez contient <strong>deux types de terrain</strong>, progressez sur chaque piste associ&eacute;e.</p>
+<p>La <strong>piste d'Eau</strong> contient de nombreux points de victoire &agrave; mesure que vous y progressez. La <strong>piste Civilisation</strong> permet d'&ecirc;tre le premier &agrave; choisir des bonus de plus en plus puissants &agrave; mesure que vous progressez. La <strong>piste Rover</strong> permet de placer et d&eacute;placer des v&eacute;hicules sur la plan&egrave;te pour remplir des missions de sauvetage ou nettoyage de la carte. La <strong>piste Technologie</strong> permet de d&eacute;velopper votre gameplay en obtenant de nouvelles options utilisables ponctuellement ou &agrave; chaque tour. La <strong>piste Biomasse</strong> permet de placer des tuiles d'une case pour combler les trous. Enfin, le <strong>terrain &Eacute;nergie</strong> ne correspond &agrave; aucune piste, mais fonctionne en bonus pour d'autres pistes.</p>
+<p>Quand vous progressez sur une piste, <strong>activez les symboles</strong> que vous croisez pour obtenir des bonus. Quand <strong>un d&eacute;p&ocirc;t est vide</strong> ou qu'un joueur ne peut poser <strong>aucune des deux tuiles</strong> auxquelles il a acc&egrave;s, finissez le tour en cours, puis la partie prend fin. D&eacute;comptez les points en fonction des <strong>lignes et colonnes </strong>compl&egrave;tes de votre plan&egrave;te, valeur des <strong>m&eacute;dailles </strong>atteintes et des <strong>missions </strong>accomplies, <strong>objectifs </strong>communs et partag&eacute;s, et <strong>cartes </strong>civilisation. Totalisez le meilleur score pour remporter la victoire !</p>
+<h2>Un jeu beau et profond</h2>
+<p>Planet Unknown propose <strong>une exp&eacute;rience intense et accessible</strong>, o&ugrave; on prend plaisir &agrave; d&eacute;velopper sa plan&egrave;te tout en essayant de <strong>bloquer ses adversaires</strong> en leur donnant la pire tuile possible. <strong>L'astucieux carrousel de tuiles</strong> rend cette optimisation intuitive, et le <strong>mat&eacute;riel de grande qualit&eacute;</strong> offre un support pratique et confortable pour les joueurs familiaux et initi&eacute;s. Des <strong>r&egrave;gles avanc&eacute;es</strong> et des plan&egrave;tes et corporations alternatives offrent <strong>une grande rejouabilit&eacute;</strong> tout en multipliant grandement les strat&eacute;gies possibles !</p>
+<p><strong>Pour sa premi&egrave;re &eacute;dition, le jeu inclut une plan&egrave;te myst&egrave;re exclusive !</strong></p><strong>Contenu&nbsp;:</strong>
+<ul><li>1 Plateau tournant</li><li>144 Polyominos</li><li>6 plateaux Planète</li><li>6 plateaux Corporation</li><li>14 Rovers</li><li>36 Modules de survie</li><li>60 Météorites</li><li>60 Blocs biomasse</li><li>30 cubes Ressource</li><li>12 indicateurs de dépôt</li><li>1 jeton Commandant</li><li>28 cartes Objectif</li><li>36 cartes CIV</li><li>60 cartes Événement</li><li>1 Bloc de score</li></ul><strong><i>À partir de 10 ans, de 1 à 6 joueurs et pour des parties d'environ 60 minutes.</i></strong></div><div class="tab bloc_tab tab_features tab_hidden"><table class="table_tag_jds"><tr class="container_lang tr_impair">
 <th scope="row">Langue</th>
-<td class="text"><div>Non renseigné</div></td>
+<td class="text"><div>Français</div></td>
 </tr>
 <tr class="container_player tr_pair">
 <th scope="row">Nombre de joueurs</th>
 <td class="text">
-<a href="/jeux_de_societe/recherche/?&player%5B%5D=2&player%5B%5D=3&player%5B%5D=4&player%5B%5D=5&player%5B%5D=6"><div>De 2 à 6 joueurs</div></a>
+<a href="/jeux_de_societe/recherche/?&player%5B%5D=1&player%5B%5D=2&player%5B%5D=3&player%5B%5D=4&player%5B%5D=5&player%5B%5D=6"><div>De 1 à 6 joueurs</div></a>
 </td>
 </tr>
 <tr class="container_time tr_impair">
 <th scope="row">Durée</th>
-<td class="text"><a href="/jeux_de_societe/recherche/?time%5B%5D=120"><div>90 minutes</div></a></td>
+<td class="text"><a href="/jeux_de_societe/recherche/?time%5B%5D=60"><div>60 minutes</div></a></td>
 </tr>
 <tr class="container_age tr_pair">
 <th scope="row">Âge</th>
 <td class="text">
-<a href="/jeux_de_societe/recherche/?age%5B%5D=plus_14"><div>À partir de 14 ans</div></a>
+<a href="/jeux_de_societe/recherche/?age%5B%5D=plus_10"><div>À partir de 10 ans</div></a>
 </td>
 </tr>
 <tr class="container_theme tr_impair">
 <th scope="row">Thème(s)</th>
-<td class="text"><a href="/jeux_de_societe/recherche/?theme=Enquête" /><div>Enquête</div></a></td>
+<td class="text"><a href="/jeux_de_societe/recherche/?theme=Science+Fiction" /><div>Science Fiction</div></a></td>
 </tr>
 <tr class="container_type tr_pair">
 <th scope="row">Type(s)</th>
-<td class="text"><a href="/jeux_de_societe/recherche/?type=Déduction" /><div>Déduction</div></a></td></tr><tr class="container_type line_repeat"><th scope="row"></th><td class="text"><a href="/jeux_de_societe/recherche/?type=Jeux+Coopératifs" /><div>Jeux Coopératifs</div></a></td></tr><tr class="container_type line_repeat"><th scope="row"></th><td class="text"><a href="/jeux_de_societe/recherche/?type=Observation+/+réflexe" /><div>Observation / réflexe</div></a></td>
+<td class="text"><a href="/jeux_de_societe/recherche/?type=Draft" /><div>Draft</div></a></td></tr><tr class="container_type line_repeat"><th scope="row"></th><td class="text"><a href="/jeux_de_societe/recherche/?type=Jeux+de+Stratégie" /><div>Jeux de Stratégie</div></a></td></tr><tr class="container_type line_repeat"><th scope="row"></th><td class="text"><a href="/jeux_de_societe/recherche/?type=Modulable" /><div>Modulable</div></a></td></tr><tr class="container_type line_repeat"><th scope="row"></th><td class="text"><a href="/jeux_de_societe/recherche/?type=Placement+de+Tuiles" /><div>Placement de Tuiles</div></a></td>
 </tr>
 <tr class="container_type tr_impair">
 <th scope="row">Gamme</th><td class="text"><div>Aucune gamme</div></td></tr>
 <tr class="container_editor tr_pair">
 <th scope="row">Éditeur(s)</th>
-<td class="text"><div>Space Cowboys</div></td>
+<td class="text"><div>OriGames</div></td>
 </tr>
 <tr class="container_author tr_impair">
 <th scope="row">Auteur(s)</th>
-<td class="text"><div>Dave Neale</div></td></tr><tr class="container_theme line_repeat tr_impair"><th scope="row"></th><td class="text"><div>Matthew Dunstan</div></td>
+<td class="text"><div>Adam Rehberg</div></td></tr><tr class="container_theme line_repeat tr_impair"><th scope="row"></th><td class="text"><div>R. Lambert</div></td>
 </tr>
 <tr class="container_illustrator tr_pair">
 <th scope="row">Illustrateur(s)</th>
-<td class="text"><div>Ann&Seb</div></td></tr><tr class="container_theme line_repeat"><th scope="row"></th><td class="text"><div>Looky</div></td></tr><tr class="container_theme line_repeat"><th scope="row"></th><td class="text"><div>Vincent Dutrait</div></td>
-</tr></table></div><div class="tab bloc_tab tab_video tab_hidden tab bloc_tab tab_video"><div class="video"><div class="container"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ET1SHgqbZ0s?si=uxZTk2-FzISypnwb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div></div></div><div class="tab bloc_tab tab_rating  tab bloc_tab tab_rating tab_hidden"><div class="rating_available">Merci de vous connecter afin de déposer votre avis.</div><div class="container_page_rating"><div id="page_0" class="each_pagination" data-id="0"><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">Aurélien V</div><div class="valid_purchase">Achat vérifié</div><div id="user_comment_41409" class="user_comment">Un jeu d&#039;enquête très original, où la communication entre les joueurs est très importante. Le matériel est très réussi, et les scénarios sont très bons et bien écrits.</div></div></div></div></div><div class="container_present_card"><div class="alert container_alert_bug">
+<td class="text"><div>Yoma</div></td>
+</tr></table></div><div class="tab bloc_tab tab_video tab_hidden tab bloc_tab tab_video"><div class="video"><div class="container"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/gPK6P3py1ZM?si=MNwX1retwN-S41rk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div></div></div><div class="tab bloc_tab tab_rules tab_hidden tab bloc_tab tab_rules">
+<div class="title_rules">Planet Unknown : </div>
+<div class="rules"><div class="container_rules">
+<div class="img_download_logo"></div>
+<a href="/pdf/rules_games/planet_unknown_-_regles_fr.pdf" target="_blank"><div>Consulter :</div><div>Planet Unknown - Règles Fr</div></a>
+</div></div>
+<div class="clear"></div></div><div class="tab bloc_tab tab_rating  tab bloc_tab tab_rating tab_hidden"><div class="rating_available">Merci de vous connecter afin de déposer votre avis.</div></div><div class="container_present_card"><div class="alert container_alert_bug">
 <div class="toggleTarget clicOut" data-target="signal_bug">Vous souhaitez nous signaler un bug&nbsp;?</div>
 <div class="send_ok"></div>
 <div class="boxToggle clicOut alert_target signal_bug"><div class> <div class="send_ok not_connected">Vous devez être connecté pour signaler un bug</div> </div></div>
@@ -2751,12 +2754,12 @@ Yu-Gi-Oh! </div></a>
 </div> </div>
 <div class="container_main_right">
 <div class="container_select_carts col_middle">
-<section><div class="bloc_encart container_product bloc_encart_price bloc_encart_price_fidelity"><div class="bloc_price"><div class="price">31,90&nbsp;€</div></div><div class="container_fidelity_point container_recap_fidelity">
-<a href="/article/247-les_points_votre_programme_fidelite_par_playin_"><span>Gagnez jusqu'à </span><span class="bold_black">31&nbsp;<span class="img_points_fidelity_black"></span>oint(s)</span></a><div class="togglePopup clicOutPopup img_explain_fidelity_points_orange" title="Voir le détail des Points" data-target="boxTogglePopupFidelity"></div>
+<section><div class="bloc_encart container_product bloc_encart_price bloc_encart_price_fidelity"><div class="bloc_price"><div class="price">59,90&nbsp;€</div></div><div class="container_fidelity_point container_recap_fidelity">
+<a href="/article/247-les_points_votre_programme_fidelite_par_playin_"><span>Gagnez jusqu'à </span><span class="bold_black">59&nbsp;<span class="img_points_fidelity_black"></span>oint(s)</span></a><div class="togglePopup clicOutPopup img_explain_fidelity_points_orange" title="Voir le détail des Points" data-target="boxTogglePopupFidelity"></div>
 <div class="clear"></div>
 <div class="popup_fidelity_points boxTogglePopupFidelity clicOutPopup hide">
 <div class="bold_orange">Les <span class="img_points_fidelity_orange"></span>oints, votre programme de fidelité&nbsp;!</div>
-<div class="txt">1 € dépensé = 1 Point gagné&nbsp;!</div><div class="txt">Ce produit vous rapportera jusqu'à <b>31 Points</b>.</div><a href="/article/247-les_points_votre_programme_fidelite_par_playin_" class="link">En savoir plus sur les Points</a>
+<div class="txt">1 € dépensé = 1 Point gagné&nbsp;!</div><div class="txt">Ce produit vous rapportera jusqu'à <b>59 Points</b>.</div><a href="/article/247-les_points_votre_programme_fidelite_par_playin_" class="link">En savoir plus sur les Points</a>
 </div></div> <div id="container_secondhand" style="display:none">
 <div id="popup_secondhand">
 <div class="form_secondhand container_select_carts" id="info_valid_cart" style="display:none;">
@@ -2768,7 +2771,7 @@ Le jeu a été ajouté au panier </div>
 <img id="logo_gege" src="/img/play_back/Gégé_2_125.png" />
 <img src="/img/play_back/Essai_logo_2_50.png" />
 <h2 class="title_secondhand">Les jeux d'occasion par Playin</h2>
-<img id="image_seconhand" src="/img/product/l/perspectives-jeu-space-cowboys-boite.jpg" title="Perspectives" alt="perspectives jeu space cowboys boite " />
+<img id="image_seconhand" src="/img/product/l/planet-unknown-boite-de-jeu.jpg" title="Planet Unknown" alt="planet unknown boite de jeu " />
 <form action class="form-container">
 <div id="container_select_secondhand">
 <select name="secondhand" class="select_secondhand select">
@@ -2782,7 +2785,7 @@ Le jeu a été ajouté au panier </div>
 </div>
 </div> </div><div class="bloc_encart container_product"><div class="bloc_cart_product"><div class="add_cart_btn">
 <form method="POST">
-<label for="id_product"><input type="hidden" name="id_product" value="506056"></label><select name="qty_product" class="select"><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option></select><div class="bloc_btn"><button type="submit" name="addToCart" value="0" class="btn addToCart tagBigOrange tagProduct" data-localisation="0" data-family="5" data-id="506056">
+<label for="id_product"><input type="hidden" name="id_product" value="479334"></label><select name="qty_product" class="select"><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option><option value="17">17</option><option value="18">18</option><option value="19">19</option><option value="20">20</option></select><div class="bloc_btn"><button type="submit" name="addToCart" value="0" class="btn addToCart tagBigOrange tagProduct" data-localisation="0" data-family="5" data-id="479334">
 <div class="add_cart_btn_img"></div>
 <div class="add_cart_text">Ajouter au panier <div class="small_text">(Livraison)</div></div>
 </button></div>
@@ -2797,12 +2800,12 @@ Le jeu a été ajouté au panier </div>
 <div class="container_stock">Frais de port à partir de 2,50&nbsp;€. Offert dès 35,00&nbsp;€ d'achat.</div>
 </div><div class="filters_boardgame_product"></div></div><div class="bloc_encart bloc_encart_retrait container_product"><div class="bloc_encart container_product"><div class="bloc_cart_product"><div class="add_cart_btn">
 <form method="POST">
-<input type="hidden" name="id_product" value="506056"><div class="bloc_btn"><div class="btn btn_no_favourite btn_store btn_violet showStoreSelect" title="Choisir un magasin de retrait" alt="Choisir un magasin de retrait" data-modal-type="506056">
+<input type="hidden" name="id_product" value="479334"><div class="bloc_btn"><div class="btn btn_no_favourite btn_store btn_violet showStoreSelect" title="Choisir un magasin de retrait" alt="Choisir un magasin de retrait" data-modal-type="479334">
 <div class="add_cart_btn_img add_cart_store_btn_img"></div>
 <div class="add_cart_text">Trouver un magasin Playin</div>
 </div>
 </div><form method="post"><div class="select_favourite_store">
-<div class="store_nav" id="506056">
+<div class="store_nav" id="479334">
 <div class="store_nav_content">
 <span class="close">&times;</span>
 <div class="modal-title">Retirer en magasin</div>
@@ -2840,9 +2843,9 @@ Le jeu a été ajouté au panier </div>
 <div class="bloc head_store">Playin Paris Rivoli</div><div class="bloc availability">
 <span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
 <span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Disponible sous 2h</span>
+<span class="localAvailable" ">&#10004;&nbsp;Disponible sous 2h</span>
 <span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" ">&#10004;&nbsp;Sur commande (72h)</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
 <span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
 </div>
 <div class="bloc set_store_btn_bloc">
@@ -2859,112 +2862,132 @@ Le jeu a été ajouté au panier </div>
 <div class="shipping_boutique_img_gris_fonce"></div>
 <div class="container_stock"><div>Retrait gratuit en magasin, sous 2h ou 72h selon disponibilité.</div></div>
 </div></section><div class="bloc_desc bloc_desc_mobile">
-<div class="shortdesc_product">Dans Perspectives, étudiez la scène depuis votre point de vue et communiquez chacun vos indices pour trouver ensemble la clé de l'énigme.</div><div class="rating_summary"><a class="onclickTab" data-tab="rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span> 5/5
-<span class="rating_link">(1 avis clients)</span>
-</a></div><div class="container_tag_jds"><a href="/jeux_de_societe/recherche/?&player%5B%5D=2&player%5B%5D=3&player%5B%5D=4&player%5B%5D=5&player%5B%5D=6">
+<div class="shortdesc_product">Dans Planet Unknown, terraformez votre planète à coups de polyominos et faites-en le meilleur endroit pour accueillir l'Humanité ! Serez-vous à la hauteur ?</div><div class="container_tag_jds"><a href="/jeux_de_societe/recherche/?&player%5B%5D=1&player%5B%5D=2&player%5B%5D=3&player%5B%5D=4&player%5B%5D=5&player%5B%5D=6">
 <div class="tag btn_grey">
 <div class="bloc">
 <div class="img_nbr_player"></div>
-<span>2 à 6 joueurs</span>
+<span>1 à 6 joueurs</span>
 </div>
 </div>
-</a><a href="/jeux_de_societe/recherche/?time%5B%5D=120">
+</a><a href="/jeux_de_societe/recherche/?time%5B%5D=60">
 <div class="tag btn_grey">
 <div class="bloc">
 <div class="img_time"></div>
-<span>Environ 1h30</span>
+<span>Environ 1h</span>
 </div>
 </div>
-</a><a href="/jeux_de_societe/recherche/?age%5B%5D=plus_14">
+</a><a href="/jeux_de_societe/recherche/?age%5B%5D=plus_10">
 <div class="tag btn_grey">
 <div class="bloc">
 <div class="img_age"></div>
-<span>À partir de 14 ans</span>
+<span>À partir de 10 ans</span>
 </div>
 </div>
-</a><div class="clear"></div>
-</div><div class="clear"></div><div class="container_tag_jds"><a href="/jeux_de_societe/recherche/?theme=Enquête">
+</a><div class="tag btn_grey">
+<div class="bloc">
+<img src="/img/symbole/lang/fr.png" title="Français" alt="Français" loading="lazy" />
+<span>Français</span>
+</div>
+</div><div class="clear"></div>
+</div><div class="clear"></div><div class="container_tag_jds"><a href="/jeux_de_societe/recherche/?theme=Science+Fiction">
 <div class="tag btn_grey">
 <div class="bloc">
 <div class="img_theme"></div>
-<span>Enquête</span>
+<span>Science Fiction</span>
 </div>
 </div>
-</a><a href="/jeux_de_societe/recherche/?type=Déduction">
+</a><a href="/jeux_de_societe/recherche/?type=Draft">
 <div class="tag btn_grey">
 <div class="bloc">
 <div class="img_type_game"></div>
-<span>Déduction</span>
+<span>Draft</span>
 </div>
 </div>
-</a><a href="/jeux_de_societe/recherche/?type=Jeux+Coopératifs">
+</a><a href="/jeux_de_societe/recherche/?type=Jeux+de+Stratégie">
 <div class="tag btn_grey">
 <div class="bloc">
 <div class="img_type_game"></div>
-<span>Jeux Coopératifs</span>
+<span>Jeux de Stratégie</span>
 </div>
 </div>
-</a><a href="/jeux_de_societe/recherche/?type=Observation+/+réflexe">
+</a><a href="/jeux_de_societe/recherche/?type=Modulable">
 <div class="tag btn_grey">
 <div class="bloc">
 <div class="img_type_game"></div>
-<span>Observation / réflexe</span>
+<span>Modulable</span>
+</div>
+</div>
+</a><a href="/jeux_de_societe/recherche/?type=Placement+de+Tuiles">
+<div class="tag btn_grey">
+<div class="bloc">
+<div class="img_type_game"></div>
+<span>Placement de Tuiles</span>
 </div>
 </div>
 </a><div class="clear"></div>
-</div><div class="clear"></div><div class="clear"></div><div class="mini_img_product sliderProduct"><div class="MS-content"><div class="list_product item"><a href="/img/product/secondary/perspectives-jeu-space-cowboys-materiel.jpg" data-lightbox="product-set-mobile" data-title><img src="/img/product/secondary/s/perspectives-jeu-space-cowboys-materiel.jpg" title="Perspectives" alt="perspectives jeu space cowboys boite " /></a></div><div class="list_product item"><a href="/img/product/secondary/perspectives-jeu-space-cowboys-dos-boite.jpg" data-lightbox="product-set-mobile" data-title><img src="/img/product/secondary/s/perspectives-jeu-space-cowboys-dos-boite.jpg" title="Perspectives" alt="perspectives jeu space cowboys boite " /></a></div></div>
+</div><div class="clear"></div><div class="clear"></div><div class="mini_img_product sliderProduct"><div class="MS-content"><div class="list_product item"><a href="/img/product/secondary/planet-unknown-premiere-edition-boite-de-jeu.jpg" data-lightbox="product-set-mobile" data-title><img src="/img/product/secondary/s/planet-unknown-premiere-edition-boite-de-jeu.jpg" title="Planet Unknown" alt="planet unknown boite de jeu " /></a></div><div class="list_product item"><a href="/img/product/secondary/planet-unknown-jeu-origames-dos-boite.jpg" data-lightbox="product-set-mobile" data-title><img src="/img/product/secondary/s/planet-unknown-jeu-origames-dos-boite.jpg" title="Planet Unknown" alt="planet unknown boite de jeu " /></a></div><div class="list_product item"><a href="/img/product/secondary/planet-unknown-jeu-origames-plateau-planete.jpg" data-lightbox="product-set-mobile" data-title><img src="/img/product/secondary/s/planet-unknown-jeu-origames-plateau-planete.jpg" title="Planet Unknown" alt="planet unknown boite de jeu " /></a></div><div class="list_product item"><a href="/img/product/secondary/planet-unknown-caroussel.jpg" data-lightbox="product-set-mobile" data-title><img src="/img/product/secondary/s/planet-unknown-caroussel.jpg" title="Planet Unknown" alt="planet unknown boite de jeu " /></a></div><div class="list_product item"><a href="/img/product/secondary/planet-unknown-tuiles-de-jeu.jpg" data-lightbox="product-set-mobile" data-title><img src="/img/product/secondary/s/planet-unknown-tuiles-de-jeu.jpg" title="Planet Unknown" alt="planet unknown boite de jeu " /></a></div></div>
 <div class="MS-controls">
 <button class="MS-left"><div class="arrow_left_img"></div></button>
 <button class="MS-right"><div class="arrow_right_img"></div></button>
-</div></div></div><div class="col_bottom  col_bottom_mobile  "><div class="container_title_onglet"><h2 class="tab_title tab tab_desc onclickTab title_selected tab_selected" data-tab="desc"><span>Descriptif</span></h2><h2 class="tab_title tab tab_features onclickTab" data-tab="features"><span class="long-text">Caractéristiques</span></h2><h2 class="tab_title tab tab_video onclickTab" data-tab="video"><span>Vidéo</span></h2><h2 id="tab_rating" class="tab_title tab tab_rating onclickTab " data-tab="rating"><span class="long-text">Avis client</span></h2><div class="clear"></div>
-</div><div class="tab bloc_tab tab_desc tab_selected"><h2>Perspectives : Croisez vos regards sur la sc&egrave;ne de crime</h2>
-<p>Perspectives est <strong>un jeu d'enqu&ecirc;tes coop&eacute;ratif </strong>dans lequel joueurs et joueuses doivent d&eacute;crire les sc&egrave;nes qu'ils voient pour comprendre les &eacute;v&eacute;nements pass&eacute;s. Il se joue de 2 &agrave; 6, d&egrave;s 14 ans, pour des parties de 90 minutes environ.</p>
-<h2>D&eacute;crivez ce que vous voyez</h2>
-<p>Chaque enqu&ecirc;te se joue en <strong>quatre manches</strong>. Durant les trois premi&egrave;res, <strong>distribuez les cartes</strong> aux joueurs et joueuses. Vous pouvez <strong>examiner vos cartes</strong> autant que vous le voulez et les <strong>d&eacute;crire en d&eacute;tail</strong>&nbsp;&agrave; vos partenaires, mais il est interdit de les leur montrer. <strong>Croisez les &eacute;l&eacute;ments r&eacute;currents</strong>, interrogez vos partenaires pour comprendre. Il est possible de <strong>placer une carte face visible</strong> pour tout le monde, mais chaque autre carte r&eacute;v&eacute;l&eacute;e vous co&ucirc;te un point. Quand vous pensez avoir suffisamment compris les &eacute;v&eacute;nements qui ont boulevers&eacute; les sc&egrave;nes que vous observez, <strong>passez aux questions</strong>. Parviendrez-vous &agrave; r&eacute;pondre aux <strong>quatre myst&egrave;res</strong> de la manche ? Recommencez pour chaque manche jusqu'&agrave; la quatri&egrave;me, qui portera sur toutes les sc&egrave;nes de chaque manche pr&eacute;c&eacute;dente, et toutes sont visibles par tout le monde ! Le myst&egrave;re n'attend que vous !</p>
-<h2>Des enqu&ecirc;tes immersives</h2>
-<p>Perspectives propose <strong>une exp&eacute;rience d'observation et d&eacute;duction</strong> bas&eacute;e sur la communication ! Il contient<strong> un tutoriel</strong> pour d&eacute;couvrir son principe et <strong>trois aventures illustr&eacute;es</strong> par des illustrateurs et illustratrices de talent ! <strong>Original et accessible</strong>, il vous offrira de merveilleuses heures autour d'<strong>un d&eacute;fi passionnant</strong> !</p><strong>Contenu&nbsp;:</strong>
-<ul><li>3 enveloppes</li><li>12 dossiers</li><li>108 cartes</li><li>1 tutoriel</li></ul><strong><i>À partir de 14 ans, de 2 à 6 joueurs et pour des parties d'environ 90 minutes.</i></strong></div><div class="tab bloc_tab tab_features tab_hidden"><table class="table_tag_jds"><tr class="container_lang tr_impair">
+</div></div></div><div class="col_bottom  col_bottom_mobile  "><div class="container_title_onglet"><h2 class="tab_title tab tab_desc onclickTab title_selected tab_selected" data-tab="desc"><span>Descriptif</span></h2><h2 class="tab_title tab tab_features onclickTab" data-tab="features"><span class="long-text">Caractéristiques</span></h2><h2 class="tab_title tab tab_video onclickTab" data-tab="video"><span>Vidéo</span></h2><h2 class="tab_title tab tab_rules onclickTab" data-tab="rules"><span>Règles</span></h2><h2 id="tab_rating" class="tab_title tab tab_rating onclickTab " data-tab="rating"><span class="long-text">Avis client</span></h2><div class="clear"></div>
+</div><div class="tab bloc_tab tab_desc tab_selected"><h2>Planet Unknown : d&eacute;veloppez la surface de votre plan&egrave;te</h2>
+<p>Planet Unknown est <strong>un jeu de draft et placement simultan&eacute; de polyominos malin et original</strong> o&ugrave; chaque joueur doit se d&eacute;velopper au mieux sur sa plan&egrave;te. Il se joue de 1 &agrave; 6 joueurs, d&egrave;s 10 ans, pour des parties de 60 minutes environ.</p>
+<h2>Faites tourner le carrousel de terraformation</h2>
+<p><em>L'Humanit&eacute; a &eacute;puis&eacute; les ressources de la Terre, chacun de vous est all&eacute; chercher une plan&egrave;te d'accueil &agrave; pr&eacute;parer avant l'arriv&eacute;e des Humains. Parviendrez-vous &agrave; avoir la plan&egrave;te la plus attirante ?</em></p>
+<p>&Agrave; chaque tour, le commandant fait tourner le <strong>carrousel de tuiles</strong> afin que chaque joueur ait deux d&eacute;p&ocirc;ts de tuiles devant lui. Choisissez simultan&eacute;ment une tuile et posez-la sur votre plateau. La premi&egrave;re doit toucher un bord, les suivantes doivent toucher <strong>au moins une tuile</strong>. Chaque tuile que vous posez contient <strong>deux types de terrain</strong>, progressez sur chaque piste associ&eacute;e.</p>
+<p>La <strong>piste d'Eau</strong> contient de nombreux points de victoire &agrave; mesure que vous y progressez. La <strong>piste Civilisation</strong> permet d'&ecirc;tre le premier &agrave; choisir des bonus de plus en plus puissants &agrave; mesure que vous progressez. La <strong>piste Rover</strong> permet de placer et d&eacute;placer des v&eacute;hicules sur la plan&egrave;te pour remplir des missions de sauvetage ou nettoyage de la carte. La <strong>piste Technologie</strong> permet de d&eacute;velopper votre gameplay en obtenant de nouvelles options utilisables ponctuellement ou &agrave; chaque tour. La <strong>piste Biomasse</strong> permet de placer des tuiles d'une case pour combler les trous. Enfin, le <strong>terrain &Eacute;nergie</strong> ne correspond &agrave; aucune piste, mais fonctionne en bonus pour d'autres pistes.</p>
+<p>Quand vous progressez sur une piste, <strong>activez les symboles</strong> que vous croisez pour obtenir des bonus. Quand <strong>un d&eacute;p&ocirc;t est vide</strong> ou qu'un joueur ne peut poser <strong>aucune des deux tuiles</strong> auxquelles il a acc&egrave;s, finissez le tour en cours, puis la partie prend fin. D&eacute;comptez les points en fonction des <strong>lignes et colonnes </strong>compl&egrave;tes de votre plan&egrave;te, valeur des <strong>m&eacute;dailles </strong>atteintes et des <strong>missions </strong>accomplies, <strong>objectifs </strong>communs et partag&eacute;s, et <strong>cartes </strong>civilisation. Totalisez le meilleur score pour remporter la victoire !</p>
+<h2>Un jeu beau et profond</h2>
+<p>Planet Unknown propose <strong>une exp&eacute;rience intense et accessible</strong>, o&ugrave; on prend plaisir &agrave; d&eacute;velopper sa plan&egrave;te tout en essayant de <strong>bloquer ses adversaires</strong> en leur donnant la pire tuile possible. <strong>L'astucieux carrousel de tuiles</strong> rend cette optimisation intuitive, et le <strong>mat&eacute;riel de grande qualit&eacute;</strong> offre un support pratique et confortable pour les joueurs familiaux et initi&eacute;s. Des <strong>r&egrave;gles avanc&eacute;es</strong> et des plan&egrave;tes et corporations alternatives offrent <strong>une grande rejouabilit&eacute;</strong> tout en multipliant grandement les strat&eacute;gies possibles !</p>
+<p><strong>Pour sa premi&egrave;re &eacute;dition, le jeu inclut une plan&egrave;te myst&egrave;re exclusive !</strong></p><strong>Contenu&nbsp;:</strong>
+<ul><li>1 Plateau tournant</li><li>144 Polyominos</li><li>6 plateaux Planète</li><li>6 plateaux Corporation</li><li>14 Rovers</li><li>36 Modules de survie</li><li>60 Météorites</li><li>60 Blocs biomasse</li><li>30 cubes Ressource</li><li>12 indicateurs de dépôt</li><li>1 jeton Commandant</li><li>28 cartes Objectif</li><li>36 cartes CIV</li><li>60 cartes Événement</li><li>1 Bloc de score</li></ul><strong><i>À partir de 10 ans, de 1 à 6 joueurs et pour des parties d'environ 60 minutes.</i></strong></div><div class="tab bloc_tab tab_features tab_hidden"><table class="table_tag_jds"><tr class="container_lang tr_impair">
 <th scope="row">Langue</th>
-<td class="text"><div>Non renseigné</div></td>
+<td class="text"><div>Français</div></td>
 </tr>
 <tr class="container_player tr_pair">
 <th scope="row">Nombre de joueurs</th>
 <td class="text">
-<a href="/jeux_de_societe/recherche/?&player%5B%5D=2&player%5B%5D=3&player%5B%5D=4&player%5B%5D=5&player%5B%5D=6"><div>De 2 à 6 joueurs</div></a>
+<a href="/jeux_de_societe/recherche/?&player%5B%5D=1&player%5B%5D=2&player%5B%5D=3&player%5B%5D=4&player%5B%5D=5&player%5B%5D=6"><div>De 1 à 6 joueurs</div></a>
 </td>
 </tr>
 <tr class="container_time tr_impair">
 <th scope="row">Durée</th>
-<td class="text"><a href="/jeux_de_societe/recherche/?time%5B%5D=120"><div>90 minutes</div></a></td>
+<td class="text"><a href="/jeux_de_societe/recherche/?time%5B%5D=60"><div>60 minutes</div></a></td>
 </tr>
 <tr class="container_age tr_pair">
 <th scope="row">Âge</th>
 <td class="text">
-<a href="/jeux_de_societe/recherche/?age%5B%5D=plus_14"><div>À partir de 14 ans</div></a>
+<a href="/jeux_de_societe/recherche/?age%5B%5D=plus_10"><div>À partir de 10 ans</div></a>
 </td>
 </tr>
 <tr class="container_theme tr_impair">
 <th scope="row">Thème(s)</th>
-<td class="text"><a href="/jeux_de_societe/recherche/?theme=Enquête" /><div>Enquête</div></a></td>
+<td class="text"><a href="/jeux_de_societe/recherche/?theme=Science+Fiction" /><div>Science Fiction</div></a></td>
 </tr>
 <tr class="container_type tr_pair">
 <th scope="row">Type(s)</th>
-<td class="text"><a href="/jeux_de_societe/recherche/?type=Déduction" /><div>Déduction</div></a></td></tr><tr class="container_type line_repeat"><th scope="row"></th><td class="text"><a href="/jeux_de_societe/recherche/?type=Jeux+Coopératifs" /><div>Jeux Coopératifs</div></a></td></tr><tr class="container_type line_repeat"><th scope="row"></th><td class="text"><a href="/jeux_de_societe/recherche/?type=Observation+/+réflexe" /><div>Observation / réflexe</div></a></td>
+<td class="text"><a href="/jeux_de_societe/recherche/?type=Draft" /><div>Draft</div></a></td></tr><tr class="container_type line_repeat"><th scope="row"></th><td class="text"><a href="/jeux_de_societe/recherche/?type=Jeux+de+Stratégie" /><div>Jeux de Stratégie</div></a></td></tr><tr class="container_type line_repeat"><th scope="row"></th><td class="text"><a href="/jeux_de_societe/recherche/?type=Modulable" /><div>Modulable</div></a></td></tr><tr class="container_type line_repeat"><th scope="row"></th><td class="text"><a href="/jeux_de_societe/recherche/?type=Placement+de+Tuiles" /><div>Placement de Tuiles</div></a></td>
 </tr>
 <tr class="container_type tr_impair">
 <th scope="row">Gamme</th><td class="text"><div>Aucune gamme</div></td></tr>
 <tr class="container_editor tr_pair">
 <th scope="row">Éditeur(s)</th>
-<td class="text"><div>Space Cowboys</div></td>
+<td class="text"><div>OriGames</div></td>
 </tr>
 <tr class="container_author tr_impair">
 <th scope="row">Auteur(s)</th>
-<td class="text"><div>Dave Neale</div></td></tr><tr class="container_theme line_repeat tr_impair"><th scope="row"></th><td class="text"><div>Matthew Dunstan</div></td>
+<td class="text"><div>Adam Rehberg</div></td></tr><tr class="container_theme line_repeat tr_impair"><th scope="row"></th><td class="text"><div>R. Lambert</div></td>
 </tr>
 <tr class="container_illustrator tr_pair">
 <th scope="row">Illustrateur(s)</th>
-<td class="text"><div>Ann&Seb</div></td></tr><tr class="container_theme line_repeat"><th scope="row"></th><td class="text"><div>Looky</div></td></tr><tr class="container_theme line_repeat"><th scope="row"></th><td class="text"><div>Vincent Dutrait</div></td>
-</tr></table></div><div class="tab bloc_tab tab_video tab_hidden tab bloc_tab tab_video"><div class="video"><div class="container"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ET1SHgqbZ0s?si=uxZTk2-FzISypnwb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div></div></div><div class="tab bloc_tab tab_rating  tab bloc_tab tab_rating tab_hidden"><div class="rating_available">Merci de vous connecter afin de déposer votre avis.</div><div class="container_page_rating"><div id="page_0" class="each_pagination" data-id="0"><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">Aurélien V</div><div class="valid_purchase">Achat vérifié</div><div id="user_comment_41409" class="user_comment">Un jeu d&#039;enquête très original, où la communication entre les joueurs est très importante. Le matériel est très réussi, et les scénarios sont très bons et bien écrits.</div></div></div></div></div><div class="container_present_card"><div class="alert container_alert_bug">
+<td class="text"><div>Yoma</div></td>
+</tr></table></div><div class="tab bloc_tab tab_video tab_hidden tab bloc_tab tab_video"><div class="video"><div class="container"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/gPK6P3py1ZM?si=MNwX1retwN-S41rk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div></div></div><div class="tab bloc_tab tab_rules tab_hidden tab bloc_tab tab_rules">
+<div class="title_rules">Planet Unknown : </div>
+<div class="rules"><div class="container_rules">
+<div class="img_download_logo"></div>
+<a href="/pdf/rules_games/planet_unknown_-_regles_fr.pdf" target="_blank"><div>Consulter :</div><div>Planet Unknown - Règles Fr</div></a>
+</div></div>
+<div class="clear"></div></div><div class="tab bloc_tab tab_rating  tab bloc_tab tab_rating tab_hidden"><div class="rating_available">Merci de vous connecter afin de déposer votre avis.</div></div><div class="container_present_card"><div class="alert container_alert_bug">
 <div class="toggleTarget clicOut" data-target="signal_bug">Vous souhaitez nous signaler un bug&nbsp;?</div>
 <div class="send_ok"></div>
 <div class="boxToggle clicOut alert_target signal_bug"><div class> <div class="send_ok not_connected">Vous devez être connecté pour signaler un bug</div> </div></div>
@@ -2987,13 +3010,13 @@ Le jeu a été ajouté au panier </div>
 <div class="bloc_encart bloc_logos_rassurants share_link_product">
 <div class="sentence_present">Envie de partager cette page&nbsp;?</div>
 <div class="container_logos_img">
-<a href="https://www.facebook.com/sharer/sharer.php?u=https://www.play-in.com/produit/506056-perspectives&amp;src=sdkpreparse" class="link_fb fb-xfbml-parse-ignore" target="_blank">
-<div class="facebook" data-href="https://www.play-in.com/produit/506056-perspectives" data-layout="button" data-size="large" data-mobile-iframe="true">
+<a href="https://www.facebook.com/sharer/sharer.php?u=https://www.play-in.com/produit/479334-planet_unknown&amp;src=sdkpreparse" class="link_fb fb-xfbml-parse-ignore" target="_blank">
+<div class="facebook" data-href="https://www.play-in.com/produit/479334-planet_unknown" data-layout="button" data-size="large" data-mobile-iframe="true">
 <div class="facebook_img"></div>
 <div class="bloc">Partager</div>
 </div>
 </a>
-<a href="https://twitter.com/share?text=Perspectives@Playin_by_MB&url=https://www.play-in.com/produit/506056-perspectives" class="link link_twitter">
+<a href="https://twitter.com/share?text=Planet Unknown@Playin_by_MB&url=https://www.play-in.com/produit/479334-planet_unknown" class="link link_twitter">
 <div class="twitter">
 <div class="twitter_img"></div>
 <div class="bloc">Tweetter</div>
@@ -3100,7 +3123,7 @@ Le jeu a été ajouté au panier </div>
 </div>
 <div class="mb_footer mail_mb_footer">
 <div class="mail_mb_footer_img"></div>
-<div class="info_mb_footer"><a href="/cdn-cgi/l/email-protection#4a2925243e2b293e0a3a262b3367232464292527" target="_blank"><span class="__cf_email__" data-cfemail="f794989983969483b7879b968eda9e99d994989a">[email&#160;protected]</span></a></div>
+<div class="info_mb_footer"><a href="/cdn-cgi/l/email-protection#4a2925243e2b293e0a3a262b3367232464292527" target="_blank"><span class="__cf_email__" data-cfemail="85e6eaebf1e4e6f1c5f5e9e4fca8ecebabe6eae8">[email&#160;protected]</span></a></div>
 </div>
 </div>
 </div>

@@ -7,11 +7,8 @@ use Doctrine\Common\Collections\ArrayCollection;
 use Doctrine\Common\Collections\Collection;
 use Doctrine\DBAL\Types\Types;
 use Doctrine\ORM\Mapping as ORM;
-use Symfony\Component\Validator\Constraints as Assert;
 
 #[ORM\Entity(repositoryClass: GameRepository::class)]
-#[UniqueEntity('nom')]
-
 class Game
 {
     #[ORM\Id]
@@ -20,37 +17,13 @@ class Game
     private ?int $id = null;
 
     #[ORM\Column(length: 500)]
-    #[Assert\Unique]
+    private ?string $name = null;
 
-    private ?string $nom = null;
-
-    #[ORM\Column(length: 1000)]
-    private ?string $image = null;
-
-    #[ORM\Column(length: 500)]
+    #[ORM\Column(length: 255)]
     private ?string $editeur = null;
 
     #[ORM\Column(type: Types::SMALLINT)]
     private ?int $duration = null;
-
-    #[ORM\Column(type: Types::SMALLINT)]
-    private ?int $age = null;
-
-    #[ORM\ManyToMany(targetEntity: GameType::class, mappedBy: 'Game')]
-    private Collection $gameTypes;
-
-    #[ORM\Column(length: 1000)]
-    private ?string $shortDescription = null;
-
-    #[ORM\Column(length: 5000)]
-    private ?string $longDescription = null;
-
-    
-    #[ORM\ManyToMany(targetEntity: Auteur::class, mappedBy: 'Game')]
-    private Collection $auteurs;
-
-    #[ORM\ManyToMany(targetEntity: Dessinateur::class, mappedBy: 'game')]
-    private Collection $dessinateurs;
 
     #[ORM\Column(type: Types::SMALLINT)]
     private ?int $nbJoueursMin = null;
@@ -58,16 +31,36 @@ class Game
     #[ORM\Column(type: Types::SMALLINT)]
     private ?int $nbJoueursMax = null;
 
+    #[ORM\Column(type: Types::SMALLINT)]
+    private ?int $age = null;
+
+    #[ORM\Column(length: 1000)]
+    private ?string $image = null;
+
+    #[ORM\Column(length: 1000)]
+    private ?string $shortDescription = null;
+
+    #[ORM\Column(length: 5000)]
+    private ?string $longDescription = null;
+
+    #[ORM\ManyToMany(targetEntity: Auteur::class, mappedBy: 'game')]
+    private Collection $auteurs;
+
+    #[ORM\ManyToMany(targetEntity: Dessinateur::class, mappedBy: 'game')]
+    private Collection $dessinateurs;
+
     #[ORM\ManyToMany(targetEntity: Theme::class, mappedBy: 'game')]
     private Collection $themes;
 
+    #[ORM\ManyToMany(targetEntity: Type::class, mappedBy: 'game')]
+    private Collection $types;
+
     public function __construct()
     {
-        $this->gameTypes = new ArrayCollection();
-        $this->yes = new ArrayCollection();
         $this->auteurs = new ArrayCollection();
         $this->dessinateurs = new ArrayCollection();
         $this->themes = new ArrayCollection();
+        $this->types = new ArrayCollection();
     }
 
     public function getId(): ?int
@@ -75,26 +68,14 @@ class Game
         return $this->id;
     }
 
-    public function getNom(): ?string
+    public function getName(): ?string
     {
-        return $this->nom;
+        return $this->name;
     }
 
-    public function setNom(string $nom): static
+    public function setName(string $name): static
     {
-        $this->nom = $nom;
-
-        return $this;
-    }
-
-    public function getImage(): ?string
-    {
-        return $this->image;
-    }
-
-    public function setImage(string $image): static
-    {
-        $this->image = $image;
+        $this->name = $name;
 
         return $this;
     }
@@ -123,6 +104,30 @@ class Game
         return $this;
     }
 
+    public function getNbJoueursMin(): ?int
+    {
+        return $this->nbJoueursMin;
+    }
+
+    public function setNbJoueursMin(int $nbJoueursMin): static
+    {
+        $this->nbJoueursMin = $nbJoueursMin;
+
+        return $this;
+    }
+
+    public function getNbJoueursMax(): ?int
+    {
+        return $this->nbJoueursMax;
+    }
+
+    public function setNbJoueursMax(int $nbJoueursMax): static
+    {
+        $this->nbJoueursMax = $nbJoueursMax;
+
+        return $this;
+    }
+
     public function getAge(): ?int
     {
         return $this->age;
@@ -135,29 +140,14 @@ class Game
         return $this;
     }
 
-    /**
-     * @return Collection<int, GameType>
-     */
-    public function getGameTypes(): Collection
+    public function getImage(): ?string
     {
-        return $this->gameTypes;
+        return $this->image;
     }
 
-    public function addGameType(GameType $gameType): static
+    public function setImage(string $image): static
     {
-        if (!$this->gameTypes->contains($gameType)) {
-            $this->gameTypes->add($gameType);
-            $gameType->addGame($this);
-        }
-
-        return $this;
-    }
-
-    public function removeGameType(GameType $gameType): static
-    {
-        if ($this->gameTypes->removeElement($gameType)) {
-            $gameType->removeGame($this);
-        }
+        $this->image = $image;
 
         return $this;
     }
@@ -185,32 +175,9 @@ class Game
 
         return $this;
     }
+    public function __toString(){
 
-    /**
-     * @return Collection<int, Theme>
-     */
-    public function getThemes(): Collection
-    {
-        return $this->theme;
-    }
-
-    public function addTheme(Theme $theme): static
-    {
-        if (!$this->themes->contains($theme)) {
-            $this->themes->add($theme);
-            $theme->addGame($this);
-        }
-
-        return $this;
-    }
-
-    public function removeTheme(Theme $theme): static
-    {
-        if ($this->themes->removeElement($theme)) {
-            $themes->removeGame($this);
-        }
-
-        return $this;
+        $this->getName();
     }
 
     /**
@@ -267,26 +234,56 @@ class Game
         return $this;
     }
 
-    public function getNbJoueursMin(): ?int
+    /**
+     * @return Collection<int, Theme>
+     */
+    public function getThemes(): Collection
     {
-        return $this->nbJoueursMin;
+        return $this->themes;
     }
 
-    public function setNbJoueursMin(int $nbJoueursMin): static
+    public function addTheme(Theme $theme): static
     {
-        $this->nbJoueursMin = $nbJoueursMin;
+        if (!$this->themes->contains($theme)) {
+            $this->themes->add($theme);
+            $theme->addGame($this);
+        }
 
         return $this;
     }
 
-    public function getNbJoueursMax(): ?int
+    public function removeTheme(Theme $theme): static
     {
-        return $this->nbJoueursMax;
+        if ($this->themes->removeElement($theme)) {
+            $theme->removeGame($this);
+        }
+
+        return $this;
     }
 
-    public function setNbJoueursMax(int $nbJoueursMax): static
+    /**
+     * @return Collection<int, Type>
+     */
+    public function getTypes(): Collection
     {
-        $this->nbJoueursMax = $nbJoueursMax;
+        return $this->types;
+    }
+
+    public function addType(Type $type): static
+    {
+        if (!$this->types->contains($type)) {
+            $this->types->add($type);
+            $type->addGame($this);
+        }
+
+        return $this;
+    }
+
+    public function removeType(Type $type): static
+    {
+        if ($this->types->removeElement($type)) {
+            $type->removeGame($this);
+        }
 
         return $this;
     }

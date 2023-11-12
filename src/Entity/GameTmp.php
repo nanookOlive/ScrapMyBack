@@ -24,8 +24,8 @@ class GameTmp
         return $this->id;
     }
 
-    public function setId(int $id)
-    {
+    public function setId(int $id){
+
         $this->id=$id;
     }
 
