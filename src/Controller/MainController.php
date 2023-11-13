@@ -4,6 +4,7 @@ namespace App\Controller;
 use App\Entity\Game;
 use App\Entity\GameTmp;
 use App\Controller\Scrapy;
+use App\Repository\GameRepository;
 use App\Repository\GameTmpRepository;
 use Doctrine\Persistence\ManagerRegistry;
 use Symfony\Component\HttpFoundation\Response;
@@ -51,9 +52,12 @@ class MainController extends AbstractController
 
     }
     #[Route("/base/show/{id}",name:'app_base_show')]
-    public function showBase(Game $game){
+    public function showBase(Game $game,GameRepository $gameRepo){
+        //$gameFound=$gameRepo->find($game->getId());
 
-        return $this->render("main/show.html.twig",['data'=>$game]);
+        $gameFound=$gameRepo->findGameAllData($game);
+
+        return $this->render("main/show.html.twig",['data'=>$gameFound]);
 
     }
 }
