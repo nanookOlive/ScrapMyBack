@@ -5,7 +5,7 @@
  * on veut pouvoir renvoyer un objetr de type scrapy
  * avec un ensemble de méthodes 
  */
-namespace App\Controller;
+namespace App\Service;
 use App\Entity\Type;
 use  App\Entity\Game;
 use App\Entity\Theme;
@@ -28,6 +28,7 @@ use Symfony\Component\BrowserKit\HttpBrowser;
 class Scrapy {
 
     private $invalide;
+    private $flag=0;
     private $manager;
     private $tmpFile;
     private $url;
@@ -63,7 +64,10 @@ class Scrapy {
     //va renvoyer les informations de chaque ligne correspondante
     //critères preg
 
-
+    public function getFlag()
+    {
+        return $this->flag;
+    }
     public function crawler(string $row,string $needle)
     {
 
@@ -234,15 +238,25 @@ class Scrapy {
                 if(preg_match($arrayPreg['nbJoueurs'],$line)){
 
                     
-                    preg_match('/<div>\w*\s*(\d*)\sà\s(\d*)/',$arrayContent[$a+2],$matches);
+                    preg_match('/<div>\w*\s*(\d*)\s*à\s*(\d*)/',$arrayContent[$a+2],$matches);
                     if(!empty($matches)){
+                        
                         $arrayResponse['nbJoueursMin']=$matches[1];
                         $arrayResponse['nbJoueursMax']=$matches[2];
                     }
                     else{
 
-                        $this->writeLog($name,'nbJouers');
-                        break;
+                        preg_match('/<div>(\d)/',$arrayContent[$a+2],$matches);
+                        if(!empty($matches)){
+                            $arrayResponse['nbJoueursMin']=$matches[1];
+                            $arrayResponse['nbJoueursMax']=$matches[1];
+                        }
+
+                        else{
+                            $this->writeLog($name,'nbJoueurs');
+                            break;
+                        }
+                        
                     }
                     
                     
@@ -519,12 +533,13 @@ class Scrapy {
 
 
                     $this->gameTmpRepo->add($gameTmp,true);
+                    $this->flag++;
                 }
            
 
             }
         }
-            
+            return True;
     }
 //méthode qui inscrit dans var/log/log.txt les jeux qui ont rencontré une erreur lors de leur création
 //et qui ne seront pas dans la base de données 
@@ -532,10 +547,10 @@ class Scrapy {
     private function writeLog(string $nomJeu,string $error){
 
         $this->invalide=TRUE;
-        $handle=fopen('../var/log/log.txt','a');
-        $message="Erreur déclenchée pour le jeu $nomJeu. $error non trouvé.".PHP_EOL;
-        fwrite($handle,$message );
-        fclose($handle);
+        // $handle=fopen('../var/log/log.txt','a');
+        // $message="Erreur déclenchée pour le jeu $nomJeu. $error non trouvé.".PHP_EOL;
+        // fwrite($handle,$message );
+        // fclose($handle);
 
     }
 }

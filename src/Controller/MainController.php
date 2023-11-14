@@ -23,7 +23,7 @@ class MainController extends AbstractController
        
     }
 
-    //méthode qui va afficher le détai d'un jeux
+    //méthode qui va afficher le détai d'un jeux en scraping
     #[Route("/scrapyDo",name: "app_scrapyDo")]
     public function show(Scrapy $scrapy,GameTmpRepository $gameRepo){
 
@@ -47,7 +47,7 @@ class MainController extends AbstractController
     #[Route('/create',name:'app_init_db')]
     public function create(Scrapy $scrapy){
         
-        $scrapy->getListGames(20);
+        $scrapy->getListGames(10);
         return $this->redirectToRoute('app_main');
 
     }
@@ -60,4 +60,14 @@ class MainController extends AbstractController
         return $this->render("main/show.html.twig",['data'=>$gameFound]);
 
     }
+
+    // #[Route("/show/{id}",name:'app_base_show')]
+    // public function showGame(GameTmp $gameTmp,GameRepository $gameRepo){
+    //     //$gameFound=$gameRepo->find($game->getId());
+
+    //     $gameFound=$gameRepo->findGameAllData($game);
+
+    //     return $this->render("main/show.html.twig",['data'=>$gameFound]);
+
+    // }
 }
