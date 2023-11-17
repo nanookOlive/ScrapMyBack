@@ -31,7 +31,8 @@ class DessinateurRepository extends ServiceEntityRepository
     }
     public function findByName(string $name)
     {
-        $query =$this->getEntityManager()->createQuery("SELECT d FROM ".Dessinateur::class." d WHERE d.name='$name'");
+        $query =$this->getEntityManager()->createQuery('SELECT d FROM '.Dessinateur::class.' d WHERE d.name=:name');
+        $query->setParameter('name',$name);
         return $query->getResult();
     }
 

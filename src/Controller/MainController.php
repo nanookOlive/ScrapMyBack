@@ -3,7 +3,7 @@
 namespace App\Controller;
 use App\Entity\Game;
 use App\Entity\GameTmp;
-use App\Controller\Scrapy;
+use App\Service\Scrapy;
 use App\Repository\GameRepository;
 use App\Repository\GameTmpRepository;
 use Doctrine\Persistence\ManagerRegistry;
@@ -32,6 +32,12 @@ class MainController extends AbstractController
         return $this->render("main/show.html.twig",['data'=>$gameFound]);
 
     }
+    #[Route("gameTmp/show/{id}",name:'app_crawler_show')]
+    public function show(Scrapy $scrapy,GameTmp $gameTmp){
 
+        $game=$scrapy->crawlerDetail($gameTmp);
+        
+
+        return $this->render("main/show.html.twig",['data'=>$game]);}
   
 }

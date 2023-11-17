@@ -97,8 +97,8 @@
 <link rel="stylesheet" href="/css/header.css?v=146" media="all" type="text/css" />
 <link rel="preload" href="/css/header_responsiv.css?v=92" as="style" type="text/css" />
 <link rel="stylesheet" href="/css/header_responsiv.css?v=92" media="all" type="text/css" />
-<link rel="preload" href="/css/style_page.css?v=387" as="style" type="text/css" />
-<link rel="stylesheet" href="/css/style_page.css?v=387" media="all" type="text/css" />
+<link rel="preload" href="/css/style_page.css?v=388" as="style" type="text/css" />
+<link rel="stylesheet" href="/css/style_page.css?v=388" media="all" type="text/css" />
 <link rel="preload" href="/css/style_page_responsiv.css?v=178" as="style" type="text/css" />
 <link rel="stylesheet" href="/css/style_page_responsiv.css?v=178" media="all" type="text/css" />
 
@@ -264,7 +264,7 @@
 <div class="clear"></div>
 <div class="pwd_lost"><a href="/user/forgot.php">Mot de passe perdu ?</a></div>
 <input type="submit" value="Me connecter" class="btn connexion_account" data-user="username_popup" data-pwd="pwd_popup" data-popup="true" name="_submit_login">
-<a href="https://www.facebook.com/v3.2/dialog/oauth?scope=email&amp;state=a0bfb8101cac3e5f2c679d3949a156a0&amp;response_type=code&amp;approval_prompt=auto&amp;redirect_uri=https%3A%2F%2Fwww.play-in.com%2Fuser%2Ffb_callback.php&amp;client_id=936206876519095">
+<a href="https://www.facebook.com/v3.2/dialog/oauth?scope=email&amp;state=eb183f64af71c2fe25192c2b5df961b4&amp;response_type=code&amp;approval_prompt=auto&amp;redirect_uri=https%3A%2F%2Fwww.play-in.com%2Fuser%2Ffb_callback.php&amp;client_id=936206876519095">
 <div class="btn_facebook">
 <div class="facebook_img"></div>
 Me connecter
@@ -360,7 +360,7 @@ Me connecter
 <div class="clear"></div>
 <div class="pwd_lost"><a href="/user/forgot.php">Mot de passe perdu ?</a></div>
 <input type="submit" value="Me connecter" class="btn connexion_account" data-user="username_popup" data-pwd="pwd_popup" data-popup="true" name="_submit_login">
-<a href="https://www.facebook.com/v3.2/dialog/oauth?scope=email&amp;state=a0bfb8101cac3e5f2c679d3949a156a0&amp;response_type=code&amp;approval_prompt=auto&amp;redirect_uri=https%3A%2F%2Fwww.play-in.com%2Fuser%2Ffb_callback.php&amp;client_id=936206876519095">
+<a href="https://www.facebook.com/v3.2/dialog/oauth?scope=email&amp;state=eb183f64af71c2fe25192c2b5df961b4&amp;response_type=code&amp;approval_prompt=auto&amp;redirect_uri=https%3A%2F%2Fwww.play-in.com%2Fuser%2Ffb_callback.php&amp;client_id=936206876519095">
 <div class="btn_facebook">
 <div class="facebook_img"></div>
 Me connecter
@@ -633,10 +633,6 @@ Me connecter
 <div class="separateur"></div>
 <a href="/jeux_de_societe/jeux_primes/4-tric_trac_dor"><div class="bloc_navbar">
 <div class="empty_bloc"></div><span>Tric Trac d'Or</span><div class="empty_bloc_right"></div>
-</div></a>
-<div class="separateur"></div>
-<a href="/jeux_de_societe/jeux_primes/5-lestream_boardgame_awards"><div class="bloc_navbar">
-<div class="empty_bloc"></div><span>LeStream Boardgame Awards</span><div class="empty_bloc_right"></div>
 </div></a>
 </div>
 
@@ -1794,10 +1790,6 @@ Meilleures ventes cartes </span><div class="case_bestprod_logo"></div>
 <div class="point_grey_light_3_3"></div>
 <span>Tric Trac d'Or</span>
 </div></a>
-<a href="/jeux_de_societe/jeux_primes/5-lestream_boardgame_awards"><div class="bloc ss_bloc">
-<div class="point_grey_light_3_3"></div>
-<span>LeStream Boardgame Awards</span>
-</div></a>
 <a href="/jeux_de_societe/jeux_primes/"><div class="bloc ss_bloc bloc_link">
 <span class="no_margin">Voir tous les jeux primés</span>
 </div></a>
@@ -2778,7 +2770,7 @@ Yu-Gi-Oh! </div></a>
 <div class="block_cart "><div class="container_prices"><div class="price_product simple_price_product">98,90&nbsp;€</div></div><div class="cart">
 <div class="add_cart_btn add_cart_btn_mini">
 <form method="POST">
-<input type="hidden" aria-label="id_product" name="id_product" value="335118"><label for="335118_6"></label><select name="qty_product" aria-label="335118" class="select" id="335118_6"><option id="1" value="1">1</option><option id="2" value="2">2</option><option id="3" value="3">3</option><option id="4" value="4">4</option><option id="5" value="5">5</option><option id="6" value="6">6</option></select><div class="qty">(6)</div><div class="bloc_cart"><div class="bloc_each_cart_mini">
+<input type="hidden" aria-label="id_product" name="id_product" value="335118"><label for="335118_5"></label><select name="qty_product" aria-label="335118" class="select" id="335118_5"><option id="1" value="1">1</option><option id="2" value="2">2</option><option id="3" value="3">3</option><option id="4" value="4">4</option><option id="5" value="5">5</option></select><div class="qty">(5)</div><div class="bloc_cart"><div class="bloc_each_cart_mini">
 <button type="submit" name="addToCart" value="0" class="btn addToCart tagSmallOrange tagProduct" data-localisation="0" data-id="335118" title="Ajouter au panier en livraison" alt="Ajouter au panier en livraison">
 <div class="add_cart_logo_mini"></div>
 </button>
@@ -3306,7 +3298,7 @@ Yu-Gi-Oh! </div></a>
 <div class="block_cart "><div class="container_prices"><div class="price_product simple_price_product">49,50&nbsp;€</div></div><div class="cart">
 <div class="add_cart_btn add_cart_btn_mini">
 <form method="POST">
-<input type="hidden" aria-label="id_product" name="id_product" value="417477"><label for="417477_1"></label><select name="qty_product" aria-label="417477" class="select" id="417477_1"><option id="1" value="1">1</option></select><div class="qty">(1)</div><div class="bloc_cart"><div class="bloc_each_cart_mini">
+<input type="hidden" aria-label="id_product" name="id_product" value="417477"><label for="417477_7"></label><select name="qty_product" aria-label="417477" class="select" id="417477_7"><option id="1" value="1">1</option><option id="2" value="2">2</option><option id="3" value="3">3</option><option id="4" value="4">4</option><option id="5" value="5">5</option><option id="6" value="6">6</option><option id="7" value="7">7</option></select><div class="qty">(7)</div><div class="bloc_cart"><div class="bloc_each_cart_mini">
 <button type="submit" name="addToCart" value="0" class="btn addToCart tagSmallOrange tagProduct" data-localisation="0" data-id="417477" title="Ajouter au panier en livraison" alt="Ajouter au panier en livraison">
 <div class="add_cart_logo_mini"></div>
 </button>
@@ -3394,7 +3386,7 @@ Yu-Gi-Oh! </div></a>
 <div class="block_cart "><div class="container_prices"><div class="price_product simple_price_product">49,50&nbsp;€</div></div><div class="cart">
 <div class="add_cart_btn add_cart_btn_mini">
 <form method="POST">
-<input type="hidden" aria-label="id_product" name="id_product" value="441813"><label for="441813_3"></label><select name="qty_product" aria-label="441813" class="select" id="441813_3"><option id="1" value="1">1</option><option id="2" value="2">2</option><option id="3" value="3">3</option></select><div class="qty">(3)</div><div class="bloc_cart"><div class="bloc_each_cart_mini">
+<input type="hidden" aria-label="id_product" name="id_product" value="441813"><label for="441813_2"></label><select name="qty_product" aria-label="441813" class="select" id="441813_2"><option id="1" value="1">1</option><option id="2" value="2">2</option></select><div class="qty">(2)</div><div class="bloc_cart"><div class="bloc_each_cart_mini">
 <button type="submit" name="addToCart" value="0" class="btn addToCart tagSmallOrange tagProduct" data-localisation="0" data-id="441813" title="Ajouter au panier en livraison" alt="Ajouter au panier en livraison">
 <div class="add_cart_logo_mini"></div>
 </button>
@@ -3572,7 +3564,7 @@ Yu-Gi-Oh! </div></a>
 Le jeu a été ajouté au panier </div>
 </div>
 <div class="form_secondhand container_select_carts" id="popupForm">
-<img id="logo_gege" src="/img/play_back/Gégé_1_125.png" />
+<img id="logo_gege" src="/img/play_back/Gégé_2_125.png" />
 <img src="/img/play_back/Essai_logo_2_50.png" />
 <h2 class="title_secondhand">Les jeux d'occasion par Playin</h2>
 <img id="image_seconhand" src="/img/product/l/zombicide-campagne-rio-z-janeiro-boite-de-jeu.jpg" title="Zombicide 2ème Édition - Campagne Rio Z Janeiro" alt="zombicide campagne rio z janeiro boite de jeu " />
@@ -3823,7 +3815,7 @@ Le jeu a été ajouté au panier </div>
 <div class="block_cart "><div class="container_prices"><div class="price_product simple_price_product">98,90&nbsp;€</div></div><div class="cart">
 <div class="add_cart_btn add_cart_btn_mini">
 <form method="POST">
-<input type="hidden" aria-label="id_product" name="id_product" value="335118"><label for="335118_6"></label><select name="qty_product" aria-label="335118" class="select" id="335118_6"><option id="1" value="1">1</option><option id="2" value="2">2</option><option id="3" value="3">3</option><option id="4" value="4">4</option><option id="5" value="5">5</option><option id="6" value="6">6</option></select><div class="qty">(6)</div><div class="bloc_cart"><div class="bloc_each_cart_mini">
+<input type="hidden" aria-label="id_product" name="id_product" value="335118"><label for="335118_5"></label><select name="qty_product" aria-label="335118" class="select" id="335118_5"><option id="1" value="1">1</option><option id="2" value="2">2</option><option id="3" value="3">3</option><option id="4" value="4">4</option><option id="5" value="5">5</option></select><div class="qty">(5)</div><div class="bloc_cart"><div class="bloc_each_cart_mini">
 <button type="submit" name="addToCart" value="0" class="btn addToCart tagSmallOrange tagProduct" data-localisation="0" data-id="335118" title="Ajouter au panier en livraison" alt="Ajouter au panier en livraison">
 <div class="add_cart_logo_mini"></div>
 </button>
@@ -4351,7 +4343,7 @@ Le jeu a été ajouté au panier </div>
 <div class="block_cart "><div class="container_prices"><div class="price_product simple_price_product">49,50&nbsp;€</div></div><div class="cart">
 <div class="add_cart_btn add_cart_btn_mini">
 <form method="POST">
-<input type="hidden" aria-label="id_product" name="id_product" value="417477"><label for="417477_1"></label><select name="qty_product" aria-label="417477" class="select" id="417477_1"><option id="1" value="1">1</option></select><div class="qty">(1)</div><div class="bloc_cart"><div class="bloc_each_cart_mini">
+<input type="hidden" aria-label="id_product" name="id_product" value="417477"><label for="417477_7"></label><select name="qty_product" aria-label="417477" class="select" id="417477_7"><option id="1" value="1">1</option><option id="2" value="2">2</option><option id="3" value="3">3</option><option id="4" value="4">4</option><option id="5" value="5">5</option><option id="6" value="6">6</option><option id="7" value="7">7</option></select><div class="qty">(7)</div><div class="bloc_cart"><div class="bloc_each_cart_mini">
 <button type="submit" name="addToCart" value="0" class="btn addToCart tagSmallOrange tagProduct" data-localisation="0" data-id="417477" title="Ajouter au panier en livraison" alt="Ajouter au panier en livraison">
 <div class="add_cart_logo_mini"></div>
 </button>
@@ -4439,7 +4431,7 @@ Le jeu a été ajouté au panier </div>
 <div class="block_cart "><div class="container_prices"><div class="price_product simple_price_product">49,50&nbsp;€</div></div><div class="cart">
 <div class="add_cart_btn add_cart_btn_mini">
 <form method="POST">
-<input type="hidden" aria-label="id_product" name="id_product" value="441813"><label for="441813_3"></label><select name="qty_product" aria-label="441813" class="select" id="441813_3"><option id="1" value="1">1</option><option id="2" value="2">2</option><option id="3" value="3">3</option></select><div class="qty">(3)</div><div class="bloc_cart"><div class="bloc_each_cart_mini">
+<input type="hidden" aria-label="id_product" name="id_product" value="441813"><label for="441813_2"></label><select name="qty_product" aria-label="441813" class="select" id="441813_2"><option id="1" value="1">1</option><option id="2" value="2">2</option></select><div class="qty">(2)</div><div class="bloc_cart"><div class="bloc_each_cart_mini">
 <button type="submit" name="addToCart" value="0" class="btn addToCart tagSmallOrange tagProduct" data-localisation="0" data-id="441813" title="Ajouter au panier en livraison" alt="Ajouter au panier en livraison">
 <div class="add_cart_logo_mini"></div>
 </button>
@@ -4731,7 +4723,7 @@ Le jeu a été ajouté au panier </div>
 </div>
 <div class="mb_footer mail_mb_footer">
 <div class="mail_mb_footer_img"></div>
-<div class="info_mb_footer"><a href="/cdn-cgi/l/email-protection#3f5c50514b5e5c4b7f4f535e46125651115c5052" target="_blank"><span class="__cf_email__" data-cfemail="2c4f4342584d4f586c5c404d55014542024f4341">[email&#160;protected]</span></a></div>
+<div class="info_mb_footer"><a href="/cdn-cgi/l/email-protection#781b17160c191b0c3808141901551116561b1715" target="_blank"><span class="__cf_email__" data-cfemail="22414d4c5643415662524e435b0f4b4c0c414d4f">[email&#160;protected]</span></a></div>
 </div>
 </div>
 </div>

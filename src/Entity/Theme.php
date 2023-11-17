@@ -44,7 +44,7 @@ class Theme
     }
     public function __toString(){
 
-        $this->getName();
+       return $this->getName();
     }
 
     /**

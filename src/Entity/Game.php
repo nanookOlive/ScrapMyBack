@@ -55,12 +55,15 @@ class Game
     #[ORM\ManyToMany(targetEntity: Type::class, mappedBy: 'game')]
     private Collection $types;
 
+   
     public function __construct()
     {
         $this->auteurs = new ArrayCollection();
         $this->dessinateurs = new ArrayCollection();
         $this->themes = new ArrayCollection();
         $this->types = new ArrayCollection();
+        $this->users = new ArrayCollection();
+        $this->user = new ArrayCollection();
     }
 
     public function getId(): ?int
@@ -286,5 +289,40 @@ class Game
         }
 
         return $this;
+    }
+
+    /**
+     * @return Collection<int, User>
+     */
+    public function getUsers(): Collection
+    {
+        return $this->users;
+    }
+
+    public function addUser(User $user): static
+    {
+        if (!$this->users->contains($user)) {
+            $this->users->add($user);
+            $user->addGame($this);
+        }
+
+        return $this;
+    }
+
+    public function removeUser(User $user): static
+    {
+        if ($this->users->removeElement($user)) {
+            $user->removeGame($this);
+        }
+
+        return $this;
+    }
+
+    /**
+     * @return Collection<int, User>
+     */
+    public function getUser(): Collection
+    {
+        return $this->user;
     }
 }

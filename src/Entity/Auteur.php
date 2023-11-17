@@ -45,7 +45,7 @@ class Auteur
 
     public function __toString(){
 
-        $this->getName();
+       return $this->getName();
     }
 
     /**

@@ -101,6 +101,7 @@ class Scrapy {
             $this->browser->request('GET','https://play-in.com/'.$gameTmp->getHref());//la ressource browser
 
             $contentPageString=($this->browser->getResponse())->getContent();
+            $contentPageString=mb_convert_encoding($contentPageString,'utf-8');
             file_put_contents($this->tmpFile,$contentPageString);
             //on récupére le contenu du txt sous la forme d'un tableau
             $arrayContent=file($this->tmpFile);
@@ -134,8 +135,8 @@ class Scrapy {
                 'longDescription'=>'/<\/div><div\sclass="tab\sbloc_tab\stab_desc\stab_selected">/'
 
             ];
-            $decodeString=['&eacute;','&egrave;','&agrave;','&nbsp;','&ecirc;','&ccedil;','&ugrave;','&acirc;','&ouml;','&amp;','&ucirc;','&hellip;','&ocirc;'];
-            $replaceString=['é','è','à',' ','ê','ç','ù','â','ö','&','û','...','ô'];
+            $decodeString=['&eacute;','&egrave;','&agrave;','&nbsp;','&ecirc;','&ccedil;','&ugrave;','&acirc;','&ouml;','&amp;','&ucirc;','&hellip;','&ocirc;','&iuml;'];
+            $replaceString=['é','è','à',' ','ê','ç','ù','â','ö','&','û','...','ô','ï'];
 
             $a=0;
 
@@ -289,7 +290,7 @@ class Scrapy {
 
                 if(preg_match($arrayPreg["themes"],$line)){
 
-                   preg_match_all('/<div>((\w*[éèêà]*\s*)*)/',$arrayContent[$a+1],$matches);
+                   preg_match_all('/<div>((\w*[éèêàÉ]*\s*)*)/',$arrayContent[$a+1],$matches);
                    if(!empty($matches)){
 
                     $arrayResponse["themes"]=$matches[1];
@@ -340,17 +341,19 @@ class Scrapy {
                 //j'ai eu une erreur quand même 
                 if(preg_match($arrayPreg['dessinateurs'],$line)){
 
-                    preg_match_all('/<div>((\w*[éèà]*\s*)+)/',$arrayContent[$a+1],$arrayDessinateurs);
+                    preg_match_all('/<div>((\w*[éèàëôä\'\.ïÉ]*\s*)+)/',$arrayContent[$a+1],$arrayDessinateurs);
 
                     if(!empty($arrayDessinateurs)){
                         foreach($arrayDessinateurs[1] as $dessinateur){
-
+                        
+                            $dessinateur=str_replace($decodeString,$replaceString,$dessinateur);
+                   
                             if(!in_array($dessinateur,$arrayResponse['dessinateurs'])){
 
                                 array_push($arrayResponse["dessinateurs"],$dessinateur);
                             }
                         }
-    
+
                     }
                     else{
 
@@ -422,7 +425,6 @@ class Scrapy {
             foreach($arrayResponse['dessinateurs'] as $nameDessinateur){
 
                 $nameDessinateur=mb_convert_encoding($nameDessinateur,'UTF-8');
-
                 if(empty($this->dessinateurRepo->findByName($nameDessinateur))){
 
                     $dessinateur=new Dessinateur;
@@ -466,7 +468,7 @@ class Scrapy {
             $this->gameRepository->add($game,true);
         }
             
-            //return $game;
+            return $game;
         }
         //renvoie un tableau avec dans l'ordre le href, le nom, description
     public function getListGames(int $nbPagesToScrap) 

@@ -44,7 +44,7 @@ class Type
     }
     public function __toString(){
 
-        $this->getName();
+        return $this->getName();
     }
 
     /**
