@@ -40,9 +40,7 @@ class Game
     #[ORM\Column(length: 1000)]
     private ?string $shortDescription = null;
 
-    #[ORM\Column(length: 5000)]
-    private ?string $longDescription = null;
-
+    
     #[ORM\ManyToMany(targetEntity: Auteur::class, mappedBy: 'game')]
     private Collection $auteurs;
 
@@ -54,6 +52,11 @@ class Game
 
     #[ORM\ManyToMany(targetEntity: Type::class, mappedBy: 'game')]
     private Collection $types;
+
+    #[ORM\Column(type: Types::TEXT)]
+    private ?string $longDescription = null;
+
+    
 
    
     public function __construct()
@@ -324,5 +327,17 @@ class Game
     public function getUser(): Collection
     {
         return $this->user;
+    }
+
+    public function getLongDescritption(): ?string
+    {
+        return $this->longDescritption;
+    }
+
+    public function setLongDescritption(string $longDescritption): static
+    {
+        $this->longDescritption = $longDescritption;
+
+        return $this;
     }
 }

@@ -24,10 +24,9 @@ use Symfony\Component\DomCrawler\Crawler;
 use Symfony\Component\HttpClient\HttpClient;
 use Symfony\Component\BrowserKit\HttpBrowser;
 
-//pour récupérer les genres d'un jeu preg => <div>(([$A-Za-zéèà-]+\s*)*)<\/div>
 class Scrapy {
 
-    private $invalide;
+    private $invalide;//status du jeu quand une erreur est survenue
     private $flag=0;
     private $manager;
     private $tmpFile;
@@ -483,7 +482,7 @@ class Scrapy {
             //on accede aux pages de ce site en particulier de la façon suivante
             //https://www.play-in.com/jeux_de_societe/recherche/?p=1, 2 etc ... 
 
-            $urlToScrap=$this->url.$gu; // l'url de la page à scrap
+            $urlToScrap=$this->url.$gu; // l'url de la page à scrap + le numéro de page
             $this->browser->request('GET',$urlToScrap);//la ressource browser
 
             //on crée un objet Response en string

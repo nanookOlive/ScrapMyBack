@@ -7,11 +7,11 @@
             function gtag(){dataLayer.push(arguments);}
             gtag("js", new Date());
             gtag("config", "G-4ZGZBRWKLF");
-        </script> <title>Zombicide 2ème Édition - Campagne Rio Z Janeiro - Acheter vos Jeux de société pour passionnés &amp; experts - Playin by Magic Bazar</title>
+        </script> <title>Dungeons, Dice &amp; Danger - Acheter vos Jeux de société en famille &amp; entre amis - Playin by Magic Bazar</title>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta name="robots" content="index,follow">
 <meta name="rating" content="general">
-<meta name="Description" content="Rio Z Janeiro est une campagne complète pour Zombicide 2ème Édition. Échappez-vous d&#039;un carnaval mortel au fil de 10 missions aussi festives que terrifiantes.">
+<meta name="Description" content="Bienvenue aventuriers dans le Roll &amp; Write Dungeons, Dice &amp; Danger ! Traversez les donjons et combinez vos dés pour explorer les salles et vaincre les monstres.">
 <meta content="7 days" name="revisit-after">
 <meta name="Author" content="Playin by Magic Bazar">
 <meta name="Identifier-URL" Content=" https://www.play-in.com">
@@ -26,11 +26,11 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=6">
 
-<meta property="og:title" content="Zombicide 2ème Édition - Campagne Rio Z Janeiro - Acheter vos Jeux de société pour passionnés &amp; experts - Playin by Magic Bazar" />
+<meta property="og:title" content="Dungeons, Dice &amp; Danger - Acheter vos Jeux de société en famille &amp; entre amis - Playin by Magic Bazar" />
 <meta property="og:type" content="product" />
-<meta property="og:url" content="https://www.play-in.com/produit/487584-zombicide_2eme_Edition_-_campagne_rio_z_janeiro" />
-<meta property="og:image" content="https://www.play-in.com/img/product/l/zombicide-campagne-rio-z-janeiro-boite-de-jeu.jpg" />
-<meta property="og:description" content="Rio Z Janeiro est une campagne complète pour Zombicide 2ème Édition. Échappez-vous d&#039;un carnaval mortel au fil de 10 missions aussi festives que terrifiantes." />
+<meta property="og:url" content="https://www.play-in.com/produit/394820-dungeons_dice_et_danger" />
+<meta property="og:image" content="https://www.play-in.com/img/product/l/dungeons-dice-and-danger-boite-de-jeu.jpg" />
+<meta property="og:description" content="Bienvenue aventuriers dans le Roll &amp; Write Dungeons, Dice &amp; Danger ! Traversez les donjons et combinez vos dés pour explorer les salles et vaincre les monstres." />
 <meta property="og:app_id" content="936206876519095" />
 
 <script>
@@ -59,32 +59,69 @@
             {
             "@context": "http://schema.org",
                 "@type": "Product",
-                    "name":"Zombicide 2ème Édition - Campagne Rio Z Janeiro",
-                    "description":"Rio Z Janeiro est une campagne complète pour Zombicide 2ème Édition. Échappez-vous d&#039;un carnaval mortel au fil de 10 missions aussi festives que terrifiantes.",
-                    "image":"https://www.play-in.com/img/product/l/zombicide-campagne-rio-z-janeiro-boite-de-jeu.jpg",
+                    "name":"Dungeons, Dice &amp; Danger",
+                    "description":"Bienvenue aventuriers dans le Roll &amp; Write Dungeons, Dice &amp; Danger ! Traversez les donjons et combinez vos dés pour explorer les salles et vaincre les monstres.",
+                    "image":"https://www.play-in.com/img/product/l/dungeons-dice-and-danger-boite-de-jeu.jpg",
                     "brand": "",
-                    "gtin14": "03558380108382",
+                    "gtin14": "04005556272709",
+                "aggregateRating": {
+                    "@type": "AggregateRating",
+                    "ratingValue": "5",
+                    "reviewCount": "3"
+                },
+                "review": 
+                    [{
+                        "@type": "Review",
+                        "url":"https://www.play-in.com/produit/394820-dungeons_dice_et_danger",
+                        "author": "Francois m",
+                        "datePublished": "2022-09-15 14:51:35",
+                        "reviewBody": "Qui aurait cru que cocher des cases et lancer des dés pourrait être aussi fun ?",
+                        "reviewRating": {
+                        "@type": "Rating",
+                        "ratingValue": "5"
+                        }
+                    },{
+                        "@type": "Review",
+                        "url":"https://www.play-in.com/produit/394820-dungeons_dice_et_danger",
+                        "author": "Romain P",
+                        "datePublished": "2022-09-18 17:35:58",
+                        "reviewBody": "",
+                        "reviewRating": {
+                        "@type": "Rating",
+                        "ratingValue": "5"
+                        }
+                    },{
+                        "@type": "Review",
+                        "url":"https://www.play-in.com/produit/394820-dungeons_dice_et_danger",
+                        "author": "EWAN G",
+                        "datePublished": "2022-12-18 15:48:13",
+                        "reviewBody": "Roll &amp; whrite au top si vous aimez ce genre de jeu, foncez!",
+                        "reviewRating": {
+                        "@type": "Rating",
+                        "ratingValue": "5"
+                        }
+                    }],
             "offers":{
                 "@type":"Offer",
                     "priceCurrency":"EUR",
                     "availability":"InStock",
                     "availability_date":"",
-                    "price":"59.90",
-                    "availableAtOrFrom":"/produit/487584-zombicide_2eme_Edition_-_campagne_rio_z_janeiro",
+                    "price":"26.90",
+                    "availableAtOrFrom":"/produit/394820-dungeons_dice_et_danger",
                     "itemCondition":"NewCondition",
                     "priceValidUntil":"",
-                    "url":"https://www.play-in.com/produit/487584-zombicide_2eme_Edition_-_campagne_rio_z_janeiro"
+                    "url":"https://www.play-in.com/produit/394820-dungeons_dice_et_danger"
             }
         }
         </script><script>
 	dataLayer.push({
 		'PageType': 'product',
-        'id': '487584',
-        'name': 'Zombicide 2ème Édition - Campagne Rio Z Janeiro',
-        'category': 'Jeux expert',
-        'price': '59.90'
+        'id': '394820',
+        'name': 'Dungeons, Dice & Danger',
+        'category': 'En famille et entre amis',
+        'price': '26.90'
 	});
-</script> <link rel="canonical" href="https://www.play-in.com/produit/487584-zombicide_2eme_Edition_-_campagne_rio_z_janeiro">
+</script> <link rel="canonical" href="https://www.play-in.com/produit/394820-dungeons_dice_et_danger">
 <link rel="icon" type="image/ico" href="/favicon.ico" /><link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
 
 <link rel="dns-prefetch" href="https://unpkg.com/multiple-select@1.3.1/dist/multiple-select.min.css" as="style" />
@@ -120,7 +157,7 @@
 <link rel="dns-prefetch" href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" as="style" crossorigin="anonymous">
 <link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">
-<link rel="alternate" hreflang="en" href="https://en.play-in.com/produit/487584-zombicide_2eme_Edition_-_campagne_rio_z_janeiro" /><link rel="alternate" hreflang="fr" href="https://www.play-in.com/produit/487584-zombicide_2eme_Edition_-_campagne_rio_z_janeiro" /><link rel="alternate" hreflang="x-default" href="https://www.play-in.com/produit/487584-zombicide_2eme_Edition_-_campagne_rio_z_janeiro" />
+<link rel="alternate" hreflang="en" href="https://en.play-in.com/produit/394820-dungeons_dice_et_danger" /><link rel="alternate" hreflang="fr" href="https://www.play-in.com/produit/394820-dungeons_dice_et_danger" /><link rel="alternate" hreflang="x-default" href="https://www.play-in.com/produit/394820-dungeons_dice_et_danger" />
 <script type="text/javascript" src="/js/tarteaucitron/tarteaucitron.js?v=15"></script>
 <script type="text/javascript">
             tarteaucitron.init({
@@ -187,7 +224,7 @@
 
 
 </head>
-<body class="body" style>
+<body class="body_black_friday" style>
 
 <div id="fb-root"></div>
 <script>
@@ -264,13 +301,13 @@
 <div class="clear"></div>
 <div class="pwd_lost"><a href="/user/forgot.php">Mot de passe perdu ?</a></div>
 <input type="submit" value="Me connecter" class="btn connexion_account" data-user="username_popup" data-pwd="pwd_popup" data-popup="true" name="_submit_login">
-<a href="https://www.facebook.com/v3.2/dialog/oauth?scope=email&amp;state=eb183f64af71c2fe25192c2b5df961b4&amp;response_type=code&amp;approval_prompt=auto&amp;redirect_uri=https%3A%2F%2Fwww.play-in.com%2Fuser%2Ffb_callback.php&amp;client_id=936206876519095">
+<a href="https://www.facebook.com/v3.2/dialog/oauth?scope=email&amp;state=602c6d2ca71f032a0f37fd58065f2e89&amp;response_type=code&amp;approval_prompt=auto&amp;redirect_uri=https%3A%2F%2Fwww.play-in.com%2Fuser%2Ffb_callback.php&amp;client_id=936206876519095">
 <div class="btn_facebook">
 <div class="facebook_img"></div>
 Me connecter
 </div>
 </a>
-<input type="hidden" name="redirect" value="../produit/487584-zombicide_2eme_Edition_-_campagne_rio_z_janeiro">
+<input type="hidden" name="redirect" value="../produit/394820-dungeons_dice_et_danger">
 <div id="g_id_onload" data-client_id="352511216272-q0kmev906091sein9bohqbcvjfa8jvcr.apps.googleusercontent.com" data-context="signin" data-ux_mode="popup" data-auto_prompt="false" data-callback="googleSignIn">
 </div>
 <div class="g_id_signin" style="margin-top: 5px;" data-type="standard" data-size="medium" data-text="signin" data-width="182" data-onsuccess="googleSignIn">
@@ -281,7 +318,7 @@ Me connecter
 <a href="/user/signin.php"><div class="btn_account">Créer un compte</div></a></div>
 </div>
 </div><div class="header_container_flag">
-<a href="https://en.play-in.com/produit/487584-zombicide_2eme_Edition_-_campagne_rio_z_janeiro">
+<a href="https://en.play-in.com/produit/394820-dungeons_dice_et_danger">
 <div class="header_flag_en" title="Playin by Magic Bazar in english" alt="Playin by Magic Bazar in english"></div>
 </a>
 <a href="#">
@@ -294,7 +331,7 @@ Me connecter
 <div title="Revenir en haut de la page" class="backToTop backToTopArrow"></div> </div>
 
 <div class="container_top_mobile">
-<div class="slide_top slide_top">
+<div class="slide_top slide_top_black_friday">
 
 <div class="container_first_line_header">
 
@@ -307,14 +344,14 @@ Me connecter
 <a href="#">
 <div class="flag_header_mobile_fr" title="Playin by Magic Bazar en français" alt="Playin by Magic Bazar en français"></div>
 </a>
-<a href="https://en.play-in.com/produit/487584-zombicide_2eme_Edition_-_campagne_rio_z_janeiro">
+<a href="https://en.play-in.com/produit/394820-dungeons_dice_et_danger">
 <div class="flag_header_mobile_en" title="Playin by Magic Bazar in english" alt="Playin by Magic Bazar in english"></div>
 </a>
 </div>
 <div class="clear"></div>
 </div>
 
-<div class="container_top_user container_top_user" id="header_mobile_fixed">
+<div class="container_top_user container_top_user_black_friday" id="header_mobile_fixed">
 
 <div class="container_hamburger_mobile show_menu_mobile header_bloc_logos_4" data-menu="first" data-current>
 <div class="hamburger"></div>
@@ -360,13 +397,13 @@ Me connecter
 <div class="clear"></div>
 <div class="pwd_lost"><a href="/user/forgot.php">Mot de passe perdu ?</a></div>
 <input type="submit" value="Me connecter" class="btn connexion_account" data-user="username_popup" data-pwd="pwd_popup" data-popup="true" name="_submit_login">
-<a href="https://www.facebook.com/v3.2/dialog/oauth?scope=email&amp;state=eb183f64af71c2fe25192c2b5df961b4&amp;response_type=code&amp;approval_prompt=auto&amp;redirect_uri=https%3A%2F%2Fwww.play-in.com%2Fuser%2Ffb_callback.php&amp;client_id=936206876519095">
+<a href="https://www.facebook.com/v3.2/dialog/oauth?scope=email&amp;state=602c6d2ca71f032a0f37fd58065f2e89&amp;response_type=code&amp;approval_prompt=auto&amp;redirect_uri=https%3A%2F%2Fwww.play-in.com%2Fuser%2Ffb_callback.php&amp;client_id=936206876519095">
 <div class="btn_facebook">
 <div class="facebook_img"></div>
 Me connecter
 </div>
 </a>
-<input type="hidden" name="redirect" value="../produit/487584-zombicide_2eme_Edition_-_campagne_rio_z_janeiro">
+<input type="hidden" name="redirect" value="../produit/394820-dungeons_dice_et_danger">
 <div id="g_id_onload" data-client_id="352511216272-q0kmev906091sein9bohqbcvjfa8jvcr.apps.googleusercontent.com" data-context="signin" data-ux_mode="popup" data-auto_prompt="false" data-callback="googleSignIn">
 </div>
 <div class="g_id_signin" style="margin-top: 5px;" data-type="standard" data-size="medium" data-text="signin" data-width="182" data-onsuccess="googleSignIn">
@@ -377,7 +414,7 @@ Me connecter
 <a href="/user/signin.php"><div class="btn_account">Créer un compte</div></a></div>
 </div>
 </div><div class="header_container_flag">
-<a href="https://en.play-in.com/produit/487584-zombicide_2eme_Edition_-_campagne_rio_z_janeiro">
+<a href="https://en.play-in.com/produit/394820-dungeons_dice_et_danger">
 <div class="header_flag_en" title="Playin by Magic Bazar in english" alt="Playin by Magic Bazar in english"></div>
 </a>
 <a href="#">
@@ -423,8 +460,8 @@ Me connecter
 <div class="img_arrow_little_white_left"></div><span>Accessoires</span><div class="case_accessoires_logo"></div>
 </div>
 <div class="separateur"></div>
-<a href="/promotions/"><div class="bloc_navbar bloc_navbar">
-<div class="empty_bloc"></div><span>Promo</span><div class="case_promo_logo"></div>
+<a href="/black_friday/"><div class="bloc_navbar bloc_navbar_black_friday">
+<div class="empty_bloc"></div><span>Black Friday</span><div class="case_promo_logo"></div>
 </div></a>
 <div class="separateur"></div>
 <a href="/evenement/boutique-paris/"><div class="bloc_navbar">
@@ -494,8 +531,8 @@ Me connecter
 <div class="empty_bloc"></div><span>Nouveautés</span><div class="case_newcard_logo"></div>
 </div></a>
 <div class="separateur"></div>
-<a href="/jeux_de_societe/recherche/?discount_filter=1"><div class="bloc_navbar bloc_navbar">
-<div class="empty_bloc"></div><span>Promotions</span><div class="case_promo_logo"></div>
+<a href="/jeux_de_societe/recherche/?discount_filter=1"><div class="bloc_navbar bloc_navbar_black_friday">
+<div class="empty_bloc"></div><span>Black Friday</span><div class="case_promo_logo"></div>
 </div></a>
 <div class="separateur"></div>
 <a href="/jeux_de_societe/recherche/?secondhand_filter=1"><div class="bloc_navbar">
@@ -698,8 +735,8 @@ Me connecter
 <div class="empty_bloc"></div><span>Nouveautés</span><div class="case_newcard_logo"></div>
 </div></a>
 <div class="separateur"></div>
-<a href="/magic/promotions/"><div class="bloc_navbar bloc_navbar">
-<div class="empty_bloc"></div><span>Promotions</span><div class="case_promo_logo"></div>
+<a href="/magic/black_friday/"><div class="bloc_navbar bloc_navbar_black_friday">
+<div class="empty_bloc"></div><span>Black Friday</span><div class="case_promo_logo"></div>
 </div></a>
 </div>
 </div><div class="container_navbar_mobile drop_down_menu navbar_slideOut" id="menu_listProd_magic">
@@ -790,8 +827,8 @@ Me connecter
 <div class="empty_bloc"></div><span>Nouveautés</span><div class="case_newcard_logo"></div>
 </div></a>
 <div class="separateur"></div>
-<a href="/yu-gi-oh/promotions/"><div class="bloc_navbar bloc_navbar">
-<div class="empty_bloc"></div><span>Promotions</span><div class="case_promo_logo"></div>
+<a href="/yu-gi-oh/black_friday/"><div class="bloc_navbar bloc_navbar_black_friday">
+<div class="empty_bloc"></div><span>Black Friday</span><div class="case_promo_logo"></div>
 </div></a>
 </div>
 </div><div class="container_navbar_mobile drop_down_menu navbar_slideOut" id="menu_listProd_yu-gi-oh">
@@ -925,8 +962,8 @@ Meilleures ventes cartes
 <div class="empty_bloc"></div><span>Nouveautés</span><div class="case_newcard_logo"></div>
 </div></a>
 <div class="separateur"></div>
-<a href="/carte/promotions/"><div class="bloc_navbar bloc_navbar">
-<div class="empty_bloc"></div><span>Promotions</span><div class="case_promo_logo"></div>
+<a href="/carte/black_friday/"><div class="bloc_navbar bloc_navbar_black_friday">
+<div class="empty_bloc"></div><span>Black Friday</span><div class="case_promo_logo"></div>
 </div></a> </div>
 </div>
 
@@ -963,8 +1000,8 @@ Meilleures ventes cartes
 <div class="empty_bloc"></div><span>Nouveautés</span><div class="case_newcard_logo"></div>
 </div></a>
 <div class="separateur"></div>
-<a href="/pokemon/promotions/"><div class="bloc_navbar bloc_navbar">
-<div class="empty_bloc"></div><span>Promotions</span><div class="case_promo_logo"></div>
+<a href="/pokemon/black_friday/"><div class="bloc_navbar bloc_navbar_black_friday">
+<div class="empty_bloc"></div><span>Black Friday</span><div class="case_promo_logo"></div>
 </div></a> </div>
 </div>
 <div class="container_navbar_mobile drop_down_menu navbar_slideOut" id="menu_listCard_pokemon">
@@ -1059,8 +1096,8 @@ Meilleures ventes cartes </span><div class="case_bestprod_logo"></div>
 <div class="empty_bloc"></div><span>Nouveautés</span><div class="case_newcard_logo"></div>
 </div></a>
 <div class="separateur"></div>
-<a href="/magic/promotions/"><div class="bloc_navbar bloc_navbar">
-<div class="empty_bloc"></div><span>Promotions</span><div class="case_promo_logo"></div>
+<a href="/magic/black_friday/"><div class="bloc_navbar bloc_navbar_black_friday">
+<div class="empty_bloc"></div><span>Black Friday</span><div class="case_promo_logo"></div>
 </div></a>
 </div>
 </div><div class="container_navbar_mobile drop_down_menu navbar_slideOut" id="menu_listProd_magic">
@@ -1151,8 +1188,8 @@ Meilleures ventes cartes </span><div class="case_bestprod_logo"></div>
 <div class="empty_bloc"></div><span>Nouveautés</span><div class="case_newcard_logo"></div>
 </div></a>
 <div class="separateur"></div>
-<a href="/yu-gi-oh/promotions/"><div class="bloc_navbar bloc_navbar">
-<div class="empty_bloc"></div><span>Promotions</span><div class="case_promo_logo"></div>
+<a href="/yu-gi-oh/black_friday/"><div class="bloc_navbar bloc_navbar_black_friday">
+<div class="empty_bloc"></div><span>Black Friday</span><div class="case_promo_logo"></div>
 </div></a>
 </div>
 </div><div class="container_navbar_mobile drop_down_menu navbar_slideOut" id="menu_listProd_yu-gi-oh">
@@ -1266,8 +1303,8 @@ Meilleures ventes cartes
 <div class="empty_bloc"></div><span>Nouveautés</span><div class="case_newcard_logo"></div>
 </div></a>
 <div class="separateur"></div>
-<a href="/flesh_and_blood/promotions/"><div class="bloc_navbar bloc_navbar">
-<div class="empty_bloc"></div><span>Promotions</span><div class="case_promo_logo"></div>
+<a href="/flesh_and_blood/black_friday/"><div class="bloc_navbar bloc_navbar_black_friday">
+<div class="empty_bloc"></div><span>Black Friday</span><div class="case_promo_logo"></div>
 </div></a>
 </div>
 </div>
@@ -1444,8 +1481,8 @@ Meilleures ventes cartes </span><div class="case_bestprod_logo"></div>
 <div class="empty_bloc"></div><span>Nouveautés</span><div class="case_newcard_logo"></div>
 </div></a>
 <div class="separateur"></div>
-<a href="/figurine/promotions/"><div class="bloc_navbar bloc_navbar">
-<div class="empty_bloc"></div><span>Promotions</span><div class="case_promo_logo"></div>
+<a href="/figurine/black_friday/"><div class="bloc_navbar bloc_navbar_black_friday">
+<div class="empty_bloc"></div><span>Black Friday</span><div class="case_promo_logo"></div>
 </div></a> </div>
 </div>
 
@@ -1639,8 +1676,8 @@ Meilleures ventes cartes </span><div class="case_bestprod_logo"></div>
 <div class="empty_bloc"></div><span>Nouveautés</span><div class="case_newcard_logo"></div>
 </div></a>
 <div class="separateur"></div>
-<a href="/accessoires/promotions/"><div class="bloc_navbar bloc_navbar">
-<div class="empty_bloc"></div><span>Promotions</span><div class="case_promo_logo"></div>
+<a href="/accessoires/black_friday/"><div class="bloc_navbar bloc_navbar_black_friday">
+<div class="empty_bloc"></div><span>Black Friday</span><div class="case_promo_logo"></div>
 </div></a> </div>
 </div>
 
@@ -1833,9 +1870,9 @@ Meilleures ventes cartes </span><div class="case_bestprod_logo"></div>
 <div class="point_grey_light_3_3"></div>
 <span>Nouveautés</span>
 </div></a>
-<a href="/jeux_de_societe/recherche/?discount_filter=1"><div class="bloc bloc ss_bloc">
+<a href="/jeux_de_societe/recherche/?discount_filter=1"><div class="bloc bloc_black_friday ss_bloc">
 <div class="point_grey_light_3_3"></div>
-<span>Promotions</span>
+<span>Black Friday</span>
 </div></a>
 <a href="/jeux_de_societe/recherche/?secondhand_filter=1"><div class="bloc ss_bloc">
 <div class="point_grey_light_3_3"></div>
@@ -1909,9 +1946,9 @@ Meilleures ventes cartes </span><div class="case_bestprod_logo"></div>
 <div class="point_grey_light_3_3"></div>
 <span>Nouveautés</span>
 </div></a>
-<a href="/magic/promotions/"><div class="bloc bloc ss_bloc">
+<a href="/magic/black_friday/"><div class="bloc bloc_black_friday ss_bloc">
 <div class="point_grey_light_3_3"></div>
-<span>Promotions</span>
+<span>Black Friday</span>
 </div></a> </div>
 <div class="separateur_vertical_navbar"></div>
 <div class="container_bloc bloc_first_family">
@@ -2028,9 +2065,9 @@ Yu-Gi-Oh! </div></a>
 <div class="point_grey_light_3_3"></div>
 <span>Nouveautés</span>
 </div></a>
-<a href="/yu-gi-oh/promotions/"><div class="bloc bloc ss_bloc">
+<a href="/yu-gi-oh/black_friday/"><div class="bloc bloc_black_friday ss_bloc">
 <div class="point_grey_light_3_3"></div>
-<span>Promotions</span>
+<span>Black Friday</span>
 </div></a> </div>
 </div><div class="clear"></div>
 </div>
@@ -2092,9 +2129,9 @@ Yu-Gi-Oh! </div></a>
 <div class="point_grey_light_3_3"></div>
 <span>Nouveautés</span>
 </div></a>
-<a href="/pokemon/promotions/"><div class="bloc bloc ss_bloc">
+<a href="/pokemon/black_friday/"><div class="bloc bloc_black_friday ss_bloc">
 <div class="point_grey_light_3_3"></div>
-<span>Promotions</span>
+<span>Black Friday</span>
 </div></a> </div><div class="clear"></div>
 <div class="separateur_vertical_navbar"></div>
 
@@ -2147,9 +2184,9 @@ Yu-Gi-Oh! </div></a>
 <div class="point_grey_light_3_3"></div>
 <span>Nouveautés</span>
 </div></a>
-<a href="/magic/promotions/"><div class="bloc bloc ss_bloc">
+<a href="/magic/black_friday/"><div class="bloc bloc_black_friday ss_bloc">
 <div class="point_grey_light_3_3"></div>
-<span>Promotions</span>
+<span>Black Friday</span>
 </div></a> </div><div class="clear"></div>
 <div class="separateur_vertical_navbar"></div>
 
@@ -2203,9 +2240,9 @@ Yu-Gi-Oh! </div></a>
 <div class="point_grey_light_3_3"></div>
 <span>Nouveautés</span>
 </div></a>
-<a href="/yu-gi-oh/promotions/"><div class="bloc bloc ss_bloc">
+<a href="/yu-gi-oh/black_friday/"><div class="bloc bloc_black_friday ss_bloc">
 <div class="point_grey_light_3_3"></div>
-<span>Promotions</span>
+<span>Black Friday</span>
 </div></a> </div><div class="clear"></div>
 <div class="separateur_vertical_navbar"></div>
 
@@ -2247,9 +2284,9 @@ Yu-Gi-Oh! </div></a>
 <div class="point_grey_light_3_3"></div>
 <span>Nouveautés</span>
 </div></a>
-<a href="/flesh_and_blood/promotions/"><div class="bloc bloc ss_bloc">
+<a href="/flesh_and_blood/black_friday/"><div class="bloc bloc_black_friday ss_bloc">
 <div class="point_grey_light_3_3"></div>
-<span>Promotions</span>
+<span>Black Friday</span>
 </div></a> </div><div class="clear"></div>
 <div class="separateur_vertical_navbar"></div>
 
@@ -2415,9 +2452,9 @@ Yu-Gi-Oh! </div></a>
 <div class="point_grey_light_3_3"></div>
 <span>Nouveautés</span>
 </div></a>
-<a href="/figurine/promotions/"><div class="bloc bloc ss_bloc">
+<a href="/figurine/black_friday/"><div class="bloc bloc_black_friday ss_bloc">
 <div class="point_grey_light_3_3"></div>
-<span>Promotions</span>
+<span>Black Friday</span>
 </div></a> </div><div class="clear"></div>
 </div>
 </div>
@@ -2487,9 +2524,9 @@ Yu-Gi-Oh! </div></a>
 <div class="point_grey_light_3_3"></div>
 <span>Nouveautés</span>
 </div></a>
-<a href="/accessoires/promotions/"><div class="bloc bloc ss_bloc">
+<a href="/accessoires/black_friday/"><div class="bloc bloc_black_friday ss_bloc">
 <div class="point_grey_light_3_3"></div>
-<span>Promotions</span>
+<span>Black Friday</span>
 </div></a> </div>
 </div><div class="clear"></div>
 </div>
@@ -2497,8 +2534,8 @@ Yu-Gi-Oh! </div></a>
 </div>
 <div class="insert_case"></div>
 
-<div class="case_navbar_top case_navbar_top_promotions">
-<a href="/promotions/"><div class="name_navbar">Promo</div></a>
+<div class="case_navbar_top case_navbar_top_black_friday">
+<a href="/black_friday/"><div class="name_navbar">Black Friday</div></a>
 </div> <div class="insert_case"></div>
 
 <div class="case_navbar_top case_navbar_top_3">
@@ -2584,53 +2621,55 @@ Yu-Gi-Oh! </div></a>
 
 </script>
 
-<div id="wrapper" class="wrapper">
+<div id="wrapper" class="wrapper_black_friday">
 <div class="main_container">
 <div class="return_msg_bag" id="header_error_update_qty_item"></div>
 <div class="clear"></div><div class="breadcrumbs">
 <a href="/"><div>Accueil</div></a><a href="/jeux_de_societe/"><div class="breadcrumbs_img"></div>
-<div>Jeux de société</div></a><a href="/jeux_de_societe/categorie/8-jeux_expert"><div class="breadcrumbs_img"></div>
-<div>Jeux expert</div></a></div>
-<div id="container_present_product" class="container_present_product" data-id="487584">
+<div>Jeux de société</div></a><a href="/jeux_de_societe/categorie/7-en_famille_et_entre_amis"><div class="breadcrumbs_img"></div>
+<div>En famille et entre amis</div></a></div>
+<div id="container_present_product" class="container_present_product" data-id="394820">
 <div class="return_msg_bag"></div>
 <div class="container_main_left">
 <div class="col_left"><div class="big_img_product ">
-<a class href="/img/product/zombicide-campagne-rio-z-janeiro-boite-de-jeu.jpg" data-lightbox="product-set" data-title>
+<a class href="/img/product/dungeons-dice-and-danger-boite-de-jeu.jpg" data-lightbox="product-set" data-title>
 <div class="main_img_product">
-<picture><source srcset="/img/product/l/zombicide-campagne-rio-z-janeiro-boite-de-jeu.webp" type="image/webp"><source srcset="/img/product/l/zombicide-campagne-rio-z-janeiro-boite-de-jeu.jpg" type="image/jpeg">
-<img src="/img/product/l/zombicide-campagne-rio-z-janeiro-boite-de-jeu.jpg" title="Zombicide 2ème Édition - Campagne Rio Z Janeiro" alt="zombicide campagne rio z janeiro boite de jeu " />
+<picture><source srcset="/img/product/l/dungeons-dice-and-danger-boite-de-jeu.webp" type="image/webp"><source srcset="/img/product/l/dungeons-dice-and-danger-boite-de-jeu.jpg" type="image/jpeg">
+<img src="/img/product/l/dungeons-dice-and-danger-boite-de-jeu.jpg" title="Dungeons, Dice & Danger" alt="dungeons dice and danger boite de jeu " />
 </picture>
 </div>
 </a>
 </div><div class="big_img_product big_img_product_mobile ">
-<a class href="/img/product/zombicide-campagne-rio-z-janeiro-boite-de-jeu.jpg" data-lightbox="product-set-mobile" data-title>
+<a class href="/img/product/dungeons-dice-and-danger-boite-de-jeu.jpg" data-lightbox="product-set-mobile" data-title>
 <div class="main_img_product">
-<img src="/img/product/l/zombicide-campagne-rio-z-janeiro-boite-de-jeu.jpg" title="Zombicide 2ème Édition - Campagne Rio Z Janeiro" alt="zombicide campagne rio z janeiro boite de jeu " />
+<img src="/img/product/l/dungeons-dice-and-danger-boite-de-jeu.jpg" title="Dungeons, Dice & Danger" alt="dungeons dice and danger boite de jeu " />
 </div>
 </a>
 </div>
 </div>
 <div class="col_middle">
-<h1>ZOMBICIDE 2èME ÉDITION - CAMPAGNE RIO Z JANEIRO</h1><div class="bloc_desc">
-<div class="shortdesc_product">Rio Z Janeiro est une campagne complète pour Zombicide 2ème Édition. Échappez-vous d'un carnaval mortel au fil de 10 missions aussi festives que terrifiantes.</div><div class="container_tag_jds"><a href="/jeux_de_societe/recherche/?&player%5B%5D=1&player%5B%5D=2&player%5B%5D=3&player%5B%5D=4&player%5B%5D=5&player%5B%5D=6">
+<h1>DUNGEONS, DICE & DANGER</h1><div class="bloc_desc">
+<div class="shortdesc_product">Bienvenue aventuriers dans le Roll & Write Dungeons, Dice & Danger ! Traversez les donjons et combinez vos dés pour explorer les salles et vaincre les monstres.</div><div class="rating_summary"><a class="onclickTab" data-tab="rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span> 5/5
+<span class="rating_link">(3 avis clients)</span>
+</a></div><div class="container_tag_jds"><a href="/jeux_de_societe/recherche/?&player%5B%5D=1&player%5B%5D=2&player%5B%5D=3&player%5B%5D=4">
 <div class="tag btn_grey">
 <div class="bloc">
 <div class="img_nbr_player"></div>
-<span>1 à 6 joueurs</span>
+<span>1 à 4 joueurs</span>
 </div>
 </div>
 </a><a href="/jeux_de_societe/recherche/?time%5B%5D=60">
 <div class="tag btn_grey">
 <div class="bloc">
 <div class="img_time"></div>
-<span>Environ 1h</span>
+<span>Environ 45 min</span>
 </div>
 </div>
-</a><a href="/jeux_de_societe/recherche/?age%5B%5D=plus_14">
+</a><a href="/jeux_de_societe/recherche/?age%5B%5D=plus_12">
 <div class="tag btn_grey">
 <div class="bloc">
 <div class="img_age"></div>
-<span>À partir de 14 ans</span>
+<span>À partir de 12 ans</span>
 </div>
 </div>
 </a><div class="tag btn_grey">
@@ -2639,46 +2678,25 @@ Yu-Gi-Oh! </div></a>
 <span>Français</span>
 </div>
 </div><div class="clear"></div>
-</div><div class="clear"></div><div class="container_tag_jds"><a href="/jeux_de_societe/recherche/?theme=Halloween">
+</div><div class="clear"></div><div class="container_tag_jds"><a href="/jeux_de_societe/recherche/?theme=Exploration+et++Dungeon+Crawler">
 <div class="tag btn_grey">
 <div class="bloc">
 <div class="img_theme"></div>
-<span>Halloween</span>
+<span>Exploration et Dungeon Crawler</span>
 </div>
 </div>
-</a><a href="/jeux_de_societe/recherche/?theme=Horreur">
+</a><a href="/jeux_de_societe/recherche/?theme=Médiéval+Fantastique">
 <div class="tag btn_grey">
 <div class="bloc">
 <div class="img_theme"></div>
-<span>Horreur</span>
+<span>Médiéval Fantastique</span>
 </div>
 </div>
-</a><a href="/jeux_de_societe/recherche/?theme=Zombies">
-<div class="tag btn_grey">
-<div class="bloc">
-<div class="img_theme"></div>
-<span>Zombies</span>
-</div>
-</div>
-</a><a href="/jeux_de_societe/recherche/?type=Dés">
+</a><a href="/jeux_de_societe/recherche/?type=Jeux+de+Voyage">
 <div class="tag btn_grey">
 <div class="bloc">
 <div class="img_type_game"></div>
-<span>Dés</span>
-</div>
-</div>
-</a><a href="/jeux_de_societe/recherche/?type=Jeux+Coopératifs">
-<div class="tag btn_grey">
-<div class="bloc">
-<div class="img_type_game"></div>
-<span>Jeux Coopératifs</span>
-</div>
-</div>
-</a><a href="/jeux_de_societe/recherche/?type=Jeux+de+Figurines">
-<div class="tag btn_grey">
-<div class="bloc">
-<div class="img_type_game"></div>
-<span>Jeux de Figurines</span>
+<span>Jeux de Voyage</span>
 </div>
 </div>
 </a><a href="/jeux_de_societe/recherche/?type=Jeux+Solo">
@@ -2688,861 +2706,67 @@ Yu-Gi-Oh! </div></a>
 <span>Jeux Solo</span>
 </div>
 </div>
-</a><a href="/jeux_de_societe/recherche/?range=Zombicide">
+</a><a href="/jeux_de_societe/recherche/?type=Roll+%26+Write">
 <div class="tag btn_grey">
 <div class="bloc">
-<span>Zombicide</span>
+<div class="img_type_game"></div>
+<span>Roll & Write</span>
 </div>
 </div>
 </a><div class="clear"></div>
-</div><div class="clear"></div><div class="clear"></div><div class="mini_img_product sliderProduct"><div class="MS-content"><div class="list_product item"><a href="/img/product/secondary/zombicide-campagne-rio-z-janeiro-boite-de-jeu-dos.jpg" data-lightbox="product-set" data-title><img src="/img/product/secondary/s/zombicide-campagne-rio-z-janeiro-boite-de-jeu-dos.jpg" title="Zombicide 2ème Édition - Campagne Rio Z Janeiro" alt="zombicide campagne rio z janeiro boite de jeu " /></a></div><div class="list_product item"><a href="/img/product/secondary/zombicide-campagne-rio-z-janeiro-materiel-de-jeu.jpg" data-lightbox="product-set" data-title><img src="/img/product/secondary/s/zombicide-campagne-rio-z-janeiro-materiel-de-jeu.jpg" title="Zombicide 2ème Édition - Campagne Rio Z Janeiro" alt="zombicide campagne rio z janeiro boite de jeu " /></a></div></div>
+</div><div class="clear"></div><div class="clear"></div><div class="mini_img_product sliderProduct"><div class="MS-content"><div class="list_product item"><a href="/img/product/secondary/dungeons-dice-and-danger-dos-boite-de-jeu.jpg" data-lightbox="product-set" data-title><img src="/img/product/secondary/s/dungeons-dice-and-danger-dos-boite-de-jeu.jpg" title="Dungeons, Dice & Danger" alt="dungeons dice and danger boite de jeu " /></a></div><div class="list_product item"><a href="/img/product/secondary/dungeons-dice-and-danger-fiches-de-jeu.jpg" data-lightbox="product-set" data-title><img src="/img/product/secondary/s/dungeons-dice-and-danger-fiches-de-jeu.jpg" title="Dungeons, Dice & Danger" alt="dungeons dice and danger boite de jeu " /></a></div></div>
 <div class="MS-controls">
 <button class="MS-left"><div class="arrow_left_img"></div></button>
 <button class="MS-right"><div class="arrow_right_img"></div></button>
 </div></div></div>
-</div><div class="col_bottom  "><div class="container_title_onglet"><h2 class="tab_title tab tab_desc onclickTab title_selected tab_selected" data-tab="desc"><span>Descriptif</span></h2><h2 class="tab_title tab tab_features onclickTab" data-tab="features"><span class="long-text">Caractéristiques</span></h2><h2 class="tab_title tab tab_video no_title" data-tab="video"><span>Vidéo</span></h2><h2 class="tab_title tab tab_title_ext tab_ext onclickTab" data-tab="ext">
-<span class="line">Gamme &</span>
-<span class="line">extensions</span>
-</h2><h2 id="tab_rating" class="tab_title tab tab_rating onclickTab " data-tab="rating"><span class="long-text">Avis client</span></h2><div class="clear"></div>
-</div><div class="tab bloc_tab tab_desc tab_selected"><h2 style="text-align: justify;">Rio Z Janeiro : Quand carnaval rime avec cannibales</h2>
-<p style="text-align: justify;"><em>Rio de Janeiro, c'est l'endroit id&eacute;al o&ugrave; passer le carnaval. Tant de monde ! Mais quand la foule se transforme en zombies affam&eacute;s de chair, la f&ecirc;te change de ton pour laisser place au Zombicide !&nbsp; Dans <strong>Rio Z Janeiro</strong>, &eacute;chappez-vous de la ville et escortez quelqu'un qui aurait peut-&ecirc;tre des r&eacute;ponses sur ce qu'il se passe ici !</em></p>
-<p style="text-align: justify;">Cette bo&icirc;te vous propose une toute nouvelle exp&eacute;rience narrative et explosive en <strong>10 sc&eacute;narios</strong>. <strong>6 nouveaux survivants</strong> vous sont propos&eacute;s, tous aussi <em>badass</em> les uns que les autres. Gr&acirc;ce au<strong> mode Campagne</strong>, vous <strong>sauvegardez votre progression</strong> entre chaque mission (avec le bloc d&eacute;di&eacute;), ce qui permet de commencer la prochaine partie avec de meilleures chances de survie (&eacute;quipements, comp&eacute;tences).</p>
-<p style="text-align: justify;">Dans les Favelas, d&eacute;couvrez un tout nouveau set de r&egrave;gles tactiques ! Tirez parti des <strong>ruelles &eacute;troites</strong> pour en faire un goulet d'&eacute;tranglement. <strong>D&eacute;truisez les murs</strong> de pi&egrave;tre qualit&eacute; pour vous &eacute;chapper, mais prenez garde &agrave; ne pas compromettre la structure du b&acirc;timent ! Et en cas de besoin, d&eacute;clenchez une attaque surpuissante, au risque de briser votre arme.&nbsp;</p>
-<p style="text-align: justify;"><strong>Campagne Rio Z Janeiro</strong>&nbsp;est une extension qui n&eacute;cessite le jeu de base <strong>Zombicide 2&egrave;me &Eacute;dition</strong>.</p><strong>Contenu&nbsp;:</strong>
-<ul><li>6 figurines Survivants: 4 figurines Rôdeurs</li><li>1 figurine Balèze</li><li>1 figurine Forcené</li><li>66 cartes Équipement</li><li>30 cartes Blessure</li><li>6 fiches d'identité de survivant</li><li>97 cartes objectif</li><li>7 dalles recto-verso</li><li>6 dés de Va-tout</li><li>12 pions</li><li>1 bloc de fiches de campagne</li><li>1 livret de règles</li></ul><strong><i>À partir de 14 ans, de 1 à 6 joueurs et pour des parties d'environ 60 minutes.</i></strong></div><div class="tab bloc_tab tab_features tab_hidden"><table class="table_tag_jds"><tr class="container_lang tr_impair">
+</div><div class="col_bottom  "><div class="container_title_onglet"><h2 class="tab_title tab tab_desc onclickTab title_selected tab_selected" data-tab="desc"><span>Descriptif</span></h2><h2 class="tab_title tab tab_features onclickTab" data-tab="features"><span class="long-text">Caractéristiques</span></h2><h2 class="tab_title tab tab_video onclickTab" data-tab="video"><span>Vidéo</span></h2><h2 id="tab_rating" class="tab_title tab tab_rating onclickTab " data-tab="rating"><span class="long-text">Avis client</span></h2><div class="clear"></div>
+</div><div class="tab bloc_tab tab_desc tab_selected"><h2 style="text-align: justify;">Dungeons, Dice &amp; Danger : un Roll &amp; Write de Richard Garfield</h2>
+<p style="text-align: justify;">Dungeons, Dice &amp; Danger est <strong>un roll &amp; write m&eacute;di&eacute;val-fantastique</strong> o&ugrave; les joueurs parcourent <strong>4 donjons</strong> &agrave; la recherche des fabuleux tr&eacute;sors. Chaque partie dure environ 30 &agrave; 45 minutes, pour 1-4 joueurs d&egrave;s 12 ans.</p>
+<p style="text-align: justify;">Arm&eacute; de votre &eacute;p&eacute;e et de vos d&eacute;s, entamez votre descente vers les salles les plus obscures du donjon ! Prenez garde aux terribles gardiens, des monstres &agrave; vaincre, et atteignez les salles avec les coffres ou les gemmes. En venant &agrave; bout des cr&eacute;atures qui peuplent le donjon, vous recevez des r&eacute;compenses. Oserez-vous vous aventurer dans l'antre du Boss pour lui ravir son butin ?</p>
+<h2 style="text-align: justify;">Explorez les donjons &agrave; coup de d&eacute;s</h2>
+<p style="text-align: justify;">Comme la plupart des jeux de sa cat&eacute;gorie, Dungeons, Dice &amp; Danger repose sur <strong>un syst&egrave;me de jeu tr&egrave;s simple</strong> : lancez les d&eacute;s et combinez-les astucieusement pour avancer ou infliger des d&eacute;g&acirc;ts &agrave; un ennemi. Reportez toutes vos actions sur votre fiche de jeu &agrave; l'aide de votre crayon et frayez-vous un chemin dans les couloirs meurtriers ! Ce Roll &amp; Write <strong>immersif</strong> est sign&eacute; <strong>Richard Garfield</strong> (Magic the Gathering, King of Tokyo...) et illustr&eacute; avec talent par Cam Kendall. <strong>4 niveaux diff&eacute;rents</strong> sont &agrave; d&eacute;couvrir, ainsi qu'un <strong>mode solo</strong>.</p><strong>Contenu&nbsp;:</strong>
+<ul><li>2 blocs de 100 fiches Donjon</li><li>5 dés</li><li>4 crayons à papier</li><li>1 livret de règles</li></ul><strong><i>À partir de 12 ans, de 1 à 4 joueurs et pour des parties d'environ 45 minutes.</i></strong></div><div class="tab bloc_tab tab_features tab_hidden"><table class="table_tag_jds"><tr class="container_lang tr_impair">
 <th scope="row">Langue</th>
 <td class="text"><div>Français</div></td>
 </tr>
 <tr class="container_player tr_pair">
 <th scope="row">Nombre de joueurs</th>
 <td class="text">
-<a href="/jeux_de_societe/recherche/?&player%5B%5D=1&player%5B%5D=2&player%5B%5D=3&player%5B%5D=4&player%5B%5D=5&player%5B%5D=6"><div>De 1 à 6 joueurs</div></a>
+<a href="/jeux_de_societe/recherche/?&player%5B%5D=1&player%5B%5D=2&player%5B%5D=3&player%5B%5D=4"><div>De 1 à 4 joueurs</div></a>
 </td>
 </tr>
 <tr class="container_time tr_impair">
 <th scope="row">Durée</th>
-<td class="text"><a href="/jeux_de_societe/recherche/?time%5B%5D=60"><div>60 minutes</div></a></td>
+<td class="text"><a href="/jeux_de_societe/recherche/?time%5B%5D=60"><div>45 minutes</div></a></td>
 </tr>
 <tr class="container_age tr_pair">
 <th scope="row">Âge</th>
 <td class="text">
-<a href="/jeux_de_societe/recherche/?age%5B%5D=plus_14"><div>À partir de 14 ans</div></a>
+<a href="/jeux_de_societe/recherche/?age%5B%5D=plus_12"><div>À partir de 12 ans</div></a>
 </td>
 </tr>
 <tr class="container_theme tr_impair">
 <th scope="row">Thème(s)</th>
-<td class="text"><a href="/jeux_de_societe/recherche/?theme=Halloween" /><div>Halloween</div></a></td></tr><tr class="container_theme line_repeat tr_impair"><th scope="row"></th><td class="text"><a href="/jeux_de_societe/recherche/?theme=Horreur" /><div>Horreur</div></a></td></tr><tr class="container_theme line_repeat tr_impair"><th scope="row"></th><td class="text"><a href="/jeux_de_societe/recherche/?theme=Zombies" /><div>Zombies</div></a></td>
+<td class="text"><a href="/jeux_de_societe/recherche/?theme=Exploration+et++Dungeon+Crawler" /><div>Exploration et Dungeon Crawler</div></a></td></tr><tr class="container_theme line_repeat tr_impair"><th scope="row"></th><td class="text"><a href="/jeux_de_societe/recherche/?theme=Médiéval+Fantastique" /><div>Médiéval Fantastique</div></a></td>
 </tr>
 <tr class="container_type tr_pair">
 <th scope="row">Type(s)</th>
-<td class="text"><a href="/jeux_de_societe/recherche/?type=Dés" /><div>Dés</div></a></td></tr><tr class="container_type line_repeat"><th scope="row"></th><td class="text"><a href="/jeux_de_societe/recherche/?type=Jeux+Coopératifs" /><div>Jeux Coopératifs</div></a></td></tr><tr class="container_type line_repeat"><th scope="row"></th><td class="text"><a href="/jeux_de_societe/recherche/?type=Jeux+de+Figurines" /><div>Jeux de Figurines</div></a></td></tr><tr class="container_type line_repeat"><th scope="row"></th><td class="text"><a href="/jeux_de_societe/recherche/?type=Jeux+Solo" /><div>Jeux Solo</div></a></td>
+<td class="text"><a href="/jeux_de_societe/recherche/?type=Jeux+de+Voyage" /><div>Jeux de Voyage</div></a></td></tr><tr class="container_type line_repeat"><th scope="row"></th><td class="text"><a href="/jeux_de_societe/recherche/?type=Jeux+Solo" /><div>Jeux Solo</div></a></td></tr><tr class="container_type line_repeat"><th scope="row"></th><td class="text"><a href="/jeux_de_societe/recherche/?type=Roll+%26+Write" /><div>Roll & Write</div></a></td>
 </tr>
 <tr class="container_type tr_impair">
-<th scope="row">Gamme</th><td class="text"><a href="/jeux_de_societe/gamme/9-zombicide" /><div>Zombicide</div></a></td></tr>
+<th scope="row">Gamme</th><td class="text"><div>Aucune gamme</div></td></tr>
 <tr class="container_editor tr_pair">
 <th scope="row">Éditeur(s)</th>
-<td class="text"><div>Cmon</div></td>
+<td class="text"><div>Alea</div></td>
 </tr>
 <tr class="container_author tr_impair">
 <th scope="row">Auteur(s)</th>
-<td class="text"><div>Non renseigné</div></td>
+<td class="text"><div>Richard Garfield</div></td>
 </tr>
 <tr class="container_illustrator tr_pair">
 <th scope="row">Illustrateur(s)</th>
-<td class="text"><div>Non renseigné</div></td>
-</tr></table></div><div class="tab bloc_tab tab_video tab bloc_tab tab_video"><div class="video"><div class="container"></div></div></div><div class="tab bloc_tab tab_ext tab_hidden tab bloc_tab tab_ext"><div class="title_ext">Découvrez la (ou l'une des) boite(s) de base compatibles&nbsp;:</div><div class="list_product_full case_product_full filterElement" data-family="5" data-sales="0">
-<div class="container_img_product">
-<a href="/produit/335118-zombicide_saison_1_-_2eme_Edition">
-<div class="img_product"><picture><source srcset="/img/product/m/zombicide-saison-1-2eme-edition-jeu-guillotine-games-boite.webp" type="image/webp"><source srcset="/img/product/m/zombicide-saison-1-2eme-edition-jeu-guillotine-games-boite.jpg" type="image/jpeg">
-<img src="/img/product/m/zombicide-saison-1-2eme-edition-jeu-guillotine-games-boite.jpg" title="Zombicide Saison 1 - 2ème Édition" alt="Zombicide Saison 1 - 2ème Édition" loading="lazy" />
-</picture>
-</div><div class="clear"></div>
-</a>
-</div>
-<div class="container_info_product container_info_product_with_rating">
-<a href="/produit/335118-zombicide_saison_1_-_2eme_Edition">
-<div class="name_product" title="Zombicide Saison 1 - 2ème Édition">Zombicide Saison 1 - 2ème Édition</div>
-<div class="desc_short">Affrontez les zombies et survivez dans Zombicide ! Cette 2e édition du jeu coopératif vendu à 2 millions d'exemplaires contient de nouvelles figurines et...</div>
-</a><div class="container_move_product">
-<div class="separateur separateur_product"></div><div class="bloc_rating_product" title="Note 4.5/5, 14 avis"><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_half"></span></div><div class="bloc_preco_product"></div>
-</div>
-</div>
-<div class="block_cart "><div class="container_prices"><div class="price_product simple_price_product">98,90&nbsp;€</div></div><div class="cart">
-<div class="add_cart_btn add_cart_btn_mini">
-<form method="POST">
-<input type="hidden" aria-label="id_product" name="id_product" value="335118"><label for="335118_5"></label><select name="qty_product" aria-label="335118" class="select" id="335118_5"><option id="1" value="1">1</option><option id="2" value="2">2</option><option id="3" value="3">3</option><option id="4" value="4">4</option><option id="5" value="5">5</option></select><div class="qty">(5)</div><div class="bloc_cart"><div class="bloc_each_cart_mini">
-<button type="submit" name="addToCart" value="0" class="btn addToCart tagSmallOrange tagProduct" data-localisation="0" data-id="335118" title="Ajouter au panier en livraison" alt="Ajouter au panier en livraison">
-<div class="add_cart_logo_mini"></div>
-</button>
-<div class="explain_new_btn_orange">Livraison</div>
-</div><div class="bloc_each_cart_mini">
-<div class="btn btn_store btn_violet showStoreSelect tagSmallVioletModal tagProduct" title="Choisir un magasin de retrait" alt="Choisir un magasin de retrait" data-modal-type="335118">
-<div class="add_cart_store_logo_mini"></div>
-</div>
-<div class="explain_new_btn_violet">Retrait magasin</div>
-</div><div class="select_favourite_store">
-<div class="store_nav" id="335118">
-<div class="store_nav_content">
-<span class="close">&times;</span>
-<div class="modal-title">Retirer en magasin</div>
-<ul><li class="store_list" value="1">
-<div class="bloc head_store">Playin Paris BNF</div><div class="bloc availability">
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" ">&#10004;&nbsp;Disponible sous 2h</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
-<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
-</div>
-<div class="bloc set_store_btn_bloc">
-<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="1">
-<div class="add_cart_btn_img add_cart_store_btn_img"></div>
-<div class="add_cart_text">Choisir ce magasin</div>
-</button>
-</div><div class="clear"></div>
-</li><li class="store_list" value="2">
-<div class="bloc head_store">Playin Annecy</div><div class="bloc availability">
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Disponible sous 2h</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" ">&#10004;&nbsp;Sur commande (72h)</span>
-<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
-</div>
-<div class="bloc set_store_btn_bloc">
-<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="2">
-<div class="add_cart_btn_img add_cart_store_btn_img"></div>
-<div class="add_cart_text">Choisir ce magasin</div>
-</button>
-</div><div class="clear"></div>
-</li><li class="store_list" value="3">
-<div class="bloc head_store">Playin Paris Rivoli</div><div class="bloc availability">
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" ">&#10004;&nbsp;Disponible sous 2h</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
-<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
-</div>
-<div class="bloc set_store_btn_bloc">
-<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="3">
-<div class="add_cart_btn_img add_cart_store_btn_img"></div>
-<div class="add_cart_text">Choisir ce magasin</div>
-</button>
-</div><div class="clear"></div>
-</li></ul>
-</div>
-</div>
-</div></div></form>
-</div>
-</div>
-</div>
-<div class="clear"></div>
-</div><div class="clear"></div><div class="title_ext title_all_ext">Découvrez les extensions compatibles&nbsp;:</div><div class="list_product_full case_product_full filterElement" data-family="5" data-sales="0">
-<div class="container_img_product">
-<a href="/produit/408579-zombicide_2eme_Edition_-_kit_6_joueurs">
-<div class="img_product"><picture><source srcset="/img/product/m/zombicide-2eme-edition-kit-6-joueurs-jeu-cmom-boite.webp" type="image/webp"><source srcset="/img/product/m/zombicide-2eme-edition-kit-6-joueurs-jeu-cmom-boite.jpg" type="image/jpeg">
-<img src="/img/product/m/zombicide-2eme-edition-kit-6-joueurs-jeu-cmom-boite.jpg" title="Zombicide 2ème Édition - Kit 6 Joueurs" alt="Zombicide 2ème Édition - Kit 6 Joueurs" loading="lazy" />
-</picture>
-</div><div class="clear"></div>
-</a>
-</div>
-<div class="container_info_product container_info_product_with_rating">
-<a href="/produit/408579-zombicide_2eme_Edition_-_kit_6_joueurs">
-<div class="name_product" title="Zombicide 2ème Édition - Kit 6 Joueurs">Zombicide 2ème Édition - Kit 6 Joueurs</div>
-<div class="desc_short">Ce kit pour Zombicide Seconde Édition permet d'ajouter 6 joueurs supplémentaires à vos parties, jusqu'à 12 joueurs au total !</div>
-</a><div class="container_move_product">
-<div class="separateur separateur_product"></div><div class="bloc_rating_product" title="Note 3.5/5, 2 avis"><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_half"></span><span class="img_little_star_empty"></span></div><div class="bloc_preco_product"></div>
-</div>
-</div>
-<div class="block_cart "><div class="container_prices"><div class="price_product simple_price_product">24,90&nbsp;€</div></div><div class="cart">
-<div class="add_cart_btn add_cart_btn_mini">
-<form method="POST">
-<input type="hidden" aria-label="id_product" name="id_product" value="408579"><label for="408579_1"></label><select name="qty_product" aria-label="408579" class="select" id="408579_1"><option id="1" value="1">1</option></select><div class="qty">(1)</div><div class="bloc_cart"><div class="bloc_each_cart_mini">
-<button type="submit" name="addToCart" value="0" class="btn addToCart tagSmallOrange tagProduct" data-localisation="0" data-id="408579" title="Ajouter au panier en livraison" alt="Ajouter au panier en livraison">
-<div class="add_cart_logo_mini"></div>
-</button>
-<div class="explain_new_btn_orange">Livraison</div>
-</div><div class="bloc_each_cart_mini">
-<div class="btn btn_store btn_violet showStoreSelect tagSmallVioletModal tagProduct" title="Choisir un magasin de retrait" alt="Choisir un magasin de retrait" data-modal-type="408579">
-<div class="add_cart_store_logo_mini"></div>
-</div>
-<div class="explain_new_btn_violet">Retrait magasin</div>
-</div><div class="select_favourite_store">
-<div class="store_nav" id="408579">
-<div class="store_nav_content">
-<span class="close">&times;</span>
-<div class="modal-title">Retirer en magasin</div>
-<ul><li class="store_list" value="1">
-<div class="bloc head_store">Playin Paris BNF</div><div class="bloc availability">
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" ">&#10004;&nbsp;Disponible sous 2h</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
-<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
-</div>
-<div class="bloc set_store_btn_bloc">
-<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="1">
-<div class="add_cart_btn_img add_cart_store_btn_img"></div>
-<div class="add_cart_text">Choisir ce magasin</div>
-</button>
-</div><div class="clear"></div>
-</li><li class="store_list" value="2">
-<div class="bloc head_store">Playin Annecy</div><div class="bloc availability">
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Disponible sous 2h</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" ">&#10004;&nbsp;Sur commande (72h)</span>
-<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
-</div>
-<div class="bloc set_store_btn_bloc">
-<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="2">
-<div class="add_cart_btn_img add_cart_store_btn_img"></div>
-<div class="add_cart_text">Choisir ce magasin</div>
-</button>
-</div><div class="clear"></div>
-</li><li class="store_list" value="3">
-<div class="bloc head_store">Playin Paris Rivoli</div><div class="bloc availability">
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Disponible sous 2h</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" ">&#10004;&nbsp;Sur commande (72h)</span>
-<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
-</div>
-<div class="bloc set_store_btn_bloc">
-<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="3">
-<div class="add_cart_btn_img add_cart_store_btn_img"></div>
-<div class="add_cart_text">Choisir ce magasin</div>
-</button>
-</div><div class="clear"></div>
-</li></ul>
-</div>
-</div>
-</div></div></form>
-</div>
-</div>
-</div>
-<div class="clear"></div>
-</div><div class="list_product_full case_product_full filterElement" data-family="5" data-sales="0">
-<div class="container_img_product">
-<a href="/produit/434185-zombicide_2eme_Edition_-_set_de_dalles_saison_1">
-<div class="img_product"><picture><source srcset="/img/product/m/zombicide-2eme-edition-set-de-dalles-boite-de-jeu.webp" type="image/webp"><source srcset="/img/product/m/zombicide-2eme-edition-set-de-dalles-boite-de-jeu.jpg" type="image/jpeg">
-<img src="/img/product/m/zombicide-2eme-edition-set-de-dalles-boite-de-jeu.jpg" title="Zombicide 2ème Édition - Set de Dalles Saison 1" alt="Zombicide 2ème Édition - Set de Dalles Saison 1" loading="lazy" />
-</picture>
-</div><div class="clear"></div>
-</a>
-</div>
-<div class="container_info_product container_info_product_with_rating">
-<a href="/produit/434185-zombicide_2eme_Edition_-_set_de_dalles_saison_1">
-<div class="name_product" title="Zombicide 2ème Édition - Set de Dalles Saison 1">Zombicide 2ème Édition - Set de Dalles Saison 1</div>
-<div class="desc_short">Avec ce kit de dalles, améliorez votre expérience de jeu de Zombicide 2ème édition et prenez garde aux recoins obscurs !</div>
-</a><div class="container_move_product">
-<div class="separateur separateur_product"></div><div class="bloc_rating_product" title="Note 4.3/5, 3 avis"><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_half"></span></div><div class="bloc_preco_product"></div>
-</div>
-</div>
-<div class="block_cart "><div class="container_prices"><div class="price_product simple_price_product">20,50&nbsp;€</div></div><div class="cart">
-<div class="add_cart_btn add_cart_btn_mini">
-<form method="POST">
-<input type="hidden" aria-label="id_product" name="id_product" value="434185"><label for="434185_2"></label><select name="qty_product" aria-label="434185" class="select" id="434185_2"><option id="1" value="1">1</option><option id="2" value="2">2</option></select><div class="qty">(2)</div><div class="bloc_cart"><div class="bloc_each_cart_mini">
-<button type="submit" name="addToCart" value="0" class="btn addToCart tagSmallOrange tagProduct" data-localisation="0" data-id="434185" title="Ajouter au panier en livraison" alt="Ajouter au panier en livraison">
-<div class="add_cart_logo_mini"></div>
-</button>
-<div class="explain_new_btn_orange">Livraison</div>
-</div><div class="bloc_each_cart_mini">
-<div class="btn btn_store btn_violet showStoreSelect tagSmallVioletModal tagProduct" title="Choisir un magasin de retrait" alt="Choisir un magasin de retrait" data-modal-type="434185">
-<div class="add_cart_store_logo_mini"></div>
-</div>
-<div class="explain_new_btn_violet">Retrait magasin</div>
-</div><div class="select_favourite_store">
-<div class="store_nav" id="434185">
-<div class="store_nav_content">
-<span class="close">&times;</span>
-<div class="modal-title">Retirer en magasin</div>
-<ul><li class="store_list" value="1">
-<div class="bloc head_store">Playin Paris BNF</div><div class="bloc availability">
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Disponible sous 2h</span>
-<span class="orderAvailable" ">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
-<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
-</div>
-<div class="bloc set_store_btn_bloc">
-<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="1">
-<div class="add_cart_btn_img add_cart_store_btn_img"></div>
-<div class="add_cart_text">Choisir ce magasin</div>
-</button>
-</div><div class="clear"></div>
-</li><li class="store_list" value="2">
-<div class="bloc head_store">Playin Annecy</div><div class="bloc availability">
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Disponible sous 2h</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" ">&#10004;&nbsp;Sur commande (72h)</span>
-<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
-</div>
-<div class="bloc set_store_btn_bloc">
-<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="2">
-<div class="add_cart_btn_img add_cart_store_btn_img"></div>
-<div class="add_cart_text">Choisir ce magasin</div>
-</button>
-</div><div class="clear"></div>
-</li><li class="store_list" value="3">
-<div class="bloc head_store">Playin Paris Rivoli</div><div class="bloc availability">
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Disponible sous 2h</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" ">&#10004;&nbsp;Sur commande (72h)</span>
-<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
-</div>
-<div class="bloc set_store_btn_bloc">
-<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="3">
-<div class="add_cart_btn_img add_cart_store_btn_img"></div>
-<div class="add_cart_text">Choisir ce magasin</div>
-</button>
-</div><div class="clear"></div>
-</li></ul>
-</div>
-</div>
-</div></div></form>
-</div>
-</div>
-</div>
-<div class="clear"></div>
-</div><div class="list_product_full case_product_full filterElement" data-family="5" data-sales="0">
-<div class="container_img_product">
-<a href="/produit/403979-zombicide_2eme_Edition_-_pack_dabominations_legendes_urbaines">
-<div class="img_product"><picture><source srcset="/img/product/m/legendes-urbaines-extension-zombicide-2eme-edition-jeu-cmon-boite.webp" type="image/webp"><source srcset="/img/product/m/legendes-urbaines-extension-zombicide-2eme-edition-jeu-cmon-boite.jpg" type="image/jpeg">
-<img src="/img/product/m/legendes-urbaines-extension-zombicide-2eme-edition-jeu-cmon-boite.jpg" title="Zombicide 2ème Édition - Pack d'Abominations Légendes Urbaines" alt="Zombicide 2ème Édition - Pack d'Abominations Légendes Urbaines" loading="lazy" />
-</picture>
-</div><div class="clear"></div>
-</a>
-</div>
-<div class="container_info_product container_info_product_with_rating">
-<a href="/produit/403979-zombicide_2eme_Edition_-_pack_dabominations_legendes_urbaines">
-<div class="name_product" title="Zombicide 2ème Édition - Pack d'Abominations Légendes Urbaines">Zombicide 2ème Édition - Pack d'Abominations Légendes Urbaines</div>
-<div class="desc_short">Ce pack Légende Urbaines pour Zombicide Seconde Édition contient 4 Abominations pour pimenter vos parties : le Clown Tueur, le Chupacabra, le Crocodile d'...</div>
-</a><div class="container_move_product">
-<div class="separateur separateur_product"></div><div class="bloc_rating_product" title="Note 4.5/5, 2 avis"><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_half"></span></div><div class="bloc_preco_product"></div>
-</div>
-</div>
-<div class="block_cart "><div class="container_prices"><div class="price_product simple_price_product">22,90&nbsp;€</div></div><div class="cart">
-<div class="add_cart_btn add_cart_btn_mini">
-<form method="POST">
-<input type="hidden" aria-label="id_product" name="id_product" value="403979"><label for="403979_2"></label><select name="qty_product" aria-label="403979" class="select" id="403979_2"><option id="1" value="1">1</option><option id="2" value="2">2</option></select><div class="qty">(2)</div><div class="bloc_cart"><div class="bloc_each_cart_mini">
-<button type="submit" name="addToCart" value="0" class="btn addToCart tagSmallOrange tagProduct" data-localisation="0" data-id="403979" title="Ajouter au panier en livraison" alt="Ajouter au panier en livraison">
-<div class="add_cart_logo_mini"></div>
-</button>
-<div class="explain_new_btn_orange">Livraison</div>
-</div><div class="bloc_each_cart_mini">
-<div class="btn btn_store btn_violet showStoreSelect tagSmallVioletModal tagProduct" title="Choisir un magasin de retrait" alt="Choisir un magasin de retrait" data-modal-type="403979">
-<div class="add_cart_store_logo_mini"></div>
-</div>
-<div class="explain_new_btn_violet">Retrait magasin</div>
-</div><div class="select_favourite_store">
-<div class="store_nav" id="403979">
-<div class="store_nav_content">
-<span class="close">&times;</span>
-<div class="modal-title">Retirer en magasin</div>
-<ul><li class="store_list" value="1">
-<div class="bloc head_store">Playin Paris BNF</div><div class="bloc availability">
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Disponible sous 2h</span>
-<span class="orderAvailable" ">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
-<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
-</div>
-<div class="bloc set_store_btn_bloc">
-<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="1">
-<div class="add_cart_btn_img add_cart_store_btn_img"></div>
-<div class="add_cart_text">Choisir ce magasin</div>
-</button>
-</div><div class="clear"></div>
-</li><li class="store_list" value="2">
-<div class="bloc head_store">Playin Annecy</div><div class="bloc availability">
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Disponible sous 2h</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" ">&#10004;&nbsp;Sur commande (72h)</span>
-<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
-</div>
-<div class="bloc set_store_btn_bloc">
-<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="2">
-<div class="add_cart_btn_img add_cart_store_btn_img"></div>
-<div class="add_cart_text">Choisir ce magasin</div>
-</button>
-</div><div class="clear"></div>
-</li><li class="store_list" value="3">
-<div class="bloc head_store">Playin Paris Rivoli</div><div class="bloc availability">
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Disponible sous 2h</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" ">&#10004;&nbsp;Sur commande (72h)</span>
-<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
-</div>
-<div class="bloc set_store_btn_bloc">
-<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="3">
-<div class="add_cart_btn_img add_cart_store_btn_img"></div>
-<div class="add_cart_text">Choisir ce magasin</div>
-</button>
-</div><div class="clear"></div>
-</li></ul>
-</div>
-</div>
-</div></div></form>
-</div>
-</div>
-</div>
-<div class="clear"></div>
-</div><div class="list_product_full case_product_full filterElement" data-family="5" data-sales="0">
-<div class="container_img_product">
-<a href="/produit/404011-zombicide_2eme_Edition_-_set_survivants_de_chronicles">
-<div class="img_product"><picture><source srcset="/img/product/m/set-survivants-de-chronicles-extension-zombicide-2eme-edition-jeu-cmon-boite.webp" type="image/webp"><source srcset="/img/product/m/set-survivants-de-chronicles-extension-zombicide-2eme-edition-jeu-cmon-boite.jpg" type="image/jpeg">
-<img src="/img/product/m/set-survivants-de-chronicles-extension-zombicide-2eme-edition-jeu-cmon-boite.jpg" title="Zombicide 2ème Édition - Set Survivants de Chronicles" alt="Zombicide 2ème Édition - Set Survivants de Chronicles" loading="lazy" />
-</picture>
-</div><div class="clear"></div>
-</a>
-</div>
-<div class="container_info_product container_info_product_with_rating">
-<a href="/produit/404011-zombicide_2eme_Edition_-_set_survivants_de_chronicles">
-<div class="name_product" title="Zombicide 2ème Édition - Set Survivants de Chronicles">Zombicide 2ème Édition - Set Survivants de Chronicles</div>
-<div class="desc_short">Ce set de survivants pour Zombicide Seconde Édition contient 12 survivants issus du jeu de rôle Zombicide Chronicles à ajouter à toutes vos parties !</div>
-</a><div class="container_move_product">
-<div class="separateur separateur_product"></div><div class="bloc_rating_product" title="Note 5/5, 2 avis"><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_full"></span></div><div class="bloc_preco_product"></div>
-</div>
-</div>
-<div class="block_cart "><div class="container_prices"><div class="price_product simple_price_product">28,50&nbsp;€</div></div><div class="cart">
-<div class="add_cart_btn add_cart_btn_mini">
-<form method="POST">
-<input type="hidden" aria-label="id_product" name="id_product" value="404011"><label for="404011_2"></label><select name="qty_product" aria-label="404011" class="select" id="404011_2"><option id="1" value="1">1</option><option id="2" value="2">2</option></select><div class="qty">(2)</div><div class="bloc_cart"><div class="bloc_each_cart_mini">
-<button type="submit" name="addToCart" value="0" class="btn addToCart tagSmallOrange tagProduct" data-localisation="0" data-id="404011" title="Ajouter au panier en livraison" alt="Ajouter au panier en livraison">
-<div class="add_cart_logo_mini"></div>
-</button>
-<div class="explain_new_btn_orange">Livraison</div>
-</div><div class="bloc_each_cart_mini">
-<div class="btn btn_store btn_violet showStoreSelect tagSmallVioletModal tagProduct" title="Choisir un magasin de retrait" alt="Choisir un magasin de retrait" data-modal-type="404011">
-<div class="add_cart_store_logo_mini"></div>
-</div>
-<div class="explain_new_btn_violet">Retrait magasin</div>
-</div><div class="select_favourite_store">
-<div class="store_nav" id="404011">
-<div class="store_nav_content">
-<span class="close">&times;</span>
-<div class="modal-title">Retirer en magasin</div>
-<ul><li class="store_list" value="1">
-<div class="bloc head_store">Playin Paris BNF</div><div class="bloc availability">
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Disponible sous 2h</span>
-<span class="orderAvailable" ">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
-<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
-</div>
-<div class="bloc set_store_btn_bloc">
-<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="1">
-<div class="add_cart_btn_img add_cart_store_btn_img"></div>
-<div class="add_cart_text">Choisir ce magasin</div>
-</button>
-</div><div class="clear"></div>
-</li><li class="store_list" value="2">
-<div class="bloc head_store">Playin Annecy</div><div class="bloc availability">
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Disponible sous 2h</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" ">&#10004;&nbsp;Sur commande (72h)</span>
-<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
-</div>
-<div class="bloc set_store_btn_bloc">
-<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="2">
-<div class="add_cart_btn_img add_cart_store_btn_img"></div>
-<div class="add_cart_text">Choisir ce magasin</div>
-</button>
-</div><div class="clear"></div>
-</li><li class="store_list" value="3">
-<div class="bloc head_store">Playin Paris Rivoli</div><div class="bloc availability">
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Disponible sous 2h</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" ">&#10004;&nbsp;Sur commande (72h)</span>
-<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
-</div>
-<div class="bloc set_store_btn_bloc">
-<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="3">
-<div class="add_cart_btn_img add_cart_store_btn_img"></div>
-<div class="add_cart_text">Choisir ce magasin</div>
-</button>
-</div><div class="clear"></div>
-</li></ul>
-</div>
-</div>
-</div></div></form>
-</div>
-</div>
-</div>
-<div class="clear"></div>
-</div><div class="list_product_full case_product_full filterElement" data-family="5" data-sales="0">
-<div class="container_img_product">
-<a href="/produit/419117-zombicide_2eme_Edition_-_kit_de_mise_a_jour_pack_ultime">
-<div class="img_product"><picture><source srcset="/img/product/m/zombicide-pack-ultime-kit-de-mise-a-jour.webp" type="image/webp"><source srcset="/img/product/m/zombicide-pack-ultime-kit-de-mise-a-jour.jpg" type="image/jpeg">
-<img src="/img/product/m/zombicide-pack-ultime-kit-de-mise-a-jour.jpg" title="Zombicide 2ème Édition - Kit de Mise à Jour Pack Ultime" alt="Zombicide 2ème Édition - Kit de Mise à Jour Pack Ultime" loading="lazy" />
-</picture>
-</div><div class="clear"></div>
-</a>
-</div>
-<div class="container_info_product container_info_product_with_rating">
-<a href="/produit/419117-zombicide_2eme_Edition_-_kit_de_mise_a_jour_pack_ultime">
-<div class="name_product" title="Zombicide 2ème Édition - Kit de Mise à Jour Pack Ultime">Zombicide 2ème Édition - Kit de Mise à Jour Pack Ultime</div>
-<div class="desc_short">Ce Pack Ultime est un kit de mise à jour pour utiliser vos contenus de la première édition de Zombicide dans la seconde édition.</div>
-</a><div class="container_move_product">
-<div class="separateur separateur_product"></div><div class="bloc_rating_product" title="Note 4.7/5, 3 avis"><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_half"></span></div><div class="bloc_preco_product"></div>
-</div>
-</div>
-<div class="block_cart "><div class="container_prices"><div class="price_product simple_price_product">16,90&nbsp;€</div></div><div class="cart">
-<div class="add_cart_btn add_cart_btn_mini">
-<form method="POST">
-<input type="hidden" aria-label="id_product" name="id_product" value="419117"><label for="419117_1"></label><select name="qty_product" aria-label="419117" class="select" id="419117_1"><option id="1" value="1">1</option></select><div class="qty">(1)</div><div class="bloc_cart"><div class="bloc_each_cart_mini">
-<button type="submit" name="addToCart" value="0" class="btn addToCart tagSmallOrange tagProduct" data-localisation="0" data-id="419117" title="Ajouter au panier en livraison" alt="Ajouter au panier en livraison">
-<div class="add_cart_logo_mini"></div>
-</button>
-<div class="explain_new_btn_orange">Livraison</div>
-</div><div class="bloc_each_cart_mini">
-<div class="btn btn_store btn_violet showStoreSelect tagSmallVioletModal tagProduct" title="Choisir un magasin de retrait" alt="Choisir un magasin de retrait" data-modal-type="419117">
-<div class="add_cart_store_logo_mini"></div>
-</div>
-<div class="explain_new_btn_violet">Retrait magasin</div>
-</div><div class="select_favourite_store">
-<div class="store_nav" id="419117">
-<div class="store_nav_content">
-<span class="close">&times;</span>
-<div class="modal-title">Retirer en magasin</div>
-<ul><li class="store_list" value="1">
-<div class="bloc head_store">Playin Paris BNF</div><div class="bloc availability">
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Disponible sous 2h</span>
-<span class="orderAvailable" ">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
-<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
-</div>
-<div class="bloc set_store_btn_bloc">
-<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="1">
-<div class="add_cart_btn_img add_cart_store_btn_img"></div>
-<div class="add_cart_text">Choisir ce magasin</div>
-</button>
-</div><div class="clear"></div>
-</li><li class="store_list" value="2">
-<div class="bloc head_store">Playin Annecy</div><div class="bloc availability">
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Disponible sous 2h</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" ">&#10004;&nbsp;Sur commande (72h)</span>
-<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
-</div>
-<div class="bloc set_store_btn_bloc">
-<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="2">
-<div class="add_cart_btn_img add_cart_store_btn_img"></div>
-<div class="add_cart_text">Choisir ce magasin</div>
-</button>
-</div><div class="clear"></div>
-</li><li class="store_list" value="3">
-<div class="bloc head_store">Playin Paris Rivoli</div><div class="bloc availability">
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Disponible sous 2h</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" ">&#10004;&nbsp;Sur commande (72h)</span>
-<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
-</div>
-<div class="bloc set_store_btn_bloc">
-<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="3">
-<div class="add_cart_btn_img add_cart_store_btn_img"></div>
-<div class="add_cart_text">Choisir ce magasin</div>
-</button>
-</div><div class="clear"></div>
-</li></ul>
-</div>
-</div>
-</div></div></form>
-</div>
-</div>
-</div>
-<div class="clear"></div>
-</div><div class="list_product_full case_product_full filterElement" data-family="5" data-sales="0">
-<div class="container_img_product">
-<a href="/produit/417477-zombicide_2eme_Edition_-_campagne_washington_zc">
-<div class="img_product"><picture><source srcset="/img/product/m/zombicide-2e-edition-washington-z-c-campagne.webp" type="image/webp"><source srcset="/img/product/m/zombicide-2e-edition-washington-z-c-campagne.jpg" type="image/jpeg">
-<img src="/img/product/m/zombicide-2e-edition-washington-z-c-campagne.jpg" title="Zombicide 2ème Édition - Campagne Washington Z.C" alt="Zombicide 2ème Édition - Campagne Washington Z.C" loading="lazy" />
-</picture>
-</div><div class="clear"></div>
-</a>
-</div>
-<div class="container_info_product container_info_product_with_rating">
-<a href="/produit/417477-zombicide_2eme_Edition_-_campagne_washington_zc">
-<div class="name_product" title="Zombicide 2ème Édition - Campagne Washington Z.C">Zombicide 2ème Édition - Campagne Washington Z.C</div>
-<div class="desc_short">Washington Z.C est une campagne complète pour Zombicide 2ème Édition. Entrez dans la Maison Blanche et survivez au cours de 10 missions explosives.</div>
-</a><div class="container_move_product">
-<div class="separateur separateur_product"></div><div class="bloc_rating_product" title="Note 5/5, 3 avis"><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_full"></span></div><div class="bloc_preco_product"></div>
-</div>
-</div>
-<div class="block_cart "><div class="container_prices"><div class="price_product simple_price_product">49,50&nbsp;€</div></div><div class="cart">
-<div class="add_cart_btn add_cart_btn_mini">
-<form method="POST">
-<input type="hidden" aria-label="id_product" name="id_product" value="417477"><label for="417477_7"></label><select name="qty_product" aria-label="417477" class="select" id="417477_7"><option id="1" value="1">1</option><option id="2" value="2">2</option><option id="3" value="3">3</option><option id="4" value="4">4</option><option id="5" value="5">5</option><option id="6" value="6">6</option><option id="7" value="7">7</option></select><div class="qty">(7)</div><div class="bloc_cart"><div class="bloc_each_cart_mini">
-<button type="submit" name="addToCart" value="0" class="btn addToCart tagSmallOrange tagProduct" data-localisation="0" data-id="417477" title="Ajouter au panier en livraison" alt="Ajouter au panier en livraison">
-<div class="add_cart_logo_mini"></div>
-</button>
-<div class="explain_new_btn_orange">Livraison</div>
-</div><div class="bloc_each_cart_mini">
-<div class="btn btn_store btn_violet showStoreSelect tagSmallVioletModal tagProduct" title="Choisir un magasin de retrait" alt="Choisir un magasin de retrait" data-modal-type="417477">
-<div class="add_cart_store_logo_mini"></div>
-</div>
-<div class="explain_new_btn_violet">Retrait magasin</div>
-</div><div class="select_favourite_store">
-<div class="store_nav" id="417477">
-<div class="store_nav_content">
-<span class="close">&times;</span>
-<div class="modal-title">Retirer en magasin</div>
-<ul><li class="store_list" value="1">
-<div class="bloc head_store">Playin Paris BNF</div><div class="bloc availability">
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" ">&#10004;&nbsp;Disponible sous 2h</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
-<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
-</div>
-<div class="bloc set_store_btn_bloc">
-<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="1">
-<div class="add_cart_btn_img add_cart_store_btn_img"></div>
-<div class="add_cart_text">Choisir ce magasin</div>
-</button>
-</div><div class="clear"></div>
-</li><li class="store_list" value="2">
-<div class="bloc head_store">Playin Annecy</div><div class="bloc availability">
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" ">&#10004;&nbsp;Disponible sous 2h</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
-<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
-</div>
-<div class="bloc set_store_btn_bloc">
-<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="2">
-<div class="add_cart_btn_img add_cart_store_btn_img"></div>
-<div class="add_cart_text">Choisir ce magasin</div>
-</button>
-</div><div class="clear"></div>
-</li><li class="store_list" value="3">
-<div class="bloc head_store">Playin Paris Rivoli</div><div class="bloc availability">
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Disponible sous 2h</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" ">&#10004;&nbsp;Sur commande (72h)</span>
-<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
-</div>
-<div class="bloc set_store_btn_bloc">
-<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="3">
-<div class="add_cart_btn_img add_cart_store_btn_img"></div>
-<div class="add_cart_text">Choisir ce magasin</div>
-</button>
-</div><div class="clear"></div>
-</li></ul>
-</div>
-</div>
-</div></div></form>
-</div>
-</div>
-</div>
-<div class="clear"></div>
-</div><div class="list_product_full case_product_full filterElement" data-family="5" data-sales="0">
-<div class="container_img_product">
-<a href="/produit/441813-zombicide_2eme_Edition_-_campagne_fort_hendrix">
-<div class="img_product"><picture><source srcset="/img/product/m/sombicide-extension-campagne-fort-hendrix-boite-de-jeu.webp" type="image/webp"><source srcset="/img/product/m/sombicide-extension-campagne-fort-hendrix-boite-de-jeu.jpg" type="image/jpeg">
-<img src="/img/product/m/sombicide-extension-campagne-fort-hendrix-boite-de-jeu.jpg" title="Zombicide 2ème Édition - Campagne Fort Hendrix" alt="Zombicide 2ème Édition - Campagne Fort Hendrix" loading="lazy" />
-</picture>
-</div><div class="clear"></div>
-</a>
-</div>
-<div class="container_info_product container_info_product_with_rating">
-<a href="/produit/441813-zombicide_2eme_Edition_-_campagne_fort_hendrix">
-<div class="name_product" title="Zombicide 2ème Édition - Campagne Fort Hendrix">Zombicide 2ème Édition - Campagne Fort Hendrix</div>
-<div class="desc_short">Fort Hendrix est une campagne complète pour Zombicide 2ème Édition. Infiltrez-vous dans ce fort militaire pour retrouver une personne chère à vos yeux.</div>
-</a><div class="container_move_product">
-<div class="separateur separateur_product"></div><div class="bloc_rating_product" title="Note 3.5/5, 2 avis"><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_half"></span><span class="img_little_star_empty"></span></div><div class="bloc_preco_product"></div>
-</div>
-</div>
-<div class="block_cart "><div class="container_prices"><div class="price_product simple_price_product">49,50&nbsp;€</div></div><div class="cart">
-<div class="add_cart_btn add_cart_btn_mini">
-<form method="POST">
-<input type="hidden" aria-label="id_product" name="id_product" value="441813"><label for="441813_2"></label><select name="qty_product" aria-label="441813" class="select" id="441813_2"><option id="1" value="1">1</option><option id="2" value="2">2</option></select><div class="qty">(2)</div><div class="bloc_cart"><div class="bloc_each_cart_mini">
-<button type="submit" name="addToCart" value="0" class="btn addToCart tagSmallOrange tagProduct" data-localisation="0" data-id="441813" title="Ajouter au panier en livraison" alt="Ajouter au panier en livraison">
-<div class="add_cart_logo_mini"></div>
-</button>
-<div class="explain_new_btn_orange">Livraison</div>
-</div><div class="bloc_each_cart_mini">
-<div class="btn btn_store btn_violet showStoreSelect tagSmallVioletModal tagProduct" title="Choisir un magasin de retrait" alt="Choisir un magasin de retrait" data-modal-type="441813">
-<div class="add_cart_store_logo_mini"></div>
-</div>
-<div class="explain_new_btn_violet">Retrait magasin</div>
-</div><div class="select_favourite_store">
-<div class="store_nav" id="441813">
-<div class="store_nav_content">
-<span class="close">&times;</span>
-<div class="modal-title">Retirer en magasin</div>
-<ul><li class="store_list" value="1">
-<div class="bloc head_store">Playin Paris BNF</div><div class="bloc availability">
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" ">&#10004;&nbsp;Disponible sous 2h</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
-<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
-</div>
-<div class="bloc set_store_btn_bloc">
-<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="1">
-<div class="add_cart_btn_img add_cart_store_btn_img"></div>
-<div class="add_cart_text">Choisir ce magasin</div>
-</button>
-</div><div class="clear"></div>
-</li><li class="store_list" value="2">
-<div class="bloc head_store">Playin Annecy</div><div class="bloc availability">
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" ">&#10004;&nbsp;Disponible sous 2h</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
-<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
-</div>
-<div class="bloc set_store_btn_bloc">
-<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="2">
-<div class="add_cart_btn_img add_cart_store_btn_img"></div>
-<div class="add_cart_text">Choisir ce magasin</div>
-</button>
-</div><div class="clear"></div>
-</li><li class="store_list" value="3">
-<div class="bloc head_store">Playin Paris Rivoli</div><div class="bloc availability">
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Disponible sous 2h</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" ">&#10004;&nbsp;Sur commande (72h)</span>
-<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
-</div>
-<div class="bloc set_store_btn_bloc">
-<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="3">
-<div class="add_cart_btn_img add_cart_store_btn_img"></div>
-<div class="add_cart_text">Choisir ce magasin</div>
-</button>
-</div><div class="clear"></div>
-</li></ul>
-</div>
-</div>
-</div></div></form>
-</div>
-</div>
-</div>
-<div class="clear"></div>
-</div><div class="list_product_full case_product_full filterElement" data-family="5" data-sales="0">
-<div class="container_img_product">
-<a href="/produit/441816-zombicide_2eme_Edition_-_set_de_soldats_zombie">
-<div class="img_product"><picture><source srcset="/img/product/m/zombicide-saison-1-2eme-edition-soldats-zombies-boite-de-jeu.webp" type="image/webp"><source srcset="/img/product/m/zombicide-saison-1-2eme-edition-soldats-zombies-boite-de-jeu.jpg" type="image/jpeg">
-<img src="/img/product/m/zombicide-saison-1-2eme-edition-soldats-zombies-boite-de-jeu.jpg" title="Zombicide 2ème Édition - Set de Soldats Zombie" alt="Zombicide 2ème Édition - Set de Soldats Zombie" loading="lazy" />
-</picture>
-</div><div class="clear"></div>
-</a>
-</div>
-<div class="container_info_product container_info_product_with_rating">
-<a href="/produit/441816-zombicide_2eme_Edition_-_set_de_soldats_zombie">
-<div class="name_product" title="Zombicide 2ème Édition - Set de Soldats Zombie">Zombicide 2ème Édition - Set de Soldats Zombie</div>
-<div class="desc_short">Ce Set de Soldats Zombie pour Zombicide 2ème édition contient 6 figurines de zombies soldats de la campagne Fort Hendrix pour pimenter vos parties !</div>
-</a><div class="container_move_product">
-<div class="separateur separateur_product"></div><div class="bloc_rating_product" title="Note 3.5/5, 2 avis"><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_half"></span><span class="img_little_star_empty"></span></div><div class="bloc_preco_product"></div>
-</div>
-</div>
-<div class="block_cart "><div class="container_prices"><div class="price_product simple_price_product">13,90&nbsp;€</div></div><div class="cart">
-<div class="add_cart_btn add_cart_btn_mini">
-<form method="POST">
-<input type="hidden" aria-label="id_product" name="id_product" value="441816"><label for="441816_4"></label><select name="qty_product" aria-label="441816" class="select" id="441816_4"><option id="1" value="1">1</option><option id="2" value="2">2</option><option id="3" value="3">3</option><option id="4" value="4">4</option></select><div class="qty">(4)</div><div class="bloc_cart"><div class="bloc_each_cart_mini">
-<button type="submit" name="addToCart" value="0" class="btn addToCart tagSmallOrange tagProduct" data-localisation="0" data-id="441816" title="Ajouter au panier en livraison" alt="Ajouter au panier en livraison">
-<div class="add_cart_logo_mini"></div>
-</button>
-<div class="explain_new_btn_orange">Livraison</div>
-</div><div class="bloc_each_cart_mini">
-<div class="btn btn_store btn_violet showStoreSelect tagSmallVioletModal tagProduct" title="Choisir un magasin de retrait" alt="Choisir un magasin de retrait" data-modal-type="441816">
-<div class="add_cart_store_logo_mini"></div>
-</div>
-<div class="explain_new_btn_violet">Retrait magasin</div>
-</div><div class="select_favourite_store">
-<div class="store_nav" id="441816">
-<div class="store_nav_content">
-<span class="close">&times;</span>
-<div class="modal-title">Retirer en magasin</div>
-<ul><li class="store_list" value="1">
-<div class="bloc head_store">Playin Paris BNF</div><div class="bloc availability">
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Disponible sous 2h</span>
-<span class="orderAvailable" ">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
-<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
-</div>
-<div class="bloc set_store_btn_bloc">
-<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="1">
-<div class="add_cart_btn_img add_cart_store_btn_img"></div>
-<div class="add_cart_text">Choisir ce magasin</div>
-</button>
-</div><div class="clear"></div>
-</li><li class="store_list" value="2">
-<div class="bloc head_store">Playin Annecy</div><div class="bloc availability">
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" ">&#10004;&nbsp;Disponible sous 2h</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
-<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
-</div>
-<div class="bloc set_store_btn_bloc">
-<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="2">
-<div class="add_cart_btn_img add_cart_store_btn_img"></div>
-<div class="add_cart_text">Choisir ce magasin</div>
-</button>
-</div><div class="clear"></div>
-</li><li class="store_list" value="3">
-<div class="bloc head_store">Playin Paris Rivoli</div><div class="bloc availability">
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Disponible sous 2h</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" ">&#10004;&nbsp;Sur commande (72h)</span>
-<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
-</div>
-<div class="bloc set_store_btn_bloc">
-<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="3">
-<div class="add_cart_btn_img add_cart_store_btn_img"></div>
-<div class="add_cart_text">Choisir ce magasin</div>
-</button>
-</div><div class="clear"></div>
-</li></ul>
-</div>
-</div>
-</div></div></form>
-</div>
-</div>
-</div>
-<div class="clear"></div>
-</div><div class="clear"></div></div><div class="tab bloc_tab tab_rating  tab bloc_tab tab_rating tab_hidden"><div class="rating_available">Merci de vous connecter afin de déposer votre avis.</div></div><div class="container_present_card"><div class="alert container_alert_bug">
+<td class="text"><div>Cam Kendall</div></td>
+</tr></table></div><div class="tab bloc_tab tab_video tab_hidden tab bloc_tab tab_video"><div class="video"><div class="container"><iframe width="560" height="315" src="https://www.youtube.com/embed/QhDOPg3-qrw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></div></div><div class="tab bloc_tab tab_rating  tab bloc_tab tab_rating tab_hidden"><div class="rating_available">Merci de vous connecter afin de déposer votre avis.</div><div class="container_page_rating"><div id="page_0" class="each_pagination" data-id="0"><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">Francois m</div><div class="valid_purchase">Achat vérifié</div><div id="user_comment_22852" class="user_comment">Qui aurait cru que cocher des cases et lancer des dés pourrait être aussi fun ?</div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">Anonyme</div><div class="valid_purchase"></div><div id="user_comment_24535" class="user_comment"></div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">EWAN G</div><div class="valid_purchase">Achat vérifié</div><div id="user_comment_31618" class="user_comment">Roll &amp; whrite au top si vous aimez ce genre de jeu, foncez!</div></div></div></div></div><div class="container_present_card"><div class="alert container_alert_bug">
 <div class="toggleTarget clicOut" data-target="signal_bug">Vous souhaitez nous signaler un bug&nbsp;?</div>
 <div class="send_ok"></div>
 <div class="boxToggle clicOut alert_target signal_bug"><div class> <div class="send_ok not_connected">Vous devez être connecté pour signaler un bug</div> </div></div>
@@ -3550,12 +2774,12 @@ Yu-Gi-Oh! </div></a>
 </div> </div>
 <div class="container_main_right">
 <div class="container_select_carts col_middle">
-<section><div class="bloc_encart container_product bloc_encart_price bloc_encart_price_fidelity"><div class="bloc_price"><div class="price">59,90&nbsp;€</div></div><div class="container_fidelity_point container_recap_fidelity">
-<a href="/article/247-les_points_votre_programme_fidelite_par_playin_"><span>Gagnez jusqu'à </span><span class="bold_black">59&nbsp;<span class="img_points_fidelity_black"></span>oint(s)</span></a><div class="togglePopup clicOutPopup img_explain_fidelity_points_orange" title="Voir le détail des Points" data-target="boxTogglePopupFidelity"></div>
+<section><div class="bloc_encart container_product bloc_encart_price bloc_encart_price_fidelity"><div class="bloc_price"><div class="price">26,90&nbsp;€</div></div><div class="container_fidelity_point container_recap_fidelity">
+<a href="/article/247-les_points_votre_programme_fidelite_par_playin_"><span>Gagnez jusqu'à </span><span class="bold_black">26&nbsp;<span class="img_points_fidelity_black"></span>oint(s)</span></a><div class="togglePopup clicOutPopup img_explain_fidelity_points_orange" title="Voir le détail des Points" data-target="boxTogglePopupFidelity"></div>
 <div class="clear"></div>
 <div class="popup_fidelity_points boxTogglePopupFidelity clicOutPopup hide">
 <div class="bold_orange">Les <span class="img_points_fidelity_orange"></span>oints, votre programme de fidelité&nbsp;!</div>
-<div class="txt">1 € dépensé = 1 Point gagné&nbsp;!</div><div class="txt">Ce produit vous rapportera jusqu'à <b>59 Points</b>.</div><a href="/article/247-les_points_votre_programme_fidelite_par_playin_" class="link">En savoir plus sur les Points</a>
+<div class="txt">1 € dépensé = 1 Point gagné&nbsp;!</div><div class="txt">Ce produit vous rapportera jusqu'à <b>26 Points</b>.</div><a href="/article/247-les_points_votre_programme_fidelite_par_playin_" class="link">En savoir plus sur les Points</a>
 </div></div> <div id="container_secondhand" style="display:none">
 <div id="popup_secondhand">
 <div class="form_secondhand container_select_carts" id="info_valid_cart" style="display:none;">
@@ -3564,10 +2788,10 @@ Yu-Gi-Oh! </div></a>
 Le jeu a été ajouté au panier </div>
 </div>
 <div class="form_secondhand container_select_carts" id="popupForm">
-<img id="logo_gege" src="/img/play_back/Gégé_2_125.png" />
+<img id="logo_gege" src="/img/play_back/Gégé_3_125.png" />
 <img src="/img/play_back/Essai_logo_2_50.png" />
 <h2 class="title_secondhand">Les jeux d'occasion par Playin</h2>
-<img id="image_seconhand" src="/img/product/l/zombicide-campagne-rio-z-janeiro-boite-de-jeu.jpg" title="Zombicide 2ème Édition - Campagne Rio Z Janeiro" alt="zombicide campagne rio z janeiro boite de jeu " />
+<img id="image_seconhand" src="/img/product/l/dungeons-dice-and-danger-boite-de-jeu.jpg" title="Dungeons, Dice & Danger" alt="dungeons dice and danger boite de jeu " />
 <form action class="form-container">
 <div id="container_select_secondhand">
 <select name="secondhand" class="select_secondhand select">
@@ -3581,7 +2805,7 @@ Le jeu a été ajouté au panier </div>
 </div>
 </div> </div><div class="bloc_encart container_product"><div class="bloc_cart_product"><div class="add_cart_btn">
 <form method="POST">
-<label for="id_product"><input type="hidden" name="id_product" value="487584"></label><select name="qty_product" class="select"><option value="1">1</option><option value="2">2</option><option value="3">3</option></select><div class="bloc_btn"><button type="submit" name="addToCart" value="0" class="btn addToCart tagBigOrange tagProduct" data-localisation="0" data-family="5" data-id="487584">
+<label for="id_product"><input type="hidden" name="id_product" value="394820"></label><select name="qty_product" class="select"><option value="1">1</option><option value="2">2</option><option value="3">3</option></select><div class="bloc_btn"><button type="submit" name="addToCart" value="0" class="btn addToCart tagBigOrange tagProduct" data-localisation="0" data-family="5" data-id="394820">
 <div class="add_cart_btn_img"></div>
 <div class="add_cart_text">Ajouter au panier <div class="small_text">(Livraison)</div></div>
 </button></div>
@@ -3596,12 +2820,12 @@ Le jeu a été ajouté au panier </div>
 <div class="container_stock">Frais de port à partir de 2,50&nbsp;€. Offert dès 35,00&nbsp;€ d'achat.</div>
 </div><div class="filters_boardgame_product"></div></div><div class="bloc_encart bloc_encart_retrait container_product"><div class="bloc_encart container_product"><div class="bloc_cart_product"><div class="add_cart_btn">
 <form method="POST">
-<input type="hidden" name="id_product" value="487584"><div class="bloc_btn"><div class="btn btn_no_favourite btn_store btn_violet showStoreSelect" title="Choisir un magasin de retrait" alt="Choisir un magasin de retrait" data-modal-type="487584">
+<input type="hidden" name="id_product" value="394820"><div class="bloc_btn"><div class="btn btn_no_favourite btn_store btn_violet showStoreSelect" title="Choisir un magasin de retrait" alt="Choisir un magasin de retrait" data-modal-type="394820">
 <div class="add_cart_btn_img add_cart_store_btn_img"></div>
 <div class="add_cart_text">Trouver un magasin Playin</div>
 </div>
 </div><form method="post"><div class="select_favourite_store">
-<div class="store_nav" id="487584">
+<div class="store_nav" id="394820">
 <div class="store_nav_content">
 <span class="close">&times;</span>
 <div class="modal-title">Retirer en magasin</div>
@@ -3609,8 +2833,8 @@ Le jeu a été ajouté au panier </div>
 <div class="bloc head_store">Playin Paris BNF</div><div class="bloc availability">
 <span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
 <span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" ">&#10004;&nbsp;Disponible sous 2h</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
+<span class="localAvailable" style="display : none">&#10004;&nbsp;Disponible sous 2h</span>
+<span class="orderAvailable" ">&#10004;&nbsp;Sur commande (48h)</span>
 <span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
 <span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
 </div>
@@ -3658,25 +2882,27 @@ Le jeu a été ajouté au panier </div>
 <div class="shipping_boutique_img_gris_fonce"></div>
 <div class="container_stock"><div>Retrait gratuit en magasin, sous 2h ou 72h selon disponibilité.</div></div>
 </div></section><div class="bloc_desc bloc_desc_mobile">
-<div class="shortdesc_product">Rio Z Janeiro est une campagne complète pour Zombicide 2ème Édition. Échappez-vous d'un carnaval mortel au fil de 10 missions aussi festives que terrifiantes.</div><div class="container_tag_jds"><a href="/jeux_de_societe/recherche/?&player%5B%5D=1&player%5B%5D=2&player%5B%5D=3&player%5B%5D=4&player%5B%5D=5&player%5B%5D=6">
+<div class="shortdesc_product">Bienvenue aventuriers dans le Roll & Write Dungeons, Dice & Danger ! Traversez les donjons et combinez vos dés pour explorer les salles et vaincre les monstres.</div><div class="rating_summary"><a class="onclickTab" data-tab="rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span> 5/5
+<span class="rating_link">(3 avis clients)</span>
+</a></div><div class="container_tag_jds"><a href="/jeux_de_societe/recherche/?&player%5B%5D=1&player%5B%5D=2&player%5B%5D=3&player%5B%5D=4">
 <div class="tag btn_grey">
 <div class="bloc">
 <div class="img_nbr_player"></div>
-<span>1 à 6 joueurs</span>
+<span>1 à 4 joueurs</span>
 </div>
 </div>
 </a><a href="/jeux_de_societe/recherche/?time%5B%5D=60">
 <div class="tag btn_grey">
 <div class="bloc">
 <div class="img_time"></div>
-<span>Environ 1h</span>
+<span>Environ 45 min</span>
 </div>
 </div>
-</a><a href="/jeux_de_societe/recherche/?age%5B%5D=plus_14">
+</a><a href="/jeux_de_societe/recherche/?age%5B%5D=plus_12">
 <div class="tag btn_grey">
 <div class="bloc">
 <div class="img_age"></div>
-<span>À partir de 14 ans</span>
+<span>À partir de 12 ans</span>
 </div>
 </div>
 </a><div class="tag btn_grey">
@@ -3685,46 +2911,25 @@ Le jeu a été ajouté au panier </div>
 <span>Français</span>
 </div>
 </div><div class="clear"></div>
-</div><div class="clear"></div><div class="container_tag_jds"><a href="/jeux_de_societe/recherche/?theme=Halloween">
+</div><div class="clear"></div><div class="container_tag_jds"><a href="/jeux_de_societe/recherche/?theme=Exploration+et++Dungeon+Crawler">
 <div class="tag btn_grey">
 <div class="bloc">
 <div class="img_theme"></div>
-<span>Halloween</span>
+<span>Exploration et Dungeon Crawler</span>
 </div>
 </div>
-</a><a href="/jeux_de_societe/recherche/?theme=Horreur">
+</a><a href="/jeux_de_societe/recherche/?theme=Médiéval+Fantastique">
 <div class="tag btn_grey">
 <div class="bloc">
 <div class="img_theme"></div>
-<span>Horreur</span>
+<span>Médiéval Fantastique</span>
 </div>
 </div>
-</a><a href="/jeux_de_societe/recherche/?theme=Zombies">
-<div class="tag btn_grey">
-<div class="bloc">
-<div class="img_theme"></div>
-<span>Zombies</span>
-</div>
-</div>
-</a><a href="/jeux_de_societe/recherche/?type=Dés">
+</a><a href="/jeux_de_societe/recherche/?type=Jeux+de+Voyage">
 <div class="tag btn_grey">
 <div class="bloc">
 <div class="img_type_game"></div>
-<span>Dés</span>
-</div>
-</div>
-</a><a href="/jeux_de_societe/recherche/?type=Jeux+Coopératifs">
-<div class="tag btn_grey">
-<div class="bloc">
-<div class="img_type_game"></div>
-<span>Jeux Coopératifs</span>
-</div>
-</div>
-</a><a href="/jeux_de_societe/recherche/?type=Jeux+de+Figurines">
-<div class="tag btn_grey">
-<div class="bloc">
-<div class="img_type_game"></div>
-<span>Jeux de Figurines</span>
+<span>Jeux de Voyage</span>
 </div>
 </div>
 </a><a href="/jeux_de_societe/recherche/?type=Jeux+Solo">
@@ -3734,860 +2939,66 @@ Le jeu a été ajouté au panier </div>
 <span>Jeux Solo</span>
 </div>
 </div>
-</a><a href="/jeux_de_societe/recherche/?range=Zombicide">
+</a><a href="/jeux_de_societe/recherche/?type=Roll+%26+Write">
 <div class="tag btn_grey">
 <div class="bloc">
-<span>Zombicide</span>
+<div class="img_type_game"></div>
+<span>Roll & Write</span>
 </div>
 </div>
 </a><div class="clear"></div>
-</div><div class="clear"></div><div class="clear"></div><div class="mini_img_product sliderProduct"><div class="MS-content"><div class="list_product item"><a href="/img/product/secondary/zombicide-campagne-rio-z-janeiro-boite-de-jeu-dos.jpg" data-lightbox="product-set-mobile" data-title><img src="/img/product/secondary/s/zombicide-campagne-rio-z-janeiro-boite-de-jeu-dos.jpg" title="Zombicide 2ème Édition - Campagne Rio Z Janeiro" alt="zombicide campagne rio z janeiro boite de jeu " /></a></div><div class="list_product item"><a href="/img/product/secondary/zombicide-campagne-rio-z-janeiro-materiel-de-jeu.jpg" data-lightbox="product-set-mobile" data-title><img src="/img/product/secondary/s/zombicide-campagne-rio-z-janeiro-materiel-de-jeu.jpg" title="Zombicide 2ème Édition - Campagne Rio Z Janeiro" alt="zombicide campagne rio z janeiro boite de jeu " /></a></div></div>
+</div><div class="clear"></div><div class="clear"></div><div class="mini_img_product sliderProduct"><div class="MS-content"><div class="list_product item"><a href="/img/product/secondary/dungeons-dice-and-danger-dos-boite-de-jeu.jpg" data-lightbox="product-set-mobile" data-title><img src="/img/product/secondary/s/dungeons-dice-and-danger-dos-boite-de-jeu.jpg" title="Dungeons, Dice & Danger" alt="dungeons dice and danger boite de jeu " /></a></div><div class="list_product item"><a href="/img/product/secondary/dungeons-dice-and-danger-fiches-de-jeu.jpg" data-lightbox="product-set-mobile" data-title><img src="/img/product/secondary/s/dungeons-dice-and-danger-fiches-de-jeu.jpg" title="Dungeons, Dice & Danger" alt="dungeons dice and danger boite de jeu " /></a></div></div>
 <div class="MS-controls">
 <button class="MS-left"><div class="arrow_left_img"></div></button>
 <button class="MS-right"><div class="arrow_right_img"></div></button>
-</div></div></div><div class="col_bottom  col_bottom_mobile  "><div class="container_title_onglet"><h2 class="tab_title tab tab_desc onclickTab title_selected tab_selected" data-tab="desc"><span>Descriptif</span></h2><h2 class="tab_title tab tab_features onclickTab" data-tab="features"><span class="long-text">Caractéristiques</span></h2><h2 class="tab_title tab tab_video no_title" data-tab="video"><span>Vidéo</span></h2><h2 class="tab_title tab tab_title_ext tab_ext onclickTab" data-tab="ext">
-<span class="line">Gamme &</span>
-<span class="line">extensions</span>
-</h2><h2 id="tab_rating" class="tab_title tab tab_rating onclickTab " data-tab="rating"><span class="long-text">Avis client</span></h2><div class="clear"></div>
-</div><div class="tab bloc_tab tab_desc tab_selected"><h2 style="text-align: justify;">Rio Z Janeiro : Quand carnaval rime avec cannibales</h2>
-<p style="text-align: justify;"><em>Rio de Janeiro, c'est l'endroit id&eacute;al o&ugrave; passer le carnaval. Tant de monde ! Mais quand la foule se transforme en zombies affam&eacute;s de chair, la f&ecirc;te change de ton pour laisser place au Zombicide !&nbsp; Dans <strong>Rio Z Janeiro</strong>, &eacute;chappez-vous de la ville et escortez quelqu'un qui aurait peut-&ecirc;tre des r&eacute;ponses sur ce qu'il se passe ici !</em></p>
-<p style="text-align: justify;">Cette bo&icirc;te vous propose une toute nouvelle exp&eacute;rience narrative et explosive en <strong>10 sc&eacute;narios</strong>. <strong>6 nouveaux survivants</strong> vous sont propos&eacute;s, tous aussi <em>badass</em> les uns que les autres. Gr&acirc;ce au<strong> mode Campagne</strong>, vous <strong>sauvegardez votre progression</strong> entre chaque mission (avec le bloc d&eacute;di&eacute;), ce qui permet de commencer la prochaine partie avec de meilleures chances de survie (&eacute;quipements, comp&eacute;tences).</p>
-<p style="text-align: justify;">Dans les Favelas, d&eacute;couvrez un tout nouveau set de r&egrave;gles tactiques ! Tirez parti des <strong>ruelles &eacute;troites</strong> pour en faire un goulet d'&eacute;tranglement. <strong>D&eacute;truisez les murs</strong> de pi&egrave;tre qualit&eacute; pour vous &eacute;chapper, mais prenez garde &agrave; ne pas compromettre la structure du b&acirc;timent ! Et en cas de besoin, d&eacute;clenchez une attaque surpuissante, au risque de briser votre arme.&nbsp;</p>
-<p style="text-align: justify;"><strong>Campagne Rio Z Janeiro</strong>&nbsp;est une extension qui n&eacute;cessite le jeu de base <strong>Zombicide 2&egrave;me &Eacute;dition</strong>.</p><strong>Contenu&nbsp;:</strong>
-<ul><li>6 figurines Survivants: 4 figurines Rôdeurs</li><li>1 figurine Balèze</li><li>1 figurine Forcené</li><li>66 cartes Équipement</li><li>30 cartes Blessure</li><li>6 fiches d'identité de survivant</li><li>97 cartes objectif</li><li>7 dalles recto-verso</li><li>6 dés de Va-tout</li><li>12 pions</li><li>1 bloc de fiches de campagne</li><li>1 livret de règles</li></ul><strong><i>À partir de 14 ans, de 1 à 6 joueurs et pour des parties d'environ 60 minutes.</i></strong></div><div class="tab bloc_tab tab_features tab_hidden"><table class="table_tag_jds"><tr class="container_lang tr_impair">
+</div></div></div><div class="col_bottom  col_bottom_mobile  "><div class="container_title_onglet"><h2 class="tab_title tab tab_desc onclickTab title_selected tab_selected" data-tab="desc"><span>Descriptif</span></h2><h2 class="tab_title tab tab_features onclickTab" data-tab="features"><span class="long-text">Caractéristiques</span></h2><h2 class="tab_title tab tab_video onclickTab" data-tab="video"><span>Vidéo</span></h2><h2 id="tab_rating" class="tab_title tab tab_rating onclickTab " data-tab="rating"><span class="long-text">Avis client</span></h2><div class="clear"></div>
+</div><div class="tab bloc_tab tab_desc tab_selected"><h2 style="text-align: justify;">Dungeons, Dice &amp; Danger : un Roll &amp; Write de Richard Garfield</h2>
+<p style="text-align: justify;">Dungeons, Dice &amp; Danger est <strong>un roll &amp; write m&eacute;di&eacute;val-fantastique</strong> o&ugrave; les joueurs parcourent <strong>4 donjons</strong> &agrave; la recherche des fabuleux tr&eacute;sors. Chaque partie dure environ 30 &agrave; 45 minutes, pour 1-4 joueurs d&egrave;s 12 ans.</p>
+<p style="text-align: justify;">Arm&eacute; de votre &eacute;p&eacute;e et de vos d&eacute;s, entamez votre descente vers les salles les plus obscures du donjon ! Prenez garde aux terribles gardiens, des monstres &agrave; vaincre, et atteignez les salles avec les coffres ou les gemmes. En venant &agrave; bout des cr&eacute;atures qui peuplent le donjon, vous recevez des r&eacute;compenses. Oserez-vous vous aventurer dans l'antre du Boss pour lui ravir son butin ?</p>
+<h2 style="text-align: justify;">Explorez les donjons &agrave; coup de d&eacute;s</h2>
+<p style="text-align: justify;">Comme la plupart des jeux de sa cat&eacute;gorie, Dungeons, Dice &amp; Danger repose sur <strong>un syst&egrave;me de jeu tr&egrave;s simple</strong> : lancez les d&eacute;s et combinez-les astucieusement pour avancer ou infliger des d&eacute;g&acirc;ts &agrave; un ennemi. Reportez toutes vos actions sur votre fiche de jeu &agrave; l'aide de votre crayon et frayez-vous un chemin dans les couloirs meurtriers ! Ce Roll &amp; Write <strong>immersif</strong> est sign&eacute; <strong>Richard Garfield</strong> (Magic the Gathering, King of Tokyo...) et illustr&eacute; avec talent par Cam Kendall. <strong>4 niveaux diff&eacute;rents</strong> sont &agrave; d&eacute;couvrir, ainsi qu'un <strong>mode solo</strong>.</p><strong>Contenu&nbsp;:</strong>
+<ul><li>2 blocs de 100 fiches Donjon</li><li>5 dés</li><li>4 crayons à papier</li><li>1 livret de règles</li></ul><strong><i>À partir de 12 ans, de 1 à 4 joueurs et pour des parties d'environ 45 minutes.</i></strong></div><div class="tab bloc_tab tab_features tab_hidden"><table class="table_tag_jds"><tr class="container_lang tr_impair">
 <th scope="row">Langue</th>
 <td class="text"><div>Français</div></td>
 </tr>
 <tr class="container_player tr_pair">
 <th scope="row">Nombre de joueurs</th>
 <td class="text">
-<a href="/jeux_de_societe/recherche/?&player%5B%5D=1&player%5B%5D=2&player%5B%5D=3&player%5B%5D=4&player%5B%5D=5&player%5B%5D=6"><div>De 1 à 6 joueurs</div></a>
+<a href="/jeux_de_societe/recherche/?&player%5B%5D=1&player%5B%5D=2&player%5B%5D=3&player%5B%5D=4"><div>De 1 à 4 joueurs</div></a>
 </td>
 </tr>
 <tr class="container_time tr_impair">
 <th scope="row">Durée</th>
-<td class="text"><a href="/jeux_de_societe/recherche/?time%5B%5D=60"><div>60 minutes</div></a></td>
+<td class="text"><a href="/jeux_de_societe/recherche/?time%5B%5D=60"><div>45 minutes</div></a></td>
 </tr>
 <tr class="container_age tr_pair">
 <th scope="row">Âge</th>
 <td class="text">
-<a href="/jeux_de_societe/recherche/?age%5B%5D=plus_14"><div>À partir de 14 ans</div></a>
+<a href="/jeux_de_societe/recherche/?age%5B%5D=plus_12"><div>À partir de 12 ans</div></a>
 </td>
 </tr>
 <tr class="container_theme tr_impair">
 <th scope="row">Thème(s)</th>
-<td class="text"><a href="/jeux_de_societe/recherche/?theme=Halloween" /><div>Halloween</div></a></td></tr><tr class="container_theme line_repeat tr_impair"><th scope="row"></th><td class="text"><a href="/jeux_de_societe/recherche/?theme=Horreur" /><div>Horreur</div></a></td></tr><tr class="container_theme line_repeat tr_impair"><th scope="row"></th><td class="text"><a href="/jeux_de_societe/recherche/?theme=Zombies" /><div>Zombies</div></a></td>
+<td class="text"><a href="/jeux_de_societe/recherche/?theme=Exploration+et++Dungeon+Crawler" /><div>Exploration et Dungeon Crawler</div></a></td></tr><tr class="container_theme line_repeat tr_impair"><th scope="row"></th><td class="text"><a href="/jeux_de_societe/recherche/?theme=Médiéval+Fantastique" /><div>Médiéval Fantastique</div></a></td>
 </tr>
 <tr class="container_type tr_pair">
 <th scope="row">Type(s)</th>
-<td class="text"><a href="/jeux_de_societe/recherche/?type=Dés" /><div>Dés</div></a></td></tr><tr class="container_type line_repeat"><th scope="row"></th><td class="text"><a href="/jeux_de_societe/recherche/?type=Jeux+Coopératifs" /><div>Jeux Coopératifs</div></a></td></tr><tr class="container_type line_repeat"><th scope="row"></th><td class="text"><a href="/jeux_de_societe/recherche/?type=Jeux+de+Figurines" /><div>Jeux de Figurines</div></a></td></tr><tr class="container_type line_repeat"><th scope="row"></th><td class="text"><a href="/jeux_de_societe/recherche/?type=Jeux+Solo" /><div>Jeux Solo</div></a></td>
+<td class="text"><a href="/jeux_de_societe/recherche/?type=Jeux+de+Voyage" /><div>Jeux de Voyage</div></a></td></tr><tr class="container_type line_repeat"><th scope="row"></th><td class="text"><a href="/jeux_de_societe/recherche/?type=Jeux+Solo" /><div>Jeux Solo</div></a></td></tr><tr class="container_type line_repeat"><th scope="row"></th><td class="text"><a href="/jeux_de_societe/recherche/?type=Roll+%26+Write" /><div>Roll & Write</div></a></td>
 </tr>
 <tr class="container_type tr_impair">
-<th scope="row">Gamme</th><td class="text"><a href="/jeux_de_societe/gamme/9-zombicide" /><div>Zombicide</div></a></td></tr>
+<th scope="row">Gamme</th><td class="text"><div>Aucune gamme</div></td></tr>
 <tr class="container_editor tr_pair">
 <th scope="row">Éditeur(s)</th>
-<td class="text"><div>Cmon</div></td>
+<td class="text"><div>Alea</div></td>
 </tr>
 <tr class="container_author tr_impair">
 <th scope="row">Auteur(s)</th>
-<td class="text"><div>Non renseigné</div></td>
+<td class="text"><div>Richard Garfield</div></td>
 </tr>
 <tr class="container_illustrator tr_pair">
 <th scope="row">Illustrateur(s)</th>
-<td class="text"><div>Non renseigné</div></td>
-</tr></table></div><div class="tab bloc_tab tab_video tab bloc_tab tab_video"><div class="video"><div class="container"></div></div></div><div class="tab bloc_tab tab_ext tab_hidden tab bloc_tab tab_ext"><div class="title_ext">Découvrez la (ou l'une des) boite(s) de base compatibles&nbsp;:</div><div class="list_product_full case_product_full filterElement" data-family="5" data-sales="0">
-<div class="container_img_product">
-<a href="/produit/335118-zombicide_saison_1_-_2eme_Edition">
-<div class="img_product"><picture><source srcset="/img/product/m/zombicide-saison-1-2eme-edition-jeu-guillotine-games-boite.webp" type="image/webp"><source srcset="/img/product/m/zombicide-saison-1-2eme-edition-jeu-guillotine-games-boite.jpg" type="image/jpeg">
-<img src="/img/product/m/zombicide-saison-1-2eme-edition-jeu-guillotine-games-boite.jpg" title="Zombicide Saison 1 - 2ème Édition" alt="Zombicide Saison 1 - 2ème Édition" loading="lazy" />
-</picture>
-</div><div class="clear"></div>
-</a>
-</div>
-<div class="container_info_product container_info_product_with_rating">
-<a href="/produit/335118-zombicide_saison_1_-_2eme_Edition">
-<div class="name_product" title="Zombicide Saison 1 - 2ème Édition">Zombicide Saison 1 - 2ème Édition</div>
-<div class="desc_short">Affrontez les zombies et survivez dans Zombicide ! Cette 2e édition du jeu coopératif vendu à 2 millions d'exemplaires contient de nouvelles figurines et...</div>
-</a><div class="container_move_product">
-<div class="separateur separateur_product"></div><div class="bloc_rating_product" title="Note 4.5/5, 14 avis"><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_half"></span></div><div class="bloc_preco_product"></div>
-</div>
-</div>
-<div class="block_cart "><div class="container_prices"><div class="price_product simple_price_product">98,90&nbsp;€</div></div><div class="cart">
-<div class="add_cart_btn add_cart_btn_mini">
-<form method="POST">
-<input type="hidden" aria-label="id_product" name="id_product" value="335118"><label for="335118_5"></label><select name="qty_product" aria-label="335118" class="select" id="335118_5"><option id="1" value="1">1</option><option id="2" value="2">2</option><option id="3" value="3">3</option><option id="4" value="4">4</option><option id="5" value="5">5</option></select><div class="qty">(5)</div><div class="bloc_cart"><div class="bloc_each_cart_mini">
-<button type="submit" name="addToCart" value="0" class="btn addToCart tagSmallOrange tagProduct" data-localisation="0" data-id="335118" title="Ajouter au panier en livraison" alt="Ajouter au panier en livraison">
-<div class="add_cart_logo_mini"></div>
-</button>
-<div class="explain_new_btn_orange">Livraison</div>
-</div><div class="bloc_each_cart_mini">
-<div class="btn btn_store btn_violet showStoreSelect tagSmallVioletModal tagProduct" title="Choisir un magasin de retrait" alt="Choisir un magasin de retrait" data-modal-type="335118">
-<div class="add_cart_store_logo_mini"></div>
-</div>
-<div class="explain_new_btn_violet">Retrait magasin</div>
-</div><div class="select_favourite_store">
-<div class="store_nav" id="335118">
-<div class="store_nav_content">
-<span class="close">&times;</span>
-<div class="modal-title">Retirer en magasin</div>
-<ul><li class="store_list" value="1">
-<div class="bloc head_store">Playin Paris BNF</div><div class="bloc availability">
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" ">&#10004;&nbsp;Disponible sous 2h</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
-<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
-</div>
-<div class="bloc set_store_btn_bloc">
-<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="1">
-<div class="add_cart_btn_img add_cart_store_btn_img"></div>
-<div class="add_cart_text">Choisir ce magasin</div>
-</button>
-</div><div class="clear"></div>
-</li><li class="store_list" value="2">
-<div class="bloc head_store">Playin Annecy</div><div class="bloc availability">
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Disponible sous 2h</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" ">&#10004;&nbsp;Sur commande (72h)</span>
-<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
-</div>
-<div class="bloc set_store_btn_bloc">
-<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="2">
-<div class="add_cart_btn_img add_cart_store_btn_img"></div>
-<div class="add_cart_text">Choisir ce magasin</div>
-</button>
-</div><div class="clear"></div>
-</li><li class="store_list" value="3">
-<div class="bloc head_store">Playin Paris Rivoli</div><div class="bloc availability">
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" ">&#10004;&nbsp;Disponible sous 2h</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
-<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
-</div>
-<div class="bloc set_store_btn_bloc">
-<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="3">
-<div class="add_cart_btn_img add_cart_store_btn_img"></div>
-<div class="add_cart_text">Choisir ce magasin</div>
-</button>
-</div><div class="clear"></div>
-</li></ul>
-</div>
-</div>
-</div></div></form>
-</div>
-</div>
-</div>
-<div class="clear"></div>
-</div><div class="clear"></div><div class="title_ext title_all_ext">Découvrez les extensions compatibles&nbsp;:</div><div class="list_product_full case_product_full filterElement" data-family="5" data-sales="0">
-<div class="container_img_product">
-<a href="/produit/408579-zombicide_2eme_Edition_-_kit_6_joueurs">
-<div class="img_product"><picture><source srcset="/img/product/m/zombicide-2eme-edition-kit-6-joueurs-jeu-cmom-boite.webp" type="image/webp"><source srcset="/img/product/m/zombicide-2eme-edition-kit-6-joueurs-jeu-cmom-boite.jpg" type="image/jpeg">
-<img src="/img/product/m/zombicide-2eme-edition-kit-6-joueurs-jeu-cmom-boite.jpg" title="Zombicide 2ème Édition - Kit 6 Joueurs" alt="Zombicide 2ème Édition - Kit 6 Joueurs" loading="lazy" />
-</picture>
-</div><div class="clear"></div>
-</a>
-</div>
-<div class="container_info_product container_info_product_with_rating">
-<a href="/produit/408579-zombicide_2eme_Edition_-_kit_6_joueurs">
-<div class="name_product" title="Zombicide 2ème Édition - Kit 6 Joueurs">Zombicide 2ème Édition - Kit 6 Joueurs</div>
-<div class="desc_short">Ce kit pour Zombicide Seconde Édition permet d'ajouter 6 joueurs supplémentaires à vos parties, jusqu'à 12 joueurs au total !</div>
-</a><div class="container_move_product">
-<div class="separateur separateur_product"></div><div class="bloc_rating_product" title="Note 3.5/5, 2 avis"><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_half"></span><span class="img_little_star_empty"></span></div><div class="bloc_preco_product"></div>
-</div>
-</div>
-<div class="block_cart "><div class="container_prices"><div class="price_product simple_price_product">24,90&nbsp;€</div></div><div class="cart">
-<div class="add_cart_btn add_cart_btn_mini">
-<form method="POST">
-<input type="hidden" aria-label="id_product" name="id_product" value="408579"><label for="408579_1"></label><select name="qty_product" aria-label="408579" class="select" id="408579_1"><option id="1" value="1">1</option></select><div class="qty">(1)</div><div class="bloc_cart"><div class="bloc_each_cart_mini">
-<button type="submit" name="addToCart" value="0" class="btn addToCart tagSmallOrange tagProduct" data-localisation="0" data-id="408579" title="Ajouter au panier en livraison" alt="Ajouter au panier en livraison">
-<div class="add_cart_logo_mini"></div>
-</button>
-<div class="explain_new_btn_orange">Livraison</div>
-</div><div class="bloc_each_cart_mini">
-<div class="btn btn_store btn_violet showStoreSelect tagSmallVioletModal tagProduct" title="Choisir un magasin de retrait" alt="Choisir un magasin de retrait" data-modal-type="408579">
-<div class="add_cart_store_logo_mini"></div>
-</div>
-<div class="explain_new_btn_violet">Retrait magasin</div>
-</div><div class="select_favourite_store">
-<div class="store_nav" id="408579">
-<div class="store_nav_content">
-<span class="close">&times;</span>
-<div class="modal-title">Retirer en magasin</div>
-<ul><li class="store_list" value="1">
-<div class="bloc head_store">Playin Paris BNF</div><div class="bloc availability">
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" ">&#10004;&nbsp;Disponible sous 2h</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
-<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
-</div>
-<div class="bloc set_store_btn_bloc">
-<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="1">
-<div class="add_cart_btn_img add_cart_store_btn_img"></div>
-<div class="add_cart_text">Choisir ce magasin</div>
-</button>
-</div><div class="clear"></div>
-</li><li class="store_list" value="2">
-<div class="bloc head_store">Playin Annecy</div><div class="bloc availability">
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Disponible sous 2h</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" ">&#10004;&nbsp;Sur commande (72h)</span>
-<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
-</div>
-<div class="bloc set_store_btn_bloc">
-<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="2">
-<div class="add_cart_btn_img add_cart_store_btn_img"></div>
-<div class="add_cart_text">Choisir ce magasin</div>
-</button>
-</div><div class="clear"></div>
-</li><li class="store_list" value="3">
-<div class="bloc head_store">Playin Paris Rivoli</div><div class="bloc availability">
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Disponible sous 2h</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" ">&#10004;&nbsp;Sur commande (72h)</span>
-<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
-</div>
-<div class="bloc set_store_btn_bloc">
-<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="3">
-<div class="add_cart_btn_img add_cart_store_btn_img"></div>
-<div class="add_cart_text">Choisir ce magasin</div>
-</button>
-</div><div class="clear"></div>
-</li></ul>
-</div>
-</div>
-</div></div></form>
-</div>
-</div>
-</div>
-<div class="clear"></div>
-</div><div class="list_product_full case_product_full filterElement" data-family="5" data-sales="0">
-<div class="container_img_product">
-<a href="/produit/434185-zombicide_2eme_Edition_-_set_de_dalles_saison_1">
-<div class="img_product"><picture><source srcset="/img/product/m/zombicide-2eme-edition-set-de-dalles-boite-de-jeu.webp" type="image/webp"><source srcset="/img/product/m/zombicide-2eme-edition-set-de-dalles-boite-de-jeu.jpg" type="image/jpeg">
-<img src="/img/product/m/zombicide-2eme-edition-set-de-dalles-boite-de-jeu.jpg" title="Zombicide 2ème Édition - Set de Dalles Saison 1" alt="Zombicide 2ème Édition - Set de Dalles Saison 1" loading="lazy" />
-</picture>
-</div><div class="clear"></div>
-</a>
-</div>
-<div class="container_info_product container_info_product_with_rating">
-<a href="/produit/434185-zombicide_2eme_Edition_-_set_de_dalles_saison_1">
-<div class="name_product" title="Zombicide 2ème Édition - Set de Dalles Saison 1">Zombicide 2ème Édition - Set de Dalles Saison 1</div>
-<div class="desc_short">Avec ce kit de dalles, améliorez votre expérience de jeu de Zombicide 2ème édition et prenez garde aux recoins obscurs !</div>
-</a><div class="container_move_product">
-<div class="separateur separateur_product"></div><div class="bloc_rating_product" title="Note 4.3/5, 3 avis"><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_half"></span></div><div class="bloc_preco_product"></div>
-</div>
-</div>
-<div class="block_cart "><div class="container_prices"><div class="price_product simple_price_product">20,50&nbsp;€</div></div><div class="cart">
-<div class="add_cart_btn add_cart_btn_mini">
-<form method="POST">
-<input type="hidden" aria-label="id_product" name="id_product" value="434185"><label for="434185_2"></label><select name="qty_product" aria-label="434185" class="select" id="434185_2"><option id="1" value="1">1</option><option id="2" value="2">2</option></select><div class="qty">(2)</div><div class="bloc_cart"><div class="bloc_each_cart_mini">
-<button type="submit" name="addToCart" value="0" class="btn addToCart tagSmallOrange tagProduct" data-localisation="0" data-id="434185" title="Ajouter au panier en livraison" alt="Ajouter au panier en livraison">
-<div class="add_cart_logo_mini"></div>
-</button>
-<div class="explain_new_btn_orange">Livraison</div>
-</div><div class="bloc_each_cart_mini">
-<div class="btn btn_store btn_violet showStoreSelect tagSmallVioletModal tagProduct" title="Choisir un magasin de retrait" alt="Choisir un magasin de retrait" data-modal-type="434185">
-<div class="add_cart_store_logo_mini"></div>
-</div>
-<div class="explain_new_btn_violet">Retrait magasin</div>
-</div><div class="select_favourite_store">
-<div class="store_nav" id="434185">
-<div class="store_nav_content">
-<span class="close">&times;</span>
-<div class="modal-title">Retirer en magasin</div>
-<ul><li class="store_list" value="1">
-<div class="bloc head_store">Playin Paris BNF</div><div class="bloc availability">
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Disponible sous 2h</span>
-<span class="orderAvailable" ">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
-<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
-</div>
-<div class="bloc set_store_btn_bloc">
-<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="1">
-<div class="add_cart_btn_img add_cart_store_btn_img"></div>
-<div class="add_cart_text">Choisir ce magasin</div>
-</button>
-</div><div class="clear"></div>
-</li><li class="store_list" value="2">
-<div class="bloc head_store">Playin Annecy</div><div class="bloc availability">
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Disponible sous 2h</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" ">&#10004;&nbsp;Sur commande (72h)</span>
-<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
-</div>
-<div class="bloc set_store_btn_bloc">
-<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="2">
-<div class="add_cart_btn_img add_cart_store_btn_img"></div>
-<div class="add_cart_text">Choisir ce magasin</div>
-</button>
-</div><div class="clear"></div>
-</li><li class="store_list" value="3">
-<div class="bloc head_store">Playin Paris Rivoli</div><div class="bloc availability">
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Disponible sous 2h</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" ">&#10004;&nbsp;Sur commande (72h)</span>
-<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
-</div>
-<div class="bloc set_store_btn_bloc">
-<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="3">
-<div class="add_cart_btn_img add_cart_store_btn_img"></div>
-<div class="add_cart_text">Choisir ce magasin</div>
-</button>
-</div><div class="clear"></div>
-</li></ul>
-</div>
-</div>
-</div></div></form>
-</div>
-</div>
-</div>
-<div class="clear"></div>
-</div><div class="list_product_full case_product_full filterElement" data-family="5" data-sales="0">
-<div class="container_img_product">
-<a href="/produit/403979-zombicide_2eme_Edition_-_pack_dabominations_legendes_urbaines">
-<div class="img_product"><picture><source srcset="/img/product/m/legendes-urbaines-extension-zombicide-2eme-edition-jeu-cmon-boite.webp" type="image/webp"><source srcset="/img/product/m/legendes-urbaines-extension-zombicide-2eme-edition-jeu-cmon-boite.jpg" type="image/jpeg">
-<img src="/img/product/m/legendes-urbaines-extension-zombicide-2eme-edition-jeu-cmon-boite.jpg" title="Zombicide 2ème Édition - Pack d'Abominations Légendes Urbaines" alt="Zombicide 2ème Édition - Pack d'Abominations Légendes Urbaines" loading="lazy" />
-</picture>
-</div><div class="clear"></div>
-</a>
-</div>
-<div class="container_info_product container_info_product_with_rating">
-<a href="/produit/403979-zombicide_2eme_Edition_-_pack_dabominations_legendes_urbaines">
-<div class="name_product" title="Zombicide 2ème Édition - Pack d'Abominations Légendes Urbaines">Zombicide 2ème Édition - Pack d'Abominations Légendes Urbaines</div>
-<div class="desc_short">Ce pack Légende Urbaines pour Zombicide Seconde Édition contient 4 Abominations pour pimenter vos parties : le Clown Tueur, le Chupacabra, le Crocodile d'...</div>
-</a><div class="container_move_product">
-<div class="separateur separateur_product"></div><div class="bloc_rating_product" title="Note 4.5/5, 2 avis"><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_half"></span></div><div class="bloc_preco_product"></div>
-</div>
-</div>
-<div class="block_cart "><div class="container_prices"><div class="price_product simple_price_product">22,90&nbsp;€</div></div><div class="cart">
-<div class="add_cart_btn add_cart_btn_mini">
-<form method="POST">
-<input type="hidden" aria-label="id_product" name="id_product" value="403979"><label for="403979_2"></label><select name="qty_product" aria-label="403979" class="select" id="403979_2"><option id="1" value="1">1</option><option id="2" value="2">2</option></select><div class="qty">(2)</div><div class="bloc_cart"><div class="bloc_each_cart_mini">
-<button type="submit" name="addToCart" value="0" class="btn addToCart tagSmallOrange tagProduct" data-localisation="0" data-id="403979" title="Ajouter au panier en livraison" alt="Ajouter au panier en livraison">
-<div class="add_cart_logo_mini"></div>
-</button>
-<div class="explain_new_btn_orange">Livraison</div>
-</div><div class="bloc_each_cart_mini">
-<div class="btn btn_store btn_violet showStoreSelect tagSmallVioletModal tagProduct" title="Choisir un magasin de retrait" alt="Choisir un magasin de retrait" data-modal-type="403979">
-<div class="add_cart_store_logo_mini"></div>
-</div>
-<div class="explain_new_btn_violet">Retrait magasin</div>
-</div><div class="select_favourite_store">
-<div class="store_nav" id="403979">
-<div class="store_nav_content">
-<span class="close">&times;</span>
-<div class="modal-title">Retirer en magasin</div>
-<ul><li class="store_list" value="1">
-<div class="bloc head_store">Playin Paris BNF</div><div class="bloc availability">
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Disponible sous 2h</span>
-<span class="orderAvailable" ">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
-<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
-</div>
-<div class="bloc set_store_btn_bloc">
-<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="1">
-<div class="add_cart_btn_img add_cart_store_btn_img"></div>
-<div class="add_cart_text">Choisir ce magasin</div>
-</button>
-</div><div class="clear"></div>
-</li><li class="store_list" value="2">
-<div class="bloc head_store">Playin Annecy</div><div class="bloc availability">
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Disponible sous 2h</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" ">&#10004;&nbsp;Sur commande (72h)</span>
-<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
-</div>
-<div class="bloc set_store_btn_bloc">
-<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="2">
-<div class="add_cart_btn_img add_cart_store_btn_img"></div>
-<div class="add_cart_text">Choisir ce magasin</div>
-</button>
-</div><div class="clear"></div>
-</li><li class="store_list" value="3">
-<div class="bloc head_store">Playin Paris Rivoli</div><div class="bloc availability">
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Disponible sous 2h</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" ">&#10004;&nbsp;Sur commande (72h)</span>
-<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
-</div>
-<div class="bloc set_store_btn_bloc">
-<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="3">
-<div class="add_cart_btn_img add_cart_store_btn_img"></div>
-<div class="add_cart_text">Choisir ce magasin</div>
-</button>
-</div><div class="clear"></div>
-</li></ul>
-</div>
-</div>
-</div></div></form>
-</div>
-</div>
-</div>
-<div class="clear"></div>
-</div><div class="list_product_full case_product_full filterElement" data-family="5" data-sales="0">
-<div class="container_img_product">
-<a href="/produit/404011-zombicide_2eme_Edition_-_set_survivants_de_chronicles">
-<div class="img_product"><picture><source srcset="/img/product/m/set-survivants-de-chronicles-extension-zombicide-2eme-edition-jeu-cmon-boite.webp" type="image/webp"><source srcset="/img/product/m/set-survivants-de-chronicles-extension-zombicide-2eme-edition-jeu-cmon-boite.jpg" type="image/jpeg">
-<img src="/img/product/m/set-survivants-de-chronicles-extension-zombicide-2eme-edition-jeu-cmon-boite.jpg" title="Zombicide 2ème Édition - Set Survivants de Chronicles" alt="Zombicide 2ème Édition - Set Survivants de Chronicles" loading="lazy" />
-</picture>
-</div><div class="clear"></div>
-</a>
-</div>
-<div class="container_info_product container_info_product_with_rating">
-<a href="/produit/404011-zombicide_2eme_Edition_-_set_survivants_de_chronicles">
-<div class="name_product" title="Zombicide 2ème Édition - Set Survivants de Chronicles">Zombicide 2ème Édition - Set Survivants de Chronicles</div>
-<div class="desc_short">Ce set de survivants pour Zombicide Seconde Édition contient 12 survivants issus du jeu de rôle Zombicide Chronicles à ajouter à toutes vos parties !</div>
-</a><div class="container_move_product">
-<div class="separateur separateur_product"></div><div class="bloc_rating_product" title="Note 5/5, 2 avis"><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_full"></span></div><div class="bloc_preco_product"></div>
-</div>
-</div>
-<div class="block_cart "><div class="container_prices"><div class="price_product simple_price_product">28,50&nbsp;€</div></div><div class="cart">
-<div class="add_cart_btn add_cart_btn_mini">
-<form method="POST">
-<input type="hidden" aria-label="id_product" name="id_product" value="404011"><label for="404011_2"></label><select name="qty_product" aria-label="404011" class="select" id="404011_2"><option id="1" value="1">1</option><option id="2" value="2">2</option></select><div class="qty">(2)</div><div class="bloc_cart"><div class="bloc_each_cart_mini">
-<button type="submit" name="addToCart" value="0" class="btn addToCart tagSmallOrange tagProduct" data-localisation="0" data-id="404011" title="Ajouter au panier en livraison" alt="Ajouter au panier en livraison">
-<div class="add_cart_logo_mini"></div>
-</button>
-<div class="explain_new_btn_orange">Livraison</div>
-</div><div class="bloc_each_cart_mini">
-<div class="btn btn_store btn_violet showStoreSelect tagSmallVioletModal tagProduct" title="Choisir un magasin de retrait" alt="Choisir un magasin de retrait" data-modal-type="404011">
-<div class="add_cart_store_logo_mini"></div>
-</div>
-<div class="explain_new_btn_violet">Retrait magasin</div>
-</div><div class="select_favourite_store">
-<div class="store_nav" id="404011">
-<div class="store_nav_content">
-<span class="close">&times;</span>
-<div class="modal-title">Retirer en magasin</div>
-<ul><li class="store_list" value="1">
-<div class="bloc head_store">Playin Paris BNF</div><div class="bloc availability">
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Disponible sous 2h</span>
-<span class="orderAvailable" ">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
-<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
-</div>
-<div class="bloc set_store_btn_bloc">
-<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="1">
-<div class="add_cart_btn_img add_cart_store_btn_img"></div>
-<div class="add_cart_text">Choisir ce magasin</div>
-</button>
-</div><div class="clear"></div>
-</li><li class="store_list" value="2">
-<div class="bloc head_store">Playin Annecy</div><div class="bloc availability">
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Disponible sous 2h</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" ">&#10004;&nbsp;Sur commande (72h)</span>
-<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
-</div>
-<div class="bloc set_store_btn_bloc">
-<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="2">
-<div class="add_cart_btn_img add_cart_store_btn_img"></div>
-<div class="add_cart_text">Choisir ce magasin</div>
-</button>
-</div><div class="clear"></div>
-</li><li class="store_list" value="3">
-<div class="bloc head_store">Playin Paris Rivoli</div><div class="bloc availability">
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Disponible sous 2h</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" ">&#10004;&nbsp;Sur commande (72h)</span>
-<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
-</div>
-<div class="bloc set_store_btn_bloc">
-<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="3">
-<div class="add_cart_btn_img add_cart_store_btn_img"></div>
-<div class="add_cart_text">Choisir ce magasin</div>
-</button>
-</div><div class="clear"></div>
-</li></ul>
-</div>
-</div>
-</div></div></form>
-</div>
-</div>
-</div>
-<div class="clear"></div>
-</div><div class="list_product_full case_product_full filterElement" data-family="5" data-sales="0">
-<div class="container_img_product">
-<a href="/produit/419117-zombicide_2eme_Edition_-_kit_de_mise_a_jour_pack_ultime">
-<div class="img_product"><picture><source srcset="/img/product/m/zombicide-pack-ultime-kit-de-mise-a-jour.webp" type="image/webp"><source srcset="/img/product/m/zombicide-pack-ultime-kit-de-mise-a-jour.jpg" type="image/jpeg">
-<img src="/img/product/m/zombicide-pack-ultime-kit-de-mise-a-jour.jpg" title="Zombicide 2ème Édition - Kit de Mise à Jour Pack Ultime" alt="Zombicide 2ème Édition - Kit de Mise à Jour Pack Ultime" loading="lazy" />
-</picture>
-</div><div class="clear"></div>
-</a>
-</div>
-<div class="container_info_product container_info_product_with_rating">
-<a href="/produit/419117-zombicide_2eme_Edition_-_kit_de_mise_a_jour_pack_ultime">
-<div class="name_product" title="Zombicide 2ème Édition - Kit de Mise à Jour Pack Ultime">Zombicide 2ème Édition - Kit de Mise à Jour Pack Ultime</div>
-<div class="desc_short">Ce Pack Ultime est un kit de mise à jour pour utiliser vos contenus de la première édition de Zombicide dans la seconde édition.</div>
-</a><div class="container_move_product">
-<div class="separateur separateur_product"></div><div class="bloc_rating_product" title="Note 4.7/5, 3 avis"><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_half"></span></div><div class="bloc_preco_product"></div>
-</div>
-</div>
-<div class="block_cart "><div class="container_prices"><div class="price_product simple_price_product">16,90&nbsp;€</div></div><div class="cart">
-<div class="add_cart_btn add_cart_btn_mini">
-<form method="POST">
-<input type="hidden" aria-label="id_product" name="id_product" value="419117"><label for="419117_1"></label><select name="qty_product" aria-label="419117" class="select" id="419117_1"><option id="1" value="1">1</option></select><div class="qty">(1)</div><div class="bloc_cart"><div class="bloc_each_cart_mini">
-<button type="submit" name="addToCart" value="0" class="btn addToCart tagSmallOrange tagProduct" data-localisation="0" data-id="419117" title="Ajouter au panier en livraison" alt="Ajouter au panier en livraison">
-<div class="add_cart_logo_mini"></div>
-</button>
-<div class="explain_new_btn_orange">Livraison</div>
-</div><div class="bloc_each_cart_mini">
-<div class="btn btn_store btn_violet showStoreSelect tagSmallVioletModal tagProduct" title="Choisir un magasin de retrait" alt="Choisir un magasin de retrait" data-modal-type="419117">
-<div class="add_cart_store_logo_mini"></div>
-</div>
-<div class="explain_new_btn_violet">Retrait magasin</div>
-</div><div class="select_favourite_store">
-<div class="store_nav" id="419117">
-<div class="store_nav_content">
-<span class="close">&times;</span>
-<div class="modal-title">Retirer en magasin</div>
-<ul><li class="store_list" value="1">
-<div class="bloc head_store">Playin Paris BNF</div><div class="bloc availability">
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Disponible sous 2h</span>
-<span class="orderAvailable" ">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
-<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
-</div>
-<div class="bloc set_store_btn_bloc">
-<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="1">
-<div class="add_cart_btn_img add_cart_store_btn_img"></div>
-<div class="add_cart_text">Choisir ce magasin</div>
-</button>
-</div><div class="clear"></div>
-</li><li class="store_list" value="2">
-<div class="bloc head_store">Playin Annecy</div><div class="bloc availability">
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Disponible sous 2h</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" ">&#10004;&nbsp;Sur commande (72h)</span>
-<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
-</div>
-<div class="bloc set_store_btn_bloc">
-<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="2">
-<div class="add_cart_btn_img add_cart_store_btn_img"></div>
-<div class="add_cart_text">Choisir ce magasin</div>
-</button>
-</div><div class="clear"></div>
-</li><li class="store_list" value="3">
-<div class="bloc head_store">Playin Paris Rivoli</div><div class="bloc availability">
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Disponible sous 2h</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" ">&#10004;&nbsp;Sur commande (72h)</span>
-<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
-</div>
-<div class="bloc set_store_btn_bloc">
-<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="3">
-<div class="add_cart_btn_img add_cart_store_btn_img"></div>
-<div class="add_cart_text">Choisir ce magasin</div>
-</button>
-</div><div class="clear"></div>
-</li></ul>
-</div>
-</div>
-</div></div></form>
-</div>
-</div>
-</div>
-<div class="clear"></div>
-</div><div class="list_product_full case_product_full filterElement" data-family="5" data-sales="0">
-<div class="container_img_product">
-<a href="/produit/417477-zombicide_2eme_Edition_-_campagne_washington_zc">
-<div class="img_product"><picture><source srcset="/img/product/m/zombicide-2e-edition-washington-z-c-campagne.webp" type="image/webp"><source srcset="/img/product/m/zombicide-2e-edition-washington-z-c-campagne.jpg" type="image/jpeg">
-<img src="/img/product/m/zombicide-2e-edition-washington-z-c-campagne.jpg" title="Zombicide 2ème Édition - Campagne Washington Z.C" alt="Zombicide 2ème Édition - Campagne Washington Z.C" loading="lazy" />
-</picture>
-</div><div class="clear"></div>
-</a>
-</div>
-<div class="container_info_product container_info_product_with_rating">
-<a href="/produit/417477-zombicide_2eme_Edition_-_campagne_washington_zc">
-<div class="name_product" title="Zombicide 2ème Édition - Campagne Washington Z.C">Zombicide 2ème Édition - Campagne Washington Z.C</div>
-<div class="desc_short">Washington Z.C est une campagne complète pour Zombicide 2ème Édition. Entrez dans la Maison Blanche et survivez au cours de 10 missions explosives.</div>
-</a><div class="container_move_product">
-<div class="separateur separateur_product"></div><div class="bloc_rating_product" title="Note 5/5, 3 avis"><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_full"></span></div><div class="bloc_preco_product"></div>
-</div>
-</div>
-<div class="block_cart "><div class="container_prices"><div class="price_product simple_price_product">49,50&nbsp;€</div></div><div class="cart">
-<div class="add_cart_btn add_cart_btn_mini">
-<form method="POST">
-<input type="hidden" aria-label="id_product" name="id_product" value="417477"><label for="417477_7"></label><select name="qty_product" aria-label="417477" class="select" id="417477_7"><option id="1" value="1">1</option><option id="2" value="2">2</option><option id="3" value="3">3</option><option id="4" value="4">4</option><option id="5" value="5">5</option><option id="6" value="6">6</option><option id="7" value="7">7</option></select><div class="qty">(7)</div><div class="bloc_cart"><div class="bloc_each_cart_mini">
-<button type="submit" name="addToCart" value="0" class="btn addToCart tagSmallOrange tagProduct" data-localisation="0" data-id="417477" title="Ajouter au panier en livraison" alt="Ajouter au panier en livraison">
-<div class="add_cart_logo_mini"></div>
-</button>
-<div class="explain_new_btn_orange">Livraison</div>
-</div><div class="bloc_each_cart_mini">
-<div class="btn btn_store btn_violet showStoreSelect tagSmallVioletModal tagProduct" title="Choisir un magasin de retrait" alt="Choisir un magasin de retrait" data-modal-type="417477">
-<div class="add_cart_store_logo_mini"></div>
-</div>
-<div class="explain_new_btn_violet">Retrait magasin</div>
-</div><div class="select_favourite_store">
-<div class="store_nav" id="417477">
-<div class="store_nav_content">
-<span class="close">&times;</span>
-<div class="modal-title">Retirer en magasin</div>
-<ul><li class="store_list" value="1">
-<div class="bloc head_store">Playin Paris BNF</div><div class="bloc availability">
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" ">&#10004;&nbsp;Disponible sous 2h</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
-<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
-</div>
-<div class="bloc set_store_btn_bloc">
-<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="1">
-<div class="add_cart_btn_img add_cart_store_btn_img"></div>
-<div class="add_cart_text">Choisir ce magasin</div>
-</button>
-</div><div class="clear"></div>
-</li><li class="store_list" value="2">
-<div class="bloc head_store">Playin Annecy</div><div class="bloc availability">
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" ">&#10004;&nbsp;Disponible sous 2h</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
-<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
-</div>
-<div class="bloc set_store_btn_bloc">
-<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="2">
-<div class="add_cart_btn_img add_cart_store_btn_img"></div>
-<div class="add_cart_text">Choisir ce magasin</div>
-</button>
-</div><div class="clear"></div>
-</li><li class="store_list" value="3">
-<div class="bloc head_store">Playin Paris Rivoli</div><div class="bloc availability">
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Disponible sous 2h</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" ">&#10004;&nbsp;Sur commande (72h)</span>
-<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
-</div>
-<div class="bloc set_store_btn_bloc">
-<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="3">
-<div class="add_cart_btn_img add_cart_store_btn_img"></div>
-<div class="add_cart_text">Choisir ce magasin</div>
-</button>
-</div><div class="clear"></div>
-</li></ul>
-</div>
-</div>
-</div></div></form>
-</div>
-</div>
-</div>
-<div class="clear"></div>
-</div><div class="list_product_full case_product_full filterElement" data-family="5" data-sales="0">
-<div class="container_img_product">
-<a href="/produit/441813-zombicide_2eme_Edition_-_campagne_fort_hendrix">
-<div class="img_product"><picture><source srcset="/img/product/m/sombicide-extension-campagne-fort-hendrix-boite-de-jeu.webp" type="image/webp"><source srcset="/img/product/m/sombicide-extension-campagne-fort-hendrix-boite-de-jeu.jpg" type="image/jpeg">
-<img src="/img/product/m/sombicide-extension-campagne-fort-hendrix-boite-de-jeu.jpg" title="Zombicide 2ème Édition - Campagne Fort Hendrix" alt="Zombicide 2ème Édition - Campagne Fort Hendrix" loading="lazy" />
-</picture>
-</div><div class="clear"></div>
-</a>
-</div>
-<div class="container_info_product container_info_product_with_rating">
-<a href="/produit/441813-zombicide_2eme_Edition_-_campagne_fort_hendrix">
-<div class="name_product" title="Zombicide 2ème Édition - Campagne Fort Hendrix">Zombicide 2ème Édition - Campagne Fort Hendrix</div>
-<div class="desc_short">Fort Hendrix est une campagne complète pour Zombicide 2ème Édition. Infiltrez-vous dans ce fort militaire pour retrouver une personne chère à vos yeux.</div>
-</a><div class="container_move_product">
-<div class="separateur separateur_product"></div><div class="bloc_rating_product" title="Note 3.5/5, 2 avis"><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_half"></span><span class="img_little_star_empty"></span></div><div class="bloc_preco_product"></div>
-</div>
-</div>
-<div class="block_cart "><div class="container_prices"><div class="price_product simple_price_product">49,50&nbsp;€</div></div><div class="cart">
-<div class="add_cart_btn add_cart_btn_mini">
-<form method="POST">
-<input type="hidden" aria-label="id_product" name="id_product" value="441813"><label for="441813_2"></label><select name="qty_product" aria-label="441813" class="select" id="441813_2"><option id="1" value="1">1</option><option id="2" value="2">2</option></select><div class="qty">(2)</div><div class="bloc_cart"><div class="bloc_each_cart_mini">
-<button type="submit" name="addToCart" value="0" class="btn addToCart tagSmallOrange tagProduct" data-localisation="0" data-id="441813" title="Ajouter au panier en livraison" alt="Ajouter au panier en livraison">
-<div class="add_cart_logo_mini"></div>
-</button>
-<div class="explain_new_btn_orange">Livraison</div>
-</div><div class="bloc_each_cart_mini">
-<div class="btn btn_store btn_violet showStoreSelect tagSmallVioletModal tagProduct" title="Choisir un magasin de retrait" alt="Choisir un magasin de retrait" data-modal-type="441813">
-<div class="add_cart_store_logo_mini"></div>
-</div>
-<div class="explain_new_btn_violet">Retrait magasin</div>
-</div><div class="select_favourite_store">
-<div class="store_nav" id="441813">
-<div class="store_nav_content">
-<span class="close">&times;</span>
-<div class="modal-title">Retirer en magasin</div>
-<ul><li class="store_list" value="1">
-<div class="bloc head_store">Playin Paris BNF</div><div class="bloc availability">
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" ">&#10004;&nbsp;Disponible sous 2h</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
-<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
-</div>
-<div class="bloc set_store_btn_bloc">
-<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="1">
-<div class="add_cart_btn_img add_cart_store_btn_img"></div>
-<div class="add_cart_text">Choisir ce magasin</div>
-</button>
-</div><div class="clear"></div>
-</li><li class="store_list" value="2">
-<div class="bloc head_store">Playin Annecy</div><div class="bloc availability">
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" ">&#10004;&nbsp;Disponible sous 2h</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
-<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
-</div>
-<div class="bloc set_store_btn_bloc">
-<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="2">
-<div class="add_cart_btn_img add_cart_store_btn_img"></div>
-<div class="add_cart_text">Choisir ce magasin</div>
-</button>
-</div><div class="clear"></div>
-</li><li class="store_list" value="3">
-<div class="bloc head_store">Playin Paris Rivoli</div><div class="bloc availability">
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Disponible sous 2h</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" ">&#10004;&nbsp;Sur commande (72h)</span>
-<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
-</div>
-<div class="bloc set_store_btn_bloc">
-<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="3">
-<div class="add_cart_btn_img add_cart_store_btn_img"></div>
-<div class="add_cart_text">Choisir ce magasin</div>
-</button>
-</div><div class="clear"></div>
-</li></ul>
-</div>
-</div>
-</div></div></form>
-</div>
-</div>
-</div>
-<div class="clear"></div>
-</div><div class="list_product_full case_product_full filterElement" data-family="5" data-sales="0">
-<div class="container_img_product">
-<a href="/produit/441816-zombicide_2eme_Edition_-_set_de_soldats_zombie">
-<div class="img_product"><picture><source srcset="/img/product/m/zombicide-saison-1-2eme-edition-soldats-zombies-boite-de-jeu.webp" type="image/webp"><source srcset="/img/product/m/zombicide-saison-1-2eme-edition-soldats-zombies-boite-de-jeu.jpg" type="image/jpeg">
-<img src="/img/product/m/zombicide-saison-1-2eme-edition-soldats-zombies-boite-de-jeu.jpg" title="Zombicide 2ème Édition - Set de Soldats Zombie" alt="Zombicide 2ème Édition - Set de Soldats Zombie" loading="lazy" />
-</picture>
-</div><div class="clear"></div>
-</a>
-</div>
-<div class="container_info_product container_info_product_with_rating">
-<a href="/produit/441816-zombicide_2eme_Edition_-_set_de_soldats_zombie">
-<div class="name_product" title="Zombicide 2ème Édition - Set de Soldats Zombie">Zombicide 2ème Édition - Set de Soldats Zombie</div>
-<div class="desc_short">Ce Set de Soldats Zombie pour Zombicide 2ème édition contient 6 figurines de zombies soldats de la campagne Fort Hendrix pour pimenter vos parties !</div>
-</a><div class="container_move_product">
-<div class="separateur separateur_product"></div><div class="bloc_rating_product" title="Note 3.5/5, 2 avis"><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_half"></span><span class="img_little_star_empty"></span></div><div class="bloc_preco_product"></div>
-</div>
-</div>
-<div class="block_cart "><div class="container_prices"><div class="price_product simple_price_product">13,90&nbsp;€</div></div><div class="cart">
-<div class="add_cart_btn add_cart_btn_mini">
-<form method="POST">
-<input type="hidden" aria-label="id_product" name="id_product" value="441816"><label for="441816_4"></label><select name="qty_product" aria-label="441816" class="select" id="441816_4"><option id="1" value="1">1</option><option id="2" value="2">2</option><option id="3" value="3">3</option><option id="4" value="4">4</option></select><div class="qty">(4)</div><div class="bloc_cart"><div class="bloc_each_cart_mini">
-<button type="submit" name="addToCart" value="0" class="btn addToCart tagSmallOrange tagProduct" data-localisation="0" data-id="441816" title="Ajouter au panier en livraison" alt="Ajouter au panier en livraison">
-<div class="add_cart_logo_mini"></div>
-</button>
-<div class="explain_new_btn_orange">Livraison</div>
-</div><div class="bloc_each_cart_mini">
-<div class="btn btn_store btn_violet showStoreSelect tagSmallVioletModal tagProduct" title="Choisir un magasin de retrait" alt="Choisir un magasin de retrait" data-modal-type="441816">
-<div class="add_cart_store_logo_mini"></div>
-</div>
-<div class="explain_new_btn_violet">Retrait magasin</div>
-</div><div class="select_favourite_store">
-<div class="store_nav" id="441816">
-<div class="store_nav_content">
-<span class="close">&times;</span>
-<div class="modal-title">Retirer en magasin</div>
-<ul><li class="store_list" value="1">
-<div class="bloc head_store">Playin Paris BNF</div><div class="bloc availability">
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Disponible sous 2h</span>
-<span class="orderAvailable" ">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
-<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
-</div>
-<div class="bloc set_store_btn_bloc">
-<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="1">
-<div class="add_cart_btn_img add_cart_store_btn_img"></div>
-<div class="add_cart_text">Choisir ce magasin</div>
-</button>
-</div><div class="clear"></div>
-</li><li class="store_list" value="2">
-<div class="bloc head_store">Playin Annecy</div><div class="bloc availability">
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" ">&#10004;&nbsp;Disponible sous 2h</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
-<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
-</div>
-<div class="bloc set_store_btn_bloc">
-<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="2">
-<div class="add_cart_btn_img add_cart_store_btn_img"></div>
-<div class="add_cart_text">Choisir ce magasin</div>
-</button>
-</div><div class="clear"></div>
-</li><li class="store_list" value="3">
-<div class="bloc head_store">Playin Paris Rivoli</div><div class="bloc availability">
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
-<span class="localAvailable" style="display : none">&#10004;&nbsp;Disponible sous 2h</span>
-<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
-<span class="orderAvailable" ">&#10004;&nbsp;Sur commande (72h)</span>
-<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
-</div>
-<div class="bloc set_store_btn_bloc">
-<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="3">
-<div class="add_cart_btn_img add_cart_store_btn_img"></div>
-<div class="add_cart_text">Choisir ce magasin</div>
-</button>
-</div><div class="clear"></div>
-</li></ul>
-</div>
-</div>
-</div></div></form>
-</div>
-</div>
-</div>
-<div class="clear"></div>
-</div><div class="clear"></div></div><div class="tab bloc_tab tab_rating  tab bloc_tab tab_rating tab_hidden"><div class="rating_available">Merci de vous connecter afin de déposer votre avis.</div></div><div class="container_present_card"><div class="alert container_alert_bug">
+<td class="text"><div>Cam Kendall</div></td>
+</tr></table></div><div class="tab bloc_tab tab_video tab_hidden tab bloc_tab tab_video"><div class="video"><div class="container"><iframe width="560" height="315" src="https://www.youtube.com/embed/QhDOPg3-qrw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></div></div><div class="tab bloc_tab tab_rating  tab bloc_tab tab_rating tab_hidden"><div class="rating_available">Merci de vous connecter afin de déposer votre avis.</div><div class="container_page_rating"><div id="page_0" class="each_pagination" data-id="0"><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">Francois m</div><div class="valid_purchase">Achat vérifié</div><div id="user_comment_22852" class="user_comment">Qui aurait cru que cocher des cases et lancer des dés pourrait être aussi fun ?</div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">Anonyme</div><div class="valid_purchase"></div><div id="user_comment_24535" class="user_comment"></div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">EWAN G</div><div class="valid_purchase">Achat vérifié</div><div id="user_comment_31618" class="user_comment">Roll &amp; whrite au top si vous aimez ce genre de jeu, foncez!</div></div></div></div></div><div class="container_present_card"><div class="alert container_alert_bug">
 <div class="toggleTarget clicOut" data-target="signal_bug">Vous souhaitez nous signaler un bug&nbsp;?</div>
 <div class="send_ok"></div>
 <div class="boxToggle clicOut alert_target signal_bug"><div class> <div class="send_ok not_connected">Vous devez être connecté pour signaler un bug</div> </div></div>
@@ -4610,20 +3021,184 @@ Le jeu a été ajouté au panier </div>
 <div class="bloc_encart bloc_logos_rassurants share_link_product">
 <div class="sentence_present">Envie de partager cette page&nbsp;?</div>
 <div class="container_logos_img">
-<a href="https://www.facebook.com/sharer/sharer.php?u=https://www.play-in.com/produit/487584-zombicide_2eme_Edition_-_campagne_rio_z_janeiro&amp;src=sdkpreparse" class="link_fb fb-xfbml-parse-ignore" target="_blank">
-<div class="facebook" data-href="https://www.play-in.com/produit/487584-zombicide_2eme_Edition_-_campagne_rio_z_janeiro" data-layout="button" data-size="large" data-mobile-iframe="true">
+<a href="https://www.facebook.com/sharer/sharer.php?u=https://www.play-in.com/produit/394820-dungeons_dice_et_danger&amp;src=sdkpreparse" class="link_fb fb-xfbml-parse-ignore" target="_blank">
+<div class="facebook" data-href="https://www.play-in.com/produit/394820-dungeons_dice_et_danger" data-layout="button" data-size="large" data-mobile-iframe="true">
 <div class="facebook_img"></div>
 <div class="bloc">Partager</div>
 </div>
 </a>
-<a href="https://twitter.com/share?text=Zombicide 2ème Édition - Campagne Rio Z Janeiro@Playin_by_MB&url=https://www.play-in.com/produit/487584-zombicide_2eme_Edition_-_campagne_rio_z_janeiro" class="link link_twitter">
+<a href="https://twitter.com/share?text=Dungeons, Dice & Danger@Playin_by_MB&url=https://www.play-in.com/produit/394820-dungeons_dice_et_danger" class="link link_twitter">
 <div class="twitter">
 <div class="twitter_img"></div>
 <div class="bloc">Tweetter</div>
 </div>
 </a>
 </div>
-</div></div> </div>
+</div><div class="bloc_encart bloc_logos_rassurants bloc_suggested_products">
+<div class="sentence_present">Vous aimerez aussi...</div>
+</div><div class="col_suggested_product"><div class="list_product item">
+<div class="container_left">
+<a href="/produit/359555-welcome_to_the_moon">
+<div class="img_list_product">
+<img src="/img/product/m/welcome-to-the_moon-jeu-blue-cocker-boite.jpg" title="Welcome To the Moon" alt="Welcome To the Moon" loading="lazy" />
+</div>
+</a>
+</div><div class="container_right">
+<a href="/produit/359555-welcome_to_the_moon">
+<div class="name_product" title="Welcome To the Moon">Welcome To the Moon</div>
+</a>
+<div class="preco_product bloc_preco_product bloc_preco_product_rating"></div><div class="container_prices"><div class="price_product simple_price_product">35,90&nbsp;€</div></div><div class="cart">
+<div class="add_cart_btn add_cart_btn_mini">
+<form method="POST">
+<input type="hidden" aria-label="id_product" name="id_product" value="359555"><label for="359555_13"></label><select name="qty_product" aria-label="359555" class="select" id="359555_13"><option id="1" value="1">1</option><option id="2" value="2">2</option><option id="3" value="3">3</option><option id="4" value="4">4</option><option id="5" value="5">5</option><option id="6" value="6">6</option><option id="7" value="7">7</option><option id="8" value="8">8</option><option id="9" value="9">9</option><option id="10" value="10">10</option><option id="11" value="11">11</option><option id="12" value="12">12</option><option id="13" value="13">13</option></select><div class="qty">(13)</div><div class="bloc_cart"><div class="bloc_each_cart_mini">
+<button type="submit" name="addToCart" value="0" class="btn addToCart tagSmallOrange tagProduct" data-localisation="0" data-id="359555" title="Ajouter au panier en livraison" alt="Ajouter au panier en livraison">
+<div class="add_cart_logo_mini"></div>
+</button>
+<div class="explain_new_btn_orange">Livraison</div>
+</div><div class="bloc_each_cart_mini">
+<div class="btn btn_store btn_violet showStoreSelect tagSmallVioletModal tagProduct" title="Choisir un magasin de retrait" alt="Choisir un magasin de retrait" data-modal-type="359555">
+<div class="add_cart_store_logo_mini"></div>
+</div>
+<div class="explain_new_btn_violet">Retrait magasin</div>
+</div><div class="select_favourite_store">
+<div class="store_nav" id="359555">
+<div class="store_nav_content">
+<span class="close">&times;</span>
+<div class="modal-title">Retirer en magasin</div>
+<ul><li class="store_list" value="1">
+<div class="bloc head_store">Playin Paris BNF</div><div class="bloc availability">
+<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
+<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
+<span class="localAvailable" ">&#10004;&nbsp;Disponible sous 2h</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
+<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
+</div>
+<div class="bloc set_store_btn_bloc">
+<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="1">
+<div class="add_cart_btn_img add_cart_store_btn_img"></div>
+<div class="add_cart_text">Choisir ce magasin</div>
+</button>
+</div><div class="clear"></div>
+</li><li class="store_list" value="2">
+<div class="bloc head_store">Playin Annecy</div><div class="bloc availability">
+<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
+<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
+<span class="localAvailable" style="display : none">&#10004;&nbsp;Disponible sous 2h</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
+<span class="orderAvailable" ">&#10004;&nbsp;Sur commande (72h)</span>
+<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
+</div>
+<div class="bloc set_store_btn_bloc">
+<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="2">
+<div class="add_cart_btn_img add_cart_store_btn_img"></div>
+<div class="add_cart_text">Choisir ce magasin</div>
+</button>
+</div><div class="clear"></div>
+</li><li class="store_list" value="3">
+<div class="bloc head_store">Playin Paris Rivoli</div><div class="bloc availability">
+<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
+<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
+<span class="localAvailable" ">&#10004;&nbsp;Disponible sous 2h</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
+<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
+</div>
+<div class="bloc set_store_btn_bloc">
+<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="3">
+<div class="add_cart_btn_img add_cart_store_btn_img"></div>
+<div class="add_cart_text">Choisir ce magasin</div>
+</button>
+</div><div class="clear"></div>
+</li></ul>
+</div>
+</div>
+</div></div></form>
+</div>
+</div>
+</div>
+<div class="clear"></div></div><div class="list_product item">
+<div class="container_left">
+<a href="/produit/350339-paper_dungeons">
+<div class="img_list_product">
+<img src="/img/product/m/paper-dungeons-boite-de-jeu.jpg" title="Paper Dungeons" alt="Paper Dungeons" loading="lazy" />
+</div>
+</a>
+</div><div class="container_right">
+<a href="/produit/350339-paper_dungeons">
+<div class="name_product" title="Paper Dungeons">Paper Dungeons</div>
+</a>
+<div class="preco_product bloc_preco_product bloc_preco_product_rating"></div><div class="container_prices"><div class="price_product simple_price_product">23,90&nbsp;€</div></div><div class="cart">
+<div class="add_cart_btn add_cart_btn_mini">
+<form method="POST">
+<input type="hidden" aria-label="id_product" name="id_product" value="350339"><label for="350339_10"></label><select name="qty_product" aria-label="350339" class="select" id="350339_10"><option id="1" value="1">1</option><option id="2" value="2">2</option><option id="3" value="3">3</option><option id="4" value="4">4</option><option id="5" value="5">5</option><option id="6" value="6">6</option><option id="7" value="7">7</option><option id="8" value="8">8</option><option id="9" value="9">9</option><option id="10" value="10">10</option></select><div class="qty">(10)</div><div class="bloc_cart"><div class="bloc_each_cart_mini">
+<button type="submit" name="addToCart" value="0" class="btn addToCart tagSmallOrange tagProduct" data-localisation="0" data-id="350339" title="Ajouter au panier en livraison" alt="Ajouter au panier en livraison">
+<div class="add_cart_logo_mini"></div>
+</button>
+<div class="explain_new_btn_orange">Livraison</div>
+</div><div class="bloc_each_cart_mini">
+<div class="btn btn_store btn_violet showStoreSelect tagSmallVioletModal tagProduct" title="Choisir un magasin de retrait" alt="Choisir un magasin de retrait" data-modal-type="350339">
+<div class="add_cart_store_logo_mini"></div>
+</div>
+<div class="explain_new_btn_violet">Retrait magasin</div>
+</div><div class="select_favourite_store">
+<div class="store_nav" id="350339">
+<div class="store_nav_content">
+<span class="close">&times;</span>
+<div class="modal-title">Retirer en magasin</div>
+<ul><li class="store_list" value="1">
+<div class="bloc head_store">Playin Paris BNF</div><div class="bloc availability">
+<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
+<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
+<span class="localAvailable" ">&#10004;&nbsp;Disponible sous 2h</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
+<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
+</div>
+<div class="bloc set_store_btn_bloc">
+<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="1">
+<div class="add_cart_btn_img add_cart_store_btn_img"></div>
+<div class="add_cart_text">Choisir ce magasin</div>
+</button>
+</div><div class="clear"></div>
+</li><li class="store_list" value="2">
+<div class="bloc head_store">Playin Annecy</div><div class="bloc availability">
+<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
+<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
+<span class="localAvailable" ">&#10004;&nbsp;Disponible sous 2h</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
+<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
+</div>
+<div class="bloc set_store_btn_bloc">
+<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="2">
+<div class="add_cart_btn_img add_cart_store_btn_img"></div>
+<div class="add_cart_text">Choisir ce magasin</div>
+</button>
+</div><div class="clear"></div>
+</li><li class="store_list" value="3">
+<div class="bloc head_store">Playin Paris Rivoli</div><div class="bloc availability">
+<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
+<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
+<span class="localAvailable" ">&#10004;&nbsp;Disponible sous 2h</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
+<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
+</div>
+<div class="bloc set_store_btn_bloc">
+<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="3">
+<div class="add_cart_btn_img add_cart_store_btn_img"></div>
+<div class="add_cart_text">Choisir ce magasin</div>
+</button>
+</div><div class="clear"></div>
+</li></ul>
+</div>
+</div>
+</div></div></form>
+</div>
+</div>
+</div>
+<div class="clear"></div></div></div></div> </div>
 <div class="clear"></div>
 </div>
 </section>
@@ -4723,7 +3298,7 @@ Le jeu a été ajouté au panier </div>
 </div>
 <div class="mb_footer mail_mb_footer">
 <div class="mail_mb_footer_img"></div>
-<div class="info_mb_footer"><a href="/cdn-cgi/l/email-protection#781b17160c191b0c3808141901551116561b1715" target="_blank"><span class="__cf_email__" data-cfemail="22414d4c5643415662524e435b0f4b4c0c414d4f">[email&#160;protected]</span></a></div>
+<div class="info_mb_footer"><a href="/cdn-cgi/l/email-protection#3a5955544e5b594e7a4a565b4317535414595557" target="_blank"><span class="__cf_email__" data-cfemail="a1c2cecfd5c0c2d5e1d1cdc0d88cc8cf8fc2cecc">[email&#160;protected]</span></a></div>
 </div>
 </div>
 </div>
@@ -4741,7 +3316,7 @@ Le jeu a été ajouté au panier </div>
 <a href="/carte/"><div class="list_footer">Jeux de cartes</div></a>
 <a href="/figurine/"><div class="list_footer">Jeux de figurines</div></a>
 <a href="/accessoires/"><div class="list_footer">Accessoires</div></a>
-<a href="/promotions/"><div class="list_footer">Promo</div></a>
+<a href="/black_friday/"><div class="list_footer">Black Friday</div></a>
 <a href="/evenement/boutique-paris"><div class="list_footer">Événements</div></a>
 <a href="/rachat/"><div class="list_footer">Rachat</div></a>
 <a href="/article/"><div class="list_footer">Actus</div></a>
