@@ -9,16 +9,16 @@ namespace App\Service;
 use App\Entity\Type;
 use  App\Entity\Game;
 use App\Entity\Theme;
-use App\Entity\Auteur;
+use App\Entity\Author;
 use App\Entity\GameTmp;
 use App\Entity\GameType;
-use App\Entity\Dessinateur;
+use App\Entity\Illustrator;
 use App\Repository\GameRepository;
 use App\Repository\TypeRepository;
 use App\Repository\ThemeRepository;
-use App\Repository\AuteurRepository;
+use App\Repository\AuthorRepository;
 use App\Repository\GameTmpRepository;
-use App\Repository\DessinateurRepository;
+use App\Repository\IllustratorRepository;
 use Doctrine\Persistence\ManagerRegistry;
 use Symfony\Component\DomCrawler\Crawler;
 use Symfony\Component\HttpClient\HttpClient;
@@ -43,7 +43,7 @@ class Scrapy {
     );
 
     public function __construct(GameRepository $gameRepository,TypeRepository $typeRepo,GameTmpRepository $gameTmpRepo,
-    AuteurRepository $auteurRepo,DessinateurRepository $dessinateurRepo,ThemeRepository $themeRepo){
+    AuthorRepository $auteurRepo,IllustratorRepository $dessinateurRepo,ThemeRepository $themeRepo){
 
         $this->tmpFile=__DIR__."/../../docs/tmpFile.txt";
         $this->browser=new HttpBrowser(HttpClient::create());

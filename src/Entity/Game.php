@@ -16,57 +16,64 @@ class Game
     #[ORM\Column]
     private ?int $id = null;
 
-    #[ORM\Column(length: 500)]
-    private ?string $name = null;
+    #[ORM\Column(length: 50)]
+    private ?string $title = null;
 
-    #[ORM\Column(length: 255)]
-    private ?string $editeur = null;
+    #[ORM\Column(nullable: true)]
+    private ?int $minimumAge = null;
 
-    #[ORM\Column(type: Types::SMALLINT)]
+    #[ORM\Column(nullable: true)]
+    private ?\DateTimeImmutable $releaseAt = null;
+
+    #[ORM\Column(nullable: true)]
+    private ?float $rating = null;
+
+    #[ORM\Column(nullable: true)]
     private ?int $duration = null;
 
-    #[ORM\Column(type: Types::SMALLINT)]
-    private ?int $nbJoueursMin = null;
+    #[ORM\Column(length: 255, nullable: true)]
+    private ?string $imageUrl = null;
 
-    #[ORM\Column(type: Types::SMALLINT)]
-    private ?int $nbJoueursMax = null;
+    #[ORM\Column]
+    private ?int $playerMin = null;
 
-    #[ORM\Column(type: Types::SMALLINT)]
-    private ?int $age = null;
+    #[ORM\Column(nullable: true)]
+    private ?int $playerMax = null;
 
-    #[ORM\Column(length: 1000)]
-    private ?string $image = null;
-
-    #[ORM\Column(length: 1000)]
-    private ?string $shortDescription = null;
-
-    
-    #[ORM\ManyToMany(targetEntity: Auteur::class, mappedBy: 'game')]
-    private Collection $auteurs;
-
-    #[ORM\ManyToMany(targetEntity: Dessinateur::class, mappedBy: 'game')]
-    private Collection $dessinateurs;
-
-    #[ORM\ManyToMany(targetEntity: Theme::class, mappedBy: 'game')]
-    private Collection $themes;
-
-    #[ORM\ManyToMany(targetEntity: Type::class, mappedBy: 'game')]
-    private Collection $types;
+    #[ORM\Column(length: 50)]
+    private ?string $slug = null;
 
     #[ORM\Column(type: Types::TEXT)]
+    private ?string $shortDescription = null;
+
+    #[ORM\Column(type: Types::TEXT, nullable: true)]
     private ?string $longDescription = null;
 
-    
+    #[ORM\ManyToMany(targetEntity: Author::class, inversedBy: 'games')]
+    private Collection $author;
 
-   
+    #[ORM\ManyToMany(targetEntity: Illustrator::class, inversedBy: 'games')]
+    private Collection $illustrator;
+
+    #[ORM\ManyToMany(targetEntity: Type::class, inversedBy: 'games')]
+    private Collection $type;
+
+    #[ORM\ManyToMany(targetEntity: Theme::class, inversedBy: 'games')]
+    private Collection $theme;
+
+    #[ORM\ManyToOne(inversedBy: 'games')]
+    private ?Editor $editor = null;
+
+    #[ORM\OneToMany(mappedBy: 'game', targetEntity: Bibliogame::class, orphanRemoval: true)]
+    private Collection $bibliogames;
+
     public function __construct()
     {
-        $this->auteurs = new ArrayCollection();
-        $this->dessinateurs = new ArrayCollection();
-        $this->themes = new ArrayCollection();
-        $this->types = new ArrayCollection();
-        $this->users = new ArrayCollection();
-        $this->user = new ArrayCollection();
+        $this->author = new ArrayCollection();
+        $this->illustrator = new ArrayCollection();
+        $this->type = new ArrayCollection();
+        $this->theme = new ArrayCollection();
+        $this->bibliogames = new ArrayCollection();
     }
 
     public function getId(): ?int
@@ -74,26 +81,50 @@ class Game
         return $this->id;
     }
 
-    public function getName(): ?string
+    public function getTitle(): ?string
     {
-        return $this->name;
+        return $this->title;
     }
 
-    public function setName(string $name): static
+    public function setTitle(string $title): static
     {
-        $this->name = $name;
+        $this->title = $title;
 
         return $this;
     }
 
-    public function getEditeur(): ?string
+    public function getMinimumAge(): ?int
     {
-        return $this->editeur;
+        return $this->minimumAge;
     }
 
-    public function setEditeur(string $editeur): static
+    public function setMinimumAge(?int $minimumAge): static
     {
-        $this->editeur = $editeur;
+        $this->minimumAge = $minimumAge;
+
+        return $this;
+    }
+
+    public function getReleaseAt(): ?\DateTimeImmutable
+    {
+        return $this->releaseAt;
+    }
+
+    public function setReleaseAt(?\DateTimeImmutable $releaseAt): static
+    {
+        $this->releaseAt = $releaseAt;
+
+        return $this;
+    }
+
+    public function getRating(): ?float
+    {
+        return $this->rating;
+    }
+
+    public function setRating(?float $rating): static
+    {
+        $this->rating = $rating;
 
         return $this;
     }
@@ -103,57 +134,57 @@ class Game
         return $this->duration;
     }
 
-    public function setDuration(int $duration): static
+    public function setDuration(?int $duration): static
     {
         $this->duration = $duration;
 
         return $this;
     }
 
-    public function getNbJoueursMin(): ?int
+    public function getImageUrl(): ?string
     {
-        return $this->nbJoueursMin;
+        return $this->imageUrl;
     }
 
-    public function setNbJoueursMin(int $nbJoueursMin): static
+    public function setImageUrl(?string $imageUrl): static
     {
-        $this->nbJoueursMin = $nbJoueursMin;
+        $this->imageUrl = $imageUrl;
 
         return $this;
     }
 
-    public function getNbJoueursMax(): ?int
+    public function getPlayerMin(): ?int
     {
-        return $this->nbJoueursMax;
+        return $this->playerMin;
     }
 
-    public function setNbJoueursMax(int $nbJoueursMax): static
+    public function setPlayerMin(int $playerMin): static
     {
-        $this->nbJoueursMax = $nbJoueursMax;
+        $this->playerMin = $playerMin;
 
         return $this;
     }
 
-    public function getAge(): ?int
+    public function getPlayerMax(): ?int
     {
-        return $this->age;
+        return $this->playerMax;
     }
 
-    public function setAge(int $age): static
+    public function setPlayerMax(?int $playerMax): static
     {
-        $this->age = $age;
+        $this->playerMax = $playerMax;
 
         return $this;
     }
 
-    public function getImage(): ?string
+    public function getSlug(): ?string
     {
-        return $this->image;
+        return $this->slug;
     }
 
-    public function setImage(string $image): static
+    public function setSlug(string $slug): static
     {
-        $this->image = $image;
+        $this->slug = $slug;
 
         return $this;
     }
@@ -175,94 +206,61 @@ class Game
         return $this->longDescription;
     }
 
-    public function setLongDescription(string $longDescription): static
+    public function setLongDescription(?string $longDescription): static
     {
         $this->longDescription = $longDescription;
 
         return $this;
     }
-    public function __toString(){
-
-        $this->getName();
+    public function __toString()
+    {
+        return ucwords($this->getTitle());
     }
 
     /**
-     * @return Collection<int, Auteur>
+     * @return Collection<int, Author>
      */
-    public function getAuteurs(): Collection
+    public function getAuthor(): Collection
     {
-        return $this->auteurs;
+        return $this->author;
     }
 
-    public function addAuteur(Auteur $auteur): static
+    public function addAuthor(Author $author): static
     {
-        if (!$this->auteurs->contains($auteur)) {
-            $this->auteurs->add($auteur);
-            $auteur->addGame($this);
+        if (!$this->author->contains($author)) {
+            $this->author->add($author);
         }
 
         return $this;
     }
 
-    public function removeAuteur(Auteur $auteur): static
+    public function removeAuthor(Author $author): static
     {
-        if ($this->auteurs->removeElement($auteur)) {
-            $auteur->removeGame($this);
-        }
+        $this->author->removeElement($author);
 
         return $this;
     }
 
     /**
-     * @return Collection<int, Dessinateur>
+     * @return Collection<int, Illustrator>
      */
-    public function getDessinateurs(): Collection
+    public function getIllustrator(): Collection
     {
-        return $this->dessinateurs;
+        return $this->illustrator;
     }
 
-    public function addDessinateur(Dessinateur $dessinateur): static
+    public function addIllustrator(Illustrator $illustrator): static
     {
-        if (!$this->dessinateurs->contains($dessinateur)) {
-            $this->dessinateurs->add($dessinateur);
-            $dessinateur->addGame($this);
+        if (!$this->illustrator->contains($illustrator)) {
+            $this->illustrator->add($illustrator);
         }
 
         return $this;
     }
 
-    public function removeDessinateur(Dessinateur $dessinateur): static
+    public function removeIllustrator(Illustrator $illustrator): static
     {
-        if ($this->dessinateurs->removeElement($dessinateur)) {
-            $dessinateur->removeGame($this);
-        }
-
-        return $this;
-    }
-
-    /**
-     * @return Collection<int, Theme>
-     */
-    public function getThemes(): Collection
-    {
-        return $this->themes;
-    }
-
-    public function addTheme(Theme $theme): static
-    {
-        if (!$this->themes->contains($theme)) {
-            $this->themes->add($theme);
-            $theme->addGame($this);
-        }
-
-        return $this;
-    }
-
-    public function removeTheme(Theme $theme): static
-    {
-        if ($this->themes->removeElement($theme)) {
-            $theme->removeGame($this);
-        }
+        $this->illustrator->removeElement($illustrator);
 
         return $this;
     }
@@ -270,16 +268,15 @@ class Game
     /**
      * @return Collection<int, Type>
      */
-    public function getTypes(): Collection
+    public function getType(): Collection
     {
-        return $this->types;
+        return $this->type;
     }
 
     public function addType(Type $type): static
     {
-        if (!$this->types->contains($type)) {
-            $this->types->add($type);
-            $type->addGame($this);
+        if (!$this->type->contains($type)) {
+            $this->type->add($type);
         }
 
         return $this;
@@ -287,56 +284,73 @@ class Game
 
     public function removeType(Type $type): static
     {
-        if ($this->types->removeElement($type)) {
-            $type->removeGame($this);
-        }
+        $this->type->removeElement($type);
 
         return $this;
     }
 
     /**
-     * @return Collection<int, User>
+     * @return Collection<int, Theme>
      */
-    public function getUsers(): Collection
+    public function getTheme(): Collection
     {
-        return $this->users;
+        return $this->theme;
     }
 
-    public function addUser(User $user): static
+    public function addTheme(Theme $theme): static
     {
-        if (!$this->users->contains($user)) {
-            $this->users->add($user);
-            $user->addGame($this);
+        if (!$this->theme->contains($theme)) {
+            $this->theme->add($theme);
         }
 
         return $this;
     }
 
-    public function removeUser(User $user): static
+    public function removeTheme(Theme $theme): static
     {
-        if ($this->users->removeElement($user)) {
-            $user->removeGame($this);
-        }
+        $this->theme->removeElement($theme);
+
+        return $this;
+    }
+
+    public function getEditor(): ?Editor
+    {
+        return $this->editor;
+    }
+
+    public function setEditor(?Editor $editor): static
+    {
+        $this->editor = $editor;
 
         return $this;
     }
 
     /**
-     * @return Collection<int, User>
+     * @return Collection<int, Bibliogame>
      */
-    public function getUser(): Collection
+    public function getBibliogames(): Collection
     {
-        return $this->user;
+        return $this->bibliogames;
     }
 
-    public function getLongDescritption(): ?string
+    public function addBibliogame(Bibliogame $bibliogame): static
     {
-        return $this->longDescritption;
+        if (!$this->bibliogames->contains($bibliogame)) {
+            $this->bibliogames->add($bibliogame);
+            $bibliogame->setGame($this);
+        }
+
+        return $this;
     }
 
-    public function setLongDescritption(string $longDescritption): static
+    public function removeBibliogame(Bibliogame $bibliogame): static
     {
-        $this->longDescritption = $longDescritption;
+        if ($this->bibliogames->removeElement($bibliogame)) {
+            // set the owning side to null (unless already changed)
+            if ($bibliogame->getGame() === $this) {
+                $bibliogame->setGame(null);
+            }
+        }
 
         return $this;
     }

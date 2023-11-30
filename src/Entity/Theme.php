@@ -15,15 +15,18 @@ class Theme
     #[ORM\Column]
     private ?int $id = null;
 
-    #[ORM\Column(length: 255)]
+    #[ORM\Column(length: 50)]
     private ?string $name = null;
 
-    #[ORM\ManyToMany(targetEntity: Game::class, inversedBy: 'themes')]
-    private Collection $game;
+    #[ORM\Column(length: 50)]
+    private ?string $slug = null;
+
+    #[ORM\ManyToMany(targetEntity: Game::class, mappedBy: 'theme')]
+    private Collection $games;
 
     public function __construct()
     {
-        $this->game = new ArrayCollection();
+        $this->games = new ArrayCollection();
     }
 
     public function getId(): ?int
@@ -42,23 +45,37 @@ class Theme
 
         return $this;
     }
-    public function __toString(){
 
-       return $this->getName();
+    public function getSlug(): ?string
+    {
+        return $this->slug;
+    }
+
+    public function setSlug(string $slug): static
+    {
+        $this->slug = $slug;
+
+        return $this;
+    }
+
+    public function __toString()
+    {
+        return ucwords($this->getName());
     }
 
     /**
      * @return Collection<int, Game>
      */
-    public function getGame(): Collection
+    public function getGames(): Collection
     {
-        return $this->game;
+        return $this->games;
     }
 
     public function addGame(Game $game): static
     {
-        if (!$this->game->contains($game)) {
-            $this->game->add($game);
+        if (!$this->games->contains($game)) {
+            $this->games->add($game);
+            $game->addTheme($this);
         }
 
         return $this;
@@ -66,7 +83,9 @@ class Theme
 
     public function removeGame(Game $game): static
     {
-        $this->game->removeElement($game);
+        if ($this->games->removeElement($game)) {
+            $game->removeTheme($this);
+        }
 
         return $this;
     }

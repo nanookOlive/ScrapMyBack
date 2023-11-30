@@ -2,26 +2,26 @@
 
 namespace App\Entity;
 
-use App\Repository\TypeRepository;
+use App\Repository\EditorRepository;
 use Doctrine\Common\Collections\ArrayCollection;
 use Doctrine\Common\Collections\Collection;
 use Doctrine\ORM\Mapping as ORM;
 
-#[ORM\Entity(repositoryClass: TypeRepository::class)]
-class Type
+#[ORM\Entity(repositoryClass: EditorRepository::class)]
+class Editor
 {
     #[ORM\Id]
     #[ORM\GeneratedValue]
     #[ORM\Column]
     private ?int $id = null;
 
-    #[ORM\Column(length: 30)]
+    #[ORM\Column(length: 50)]
     private ?string $name = null;
 
-    #[ORM\Column(length: 30)]
+    #[ORM\Column(length: 50)]
     private ?string $slug = null;
 
-    #[ORM\ManyToMany(targetEntity: Game::class, mappedBy: 'type')]
+    #[ORM\OneToMany(mappedBy: 'editor', targetEntity: Game::class)]
     private Collection $games;
 
     public function __construct()
@@ -75,7 +75,7 @@ class Type
     {
         if (!$this->games->contains($game)) {
             $this->games->add($game);
-            $game->addType($this);
+            $game->setEditor($this);
         }
 
         return $this;
@@ -84,7 +84,10 @@ class Type
     public function removeGame(Game $game): static
     {
         if ($this->games->removeElement($game)) {
-            $game->removeType($this);
+            // set the owning side to null (unless already changed)
+            if ($game->getEditor() === $this) {
+                $game->setEditor(null);
+            }
         }
 
         return $this;

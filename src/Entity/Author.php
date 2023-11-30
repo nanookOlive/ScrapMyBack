@@ -2,28 +2,28 @@
 
 namespace App\Entity;
 
-use App\Repository\DessinateurRepository;
+use App\Repository\AuthorRepository;
 use Doctrine\Common\Collections\ArrayCollection;
 use Doctrine\Common\Collections\Collection;
 use Doctrine\ORM\Mapping as ORM;
 
-#[ORM\Entity(repositoryClass: DessinateurRepository::class)]
-class Dessinateur
+#[ORM\Entity(repositoryClass: AuthorRepository::class)]
+class Author
 {
     #[ORM\Id]
     #[ORM\GeneratedValue]
     #[ORM\Column]
     private ?int $id = null;
 
-    #[ORM\Column(length: 255)]
+    #[ORM\Column(length: 50)]
     private ?string $name = null;
 
-    #[ORM\ManyToMany(targetEntity: Game::class, inversedBy: 'dessinateurs')]
-    private Collection $game;
+    #[ORM\ManyToMany(targetEntity: Game::class, mappedBy: 'author')]
+    private Collection $games;
 
     public function __construct()
     {
-        $this->game = new ArrayCollection();
+        $this->games = new ArrayCollection();
     }
 
     public function getId(): ?int
@@ -43,23 +43,24 @@ class Dessinateur
         return $this;
     }
 
-    public function __toString(){
-
-        return $this->name;
+    public function __toString()
+    {
+        return ucwords($this->getName());
     }
 
     /**
      * @return Collection<int, Game>
      */
-    public function getGame(): Collection
+    public function getGames(): Collection
     {
-        return $this->game;
+        return $this->games;
     }
 
     public function addGame(Game $game): static
     {
-        if (!$this->game->contains($game)) {
-            $this->game->add($game);
+        if (!$this->games->contains($game)) {
+            $this->games->add($game);
+            $game->addAuthor($this);
         }
 
         return $this;
@@ -67,10 +68,10 @@ class Dessinateur
 
     public function removeGame(Game $game): static
     {
-        $this->game->removeElement($game);
+        if ($this->games->removeElement($game)) {
+            $game->removeAuthor($this);
+        }
 
         return $this;
     }
-
-    
 }

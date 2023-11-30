@@ -20,19 +20,29 @@ class ThemeRepository extends ServiceEntityRepository
     {
         parent::__construct($registry, Theme::class);
     }
-    public function add(Theme $theme, bool $flush = false): void
-    {
-        $this->getEntityManager()->persist($theme);
 
-        if ($flush) {
-            $this->getEntityManager()->flush();
-        }
-    }
-    public function findByName(string $name)
-    {
-        $query =$this->getEntityManager()->createQuery("SELECT t FROM ".Theme::class." t WHERE t.name='$name'");
-        return $query->getResult();
-    }
+//    /**
+//     * @return Theme[] Returns an array of Theme objects
+//     */
+//    public function findByExampleField($value): array
+//    {
+//        return $this->createQueryBuilder('t')
+//            ->andWhere('t.exampleField = :val')
+//            ->setParameter('val', $value)
+//            ->orderBy('t.id', 'ASC')
+//            ->setMaxResults(10)
+//            ->getQuery()
+//            ->getResult()
+//        ;
+//    }
 
-
+//    public function findOneBySomeField($value): ?Theme
+//    {
+//        return $this->createQueryBuilder('t')
+//            ->andWhere('t.exampleField = :val')
+//            ->setParameter('val', $value)
+//            ->getQuery()
+//            ->getOneOrNullResult()
+//        ;
+//    }
 }

@@ -21,18 +21,28 @@ class TypeRepository extends ServiceEntityRepository
         parent::__construct($registry, Type::class);
     }
 
-    public function add(Type $type, bool $flush = false): void
-    {
-        $this->getEntityManager()->persist($type);
+//    /**
+//     * @return Type[] Returns an array of Type objects
+//     */
+//    public function findByExampleField($value): array
+//    {
+//        return $this->createQueryBuilder('t')
+//            ->andWhere('t.exampleField = :val')
+//            ->setParameter('val', $value)
+//            ->orderBy('t.id', 'ASC')
+//            ->setMaxResults(10)
+//            ->getQuery()
+//            ->getResult()
+//        ;
+//    }
 
-        if ($flush) {
-            $this->getEntityManager()->flush();
-        }
-    }
-
-    public function findByName(string $name)
-    {
-        $query =$this->getEntityManager()->createQuery("SELECT t FROM ".Type::class." t WHERE t.name='$name'");
-        return $query->getResult();
-    }
+//    public function findOneBySomeField($value): ?Type
+//    {
+//        return $this->createQueryBuilder('t')
+//            ->andWhere('t.exampleField = :val')
+//            ->setParameter('val', $value)
+//            ->getQuery()
+//            ->getOneOrNullResult()
+//        ;
+//    }
 }

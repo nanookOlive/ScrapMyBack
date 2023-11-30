@@ -21,33 +21,28 @@ class GameRepository extends ServiceEntityRepository
         parent::__construct($registry, Game::class);
     }
 
+//    /**
+//     * @return Game[] Returns an array of Game objects
+//     */
+//    public function findByExampleField($value): array
+//    {
+//        return $this->createQueryBuilder('g')
+//            ->andWhere('g.exampleField = :val')
+//            ->setParameter('val', $value)
+//            ->orderBy('g.id', 'ASC')
+//            ->setMaxResults(10)
+//            ->getQuery()
+//            ->getResult()
+//        ;
+//    }
 
-    public function add(Game $game, bool $flush = false): void
-    {
-        $this->getEntityManager()->persist($game);
-
-        if ($flush) {
-            $this->getEntityManager()->flush();
-        }
-    }
-
-    //requete opti pour avoir un jeu avec l'ensemble de ses relations 
-
-    public function findGameAllData(Game $game) {
-
-        $queryBuilder=$this->createQueryBuilder('game');
-
-        return $queryBuilder->andWhere('game =:game')
-        ->setParameter('game',$game)
-        ->join('game.auteurs','auteurs')
-        ->join('game.dessinateurs','dessinateurs')
-        ->join('game.types','types')
-        ->join('game.themes','themes')
-        ->addSelect('auteurs')
-        ->addSelect('dessinateurs')
-        ->addSelect('types')
-        ->addSelect('themes')
-        ->getQuery()
-        ->getSingleResult();
-    }
+//    public function findOneBySomeField($value): ?Game
+//    {
+//        return $this->createQueryBuilder('g')
+//            ->andWhere('g.exampleField = :val')
+//            ->setParameter('val', $value)
+//            ->getQuery()
+//            ->getOneOrNullResult()
+//        ;
+//    }
 }
