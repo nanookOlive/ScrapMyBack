@@ -40,4 +40,5 @@ class MainController extends AbstractController
 
         return $this->render("main/show.html.twig",['data'=>$game]);}
   
+    
 }

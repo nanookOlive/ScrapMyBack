@@ -7,11 +7,11 @@
             function gtag(){dataLayer.push(arguments);}
             gtag("js", new Date());
             gtag("config", "G-4ZGZBRWKLF");
-        </script> <title>Puzzle 3x24 pièces - Pompiers et Police - Acheter vos Jeux de société, puzzles &amp; casse-têtes pour enfants - Playin by Magic Bazar</title>
+        </script> <title>Sea Salt &amp; Paper - Acheter vos Jeux de société en famille &amp; entre amis - Playin by Magic Bazar</title>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta name="robots" content="index,follow">
 <meta name="rating" content="general">
-<meta name="Description" content="Reformez ces 3 puzzles de 24 pièces pour découvrir le quotidien des pompiers et de la police ! À partir de 3 ans.">
+<meta name="Description" content="Dans Sea Salt &amp; Paper, collectionnez les cartes représentant des origamis marins et arrêtez la manche quand vous pensez être en tête… ">
 <meta content="7 days" name="revisit-after">
 <meta name="Author" content="Playin by Magic Bazar">
 <meta name="Identifier-URL" Content=" https://www.play-in.com">
@@ -26,11 +26,11 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=6">
 
-<meta property="og:title" content="Puzzle 3x24 pièces - Pompiers et Police - Acheter vos Jeux de société, puzzles &amp; casse-têtes pour enfants - Playin by Magic Bazar" />
+<meta property="og:title" content="Sea Salt &amp; Paper - Acheter vos Jeux de société en famille &amp; entre amis - Playin by Magic Bazar" />
 <meta property="og:type" content="product" />
-<meta property="og:url" content="https://www.play-in.com/produit/295461-puzzle_3x24_pieces_-_pompiers_et_police" />
-<meta property="og:image" content="https://www.play-in.com/img/product/l/puzzle-schmidt-3x48-pompiers-et-police.jpg" />
-<meta property="og:description" content="Reformez ces 3 puzzles de 24 pièces pour découvrir le quotidien des pompiers et de la police ! À partir de 3 ans." />
+<meta property="og:url" content="https://www.play-in.com/produit/442627-sea_salt_et_paper" />
+<meta property="og:image" content="https://www.play-in.com/img/product/l/sea-salt-and-paper-jeu-bombyx-boite.jpg" />
+<meta property="og:description" content="Dans Sea Salt &amp; Paper, collectionnez les cartes représentant des origamis marins et arrêtez la manche quand vous pensez être en tête… " />
 <meta property="og:app_id" content="936206876519095" />
 
 <script>
@@ -59,22 +59,202 @@
             {
             "@context": "http://schema.org",
                 "@type": "Product",
-                    "name":"Puzzle 3x24 pièces - Pompiers et Police",
-                    "description":"Reformez ces 3 puzzles de 24 pièces pour découvrir le quotidien des pompiers et de la police ! À partir de 3 ans.",
-                    "image":"https://www.play-in.com/img/product/l/puzzle-schmidt-3x48-pompiers-et-police.jpg",
+                    "name":"Sea Salt &amp; Paper",
+                    "description":"Dans Sea Salt &amp; Paper, collectionnez les cartes représentant des origamis marins et arrêtez la manche quand vous pensez être en tête… ",
+                    "image":"https://www.play-in.com/img/product/l/sea-salt-and-paper-jeu-bombyx-boite.jpg",
                     "brand": "",
-                    "gtin14": "04001504562151",
+                    "gtin14": "03760267991073",
                 "aggregateRating": {
                     "@type": "AggregateRating",
-                    "ratingValue": "5",
-                    "reviewCount": "1"
+                    "ratingValue": "4.84",
+                    "reviewCount": "19"
                 },
                 "review": 
                     [{
                         "@type": "Review",
-                        "url":"https://www.play-in.com/produit/295461-puzzle_3x24_pieces_-_pompiers_et_police",
+                        "url":"https://www.play-in.com/produit/442627-sea_salt_et_paper",
+                        "author": "David F",
+                        "datePublished": "2022-10-07 09:20:02",
+                        "reviewBody": "Un jeu extraordinaire ! <br/><br/>L’osmose parfaite entre un système de jeu raffiné par Théo et magistralement galvaudé par Bruno. <br/>	<br/>Quel plaisir ! Tellement intelligent, malicieux et taquin…<br/><br/>Un jeu sans cesse hypnotisant ; on fait constamment le pari de tout : des paires, des collections, du jeu et du résultat des autres… <br/> <br/>Un jeu à plusieurs niveaux, lectures, territoires…  <br/>",
+                        "reviewRating": {
+                        "@type": "Rating",
+                        "ratingValue": "5"
+                        }
+                    },{
+                        "@type": "Review",
+                        "url":"https://www.play-in.com/produit/442627-sea_salt_et_paper",
+                        "author": "Thomas M",
+                        "datePublished": "2022-10-16 01:07:03",
+                        "reviewBody": "Un jeu simple qui se joue très bien. Le petit plus, coté interaction, est sur la fin de la partie.",
+                        "reviewRating": {
+                        "@type": "Rating",
+                        "ratingValue": "4"
+                        }
+                    },{
+                        "@type": "Review",
+                        "url":"https://www.play-in.com/produit/442627-sea_salt_et_paper",
+                        "author": "David J",
+                        "datePublished": "2022-10-17 21:40:12",
+                        "reviewBody": "Super jeu pour s&#039;initier au deck building ! <br/><br/>Des règles simples à comprendre, une liste de combos simple mais très efficace.<br/><br/>On enchaine les parties sans voir le temps passer vraiment super  découverte !",
+                        "reviewRating": {
+                        "@type": "Rating",
+                        "ratingValue": "5"
+                        }
+                    },{
+                        "@type": "Review",
+                        "url":"https://www.play-in.com/produit/442627-sea_salt_et_paper",
+                        "author": "STEPHANE R",
+                        "datePublished": "2022-10-26 13:23:59",
+                        "reviewBody": "Le jeu de l&#039;année pour moi",
+                        "reviewRating": {
+                        "@type": "Rating",
+                        "ratingValue": "5"
+                        }
+                    },{
+                        "@type": "Review",
+                        "url":"https://www.play-in.com/produit/442627-sea_salt_et_paper",
+                        "author": "Gregoire p",
+                        "datePublished": "2022-11-23 23:27:07",
+                        "reviewBody": "très bon jeu, rapide à expliquer, à comprendre !",
+                        "reviewRating": {
+                        "@type": "Rating",
+                        "ratingValue": "5"
+                        }
+                    },{
+                        "@type": "Review",
+                        "url":"https://www.play-in.com/produit/442627-sea_salt_et_paper",
+                        "author": "LAURENT P",
+                        "datePublished": "2022-12-08 14:54:32",
+                        "reviewBody": "Super jeu à deux.<br/>Rapide et très efficace.<br/>On adore.",
+                        "reviewRating": {
+                        "@type": "Rating",
+                        "ratingValue": "5"
+                        }
+                    },{
+                        "@type": "Review",
+                        "url":"https://www.play-in.com/produit/442627-sea_salt_et_paper",
+                        "author": "Olivier B",
+                        "datePublished": "2023-01-29 22:29:21",
+                        "reviewBody": "Jeu simple mais très malin et hyper addictif,les parties sont courtes et on les enchaine avec plaisir. Le jeu tient dans la poche pour jouer partout et les cartes sont magnifiques.",
+                        "reviewRating": {
+                        "@type": "Rating",
+                        "ratingValue": "5"
+                        }
+                    },{
+                        "@type": "Review",
+                        "url":"https://www.play-in.com/produit/442627-sea_salt_et_paper",
+                        "author": "Lou D",
+                        "datePublished": "2023-02-17 16:22:19",
+                        "reviewBody": "Jeu offert à Noël. Petit jeu rapide dans lequel vous essayez de faire des combos de cartes et d&#039;avoir une meilleure main que vos adversaire. C&#039;est un peu addictif, dans le style de Fantasy Realms. Je recommande :)",
+                        "reviewRating": {
+                        "@type": "Rating",
+                        "ratingValue": "5"
+                        }
+                    },{
+                        "@type": "Review",
+                        "url":"https://www.play-in.com/produit/442627-sea_salt_et_paper",
+                        "author": "Celine H",
+                        "datePublished": "2023-03-05 21:39:57",
+                        "reviewBody": "",
+                        "reviewRating": {
+                        "@type": "Rating",
+                        "ratingValue": "5"
+                        }
+                    },{
+                        "@type": "Review",
+                        "url":"https://www.play-in.com/produit/442627-sea_salt_et_paper",
+                        "author": "Laura M",
+                        "datePublished": "2023-03-09 10:34:48",
+                        "reviewBody": "Le jeu est simple mais très addictif et il y a tellement de façons de gagner qu&#039;on ne subit pas complètement le hasard. J&#039;adore!",
+                        "reviewRating": {
+                        "@type": "Rating",
+                        "ratingValue": "5"
+                        }
+                    },{
+                        "@type": "Review",
+                        "url":"https://www.play-in.com/produit/442627-sea_salt_et_paper",
+                        "author": "Pauline C",
+                        "datePublished": "2023-03-10 09:52:24",
+                        "reviewBody": "On adooooooore ! Un &quot;petit jeu de cartes&quot; qui s&#039;emporte partout mais avec plus de profondeur et de complexité qu&#039;il n&#039;y paraît ! Encore un Cathala bien efficace !",
+                        "reviewRating": {
+                        "@type": "Rating",
+                        "ratingValue": "5"
+                        }
+                    },{
+                        "@type": "Review",
+                        "url":"https://www.play-in.com/produit/442627-sea_salt_et_paper",
                         "author": "Romain P",
-                        "datePublished": "2022-11-17 10:31:20",
+                        "datePublished": "2023-04-27 16:25:11",
+                        "reviewBody": "",
+                        "reviewRating": {
+                        "@type": "Rating",
+                        "ratingValue": "5"
+                        }
+                    },{
+                        "@type": "Review",
+                        "url":"https://www.play-in.com/produit/442627-sea_salt_et_paper",
+                        "author": "Margot G",
+                        "datePublished": "2023-05-12 14:22:48",
+                        "reviewBody": "",
+                        "reviewRating": {
+                        "@type": "Rating",
+                        "ratingValue": "4"
+                        }
+                    },{
+                        "@type": "Review",
+                        "url":"https://www.play-in.com/produit/442627-sea_salt_et_paper",
+                        "author": "Marina G",
+                        "datePublished": "2023-06-28 10:14:14",
+                        "reviewBody": "Jeux sympa et surtout avantage, il ne prend pas de place, pas de surplus qui ne sert à rien dans la boite donc jeux parfait pour les vacances :)",
+                        "reviewRating": {
+                        "@type": "Rating",
+                        "ratingValue": "4"
+                        }
+                    },{
+                        "@type": "Review",
+                        "url":"https://www.play-in.com/produit/442627-sea_salt_et_paper",
+                        "author": "Gael K",
+                        "datePublished": "2023-07-21 08:14:25",
+                        "reviewBody": "Jeu addictif, rapide, frustrant mais tellement fun. A acheter sans hésiter !",
+                        "reviewRating": {
+                        "@type": "Rating",
+                        "ratingValue": "5"
+                        }
+                    },{
+                        "@type": "Review",
+                        "url":"https://www.play-in.com/produit/442627-sea_salt_et_paper",
+                        "author": "Pierre B",
+                        "datePublished": "2023-08-12 14:12:24",
+                        "reviewBody": "Un petit jeu de carte addictif. Les photos d&#039;origami sont très originales (ça ne m&#039;attirait pas spécialement au départ mais c&#039;est finalement très sympa). La boite ne prend pas de place mais ne permettra pas de protéger les cartes. Vivement l&#039;arrivée de la mini-extension booster.",
+                        "reviewRating": {
+                        "@type": "Rating",
+                        "ratingValue": "5"
+                        }
+                    },{
+                        "@type": "Review",
+                        "url":"https://www.play-in.com/produit/442627-sea_salt_et_paper",
+                        "author": "Alexandre g",
+                        "datePublished": "2023-08-28 15:54:24",
+                        "reviewBody": "Petit jeu très sympa avec des cartes très belles, les parties s&#039;enchaînent vite !",
+                        "reviewRating": {
+                        "@type": "Rating",
+                        "ratingValue": "5"
+                        }
+                    },{
+                        "@type": "Review",
+                        "url":"https://www.play-in.com/produit/442627-sea_salt_et_paper",
+                        "author": "Arthur A",
+                        "datePublished": "2023-09-05 08:15:25",
+                        "reviewBody": "J&#039;avais vu une review et je ne suis pas du tt déçu de mon achat",
+                        "reviewRating": {
+                        "@type": "Rating",
+                        "ratingValue": "5"
+                        }
+                    },{
+                        "@type": "Review",
+                        "url":"https://www.play-in.com/produit/442627-sea_salt_et_paper",
+                        "author": "Mathieu T",
+                        "datePublished": "2023-09-08 21:02:28",
                         "reviewBody": "",
                         "reviewRating": {
                         "@type": "Rating",
@@ -86,22 +266,22 @@
                     "priceCurrency":"EUR",
                     "availability":"InStock",
                     "availability_date":"",
-                    "price":"8.91",
-                    "availableAtOrFrom":"/produit/295461-puzzle_3x24_pieces_-_pompiers_et_police",
+                    "price":"11.90",
+                    "availableAtOrFrom":"/produit/442627-sea_salt_et_paper",
                     "itemCondition":"NewCondition",
                     "priceValidUntil":"",
-                    "url":"https://www.play-in.com/produit/295461-puzzle_3x24_pieces_-_pompiers_et_police"
+                    "url":"https://www.play-in.com/produit/442627-sea_salt_et_paper"
             }
         }
         </script><script>
 	dataLayer.push({
 		'PageType': 'product',
-        'id': '295461',
-        'name': 'Puzzle 3x24 pièces - Pompiers et Police',
-        'category': 'Jeux enfant',
-        'price': '8.91'
+        'id': '442627',
+        'name': 'Sea Salt & Paper',
+        'category': 'En famille et entre amis',
+        'price': '11.90'
 	});
-</script> <link rel="canonical" href="https://www.play-in.com/produit/295461-puzzle_3x24_pieces_-_pompiers_et_police">
+</script> <link rel="canonical" href="https://www.play-in.com/produit/442627-sea_salt_et_paper">
 <link rel="icon" type="image/ico" href="/favicon.ico" /><link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
 
 <link rel="dns-prefetch" href="https://unpkg.com/multiple-select@1.3.1/dist/multiple-select.min.css" as="style" />
@@ -137,7 +317,7 @@
 <link rel="dns-prefetch" href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" as="style" crossorigin="anonymous">
 <link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">
-<link rel="alternate" hreflang="en" href="https://en.play-in.com/produit/295461-puzzle_3x24_pieces_-_pompiers_et_police" /><link rel="alternate" hreflang="fr" href="https://www.play-in.com/produit/295461-puzzle_3x24_pieces_-_pompiers_et_police" /><link rel="alternate" hreflang="x-default" href="https://www.play-in.com/produit/295461-puzzle_3x24_pieces_-_pompiers_et_police" />
+<link rel="alternate" hreflang="en" href="https://en.play-in.com/produit/442627-sea_salt_et_paper" /><link rel="alternate" hreflang="fr" href="https://www.play-in.com/produit/442627-sea_salt_et_paper" /><link rel="alternate" hreflang="x-default" href="https://www.play-in.com/produit/442627-sea_salt_et_paper" />
 <script type="text/javascript" src="/js/tarteaucitron/tarteaucitron.js?v=15"></script>
 <script type="text/javascript">
             tarteaucitron.init({
@@ -204,7 +384,7 @@
 
 
 </head>
-<body class="body_black_friday" style>
+<body class="body" style>
 
 <div id="fb-root"></div>
 <script>
@@ -281,13 +461,13 @@
 <div class="clear"></div>
 <div class="pwd_lost"><a href="/user/forgot.php">Mot de passe perdu ?</a></div>
 <input type="submit" value="Me connecter" class="btn connexion_account" data-user="username_popup" data-pwd="pwd_popup" data-popup="true" name="_submit_login">
-<a href="https://www.facebook.com/v3.2/dialog/oauth?scope=email&amp;state=068e9c11a443821dcbf1e2322ad8a5c3&amp;response_type=code&amp;approval_prompt=auto&amp;redirect_uri=https%3A%2F%2Fwww.play-in.com%2Fuser%2Ffb_callback.php&amp;client_id=936206876519095">
+<a href="https://www.facebook.com/v3.2/dialog/oauth?scope=email&amp;state=c952762886a3f39cddf42156dd1527f6&amp;response_type=code&amp;approval_prompt=auto&amp;redirect_uri=https%3A%2F%2Fwww.play-in.com%2Fuser%2Ffb_callback.php&amp;client_id=936206876519095">
 <div class="btn_facebook">
 <div class="facebook_img"></div>
 Me connecter
 </div>
 </a>
-<input type="hidden" name="redirect" value="../produit/295461-puzzle_3x24_pieces_-_pompiers_et_police">
+<input type="hidden" name="redirect" value="../produit/442627-sea_salt_et_paper">
 <div id="g_id_onload" data-client_id="352511216272-q0kmev906091sein9bohqbcvjfa8jvcr.apps.googleusercontent.com" data-context="signin" data-ux_mode="popup" data-auto_prompt="false" data-callback="googleSignIn">
 </div>
 <div class="g_id_signin" style="margin-top: 5px;" data-type="standard" data-size="medium" data-text="signin" data-width="182" data-onsuccess="googleSignIn">
@@ -298,7 +478,7 @@ Me connecter
 <a href="/user/signin.php"><div class="btn_account">Créer un compte</div></a></div>
 </div>
 </div><div class="header_container_flag">
-<a href="https://en.play-in.com/produit/295461-puzzle_3x24_pieces_-_pompiers_et_police">
+<a href="https://en.play-in.com/produit/442627-sea_salt_et_paper">
 <div class="header_flag_en" title="Playin by Magic Bazar in english" alt="Playin by Magic Bazar in english"></div>
 </a>
 <a href="#">
@@ -311,7 +491,7 @@ Me connecter
 <div title="Revenir en haut de la page" class="backToTop backToTopArrow"></div> </div>
 
 <div class="container_top_mobile">
-<div class="slide_top slide_top_black_friday">
+<div class="slide_top slide_top">
 
 <div class="container_first_line_header">
 
@@ -324,14 +504,14 @@ Me connecter
 <a href="#">
 <div class="flag_header_mobile_fr" title="Playin by Magic Bazar en français" alt="Playin by Magic Bazar en français"></div>
 </a>
-<a href="https://en.play-in.com/produit/295461-puzzle_3x24_pieces_-_pompiers_et_police">
+<a href="https://en.play-in.com/produit/442627-sea_salt_et_paper">
 <div class="flag_header_mobile_en" title="Playin by Magic Bazar in english" alt="Playin by Magic Bazar in english"></div>
 </a>
 </div>
 <div class="clear"></div>
 </div>
 
-<div class="container_top_user container_top_user_black_friday" id="header_mobile_fixed">
+<div class="container_top_user container_top_user" id="header_mobile_fixed">
 
 <div class="container_hamburger_mobile show_menu_mobile header_bloc_logos_4" data-menu="first" data-current>
 <div class="hamburger"></div>
@@ -377,13 +557,13 @@ Me connecter
 <div class="clear"></div>
 <div class="pwd_lost"><a href="/user/forgot.php">Mot de passe perdu ?</a></div>
 <input type="submit" value="Me connecter" class="btn connexion_account" data-user="username_popup" data-pwd="pwd_popup" data-popup="true" name="_submit_login">
-<a href="https://www.facebook.com/v3.2/dialog/oauth?scope=email&amp;state=068e9c11a443821dcbf1e2322ad8a5c3&amp;response_type=code&amp;approval_prompt=auto&amp;redirect_uri=https%3A%2F%2Fwww.play-in.com%2Fuser%2Ffb_callback.php&amp;client_id=936206876519095">
+<a href="https://www.facebook.com/v3.2/dialog/oauth?scope=email&amp;state=c952762886a3f39cddf42156dd1527f6&amp;response_type=code&amp;approval_prompt=auto&amp;redirect_uri=https%3A%2F%2Fwww.play-in.com%2Fuser%2Ffb_callback.php&amp;client_id=936206876519095">
 <div class="btn_facebook">
 <div class="facebook_img"></div>
 Me connecter
 </div>
 </a>
-<input type="hidden" name="redirect" value="../produit/295461-puzzle_3x24_pieces_-_pompiers_et_police">
+<input type="hidden" name="redirect" value="../produit/442627-sea_salt_et_paper">
 <div id="g_id_onload" data-client_id="352511216272-q0kmev906091sein9bohqbcvjfa8jvcr.apps.googleusercontent.com" data-context="signin" data-ux_mode="popup" data-auto_prompt="false" data-callback="googleSignIn">
 </div>
 <div class="g_id_signin" style="margin-top: 5px;" data-type="standard" data-size="medium" data-text="signin" data-width="182" data-onsuccess="googleSignIn">
@@ -394,7 +574,7 @@ Me connecter
 <a href="/user/signin.php"><div class="btn_account">Créer un compte</div></a></div>
 </div>
 </div><div class="header_container_flag">
-<a href="https://en.play-in.com/produit/295461-puzzle_3x24_pieces_-_pompiers_et_police">
+<a href="https://en.play-in.com/produit/442627-sea_salt_et_paper">
 <div class="header_flag_en" title="Playin by Magic Bazar in english" alt="Playin by Magic Bazar in english"></div>
 </a>
 <a href="#">
@@ -440,8 +620,8 @@ Me connecter
 <div class="img_arrow_little_white_left"></div><span>Accessoires</span><div class="case_accessoires_logo"></div>
 </div>
 <div class="separateur"></div>
-<a href="/black_friday/"><div class="bloc_navbar bloc_navbar_black_friday">
-<div class="empty_bloc"></div><span>Black Friday</span><div class="case_promo_logo"></div>
+<a href="/promotions/"><div class="bloc_navbar bloc_navbar">
+<div class="empty_bloc"></div><span>Promo</span><div class="case_promo_logo"></div>
 </div></a>
 <div class="separateur"></div>
 <a href="/evenement/boutique-paris/"><div class="bloc_navbar">
@@ -511,8 +691,8 @@ Me connecter
 <div class="empty_bloc"></div><span>Nouveautés</span><div class="case_newcard_logo"></div>
 </div></a>
 <div class="separateur"></div>
-<a href="/jeux_de_societe/recherche/?discount_filter=1"><div class="bloc_navbar bloc_navbar_black_friday">
-<div class="empty_bloc"></div><span>Black Friday</span><div class="case_promo_logo"></div>
+<a href="/jeux_de_societe/recherche/?discount_filter=1"><div class="bloc_navbar bloc_navbar">
+<div class="empty_bloc"></div><span>Promotions</span><div class="case_promo_logo"></div>
 </div></a>
 <div class="separateur"></div>
 <a href="/jeux_de_societe/recherche/?secondhand_filter=1"><div class="bloc_navbar">
@@ -715,8 +895,8 @@ Me connecter
 <div class="empty_bloc"></div><span>Nouveautés</span><div class="case_newcard_logo"></div>
 </div></a>
 <div class="separateur"></div>
-<a href="/magic/black_friday/"><div class="bloc_navbar bloc_navbar_black_friday">
-<div class="empty_bloc"></div><span>Black Friday</span><div class="case_promo_logo"></div>
+<a href="/magic/promotions/"><div class="bloc_navbar bloc_navbar">
+<div class="empty_bloc"></div><span>Promotions</span><div class="case_promo_logo"></div>
 </div></a>
 </div>
 </div><div class="container_navbar_mobile drop_down_menu navbar_slideOut" id="menu_listProd_magic">
@@ -807,8 +987,8 @@ Me connecter
 <div class="empty_bloc"></div><span>Nouveautés</span><div class="case_newcard_logo"></div>
 </div></a>
 <div class="separateur"></div>
-<a href="/yu-gi-oh/black_friday/"><div class="bloc_navbar bloc_navbar_black_friday">
-<div class="empty_bloc"></div><span>Black Friday</span><div class="case_promo_logo"></div>
+<a href="/yu-gi-oh/promotions/"><div class="bloc_navbar bloc_navbar">
+<div class="empty_bloc"></div><span>Promotions</span><div class="case_promo_logo"></div>
 </div></a>
 </div>
 </div><div class="container_navbar_mobile drop_down_menu navbar_slideOut" id="menu_listProd_yu-gi-oh">
@@ -942,8 +1122,8 @@ Meilleures ventes cartes
 <div class="empty_bloc"></div><span>Nouveautés</span><div class="case_newcard_logo"></div>
 </div></a>
 <div class="separateur"></div>
-<a href="/carte/black_friday/"><div class="bloc_navbar bloc_navbar_black_friday">
-<div class="empty_bloc"></div><span>Black Friday</span><div class="case_promo_logo"></div>
+<a href="/carte/promotions/"><div class="bloc_navbar bloc_navbar">
+<div class="empty_bloc"></div><span>Promotions</span><div class="case_promo_logo"></div>
 </div></a> </div>
 </div>
 
@@ -980,8 +1160,8 @@ Meilleures ventes cartes
 <div class="empty_bloc"></div><span>Nouveautés</span><div class="case_newcard_logo"></div>
 </div></a>
 <div class="separateur"></div>
-<a href="/pokemon/black_friday/"><div class="bloc_navbar bloc_navbar_black_friday">
-<div class="empty_bloc"></div><span>Black Friday</span><div class="case_promo_logo"></div>
+<a href="/pokemon/promotions/"><div class="bloc_navbar bloc_navbar">
+<div class="empty_bloc"></div><span>Promotions</span><div class="case_promo_logo"></div>
 </div></a> </div>
 </div>
 <div class="container_navbar_mobile drop_down_menu navbar_slideOut" id="menu_listCard_pokemon">
@@ -1076,8 +1256,8 @@ Meilleures ventes cartes </span><div class="case_bestprod_logo"></div>
 <div class="empty_bloc"></div><span>Nouveautés</span><div class="case_newcard_logo"></div>
 </div></a>
 <div class="separateur"></div>
-<a href="/magic/black_friday/"><div class="bloc_navbar bloc_navbar_black_friday">
-<div class="empty_bloc"></div><span>Black Friday</span><div class="case_promo_logo"></div>
+<a href="/magic/promotions/"><div class="bloc_navbar bloc_navbar">
+<div class="empty_bloc"></div><span>Promotions</span><div class="case_promo_logo"></div>
 </div></a>
 </div>
 </div><div class="container_navbar_mobile drop_down_menu navbar_slideOut" id="menu_listProd_magic">
@@ -1168,8 +1348,8 @@ Meilleures ventes cartes </span><div class="case_bestprod_logo"></div>
 <div class="empty_bloc"></div><span>Nouveautés</span><div class="case_newcard_logo"></div>
 </div></a>
 <div class="separateur"></div>
-<a href="/yu-gi-oh/black_friday/"><div class="bloc_navbar bloc_navbar_black_friday">
-<div class="empty_bloc"></div><span>Black Friday</span><div class="case_promo_logo"></div>
+<a href="/yu-gi-oh/promotions/"><div class="bloc_navbar bloc_navbar">
+<div class="empty_bloc"></div><span>Promotions</span><div class="case_promo_logo"></div>
 </div></a>
 </div>
 </div><div class="container_navbar_mobile drop_down_menu navbar_slideOut" id="menu_listProd_yu-gi-oh">
@@ -1283,8 +1463,8 @@ Meilleures ventes cartes
 <div class="empty_bloc"></div><span>Nouveautés</span><div class="case_newcard_logo"></div>
 </div></a>
 <div class="separateur"></div>
-<a href="/flesh_and_blood/black_friday/"><div class="bloc_navbar bloc_navbar_black_friday">
-<div class="empty_bloc"></div><span>Black Friday</span><div class="case_promo_logo"></div>
+<a href="/flesh_and_blood/promotions/"><div class="bloc_navbar bloc_navbar">
+<div class="empty_bloc"></div><span>Promotions</span><div class="case_promo_logo"></div>
 </div></a>
 </div>
 </div>
@@ -1461,8 +1641,8 @@ Meilleures ventes cartes </span><div class="case_bestprod_logo"></div>
 <div class="empty_bloc"></div><span>Nouveautés</span><div class="case_newcard_logo"></div>
 </div></a>
 <div class="separateur"></div>
-<a href="/figurine/black_friday/"><div class="bloc_navbar bloc_navbar_black_friday">
-<div class="empty_bloc"></div><span>Black Friday</span><div class="case_promo_logo"></div>
+<a href="/figurine/promotions/"><div class="bloc_navbar bloc_navbar">
+<div class="empty_bloc"></div><span>Promotions</span><div class="case_promo_logo"></div>
 </div></a> </div>
 </div>
 
@@ -1656,8 +1836,8 @@ Meilleures ventes cartes </span><div class="case_bestprod_logo"></div>
 <div class="empty_bloc"></div><span>Nouveautés</span><div class="case_newcard_logo"></div>
 </div></a>
 <div class="separateur"></div>
-<a href="/accessoires/black_friday/"><div class="bloc_navbar bloc_navbar_black_friday">
-<div class="empty_bloc"></div><span>Black Friday</span><div class="case_promo_logo"></div>
+<a href="/accessoires/promotions/"><div class="bloc_navbar bloc_navbar">
+<div class="empty_bloc"></div><span>Promotions</span><div class="case_promo_logo"></div>
 </div></a> </div>
 </div>
 
@@ -1850,9 +2030,9 @@ Meilleures ventes cartes </span><div class="case_bestprod_logo"></div>
 <div class="point_grey_light_3_3"></div>
 <span>Nouveautés</span>
 </div></a>
-<a href="/jeux_de_societe/recherche/?discount_filter=1"><div class="bloc bloc_black_friday ss_bloc">
+<a href="/jeux_de_societe/recherche/?discount_filter=1"><div class="bloc bloc ss_bloc">
 <div class="point_grey_light_3_3"></div>
-<span>Black Friday</span>
+<span>Promotions</span>
 </div></a>
 <a href="/jeux_de_societe/recherche/?secondhand_filter=1"><div class="bloc ss_bloc">
 <div class="point_grey_light_3_3"></div>
@@ -1926,9 +2106,9 @@ Meilleures ventes cartes </span><div class="case_bestprod_logo"></div>
 <div class="point_grey_light_3_3"></div>
 <span>Nouveautés</span>
 </div></a>
-<a href="/magic/black_friday/"><div class="bloc bloc_black_friday ss_bloc">
+<a href="/magic/promotions/"><div class="bloc bloc ss_bloc">
 <div class="point_grey_light_3_3"></div>
-<span>Black Friday</span>
+<span>Promotions</span>
 </div></a> </div>
 <div class="separateur_vertical_navbar"></div>
 <div class="container_bloc bloc_first_family">
@@ -2045,9 +2225,9 @@ Yu-Gi-Oh! </div></a>
 <div class="point_grey_light_3_3"></div>
 <span>Nouveautés</span>
 </div></a>
-<a href="/yu-gi-oh/black_friday/"><div class="bloc bloc_black_friday ss_bloc">
+<a href="/yu-gi-oh/promotions/"><div class="bloc bloc ss_bloc">
 <div class="point_grey_light_3_3"></div>
-<span>Black Friday</span>
+<span>Promotions</span>
 </div></a> </div>
 </div><div class="clear"></div>
 </div>
@@ -2109,9 +2289,9 @@ Yu-Gi-Oh! </div></a>
 <div class="point_grey_light_3_3"></div>
 <span>Nouveautés</span>
 </div></a>
-<a href="/pokemon/black_friday/"><div class="bloc bloc_black_friday ss_bloc">
+<a href="/pokemon/promotions/"><div class="bloc bloc ss_bloc">
 <div class="point_grey_light_3_3"></div>
-<span>Black Friday</span>
+<span>Promotions</span>
 </div></a> </div><div class="clear"></div>
 <div class="separateur_vertical_navbar"></div>
 
@@ -2164,9 +2344,9 @@ Yu-Gi-Oh! </div></a>
 <div class="point_grey_light_3_3"></div>
 <span>Nouveautés</span>
 </div></a>
-<a href="/magic/black_friday/"><div class="bloc bloc_black_friday ss_bloc">
+<a href="/magic/promotions/"><div class="bloc bloc ss_bloc">
 <div class="point_grey_light_3_3"></div>
-<span>Black Friday</span>
+<span>Promotions</span>
 </div></a> </div><div class="clear"></div>
 <div class="separateur_vertical_navbar"></div>
 
@@ -2220,9 +2400,9 @@ Yu-Gi-Oh! </div></a>
 <div class="point_grey_light_3_3"></div>
 <span>Nouveautés</span>
 </div></a>
-<a href="/yu-gi-oh/black_friday/"><div class="bloc bloc_black_friday ss_bloc">
+<a href="/yu-gi-oh/promotions/"><div class="bloc bloc ss_bloc">
 <div class="point_grey_light_3_3"></div>
-<span>Black Friday</span>
+<span>Promotions</span>
 </div></a> </div><div class="clear"></div>
 <div class="separateur_vertical_navbar"></div>
 
@@ -2264,9 +2444,9 @@ Yu-Gi-Oh! </div></a>
 <div class="point_grey_light_3_3"></div>
 <span>Nouveautés</span>
 </div></a>
-<a href="/flesh_and_blood/black_friday/"><div class="bloc bloc_black_friday ss_bloc">
+<a href="/flesh_and_blood/promotions/"><div class="bloc bloc ss_bloc">
 <div class="point_grey_light_3_3"></div>
-<span>Black Friday</span>
+<span>Promotions</span>
 </div></a> </div><div class="clear"></div>
 <div class="separateur_vertical_navbar"></div>
 
@@ -2432,9 +2612,9 @@ Yu-Gi-Oh! </div></a>
 <div class="point_grey_light_3_3"></div>
 <span>Nouveautés</span>
 </div></a>
-<a href="/figurine/black_friday/"><div class="bloc bloc_black_friday ss_bloc">
+<a href="/figurine/promotions/"><div class="bloc bloc ss_bloc">
 <div class="point_grey_light_3_3"></div>
-<span>Black Friday</span>
+<span>Promotions</span>
 </div></a> </div><div class="clear"></div>
 </div>
 </div>
@@ -2504,9 +2684,9 @@ Yu-Gi-Oh! </div></a>
 <div class="point_grey_light_3_3"></div>
 <span>Nouveautés</span>
 </div></a>
-<a href="/accessoires/black_friday/"><div class="bloc bloc_black_friday ss_bloc">
+<a href="/accessoires/promotions/"><div class="bloc bloc ss_bloc">
 <div class="point_grey_light_3_3"></div>
-<span>Black Friday</span>
+<span>Promotions</span>
 </div></a> </div>
 </div><div class="clear"></div>
 </div>
@@ -2514,8 +2694,8 @@ Yu-Gi-Oh! </div></a>
 </div>
 <div class="insert_case"></div>
 
-<div class="case_navbar_top case_navbar_top_black_friday">
-<a href="/black_friday/"><div class="name_navbar">Black Friday</div></a>
+<div class="case_navbar_top case_navbar_top_promotions">
+<a href="/promotions/"><div class="name_navbar">Promo</div></a>
 </div> <div class="insert_case"></div>
 
 <div class="case_navbar_top case_navbar_top_3">
@@ -2601,48 +2781,55 @@ Yu-Gi-Oh! </div></a>
 
 </script>
 
-<div id="wrapper" class="wrapper_black_friday">
+<div id="wrapper" class="wrapper">
 <div class="main_container">
 <div class="return_msg_bag" id="header_error_update_qty_item"></div>
 <div class="clear"></div><div class="breadcrumbs">
 <a href="/"><div>Accueil</div></a><a href="/jeux_de_societe/"><div class="breadcrumbs_img"></div>
-<div>Jeux de société</div></a><a href="/jeux_de_societe/categorie/6-jeux_enfant"><div class="breadcrumbs_img"></div>
-<div>Jeux enfant</div></a></div>
-<div id="container_present_product" class="container_present_product" data-id="295461">
+<div>Jeux de société</div></a><a href="/jeux_de_societe/categorie/7-en_famille_et_entre_amis"><div class="breadcrumbs_img"></div>
+<div>En famille et entre amis</div></a></div>
+<div id="container_present_product" class="container_present_product" data-id="442627">
 <div class="return_msg_bag"></div>
 <div class="container_main_left">
 <div class="col_left"><div class="big_img_product ">
-<a class href="/img/product/puzzle-schmidt-3x48-pompiers-et-police.jpg" data-lightbox="product-set" data-title>
+<a class href="/img/product/sea-salt-and-paper-jeu-bombyx-boite.jpg" data-lightbox="product-set" data-title>
 <div class="main_img_product">
-<picture><source srcset="/img/product/l/puzzle-schmidt-3x48-pompiers-et-police.webp" type="image/webp"><source srcset="/img/product/l/puzzle-schmidt-3x48-pompiers-et-police.jpg" type="image/jpeg">
-<img src="/img/product/l/puzzle-schmidt-3x48-pompiers-et-police.jpg" title="Puzzle 3x24 pièces - Pompiers et Police" alt="puzzle schmidt 3x48 pompiers et police " />
+<picture><source srcset="/img/product/l/sea-salt-and-paper-jeu-bombyx-boite.webp" type="image/webp"><source srcset="/img/product/l/sea-salt-and-paper-jeu-bombyx-boite.jpg" type="image/jpeg">
+<img src="/img/product/l/sea-salt-and-paper-jeu-bombyx-boite.jpg" title="Sea Salt & Paper" alt="sea salt and paper jeu bombyx boite " />
 </picture>
 </div>
 </a>
 </div><div class="big_img_product big_img_product_mobile ">
-<a class href="/img/product/puzzle-schmidt-3x48-pompiers-et-police.jpg" data-lightbox="product-set-mobile" data-title>
+<a class href="/img/product/sea-salt-and-paper-jeu-bombyx-boite.jpg" data-lightbox="product-set-mobile" data-title>
 <div class="main_img_product">
-<img src="/img/product/l/puzzle-schmidt-3x48-pompiers-et-police.jpg" title="Puzzle 3x24 pièces - Pompiers et Police" alt="puzzle schmidt 3x48 pompiers et police " />
+<img src="/img/product/l/sea-salt-and-paper-jeu-bombyx-boite.jpg" title="Sea Salt & Paper" alt="sea salt and paper jeu bombyx boite " />
 </div>
 </a>
 </div>
 </div>
 <div class="col_middle">
-<h1>PUZZLE 3X24 PIèCES - POMPIERS ET POLICE</h1><div class="bloc_desc">
-<div class="shortdesc_product">Reformez ces 3 puzzles de 24 pièces pour découvrir le quotidien des pompiers et de la police ! À partir de 3 ans.</div><div class="rating_summary"><a class="onclickTab" data-tab="rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span> 5/5
-<span class="rating_link">(1 avis clients)</span>
-</a></div><div class="container_tag_jds"><a href="/jeux_de_societe/recherche/?player%5B%5D=1">
+<h1>SEA SALT & PAPER</h1><div class="bloc_desc">
+<div class="shortdesc_product">Dans Sea Salt & Paper, collectionnez les cartes représentant des origamis marins et arrêtez la manche quand vous pensez être en tête… </div><div class="rating_summary"><a class="onclickTab" data-tab="rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span> 4.84/5
+<span class="rating_link">(19 avis clients)</span>
+</a></div><div class="container_tag_jds"><a href="/jeux_de_societe/recherche/?&player%5B%5D=2&player%5B%5D=3&player%5B%5D=4">
 <div class="tag btn_grey">
 <div class="bloc">
 <div class="img_nbr_player"></div>
-<span>1 joueur</span>
+<span>2 à 4 joueurs</span>
 </div>
 </div>
-</a><a href="/jeux_de_societe/recherche/?age%5B%5D=0_3&age%5B%5D=4_5">
+</a><a href="/jeux_de_societe/recherche/?time%5B%5D=30">
+<div class="tag btn_grey">
+<div class="bloc">
+<div class="img_time"></div>
+<span>Environ 30 min</span>
+</div>
+</div>
+</a><a href="/jeux_de_societe/recherche/?&age%5B%5D=8_10&age%5B%5D=plus_10">
 <div class="tag btn_grey">
 <div class="bloc">
 <div class="img_age"></div>
-<span>0 à 5 ans</span>
+<span>À partir de 8 ans</span>
 </div>
 </div>
 </a><div class="tag btn_grey">
@@ -2651,68 +2838,196 @@ Yu-Gi-Oh! </div></a>
 <span>Français</span>
 </div>
 </div><div class="clear"></div>
-</div><div class="clear"></div><div class="container_tag_jds"><a href="/jeux_de_societe/recherche/?type=Puzzle">
+</div><div class="clear"></div><div class="container_tag_jds"><a href="/jeux_de_societe/recherche/?theme=Océan">
+<div class="tag btn_grey">
+<div class="bloc">
+<div class="img_theme"></div>
+<span>Océan</span>
+</div>
+</div>
+</a><a href="/jeux_de_societe/recherche/?type=Apéro">
 <div class="tag btn_grey">
 <div class="bloc">
 <div class="img_type_game"></div>
-<span>Puzzle</span>
+<span>Apéro</span>
+</div>
+</div>
+</a><a href="/jeux_de_societe/recherche/?type=Collection">
+<div class="tag btn_grey">
+<div class="bloc">
+<div class="img_type_game"></div>
+<span>Collection</span>
+</div>
+</div>
+</a><a href="/jeux_de_societe/recherche/?type=Jeux+de+Voyage">
+<div class="tag btn_grey">
+<div class="bloc">
+<div class="img_type_game"></div>
+<span>Jeux de Voyage</span>
 </div>
 </div>
 </a><div class="clear"></div>
-</div><div class="clear"></div><div class="clear"></div></div>
-</div><div class="col_bottom  "><div class="container_title_onglet"><h2 class="tab_title tab tab_desc onclickTab title_selected tab_selected" data-tab="desc"><span>Descriptif</span></h2><h2 class="tab_title tab tab_features onclickTab" data-tab="features"><span class="long-text">Caractéristiques</span></h2><h2 class="tab_title tab tab_video no_title" data-tab="video"><span>Vidéo</span></h2><h2 class="tab_title tab tab_title_ext tab_ext onclickTab" data-tab="ext">
+</div><div class="clear"></div><div class="clear"></div><div class="mini_img_product sliderProduct"><div class="MS-content"><div class="list_product item"><a href="/img/product/secondary/sea-salt-and-paper-boite-de-jeu-dos.jpg" data-lightbox="product-set" data-title><img src="/img/product/secondary/s/sea-salt-and-paper-boite-de-jeu-dos.jpg" title="Sea Salt & Paper" alt="sea salt and paper jeu bombyx boite " /></a></div><div class="list_product item"><a href="/img/product/secondary/sea-salt-and-paper-materiel-de-jeu.jpg" data-lightbox="product-set" data-title><img src="/img/product/secondary/s/sea-salt-and-paper-materiel-de-jeu.jpg" title="Sea Salt & Paper" alt="sea salt and paper jeu bombyx boite " /></a></div></div>
+<div class="MS-controls">
+<button class="MS-left"><div class="arrow_left_img"></div></button>
+<button class="MS-right"><div class="arrow_right_img"></div></button>
+</div></div></div>
+</div><div class="col_bottom  "><div class="container_title_onglet"><h2 class="tab_title tab tab_desc onclickTab title_selected tab_selected" data-tab="desc"><span>Descriptif</span></h2><h2 class="tab_title tab tab_features onclickTab" data-tab="features"><span class="long-text">Caractéristiques</span></h2><h2 class="tab_title tab tab_video onclickTab" data-tab="video"><span>Vidéo</span></h2><h2 class="tab_title tab tab_title_ext tab_ext onclickTab" data-tab="ext">
 <span class="line">Gamme &</span>
 <span class="line">extensions</span>
-</h2><h2 id="tab_rating" class="tab_title tab tab_rating onclickTab " data-tab="rating"><span class="long-text">Avis client</span></h2><div class="clear"></div>
-</div><div class="tab bloc_tab tab_desc tab_selected"><h2 style="text-align: justify;">Puzzle 3x24 pi&egrave;ces - Pompiers et Police</h2>
-<p style="text-align: justify;"><em>Les pompiers et les policiers veillent sur le quotidien des habitants de la ville !</em></p>
-<p style="text-align: justify;">Seul ou accompagn&eacute;, l'enfant d&egrave;s 3 ans reconstitue ces 3 puzzles de 24 pi&egrave;ces chacun aux couleurs vibrantes. Le puzzle est&nbsp;<strong>une activit&eacute; de d&eacute;tente&nbsp;</strong>qui permet de d&eacute;velopper&nbsp;<strong>la patience</strong>&nbsp;et&nbsp;<strong>l'esprit d'association</strong>. Il comporte de nombreux d&eacute;tails afin d'amuser les enfants une fois termin&eacute; et les inviter &agrave; construire leur imaginaire ! Il est adapt&eacute; aux jeunes enfants gr&acirc;ce &agrave; des pi&egrave;ces de belle taille.</p>
-<p><strong>Contenu :&nbsp;</strong>3&nbsp;puzzles de 24 pi&egrave;ces.</p><strong><i>Jusqu'à 5 ans, pour 1 joueur.</i></strong></div><div class="tab bloc_tab tab_features tab_hidden"><table class="table_tag_jds"><tr class="container_lang tr_impair">
+</h2><h2 class="tab_title tab tab_rules onclickTab" data-tab="rules"><span>Règles</span></h2><h2 id="tab_rating" class="tab_title tab tab_rating onclickTab " data-tab="rating"><span class="long-text">Avis client</span></h2><div class="clear"></div>
+</div><div class="tab bloc_tab tab_desc tab_selected"><h2>Sea Salt &amp; Paper : partez &agrave; la chasse aux sir&egrave;nes</h2>
+<p>Sea Salt &amp; Paper est un jeu de <strong>cartes fun et l&eacute;ger</strong>, o&ugrave; vous collectionnez des cartes illustr&eacute;es d'origamis au th&egrave;me marin. Il se joue de 2 &agrave; 4, d&egrave;s 8 ans, pour des parties de 30 minutes environ.</p>
+<h2>Estimez la valeur des cartes en main</h2>
+<p>Le principe du jeu est tr&egrave;s simple. &Agrave; chaque tour, choisissez entre <strong>piocher deux cartes face cach&eacute;e</strong>, en ajouter une &agrave; votre main et d&eacute;fausser l'autre face visible, ou <strong>prendre la carte face visible </strong>du haut de la pioche. <strong>Quand vous atteignez 7 points, vous pouvez mettre fin &agrave; la manche</strong>. Deux &eacute;l&eacute;ments ajoutent du piquant au jeu : &agrave; la fin de votre tour, si vous avez une paire de cartes duo identiques, vous pouvez les r&eacute;v&eacute;ler pour <strong>activer leur capacit&eacute;</strong>. Rejouez, r&eacute;cup&eacute;rez des cartes de la pioche ou de la d&eacute;fausse ou volez-en &agrave; vos adversaires, les effets peuvent avoir <strong>des cons&eacute;quences renversantes </strong>! Par ailleurs, quand vous d&eacute;cidez de mettre fin au jeu, vous pouvez <strong>dire STOP et arr&ecirc;ter imm&eacute;diatement</strong> la partie pour que tout le onde marque ses points, ou laisser un tour aux autres joueurs. Si aucun ne parvient &agrave; d&eacute;passer votre score, vous marquez vos points et<strong> privez les autres joueurs de leurs points</strong>. Mais c'est vous qui perdez vos points si quelqu'un score plus haut que vous.&nbsp; <strong>Vous sentez-vous assez confiant</strong> pour leur laisser cette chance ?</p>
+<h2>Un jeu malin aux jolies cartes.</h2>
+<p><strong>Bruno Cathala </strong>fait partie des auteurs de ce petit jeu malin, et on reconna&icirc;t sa patte ing&eacute;nieuse. Les cartes proposent <strong>diverses fa&ccedil;ons&nbsp;de marquer des points</strong>, permettant de nombreuses combinaisons et renouvelant le jeu &agrave; chaque partie, et <strong>une condition de victoire imm&eacute;diate</strong> peut &ecirc;tre d&eacute;clench&eacute;e si un joueur obtient les 4 sir&egrave;nes du jeu. Observez bien vos adversaires pour ne pas vous faire prendre de court ! Le mat&eacute;riel de jeu est tr&egrave;s plaisant. <strong>La bo&icirc;te, menue, s'emporte partout</strong> et tient dans la paume de la main. Les illustrations prennent le parti original d'&ecirc;tre des photographies d'origamis, pr&eacute;sentant <strong>un univers po&eacute;tique de mer et de papier</strong>.&nbsp;</p><strong>Contenu&nbsp;:</strong>
+<ul><li>58 cartes</li><li>6 aides de jeu</li><li>1 dépliant de règles</li></ul><strong><i>À partir de 8 ans, de 2 à 4 joueurs et pour des parties d'environ 30 minutes.</i></strong></div><div class="tab bloc_tab tab_features tab_hidden"><table class="table_tag_jds"><tr class="container_lang tr_impair">
 <th scope="row">Langue</th>
 <td class="text"><div>Français</div></td>
 </tr>
 <tr class="container_player tr_pair">
 <th scope="row">Nombre de joueurs</th>
 <td class="text">
-<a href="/jeux_de_societe/recherche/?player%5B%5D=1"><div>1 joueur</div></a>
-</section></td>
+<a href="/jeux_de_societe/recherche/?&player%5B%5D=2&player%5B%5D=3&player%5B%5D=4"><div>De 2 à 4 joueurs</div></a>
+</td>
 </tr>
 <tr class="container_time tr_impair">
 <th scope="row">Durée</th>
-<td class="text"><div>Non renseigné</div></td>
+<td class="text"><a href="/jeux_de_societe/recherche/?time%5B%5D=30"><div>30 minutes</div></a></td>
 </tr>
 <tr class="container_age tr_pair">
 <th scope="row">Âge</th>
 <td class="text">
-<a href="/jeux_de_societe/recherche/?&age%5B%5D=0_3&age%5B%5D=4_5"><div>De 0 à 5 ans</div></a>
+<a href="/jeux_de_societe/recherche/?&age%5B%5D=8_10&age%5B%5D=plus_10"><div>À partir de 8 ans</div></a>
 </td>
 </tr>
 <tr class="container_theme tr_impair">
 <th scope="row">Thème(s)</th>
-<td class="text"><div>Non renseigné</div></td>
+<td class="text"><a href="/jeux_de_societe/recherche/?theme=Océan" /><div>Océan</div></a></td>
 </tr>
 <tr class="container_type tr_pair">
 <th scope="row">Type(s)</th>
-<td class="text"><a href="/jeux_de_societe/recherche/?type=Puzzle" /><div>Puzzle</div></a></td>
+<td class="text"><a href="/jeux_de_societe/recherche/?type=Apéro" /><div>Apéro</div></a></td></tr><tr class="container_type line_repeat"><th scope="row"></th><td class="text"><a href="/jeux_de_societe/recherche/?type=Collection" /><div>Collection</div></a></td></tr><tr class="container_type line_repeat"><th scope="row"></th><td class="text"><a href="/jeux_de_societe/recherche/?type=Jeux+de+Voyage" /><div>Jeux de Voyage</div></a></td>
 </tr>
 <tr class="container_type tr_impair">
-<th scope="row">Gamme</th><td class="text"><div>Puzzle Schmidt</div></td></tr>
+<th scope="row">Gamme</th><td class="text"><div>Sea Salt & Paper</div></td></tr>
 <tr class="container_editor tr_pair">
 <th scope="row">Éditeur(s)</th>
-<td class="text"><div>Schmidt</div></td>
+<td class="text"><div>Bombyx</div></td>
 </tr>
 <tr class="container_author tr_impair">
 <th scope="row">Auteur(s)</th>
-<td class="text"><div>Non renseigné</div></td>
+<td class="text"><div>Bruno Cathala</div></td></tr><tr class="container_theme line_repeat tr_impair"><th scope="row"></th><td class="text"><div>Théo Rivière</div></td>
 </tr>
 <tr class="container_illustrator tr_pair">
 <th scope="row">Illustrateur(s)</th>
-<td class="text"><div>Non renseigné</div></td>
-</tr></table></div><div class="tab bloc_tab tab_video tab bloc_tab tab_video"><div class="video"><div class="container"></div></div></div><div class="tab bloc_tab tab_ext tab_hidden tab bloc_tab tab_ext"><article class="title_ext">Envie de découvrir d'autres Puzzle Schmidt ?
-<aside class="link_ext">
-<a href="/jeux_de_societe/recherche/?range=Puzzle+schmidt">Voir tous les produits de la gamme</a>
-</aside>
-</article></div><div class="tab bloc_tab tab_rating  tab bloc_tab tab_rating tab_hidden"><div class="rating_available">Merci de vous connecter afin de déposer votre avis.</div><div class="container_page_rating"><div id="page_0" class="each_pagination" data-id="0"><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">Anonyme</div><div class="valid_purchase"></div><div id="user_comment_30522" class="user_comment"></div></div></div></div></div><div class="container_present_card"><div class="alert container_alert_bug">
+<td class="text"><div>Lucien Derainne</div></td></tr><tr class="container_theme line_repeat"><th scope="row"></th><td class="text"><div>Pierre-Yves Gallard</div></td>
+</tr></table></div><div class="tab bloc_tab tab_video tab_hidden tab bloc_tab tab_video"><div class="video"><div class="container"><iframe width="560" height="315" src="https://www.youtube.com/embed/CGa6EFUbQXI" title="Sea Salt & Paper 1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><iframe width="560" height="315" src="https://www.youtube.com/embed/dPJggXzNfcc" title="Sea Salt & Paper 2" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></div></div><div class="tab bloc_tab tab_ext tab_hidden tab bloc_tab tab_ext"><div class="title_ext">Le produit Sea Salt & Paper est une boite de base.</div><div class="title_ext title_all_ext">Découvrez les extensions compatibles&nbsp;:</div><div class="list_product_full case_product_full filterElement" data-family="5" data-sales="0">
+<div class="container_img_product">
+<a href="/produit/502744-sea_salt_et_paper_-_extension_extra_salt">
+<div class="img_product"><picture><source srcset="/img/product/m/extra-salt-extension-sea-salt-and-paper-jeu-bombyx-booster.webp" type="image/webp"><source srcset="/img/product/m/extra-salt-extension-sea-salt-and-paper-jeu-bombyx-booster.jpg" type="image/jpeg">
+<img src="/img/product/m/extra-salt-extension-sea-salt-and-paper-jeu-bombyx-booster.jpg" title="Sea Salt & Paper - Extension Extra Salt" alt="Sea Salt & Paper - Extension Extra Salt" loading="lazy" />
+</picture>
+</div><div class="clear"></div>
+</a>
+</div>
+<div class="container_info_product container_info_product_with_rating">
+<a href="/produit/502744-sea_salt_et_paper_-_extension_extra_salt">
+<div class="name_product" title="Sea Salt & Paper - Extension Extra Salt">Sea Salt & Paper - Extension Extra Salt</div>
+<div class="desc_short">Dans l'extension Extra Salt pour Sea Salt & Paper, découvrez 13 nouvelles cartes et leurs effets, à ajouter à votre boîte !</div>
+</a><div class="container_move_product">
+<div class="separateur separateur_product"></div><div class="bloc_rating_product" title="Note 4.8/5, 5 avis"><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_full"></span></div><div class="bloc_preco_product"></div>
+</div>
+</div>
+<div class="block_cart "><div class="container_prices"><div class="price_product simple_price_product">4,90&nbsp;€</div></div><div class="cart">
+<div class="add_cart_btn add_cart_btn_mini">
+<form method="POST">
+<input type="hidden" aria-label="id_product" name="id_product" value="502744"><label for="502744_20"></label><select name="qty_product" aria-label="502744" class="select" id="502744_20"><option id="1" value="1">1</option><option id="2" value="2">2</option><option id="3" value="3">3</option><option id="4" value="4">4</option><option id="5" value="5">5</option><option id="6" value="6">6</option><option id="7" value="7">7</option><option id="8" value="8">8</option><option id="9" value="9">9</option><option id="10" value="10">10</option><option id="11" value="11">11</option><option id="12" value="12">12</option><option id="13" value="13">13</option><option id="14" value="14">14</option><option id="15" value="15">15</option><option id="16" value="16">16</option><option id="17" value="17">17</option><option id="18" value="18">18</option><option id="19" value="19">19</option><option id="20" value="20">20</option></select><div class="qty">(20)</div><div class="bloc_cart"><div class="bloc_each_cart_mini">
+<button type="submit" name="addToCart" value="0" class="btn addToCart tagSmallOrange tagProduct" data-localisation="0" data-id="502744" title="Ajouter au panier en livraison" alt="Ajouter au panier en livraison">
+<div class="add_cart_logo_mini"></div>
+</button>
+<div class="explain_new_btn_orange">Livraison</div>
+</div><div class="bloc_each_cart_mini">
+<div class="btn btn_store btn_violet showStoreSelect tagSmallVioletModal tagProduct" title="Choisir un magasin de retrait" alt="Choisir un magasin de retrait" data-modal-type="502744">
+<div class="add_cart_store_logo_mini"></div>
+</div>
+<div class="explain_new_btn_violet">Retrait magasin</div>
+</div><div class="select_favourite_store">
+<div class="store_nav" id="502744">
+<div class="store_nav_content">
+<span class="close">&times;</span>
+<div class="modal-title">Retirer en magasin</div>
+<ul><li class="store_list" value="1">
+<div class="bloc head_store">Playin Paris BNF</div><div class="bloc availability">
+<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
+<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
+<span class="localAvailable" ">&#10004;&nbsp;Disponible sous 2h</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
+<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
+</div>
+<div class="bloc set_store_btn_bloc">
+<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="1">
+<div class="add_cart_btn_img add_cart_store_btn_img"></div>
+<div class="add_cart_text">Choisir ce magasin</div>
+</button>
+</div><div class="clear"></div>
+</li><li class="store_list" value="2">
+<div class="bloc head_store">Playin Annecy</div><div class="bloc availability">
+<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
+<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
+<span class="localAvailable" ">&#10004;&nbsp;Disponible sous 2h</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
+<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
+</div>
+<div class="bloc set_store_btn_bloc">
+<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="2">
+<div class="add_cart_btn_img add_cart_store_btn_img"></div>
+<div class="add_cart_text">Choisir ce magasin</div>
+</button>
+</div><div class="clear"></div>
+</li><li class="store_list" value="3">
+<div class="bloc head_store">Playin Paris Rivoli</div><div class="bloc availability">
+<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
+<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
+<span class="localAvailable" style="display : none">&#10004;&nbsp;Disponible sous 2h</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
+<span class="orderAvailable" ">&#10004;&nbsp;Sur commande (72h)</span>
+<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
+</div>
+<div class="bloc set_store_btn_bloc">
+<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="3">
+<div class="add_cart_btn_img add_cart_store_btn_img"></div>
+<div class="add_cart_text">Choisir ce magasin</div>
+</button>
+</div><div class="clear"></div>
+</li></ul>
+</div>
+</div>
+</div></div></form>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div><div class="clear"></div></div><div class="tab bloc_tab tab_rules tab_hidden tab bloc_tab tab_rules">
+<div class="title_rules">Sea Salt & Paper : </div>
+<div class="rules"><div class="container_rules">
+<div class="img_download_logo"></div>
+<a href="/pdf/rules_games/sea_salt_et_paper_regles_fr.pdf" target="_blank"><div>Consulter :</div><div>Les règles en français</div></a>
+</div></div>
+<div class="clear"></div></div><div class="tab bloc_tab tab_rating  tab bloc_tab tab_rating tab_hidden"><div class="rating_available">Merci de vous connecter afin de déposer votre avis.</div><div class="container_page_rating"><div id="page_0" class="each_pagination" data-id="0"><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">Anonyme</div><div class="valid_purchase">Achat vérifié</div><div id="user_comment_26877" class="user_comment" data-id="26877">Un jeu extraordinaire ! <br/> <br/>L’osmose parfaite entre un système de jeu raffiné par Théo et magistralement galvaudé par Bruno. <br/> <br/>Quel plaisir ! Tellement intelligent, malicieux et taquin… <br/> <br/>Un jeu sans cesse hypnotisant ; on fait constamment le pari de tout : des paires, des collections, du jeu et du résultat des <span id="dots_comment_26877" data-id="26877">...</span>
+<span id="read_more_26877" class="read_more_comment" data-id="26877">autres… <br/> <br/>Un jeu à plusieurs niveaux, lectures, territoires… <br/> </span></div><div class="container_more_less_btn">
+<div id="btn_more_26877" class="btn_more_content" data-id="26877">Voir plus</div>
+<div id="btn_less_26877" class="btn_less_content" data-id="26877">Voir moins</div>
+</div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_empty"></span></div><div class="username_rating">Thomas M</div><div class="valid_purchase">Achat vérifié</div><div id="user_comment_26992" class="user_comment">Un jeu simple qui se joue très bien. Le petit plus, coté interaction, est sur la fin de la partie.</div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">David J</div><div class="valid_purchase">Achat vérifié</div><div id="user_comment_27015" class="user_comment">Super jeu pour s&#039;initier au deck building ! <br/> <br/>Des règles simples à comprendre, une liste de combos simple mais très efficace. <br/> <br/>On enchaine les parties sans voir le temps passer vraiment super découverte !</div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">STEPHANE R</div><div class="valid_purchase">Achat vérifié</div><div id="user_comment_27107" class="user_comment">Le jeu de l&#039;année pour moi</div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">Gregoire p</div><div class="valid_purchase">Achat vérifié</div><div id="user_comment_31261" class="user_comment">très bon jeu, rapide à expliquer, à comprendre !</div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">LAURENT P</div><div class="valid_purchase">Achat vérifié</div><div id="user_comment_31454" class="user_comment">Super jeu à deux. <br/>Rapide et très efficace. <br/>On adore.</div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">Olivier B</div><div class="valid_purchase">Achat vérifié</div><div id="user_comment_32692" class="user_comment">Jeu simple mais très malin et hyper addictif,les parties sont courtes et on les enchaine avec plaisir. Le jeu tient dans la poche pour jouer partout et les cartes sont magnifiques.</div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">Lou D</div><div class="valid_purchase">Achat vérifié</div><div id="user_comment_32983" class="user_comment">Jeu offert à Noël. Petit jeu rapide dans lequel vous essayez de faire des combos de cartes et d&#039;avoir une meilleure main que vos adversaire. C&#039;est un peu addictif, dans le style de Fantasy Realms. Je recommande :)</div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">Celine H</div><div class="valid_purchase">Achat vérifié</div><div id="user_comment_33320" class="user_comment"></div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">Laura M</div><div class="valid_purchase">Achat vérifié</div><div id="user_comment_33508" class="user_comment">Le jeu est simple mais très addictif et il y a tellement de façons de gagner qu&#039;on ne subit pas complètement le hasard. J&#039;adore!</div></div></div><div id="page_1" class="each_pagination" data-id="1"><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">Pauline C</div><div class="valid_purchase"></div><div id="user_comment_33527" class="user_comment">On adooooooore ! Un &quot;petit jeu de cartes&quot; qui s&#039;emporte partout mais avec plus de profondeur et de complexité qu&#039;il n&#039;y paraît ! Encore un Cathala bien efficace !</div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">Anonyme</div><div class="valid_purchase"></div><div id="user_comment_37638" class="user_comment"></div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_empty"></span></div><div class="username_rating">Margot G</div><div class="valid_purchase">Achat vérifié</div><div id="user_comment_38153" class="user_comment"></div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_empty"></span></div><div class="username_rating">Marina G</div><div class="valid_purchase">Achat vérifié</div><div id="user_comment_38921" class="user_comment">Jeux sympa et surtout avantage, il ne prend pas de place, pas de surplus qui ne sert à rien dans la boite donc jeux parfait pour les vacances :)</div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">Gael K</div><div class="valid_purchase">Achat vérifié</div><div id="user_comment_39519" class="user_comment">Jeu addictif, rapide, frustrant mais tellement fun. A acheter sans hésiter !</div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">Pierre B</div><div class="valid_purchase"></div><div id="user_comment_39979" class="user_comment">Un petit jeu de carte addictif. Les photos d&#039;origami sont très originales (ça ne m&#039;attirait pas spécialement au départ mais c&#039;est finalement très sympa). La boite ne prend pas de place mais ne permettra pas de protéger les cartes. Vivement l&#039;arrivée de la mini-extension booster.</div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">Alexandre g</div><div class="valid_purchase">Achat vérifié</div><div id="user_comment_40240" class="user_comment">Petit jeu très sympa avec des cartes très belles, les parties s&#039;enchaînent vite !</div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">Arthur A</div><div class="valid_purchase">Achat vérifié</div><div id="user_comment_40380" class="user_comment">J&#039;avais vu une review et je ne suis pas du tt déçu de mon achat</div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">Mathieu T</div><div class="valid_purchase">Achat vérifié</div><div id="user_comment_40453" class="user_comment"></div></div></div></div><div class="pagination_bloc container_btn_pagination">
+<div class="pagination_selector pagination_first"><<</div>
+<div class="pagination_selector pagination_prev"><</div>
+<div class="pagination_selector bloc_selector"></div>
+<div class="pagination_selector pagination_next">></div>
+<div class="pagination_selector pagination_last">>></div>
+</div></div><div class="container_present_card"><div class="alert container_alert_bug">
 <div class="toggleTarget clicOut" data-target="signal_bug">Vous souhaitez nous signaler un bug&nbsp;?</div>
 <div class="send_ok"></div>
 <div class="boxToggle clicOut alert_target signal_bug"><div class> <div class="send_ok not_connected">Vous devez être connecté pour signaler un bug</div> </div></div>
@@ -2720,17 +3035,12 @@ Yu-Gi-Oh! </div></a>
 </div> </div>
 <div class="container_main_right">
 <div class="container_select_carts col_middle">
-<section><div class="bloc_encart container_product bloc_encart_price bloc_encart_price_fidelity"><div class="bloc_price bloc_price_eclate">
-<div class="price">8,91&nbsp;€</div>
-<div class="rabais">9,90&nbsp;€</div>
-<div class="bloc_rabais_eclate"><div class="img_eclate_black_friday_pourcent"></div>
-<div class="txt_pourcent">-10 %</div></div>
-</div><div class="container_fidelity_point container_recap_fidelity">
-<a href="/article/247-les_points_votre_programme_fidelite_par_playin_"><span>Gagnez jusqu'à </span><span class="bold_black">4&nbsp;<span class="img_points_fidelity_black"></span>oint(s)</span></a><div class="togglePopup clicOutPopup img_explain_fidelity_points_orange" title="Voir le détail des Points" data-target="boxTogglePopupFidelity"></div>
+<section><div class="bloc_encart container_product bloc_encart_price bloc_encart_price_fidelity"><div class="bloc_price"><div class="price">11,90&nbsp;€</div></div><div class="container_fidelity_point container_recap_fidelity">
+<a href="/article/247-les_points_votre_programme_fidelite_par_playin_"><span>Gagnez jusqu'à </span><span class="bold_black">11&nbsp;<span class="img_points_fidelity_black"></span>oint(s)</span></a><div class="togglePopup clicOutPopup img_explain_fidelity_points_orange" title="Voir le détail des Points" data-target="boxTogglePopupFidelity"></div>
 <div class="clear"></div>
 <div class="popup_fidelity_points boxTogglePopupFidelity clicOutPopup hide">
 <div class="bold_orange">Les <span class="img_points_fidelity_orange"></span>oints, votre programme de fidelité&nbsp;!</div>
-<div class="txt">1 € dépensé = 1 Point gagné&nbsp;!</div><div class="txt">Ce produit bénéficie d'une réduction. 50% de Points en moins, soit <b>4 Points</b>.</div><a href="/article/247-les_points_votre_programme_fidelite_par_playin_" class="link">En savoir plus sur les Points</a>
+<div class="txt">1 € dépensé = 1 Point gagné&nbsp;!</div><div class="txt">Ce produit vous rapportera jusqu'à <b>11 Points</b>.</div><a href="/article/247-les_points_votre_programme_fidelite_par_playin_" class="link">En savoir plus sur les Points</a>
 </div></div> <div id="container_secondhand" style="display:none">
 <div id="popup_secondhand">
 <div class="form_secondhand container_select_carts" id="info_valid_cart" style="display:none;">
@@ -2742,7 +3052,7 @@ Le jeu a été ajouté au panier </div>
 <img id="logo_gege" src="/img/play_back/Gégé_1_125.png" />
 <img src="/img/play_back/Essai_logo_2_50.png" />
 <h2 class="title_secondhand">Les jeux d'occasion par Playin</h2>
-<img id="image_seconhand" src="/img/product/l/puzzle-schmidt-3x48-pompiers-et-police.jpg" title="Puzzle 3x24 pièces - Pompiers et Police" alt="puzzle schmidt 3x48 pompiers et police " />
+<img id="image_seconhand" src="/img/product/l/sea-salt-and-paper-jeu-bombyx-boite.jpg" title="Sea Salt & Paper" alt="sea salt and paper jeu bombyx boite " />
 <form action class="form-container">
 <div id="container_select_secondhand">
 <select name="secondhand" class="select_secondhand select">
@@ -2756,7 +3066,7 @@ Le jeu a été ajouté au panier </div>
 </div>
 </div> </div><div class="bloc_encart container_product"><div class="bloc_cart_product"><div class="add_cart_btn">
 <form method="POST">
-<label for="id_product"><input type="hidden" name="id_product" value="295461"></label><select name="qty_product" class="select"><option value="1">1</option></select><div class="bloc_btn"><button type="submit" name="addToCart" value="0" class="btn addToCart tagBigOrange tagProduct" data-localisation="0" data-family="5" data-id="295461">
+<label for="id_product"><input type="hidden" name="id_product" value="442627"></label><select name="qty_product" class="select"><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option><option value="17">17</option><option value="18">18</option><option value="19">19</option><option value="20">20</option></select><div class="bloc_btn"><button type="submit" name="addToCart" value="0" class="btn addToCart tagBigOrange tagProduct" data-localisation="0" data-family="5" data-id="442627">
 <div class="add_cart_btn_img"></div>
 <div class="add_cart_text">Ajouter au panier <div class="small_text">(Livraison)</div></div>
 </button></div>
@@ -2771,12 +3081,349 @@ Le jeu a été ajouté au panier </div>
 <div class="container_stock">Frais de port à partir de 2,50&nbsp;€. Offert dès 35,00&nbsp;€ d'achat.</div>
 </div><div class="filters_boardgame_product"></div></div><div class="bloc_encart bloc_encart_retrait container_product"><div class="bloc_encart container_product"><div class="bloc_cart_product"><div class="add_cart_btn">
 <form method="POST">
-<input type="hidden" name="id_product" value="295461"><div class="bloc_btn"><div class="btn btn_no_favourite btn_store btn_violet showStoreSelect" title="Choisir un magasin de retrait" alt="Choisir un magasin de retrait" data-modal-type="295461">
+<input type="hidden" name="id_product" value="442627"><div class="bloc_btn"><div class="btn btn_no_favourite btn_store btn_violet showStoreSelect" title="Choisir un magasin de retrait" alt="Choisir un magasin de retrait" data-modal-type="442627">
 <div class="add_cart_btn_img add_cart_store_btn_img"></div>
 <div class="add_cart_text">Trouver un magasin Playin</div>
 </div>
 </div><form method="post"><div class="select_favourite_store">
-<div class="store_nav" id="295461">
+<div class="store_nav" id="442627">
+<div class="store_nav_content">
+<span class="close">&times;</span>
+<div class="modal-title">Retirer en magasin</div>
+<ul><li class="store_list" value="1">
+<div class="bloc head_store">Playin Paris BNF</div><div class="bloc availability">
+<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
+<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
+<span class="localAvailable" ">&#10004;&nbsp;Disponible sous 2h</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
+<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
+</div>
+<div class="bloc set_store_btn_bloc">
+<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="1">
+<div class="add_cart_btn_img add_cart_store_btn_img"></div>
+<div class="add_cart_text">Choisir ce magasin</div>
+</button>
+</div><div class="clear"></div>
+</li><li class="store_list" value="2">
+<div class="bloc head_store">Playin Annecy</div><div class="bloc availability">
+<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
+<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
+<span class="localAvailable" ">&#10004;&nbsp;Disponible sous 2h</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
+<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
+</div>
+<div class="bloc set_store_btn_bloc">
+<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="2">
+<div class="add_cart_btn_img add_cart_store_btn_img"></div>
+<div class="add_cart_text">Choisir ce magasin</div>
+</button>
+</div><div class="clear"></div>
+</li><li class="store_list" value="3">
+<div class="bloc head_store">Playin Paris Rivoli</div><div class="bloc availability">
+<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
+<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
+<span class="localAvailable" ">&#10004;&nbsp;Disponible sous 2h</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
+<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
+</div>
+<div class="bloc set_store_btn_bloc">
+<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="3">
+<div class="add_cart_btn_img add_cart_store_btn_img"></div>
+<div class="add_cart_text">Choisir ce magasin</div>
+</button>
+</div><div class="clear"></div>
+</li></ul>
+</div>
+</div>
+</div></form></form>
+</div></div><div class="bloc_shipping">
+<div class="shipping_boutique_img_gris_fonce"></div>
+<div class="container_stock"><div>Retrait gratuit en magasin, sous 2h ou 72h selon disponibilité.</div></div>
+</div></section><div class="bloc_desc bloc_desc_mobile">
+<div class="shortdesc_product">Dans Sea Salt & Paper, collectionnez les cartes représentant des origamis marins et arrêtez la manche quand vous pensez être en tête… </div><div class="rating_summary"><a class="onclickTab" data-tab="rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span> 4.84/5
+<span class="rating_link">(19 avis clients)</span>
+</a></div><div class="container_tag_jds"><a href="/jeux_de_societe/recherche/?&player%5B%5D=2&player%5B%5D=3&player%5B%5D=4">
+<div class="tag btn_grey">
+<div class="bloc">
+<div class="img_nbr_player"></div>
+<span>2 à 4 joueurs</span>
+</div>
+</div>
+</a><a href="/jeux_de_societe/recherche/?time%5B%5D=30">
+<div class="tag btn_grey">
+<div class="bloc">
+<div class="img_time"></div>
+<span>Environ 30 min</span>
+</div>
+</div>
+</a><a href="/jeux_de_societe/recherche/?&age%5B%5D=8_10&age%5B%5D=plus_10">
+<div class="tag btn_grey">
+<div class="bloc">
+<div class="img_age"></div>
+<span>À partir de 8 ans</span>
+</div>
+</div>
+</a><div class="tag btn_grey">
+<div class="bloc">
+<img src="/img/symbole/lang/fr.png" title="Français" alt="Français" loading="lazy" />
+<span>Français</span>
+</div>
+</div><div class="clear"></div>
+</div><div class="clear"></div><div class="container_tag_jds"><a href="/jeux_de_societe/recherche/?theme=Océan">
+<div class="tag btn_grey">
+<div class="bloc">
+<div class="img_theme"></div>
+<span>Océan</span>
+</div>
+</div>
+</a><a href="/jeux_de_societe/recherche/?type=Apéro">
+<div class="tag btn_grey">
+<div class="bloc">
+<div class="img_type_game"></div>
+<span>Apéro</span>
+</div>
+</div>
+</a><a href="/jeux_de_societe/recherche/?type=Collection">
+<div class="tag btn_grey">
+<div class="bloc">
+<div class="img_type_game"></div>
+<span>Collection</span>
+</div>
+</div>
+</a><a href="/jeux_de_societe/recherche/?type=Jeux+de+Voyage">
+<div class="tag btn_grey">
+<div class="bloc">
+<div class="img_type_game"></div>
+<span>Jeux de Voyage</span>
+</div>
+</div>
+</a><div class="clear"></div>
+</div><div class="clear"></div><div class="clear"></div><div class="mini_img_product sliderProduct"><div class="MS-content"><div class="list_product item"><a href="/img/product/secondary/sea-salt-and-paper-boite-de-jeu-dos.jpg" data-lightbox="product-set-mobile" data-title><img src="/img/product/secondary/s/sea-salt-and-paper-boite-de-jeu-dos.jpg" title="Sea Salt & Paper" alt="sea salt and paper jeu bombyx boite " /></a></div><div class="list_product item"><a href="/img/product/secondary/sea-salt-and-paper-materiel-de-jeu.jpg" data-lightbox="product-set-mobile" data-title><img src="/img/product/secondary/s/sea-salt-and-paper-materiel-de-jeu.jpg" title="Sea Salt & Paper" alt="sea salt and paper jeu bombyx boite " /></a></div></div>
+<div class="MS-controls">
+<button class="MS-left"><div class="arrow_left_img"></div></button>
+<button class="MS-right"><div class="arrow_right_img"></div></button>
+</div></div></div><div class="col_bottom  col_bottom_mobile  "><div class="container_title_onglet"><h2 class="tab_title tab tab_desc onclickTab title_selected tab_selected" data-tab="desc"><span>Descriptif</span></h2><h2 class="tab_title tab tab_features onclickTab" data-tab="features"><span class="long-text">Caractéristiques</span></h2><h2 class="tab_title tab tab_video onclickTab" data-tab="video"><span>Vidéo</span></h2><h2 class="tab_title tab tab_title_ext tab_ext onclickTab" data-tab="ext">
+<span class="line">Gamme &</span>
+<span class="line">extensions</span>
+</h2><h2 class="tab_title tab tab_rules onclickTab" data-tab="rules"><span>Règles</span></h2><h2 id="tab_rating" class="tab_title tab tab_rating onclickTab " data-tab="rating"><span class="long-text">Avis client</span></h2><div class="clear"></div>
+</div><div class="tab bloc_tab tab_desc tab_selected"><h2>Sea Salt &amp; Paper : partez &agrave; la chasse aux sir&egrave;nes</h2>
+<p>Sea Salt &amp; Paper est un jeu de <strong>cartes fun et l&eacute;ger</strong>, o&ugrave; vous collectionnez des cartes illustr&eacute;es d'origamis au th&egrave;me marin. Il se joue de 2 &agrave; 4, d&egrave;s 8 ans, pour des parties de 30 minutes environ.</p>
+<h2>Estimez la valeur des cartes en main</h2>
+<p>Le principe du jeu est tr&egrave;s simple. &Agrave; chaque tour, choisissez entre <strong>piocher deux cartes face cach&eacute;e</strong>, en ajouter une &agrave; votre main et d&eacute;fausser l'autre face visible, ou <strong>prendre la carte face visible </strong>du haut de la pioche. <strong>Quand vous atteignez 7 points, vous pouvez mettre fin &agrave; la manche</strong>. Deux &eacute;l&eacute;ments ajoutent du piquant au jeu : &agrave; la fin de votre tour, si vous avez une paire de cartes duo identiques, vous pouvez les r&eacute;v&eacute;ler pour <strong>activer leur capacit&eacute;</strong>. Rejouez, r&eacute;cup&eacute;rez des cartes de la pioche ou de la d&eacute;fausse ou volez-en &agrave; vos adversaires, les effets peuvent avoir <strong>des cons&eacute;quences renversantes </strong>! Par ailleurs, quand vous d&eacute;cidez de mettre fin au jeu, vous pouvez <strong>dire STOP et arr&ecirc;ter imm&eacute;diatement</strong> la partie pour que tout le onde marque ses points, ou laisser un tour aux autres joueurs. Si aucun ne parvient &agrave; d&eacute;passer votre score, vous marquez vos points et<strong> privez les autres joueurs de leurs points</strong>. Mais c'est vous qui perdez vos points si quelqu'un score plus haut que vous.&nbsp; <strong>Vous sentez-vous assez confiant</strong> pour leur laisser cette chance ?</p>
+<h2>Un jeu malin aux jolies cartes.</h2>
+<p><strong>Bruno Cathala </strong>fait partie des auteurs de ce petit jeu malin, et on reconna&icirc;t sa patte ing&eacute;nieuse. Les cartes proposent <strong>diverses fa&ccedil;ons&nbsp;de marquer des points</strong>, permettant de nombreuses combinaisons et renouvelant le jeu &agrave; chaque partie, et <strong>une condition de victoire imm&eacute;diate</strong> peut &ecirc;tre d&eacute;clench&eacute;e si un joueur obtient les 4 sir&egrave;nes du jeu. Observez bien vos adversaires pour ne pas vous faire prendre de court ! Le mat&eacute;riel de jeu est tr&egrave;s plaisant. <strong>La bo&icirc;te, menue, s'emporte partout</strong> et tient dans la paume de la main. Les illustrations prennent le parti original d'&ecirc;tre des photographies d'origamis, pr&eacute;sentant <strong>un univers po&eacute;tique de mer et de papier</strong>.&nbsp;</p><strong>Contenu&nbsp;:</strong>
+<ul><li>58 cartes</li><li>6 aides de jeu</li><li>1 dépliant de règles</li></ul><strong><i>À partir de 8 ans, de 2 à 4 joueurs et pour des parties d'environ 30 minutes.</i></strong></div><div class="tab bloc_tab tab_features tab_hidden"><table class="table_tag_jds"><tr class="container_lang tr_impair">
+<th scope="row">Langue</th>
+<td class="text"><div>Français</div></td>
+</tr>
+<tr class="container_player tr_pair">
+<th scope="row">Nombre de joueurs</th>
+<td class="text">
+<a href="/jeux_de_societe/recherche/?&player%5B%5D=2&player%5B%5D=3&player%5B%5D=4"><div>De 2 à 4 joueurs</div></a>
+</td>
+</tr>
+<tr class="container_time tr_impair">
+<th scope="row">Durée</th>
+<td class="text"><a href="/jeux_de_societe/recherche/?time%5B%5D=30"><div>30 minutes</div></a></td>
+</tr>
+<tr class="container_age tr_pair">
+<th scope="row">Âge</th>
+<td class="text">
+<a href="/jeux_de_societe/recherche/?&age%5B%5D=8_10&age%5B%5D=plus_10"><div>À partir de 8 ans</div></a>
+</td>
+</tr>
+<tr class="container_theme tr_impair">
+<th scope="row">Thème(s)</th>
+<td class="text"><a href="/jeux_de_societe/recherche/?theme=Océan" /><div>Océan</div></a></td>
+</tr>
+<tr class="container_type tr_pair">
+<th scope="row">Type(s)</th>
+<td class="text"><a href="/jeux_de_societe/recherche/?type=Apéro" /><div>Apéro</div></a></td></tr><tr class="container_type line_repeat"><th scope="row"></th><td class="text"><a href="/jeux_de_societe/recherche/?type=Collection" /><div>Collection</div></a></td></tr><tr class="container_type line_repeat"><th scope="row"></th><td class="text"><a href="/jeux_de_societe/recherche/?type=Jeux+de+Voyage" /><div>Jeux de Voyage</div></a></td>
+</tr>
+<tr class="container_type tr_impair">
+<th scope="row">Gamme</th><td class="text"><div>Sea Salt & Paper</div></td></tr>
+<tr class="container_editor tr_pair">
+<th scope="row">Éditeur(s)</th>
+<td class="text"><div>Bombyx</div></td>
+</tr>
+<tr class="container_author tr_impair">
+<th scope="row">Auteur(s)</th>
+<td class="text"><div>Bruno Cathala</div></td></tr><tr class="container_theme line_repeat tr_impair"><th scope="row"></th><td class="text"><div>Théo Rivière</div></td>
+</tr>
+<tr class="container_illustrator tr_pair">
+<th scope="row">Illustrateur(s)</th>
+<td class="text"><div>Lucien Derainne</div></td></tr><tr class="container_theme line_repeat"><th scope="row"></th><td class="text"><div>Pierre-Yves Gallard</div></td>
+</tr></table></div><div class="tab bloc_tab tab_video tab_hidden tab bloc_tab tab_video"><div class="video"><div class="container"><iframe width="560" height="315" src="https://www.youtube.com/embed/CGa6EFUbQXI" title="Sea Salt & Paper 1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><iframe width="560" height="315" src="https://www.youtube.com/embed/dPJggXzNfcc" title="Sea Salt & Paper 2" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></div></div><div class="tab bloc_tab tab_ext tab_hidden tab bloc_tab tab_ext"><div class="title_ext">Le produit Sea Salt & Paper est une boite de base.</div><div class="title_ext title_all_ext">Découvrez les extensions compatibles&nbsp;:</div><div class="list_product_full case_product_full filterElement" data-family="5" data-sales="0">
+<div class="container_img_product">
+<a href="/produit/502744-sea_salt_et_paper_-_extension_extra_salt">
+<div class="img_product"><picture><source srcset="/img/product/m/extra-salt-extension-sea-salt-and-paper-jeu-bombyx-booster.webp" type="image/webp"><source srcset="/img/product/m/extra-salt-extension-sea-salt-and-paper-jeu-bombyx-booster.jpg" type="image/jpeg">
+<img src="/img/product/m/extra-salt-extension-sea-salt-and-paper-jeu-bombyx-booster.jpg" title="Sea Salt & Paper - Extension Extra Salt" alt="Sea Salt & Paper - Extension Extra Salt" loading="lazy" />
+</picture>
+</div><div class="clear"></div>
+</a>
+</div>
+<div class="container_info_product container_info_product_with_rating">
+<a href="/produit/502744-sea_salt_et_paper_-_extension_extra_salt">
+<div class="name_product" title="Sea Salt & Paper - Extension Extra Salt">Sea Salt & Paper - Extension Extra Salt</div>
+<div class="desc_short">Dans l'extension Extra Salt pour Sea Salt & Paper, découvrez 13 nouvelles cartes et leurs effets, à ajouter à votre boîte !</div>
+</a><div class="container_move_product">
+<div class="separateur separateur_product"></div><div class="bloc_rating_product" title="Note 4.8/5, 5 avis"><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_full"></span><span class="img_little_star_full"></span></div><div class="bloc_preco_product"></div>
+</div>
+</div>
+<div class="block_cart "><div class="container_prices"><div class="price_product simple_price_product">4,90&nbsp;€</div></div><div class="cart">
+<div class="add_cart_btn add_cart_btn_mini">
+<form method="POST">
+<input type="hidden" aria-label="id_product" name="id_product" value="502744"><label for="502744_20"></label><select name="qty_product" aria-label="502744" class="select" id="502744_20"><option id="1" value="1">1</option><option id="2" value="2">2</option><option id="3" value="3">3</option><option id="4" value="4">4</option><option id="5" value="5">5</option><option id="6" value="6">6</option><option id="7" value="7">7</option><option id="8" value="8">8</option><option id="9" value="9">9</option><option id="10" value="10">10</option><option id="11" value="11">11</option><option id="12" value="12">12</option><option id="13" value="13">13</option><option id="14" value="14">14</option><option id="15" value="15">15</option><option id="16" value="16">16</option><option id="17" value="17">17</option><option id="18" value="18">18</option><option id="19" value="19">19</option><option id="20" value="20">20</option></select><div class="qty">(20)</div><div class="bloc_cart"><div class="bloc_each_cart_mini">
+<button type="submit" name="addToCart" value="0" class="btn addToCart tagSmallOrange tagProduct" data-localisation="0" data-id="502744" title="Ajouter au panier en livraison" alt="Ajouter au panier en livraison">
+<div class="add_cart_logo_mini"></div>
+</button>
+<div class="explain_new_btn_orange">Livraison</div>
+</div><div class="bloc_each_cart_mini">
+<div class="btn btn_store btn_violet showStoreSelect tagSmallVioletModal tagProduct" title="Choisir un magasin de retrait" alt="Choisir un magasin de retrait" data-modal-type="502744">
+<div class="add_cart_store_logo_mini"></div>
+</div>
+<div class="explain_new_btn_violet">Retrait magasin</div>
+</div><div class="select_favourite_store">
+<div class="store_nav" id="502744">
+<div class="store_nav_content">
+<span class="close">&times;</span>
+<div class="modal-title">Retirer en magasin</div>
+<ul><li class="store_list" value="1">
+<div class="bloc head_store">Playin Paris BNF</div><div class="bloc availability">
+<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
+<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
+<span class="localAvailable" ">&#10004;&nbsp;Disponible sous 2h</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
+<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
+</div>
+<div class="bloc set_store_btn_bloc">
+<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="1">
+<div class="add_cart_btn_img add_cart_store_btn_img"></div>
+<div class="add_cart_text">Choisir ce magasin</div>
+</button>
+</div><div class="clear"></div>
+</li><li class="store_list" value="2">
+<div class="bloc head_store">Playin Annecy</div><div class="bloc availability">
+<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
+<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
+<span class="localAvailable" ">&#10004;&nbsp;Disponible sous 2h</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
+<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
+</div>
+<div class="bloc set_store_btn_bloc">
+<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="2">
+<div class="add_cart_btn_img add_cart_store_btn_img"></div>
+<div class="add_cart_text">Choisir ce magasin</div>
+</button>
+</div><div class="clear"></div>
+</li><li class="store_list" value="3">
+<div class="bloc head_store">Playin Paris Rivoli</div><div class="bloc availability">
+<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
+<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
+<span class="localAvailable" style="display : none">&#10004;&nbsp;Disponible sous 2h</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
+<span class="orderAvailable" ">&#10004;&nbsp;Sur commande (72h)</span>
+<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
+</div>
+<div class="bloc set_store_btn_bloc">
+<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="3">
+<div class="add_cart_btn_img add_cart_store_btn_img"></div>
+<div class="add_cart_text">Choisir ce magasin</div>
+</button>
+</div><div class="clear"></div>
+</li></ul>
+</div>
+</div>
+</div></div></form>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div><div class="clear"></div></div><div class="tab bloc_tab tab_rules tab_hidden tab bloc_tab tab_rules">
+<div class="title_rules">Sea Salt & Paper : </div>
+<div class="rules"><div class="container_rules">
+<div class="img_download_logo"></div>
+<a href="/pdf/rules_games/sea_salt_et_paper_regles_fr.pdf" target="_blank"><div>Consulter :</div><div>Les règles en français</div></a>
+</div></div>
+<div class="clear"></div></div><div class="tab bloc_tab tab_rating  tab bloc_tab tab_rating tab_hidden"><div class="rating_available">Merci de vous connecter afin de déposer votre avis.</div><div class="container_page_rating"><div id="page_0" class="each_pagination" data-id="0"><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">Anonyme</div><div class="valid_purchase">Achat vérifié</div><div id="user_comment_26877" class="user_comment" data-id="26877">Un jeu extraordinaire ! <br/> <br/>L’osmose parfaite entre un système de jeu raffiné par Théo et magistralement galvaudé par Bruno. <br/> <br/>Quel plaisir ! Tellement intelligent, malicieux et taquin… <br/> <br/>Un jeu sans cesse hypnotisant ; on fait constamment le pari de tout : des paires, des collections, du jeu et du résultat des <span id="dots_comment_26877" data-id="26877">...</span>
+<span id="read_more_26877" class="read_more_comment" data-id="26877">autres… <br/> <br/>Un jeu à plusieurs niveaux, lectures, territoires… <br/> </span></div><div class="container_more_less_btn">
+<div id="btn_more_26877" class="btn_more_content" data-id="26877">Voir plus</div>
+<div id="btn_less_26877" class="btn_less_content" data-id="26877">Voir moins</div>
+</div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_empty"></span></div><div class="username_rating">Thomas M</div><div class="valid_purchase">Achat vérifié</div><div id="user_comment_26992" class="user_comment">Un jeu simple qui se joue très bien. Le petit plus, coté interaction, est sur la fin de la partie.</div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">David J</div><div class="valid_purchase">Achat vérifié</div><div id="user_comment_27015" class="user_comment">Super jeu pour s&#039;initier au deck building ! <br/> <br/>Des règles simples à comprendre, une liste de combos simple mais très efficace. <br/> <br/>On enchaine les parties sans voir le temps passer vraiment super découverte !</div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">STEPHANE R</div><div class="valid_purchase">Achat vérifié</div><div id="user_comment_27107" class="user_comment">Le jeu de l&#039;année pour moi</div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">Gregoire p</div><div class="valid_purchase">Achat vérifié</div><div id="user_comment_31261" class="user_comment">très bon jeu, rapide à expliquer, à comprendre !</div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">LAURENT P</div><div class="valid_purchase">Achat vérifié</div><div id="user_comment_31454" class="user_comment">Super jeu à deux. <br/>Rapide et très efficace. <br/>On adore.</div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">Olivier B</div><div class="valid_purchase">Achat vérifié</div><div id="user_comment_32692" class="user_comment">Jeu simple mais très malin et hyper addictif,les parties sont courtes et on les enchaine avec plaisir. Le jeu tient dans la poche pour jouer partout et les cartes sont magnifiques.</div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">Lou D</div><div class="valid_purchase">Achat vérifié</div><div id="user_comment_32983" class="user_comment">Jeu offert à Noël. Petit jeu rapide dans lequel vous essayez de faire des combos de cartes et d&#039;avoir une meilleure main que vos adversaire. C&#039;est un peu addictif, dans le style de Fantasy Realms. Je recommande :)</div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">Celine H</div><div class="valid_purchase">Achat vérifié</div><div id="user_comment_33320" class="user_comment"></div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">Laura M</div><div class="valid_purchase">Achat vérifié</div><div id="user_comment_33508" class="user_comment">Le jeu est simple mais très addictif et il y a tellement de façons de gagner qu&#039;on ne subit pas complètement le hasard. J&#039;adore!</div></div></div><div id="page_1" class="each_pagination" data-id="1"><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">Pauline C</div><div class="valid_purchase"></div><div id="user_comment_33527" class="user_comment">On adooooooore ! Un &quot;petit jeu de cartes&quot; qui s&#039;emporte partout mais avec plus de profondeur et de complexité qu&#039;il n&#039;y paraît ! Encore un Cathala bien efficace !</div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">Anonyme</div><div class="valid_purchase"></div><div id="user_comment_37638" class="user_comment"></div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_empty"></span></div><div class="username_rating">Margot G</div><div class="valid_purchase">Achat vérifié</div><div id="user_comment_38153" class="user_comment"></div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_empty"></span></div><div class="username_rating">Marina G</div><div class="valid_purchase">Achat vérifié</div><div id="user_comment_38921" class="user_comment">Jeux sympa et surtout avantage, il ne prend pas de place, pas de surplus qui ne sert à rien dans la boite donc jeux parfait pour les vacances :)</div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">Gael K</div><div class="valid_purchase">Achat vérifié</div><div id="user_comment_39519" class="user_comment">Jeu addictif, rapide, frustrant mais tellement fun. A acheter sans hésiter !</div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">Pierre B</div><div class="valid_purchase"></div><div id="user_comment_39979" class="user_comment">Un petit jeu de carte addictif. Les photos d&#039;origami sont très originales (ça ne m&#039;attirait pas spécialement au départ mais c&#039;est finalement très sympa). La boite ne prend pas de place mais ne permettra pas de protéger les cartes. Vivement l&#039;arrivée de la mini-extension booster.</div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">Alexandre g</div><div class="valid_purchase">Achat vérifié</div><div id="user_comment_40240" class="user_comment">Petit jeu très sympa avec des cartes très belles, les parties s&#039;enchaînent vite !</div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">Arthur A</div><div class="valid_purchase">Achat vérifié</div><div id="user_comment_40380" class="user_comment">J&#039;avais vu une review et je ne suis pas du tt déçu de mon achat</div></div><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">Mathieu T</div><div class="valid_purchase">Achat vérifié</div><div id="user_comment_40453" class="user_comment"></div></div></div></div><div class="pagination_bloc container_btn_pagination">
+<div class="pagination_selector pagination_first"><<</div>
+<div class="pagination_selector pagination_prev"><</div>
+<div class="pagination_selector bloc_selector"></div>
+<div class="pagination_selector pagination_next">></div>
+<div class="pagination_selector pagination_last">>></div>
+</div></div><div class="container_present_card"><div class="alert container_alert_bug">
+<div class="toggleTarget clicOut" data-target="signal_bug">Vous souhaitez nous signaler un bug&nbsp;?</div>
+<div class="send_ok"></div>
+<div class="boxToggle clicOut alert_target signal_bug"><div class> <div class="send_ok not_connected">Vous devez être connecté pour signaler un bug</div> </div></div>
+</div></div>
+</div><div class="col_info_mobile">
+<div class="bloc_encart bloc_logos_rassurants bloc_logos_paiement">
+<div class="sentence_present">Paiement sécurisé avec Axepta, par CB et Paypal</div>
+<div class="container_logos_img"><div class="img img_first_logo img_logo_bnp"></div><div class="img img_logo_cb"></div>
+<div class="img img_logo_visa"></div>
+<div class="img img_logo_mastercard"></div>
+<div class="img img_logo_paypal"></div>
+</div>
+<div class="sentence_present bloc_shipping">Colis soigné, envoi rapide et sécurisé</div>
+<div class="container_logos_img">
+<div class="img img_first_logo img_logo_laposte"></div>
+<div class="img img_logo_colissimo"></div>
+<div class="img img_logo_chronopost"></div>
+</div>
+</div>
+<div class="bloc_encart bloc_logos_rassurants share_link_product">
+<div class="sentence_present">Envie de partager cette page&nbsp;?</div>
+<div class="container_logos_img">
+<a href="https://www.facebook.com/sharer/sharer.php?u=https://www.play-in.com/produit/442627-sea_salt_et_paper&amp;src=sdkpreparse" class="link_fb fb-xfbml-parse-ignore" target="_blank">
+<div class="facebook" data-href="https://www.play-in.com/produit/442627-sea_salt_et_paper" data-layout="button" data-size="large" data-mobile-iframe="true">
+<div class="facebook_img"></div>
+<div class="bloc">Partager</div>
+</div>
+</a>
+<a href="https://twitter.com/share?text=Sea Salt & Paper@Playin_by_MB&url=https://www.play-in.com/produit/442627-sea_salt_et_paper" class="link link_twitter">
+<div class="twitter">
+<div class="twitter_img"></div>
+<div class="bloc">Tweetter</div>
+</div>
+</a>
+</div>
+</div><div class="bloc_encart bloc_logos_rassurants bloc_suggested_products">
+<div class="sentence_present">Vous aimerez aussi...</div>
+</div><div class="col_suggested_product"><div class="list_product item">
+<div class="container_left">
+<a href="/produit/448506-space_aztecs">
+<div class="img_list_product">
+<img src="/img/product/m/space-aztecs-boite-de-jeu.jpg" title="Space Aztecs" alt="Space Aztecs" loading="lazy" />
+</div>
+</a>
+</div><div class="container_right">
+<a href="/produit/448506-space_aztecs">
+<div class="name_product" title="Space Aztecs">Space Aztecs</div>
+</a>
+<div class="preco_product bloc_preco_product bloc_preco_product_rating"></div><div class="container_prices"><div class="price_product simple_price_product">17,50&nbsp;€</div></div><div class="cart">
+<div class="add_cart_btn add_cart_btn_mini">
+<form method="POST">
+<input type="hidden" aria-label="id_product" name="id_product" value="448506"><label for="448506_4"></label><select name="qty_product" aria-label="448506" class="select" id="448506_4"><option id="1" value="1">1</option><option id="2" value="2">2</option><option id="3" value="3">3</option><option id="4" value="4">4</option></select><div class="qty">(4)</div><div class="bloc_cart"><div class="bloc_each_cart_mini">
+<button type="submit" name="addToCart" value="0" class="btn addToCart tagSmallOrange tagProduct" data-localisation="0" data-id="448506" title="Ajouter au panier en livraison" alt="Ajouter au panier en livraison">
+<div class="add_cart_logo_mini"></div>
+</button>
+<div class="explain_new_btn_orange">Livraison</div>
+</div><div class="bloc_each_cart_mini">
+<div class="btn btn_store btn_violet showStoreSelect tagSmallVioletModal tagProduct" title="Choisir un magasin de retrait" alt="Choisir un magasin de retrait" data-modal-type="448506">
+<div class="add_cart_store_logo_mini"></div>
+</div>
+<div class="explain_new_btn_violet">Retrait magasin</div>
+</div><div class="select_favourite_store">
+<div class="store_nav" id="448506">
 <div class="store_nav_content">
 <span class="close">&times;</span>
 <div class="modal-title">Retirer en magasin</div>
@@ -2828,130 +3475,254 @@ Le jeu a été ajouté au panier </div>
 </li></ul>
 </div>
 </div>
-</div></form></form>
-</div></div><div class="bloc_shipping">
-<div class="shipping_boutique_img_gris_fonce"></div>
-<div class="container_stock"><div>Retrait gratuit en magasin, sous 2h ou 72h selon disponibilité.</div></div>
-</div></section><div class="bloc_desc bloc_desc_mobile">
-<div class="shortdesc_product">Reformez ces 3 puzzles de 24 pièces pour découvrir le quotidien des pompiers et de la police ! À partir de 3 ans.</div><div class="rating_summary"><a class="onclickTab" data-tab="rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span> 5/5
-<span class="rating_link">(1 avis clients)</span>
-</a></div><div class="container_tag_jds"><a href="/jeux_de_societe/recherche/?player%5B%5D=1">
-<div class="tag btn_grey">
-<div class="bloc">
-<div class="img_nbr_player"></div>
-<span>1 joueur</span>
+</div></div></form>
 </div>
 </div>
-</a><a href="/jeux_de_societe/recherche/?age%5B%5D=0_3&age%5B%5D=4_5">
-<div class="tag btn_grey">
-<div class="bloc">
-<div class="img_age"></div>
-<span>0 à 5 ans</span>
 </div>
+<div class="clear"></div></div><div class="list_product item">
+<div class="container_left">
+<a href="/produit/467441-trio">
+<div class="img_list_product">
+<img src="/img/product/m/trio-boite-de-jeu.jpg" title="Trio" alt="Trio" loading="lazy" />
 </div>
-</a><div class="tag btn_grey">
-<div class="bloc">
-<img src="/img/symbole/lang/fr.png" title="Français" alt="Français" loading="lazy" />
-<span>Français</span>
+</a>
+</div><div class="container_right">
+<a href="/produit/467441-trio">
+<div class="name_product" title="Trio">Trio</div>
+</a>
+<div class="preco_product bloc_preco_product bloc_preco_product_rating"></div><div class="container_prices"><div class="price_product simple_price_product">12,90&nbsp;€</div></div><div class="cart">
+<div class="add_cart_btn add_cart_btn_mini">
+<form method="POST">
+<input type="hidden" aria-label="id_product" name="id_product" value="467441"><label for="467441_20"></label><select name="qty_product" aria-label="467441" class="select" id="467441_20"><option id="1" value="1">1</option><option id="2" value="2">2</option><option id="3" value="3">3</option><option id="4" value="4">4</option><option id="5" value="5">5</option><option id="6" value="6">6</option><option id="7" value="7">7</option><option id="8" value="8">8</option><option id="9" value="9">9</option><option id="10" value="10">10</option><option id="11" value="11">11</option><option id="12" value="12">12</option><option id="13" value="13">13</option><option id="14" value="14">14</option><option id="15" value="15">15</option><option id="16" value="16">16</option><option id="17" value="17">17</option><option id="18" value="18">18</option><option id="19" value="19">19</option><option id="20" value="20">20</option></select><div class="qty">(20)</div><div class="bloc_cart"><div class="bloc_each_cart_mini">
+<button type="submit" name="addToCart" value="0" class="btn addToCart tagSmallOrange tagProduct" data-localisation="0" data-id="467441" title="Ajouter au panier en livraison" alt="Ajouter au panier en livraison">
+<div class="add_cart_logo_mini"></div>
+</button>
+<div class="explain_new_btn_orange">Livraison</div>
+</div><div class="bloc_each_cart_mini">
+<div class="btn btn_store btn_violet showStoreSelect tagSmallVioletModal tagProduct" title="Choisir un magasin de retrait" alt="Choisir un magasin de retrait" data-modal-type="467441">
+<div class="add_cart_store_logo_mini"></div>
 </div>
+<div class="explain_new_btn_violet">Retrait magasin</div>
+</div><div class="select_favourite_store">
+<div class="store_nav" id="467441">
+<div class="store_nav_content">
+<span class="close">&times;</span>
+<div class="modal-title">Retirer en magasin</div>
+<ul><li class="store_list" value="1">
+<div class="bloc head_store">Playin Paris BNF</div><div class="bloc availability">
+<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
+<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
+<span class="localAvailable" ">&#10004;&nbsp;Disponible sous 2h</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
+<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
+</div>
+<div class="bloc set_store_btn_bloc">
+<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="1">
+<div class="add_cart_btn_img add_cart_store_btn_img"></div>
+<div class="add_cart_text">Choisir ce magasin</div>
+</button>
 </div><div class="clear"></div>
-</div><div class="clear"></div><div class="container_tag_jds"><a href="/jeux_de_societe/recherche/?type=Puzzle">
-<div class="tag btn_grey">
-<div class="bloc">
-<div class="img_type_game"></div>
-<span>Puzzle</span>
+</li><li class="store_list" value="2">
+<div class="bloc head_store">Playin Annecy</div><div class="bloc availability">
+<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
+<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
+<span class="localAvailable" ">&#10004;&nbsp;Disponible sous 2h</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
+<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
+</div>
+<div class="bloc set_store_btn_bloc">
+<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="2">
+<div class="add_cart_btn_img add_cart_store_btn_img"></div>
+<div class="add_cart_text">Choisir ce magasin</div>
+</button>
+</div><div class="clear"></div>
+</li><li class="store_list" value="3">
+<div class="bloc head_store">Playin Paris Rivoli</div><div class="bloc availability">
+<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
+<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
+<span class="localAvailable" ">&#10004;&nbsp;Disponible sous 2h</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
+<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
+</div>
+<div class="bloc set_store_btn_bloc">
+<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="3">
+<div class="add_cart_btn_img add_cart_store_btn_img"></div>
+<div class="add_cart_text">Choisir ce magasin</div>
+</button>
+</div><div class="clear"></div>
+</li></ul>
 </div>
 </div>
-</a><div class="clear"></div>
-</div><div class="clear"></div><div class="clear"></div></div><div class="col_bottom  col_bottom_mobile  "><div class="container_title_onglet"><h2 class="tab_title tab tab_desc onclickTab title_selected tab_selected" data-tab="desc"><span>Descriptif</span></h2><h2 class="tab_title tab tab_features onclickTab" data-tab="features"><span class="long-text">Caractéristiques</span></h2><h2 class="tab_title tab tab_video no_title" data-tab="video"><span>Vidéo</span></h2><h2 class="tab_title tab tab_title_ext tab_ext onclickTab" data-tab="ext">
-<span class="line">Gamme &</span>
-<span class="line">extensions</span>
-</h2><h2 id="tab_rating" class="tab_title tab tab_rating onclickTab " data-tab="rating"><span class="long-text">Avis client</span></h2><div class="clear"></div>
-</div><div class="tab bloc_tab tab_desc tab_selected"><h2 style="text-align: justify;">Puzzle 3x24 pi&egrave;ces - Pompiers et Police</h2>
-<p style="text-align: justify;"><em>Les pompiers et les policiers veillent sur le quotidien des habitants de la ville !</em></p>
-<p style="text-align: justify;">Seul ou accompagn&eacute;, l'enfant d&egrave;s 3 ans reconstitue ces 3 puzzles de 24 pi&egrave;ces chacun aux couleurs vibrantes. Le puzzle est&nbsp;<strong>une activit&eacute; de d&eacute;tente&nbsp;</strong>qui permet de d&eacute;velopper&nbsp;<strong>la patience</strong>&nbsp;et&nbsp;<strong>l'esprit d'association</strong>. Il comporte de nombreux d&eacute;tails afin d'amuser les enfants une fois termin&eacute; et les inviter &agrave; construire leur imaginaire ! Il est adapt&eacute; aux jeunes enfants gr&acirc;ce &agrave; des pi&egrave;ces de belle taille.</p>
-<p><strong>Contenu :&nbsp;</strong>3&nbsp;puzzles de 24 pi&egrave;ces.</p><strong><i>Jusqu'à 5 ans, pour 1 joueur.</i></strong></div><div class="tab bloc_tab tab_features tab_hidden"><table class="table_tag_jds"><tr class="container_lang tr_impair">
-<th scope="row">Langue</th>
-<td class="text"><div>Français</div></td>
-</tr>
-<tr class="container_player tr_pair">
-<th scope="row">Nombre de joueurs</th>
-<td class="text">
-<a href="/jeux_de_societe/recherche/?player%5B%5D=1"><div>1 joueur</div></a>
-</section></td>
-</tr>
-<tr class="container_time tr_impair">
-<th scope="row">Durée</th>
-<td class="text"><div>Non renseigné</div></td>
-</tr>
-<tr class="container_age tr_pair">
-<th scope="row">Âge</th>
-<td class="text">
-<a href="/jeux_de_societe/recherche/?&age%5B%5D=0_3&age%5B%5D=4_5"><div>De 0 à 5 ans</div></a>
-</td>
-</tr>
-<tr class="container_theme tr_impair">
-<th scope="row">Thème(s)</th>
-<td class="text"><div>Non renseigné</div></td>
-</tr>
-<tr class="container_type tr_pair">
-<th scope="row">Type(s)</th>
-<td class="text"><a href="/jeux_de_societe/recherche/?type=Puzzle" /><div>Puzzle</div></a></td>
-</tr>
-<tr class="container_type tr_impair">
-<th scope="row">Gamme</th><td class="text"><div>Puzzle Schmidt</div></td></tr>
-<tr class="container_editor tr_pair">
-<th scope="row">Éditeur(s)</th>
-<td class="text"><div>Schmidt</div></td>
-</tr>
-<tr class="container_author tr_impair">
-<th scope="row">Auteur(s)</th>
-<td class="text"><div>Non renseigné</div></td>
-</tr>
-<tr class="container_illustrator tr_pair">
-<th scope="row">Illustrateur(s)</th>
-<td class="text"><div>Non renseigné</div></td>
-</tr></table></div><div class="tab bloc_tab tab_video tab bloc_tab tab_video"><div class="video"><div class="container"></div></div></div><div class="tab bloc_tab tab_ext tab_hidden tab bloc_tab tab_ext"><article class="title_ext">Envie de découvrir d'autres Puzzle Schmidt ?
-<aside class="link_ext">
-<a href="/jeux_de_societe/recherche/?range=Puzzle+schmidt">Voir tous les produits de la gamme</a>
-</aside>
-</article></div><div class="tab bloc_tab tab_rating  tab bloc_tab tab_rating tab_hidden"><div class="rating_available">Merci de vous connecter afin de déposer votre avis.</div><div class="container_page_rating"><div id="page_0" class="each_pagination" data-id="0"><div class="user_rate"><div class="user_rating"><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span><span class="img_middle_star_full"></span></div><div class="username_rating">Anonyme</div><div class="valid_purchase"></div><div id="user_comment_30522" class="user_comment"></div></div></div></div></div><div class="container_present_card"><div class="alert container_alert_bug">
-<div class="toggleTarget clicOut" data-target="signal_bug">Vous souhaitez nous signaler un bug&nbsp;?</div>
-<div class="send_ok"></div>
-<div class="boxToggle clicOut alert_target signal_bug"><div class> <div class="send_ok not_connected">Vous devez être connecté pour signaler un bug</div> </div></div>
-</div></div>
-</div><div class="col_info_mobile">
-<div class="bloc_encart bloc_logos_rassurants bloc_logos_paiement">
-<div class="sentence_present">Paiement sécurisé avec Axepta, par CB et Paypal</div>
-<div class="container_logos_img"><div class="img img_first_logo img_logo_bnp"></div><div class="img img_logo_cb"></div>
-<div class="img img_logo_visa"></div>
-<div class="img img_logo_mastercard"></div>
-<div class="img img_logo_paypal"></div>
-</div>
-<div class="sentence_present bloc_shipping">Colis soigné, envoi rapide et sécurisé</div>
-<div class="container_logos_img">
-<div class="img img_first_logo img_logo_laposte"></div>
-<div class="img img_logo_colissimo"></div>
-<div class="img img_logo_chronopost"></div>
+</div></div></form>
 </div>
 </div>
-<div class="bloc_encart bloc_logos_rassurants share_link_product">
-<div class="sentence_present">Envie de partager cette page&nbsp;?</div>
-<div class="container_logos_img">
-<a href="https://www.facebook.com/sharer/sharer.php?u=https://www.play-in.com/produit/295461-puzzle_3x24_pieces_-_pompiers_et_police&amp;src=sdkpreparse" class="link_fb fb-xfbml-parse-ignore" target="_blank">
-<div class="facebook" data-href="https://www.play-in.com/produit/295461-puzzle_3x24_pieces_-_pompiers_et_police" data-layout="button" data-size="large" data-mobile-iframe="true">
-<div class="facebook_img"></div>
-<div class="bloc">Partager</div>
+</div>
+<div class="clear"></div></div><div class="list_product item">
+<div class="container_left">
+<a href="/produit/379876-loco_momo">
+<div class="img_list_product">
+<img src="/img/product/m/loco-momo-jeu-blam-editions-boite.jpg" title="Loco Momo" alt="Loco Momo" loading="lazy" />
 </div>
 </a>
-<a href="https://twitter.com/share?text=Puzzle 3x24 pièces - Pompiers et Police@Playin_by_MB&url=https://www.play-in.com/produit/295461-puzzle_3x24_pieces_-_pompiers_et_police" class="link link_twitter">
-<div class="twitter">
-<div class="twitter_img"></div>
-<div class="bloc">Tweetter</div>
+</div><div class="container_right">
+<a href="/produit/379876-loco_momo">
+<div class="name_product" title="Loco Momo">Loco Momo</div>
+</a>
+<div class="preco_product bloc_preco_product bloc_preco_product_rating"></div><div class="container_prices"><div class="price_product simple_price_product">22,50&nbsp;€</div></div><div class="cart">
+<div class="add_cart_btn add_cart_btn_mini">
+<form method="POST">
+<input type="hidden" aria-label="id_product" name="id_product" value="379876"><label for="379876_10"></label><select name="qty_product" aria-label="379876" class="select" id="379876_10"><option id="1" value="1">1</option><option id="2" value="2">2</option><option id="3" value="3">3</option><option id="4" value="4">4</option><option id="5" value="5">5</option><option id="6" value="6">6</option><option id="7" value="7">7</option><option id="8" value="8">8</option><option id="9" value="9">9</option><option id="10" value="10">10</option></select><div class="qty">(10)</div><div class="bloc_cart"><div class="bloc_each_cart_mini">
+<button type="submit" name="addToCart" value="0" class="btn addToCart tagSmallOrange tagProduct" data-localisation="0" data-id="379876" title="Ajouter au panier en livraison" alt="Ajouter au panier en livraison">
+<div class="add_cart_logo_mini"></div>
+</button>
+<div class="explain_new_btn_orange">Livraison</div>
+</div><div class="bloc_each_cart_mini">
+<div class="btn btn_store btn_violet showStoreSelect tagSmallVioletModal tagProduct" title="Choisir un magasin de retrait" alt="Choisir un magasin de retrait" data-modal-type="379876">
+<div class="add_cart_store_logo_mini"></div>
+</div>
+<div class="explain_new_btn_violet">Retrait magasin</div>
+</div><div class="select_favourite_store">
+<div class="store_nav" id="379876">
+<div class="store_nav_content">
+<span class="close">&times;</span>
+<div class="modal-title">Retirer en magasin</div>
+<ul><li class="store_list" value="1">
+<div class="bloc head_store">Playin Paris BNF</div><div class="bloc availability">
+<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
+<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
+<span class="localAvailable" ">&#10004;&nbsp;Disponible sous 2h</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
+<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
+</div>
+<div class="bloc set_store_btn_bloc">
+<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="1">
+<div class="add_cart_btn_img add_cart_store_btn_img"></div>
+<div class="add_cart_text">Choisir ce magasin</div>
+</button>
+</div><div class="clear"></div>
+</li><li class="store_list" value="2">
+<div class="bloc head_store">Playin Annecy</div><div class="bloc availability">
+<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
+<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
+<span class="localAvailable" style="display : none">&#10004;&nbsp;Disponible sous 2h</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
+<span class="orderAvailable" ">&#10004;&nbsp;Sur commande (72h)</span>
+<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
+</div>
+<div class="bloc set_store_btn_bloc">
+<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="2">
+<div class="add_cart_btn_img add_cart_store_btn_img"></div>
+<div class="add_cart_text">Choisir ce magasin</div>
+</button>
+</div><div class="clear"></div>
+</li><li class="store_list" value="3">
+<div class="bloc head_store">Playin Paris Rivoli</div><div class="bloc availability">
+<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
+<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
+<span class="localAvailable" ">&#10004;&nbsp;Disponible sous 2h</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
+<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
+</div>
+<div class="bloc set_store_btn_bloc">
+<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="3">
+<div class="add_cart_btn_img add_cart_store_btn_img"></div>
+<div class="add_cart_text">Choisir ce magasin</div>
+</button>
+</div><div class="clear"></div>
+</li></ul>
+</div>
+</div>
+</div></div></form>
+</div>
+</div>
+</div>
+<div class="clear"></div></div><div class="list_product item">
+<div class="container_left">
+<a href="/produit/437869-district_noir">
+<div class="img_list_product">
+<img src="/img/product/m/district-noir-jeu-spiral-editions-boite.jpg" title="District Noir" alt="District Noir" loading="lazy" />
 </div>
 </a>
+</div><div class="container_right">
+<a href="/produit/437869-district_noir">
+<div class="name_product" title="District Noir">District Noir</div>
+</a>
+<div class="preco_product bloc_preco_product bloc_preco_product_rating"></div><div class="container_prices"><div class="price_product simple_price_product">16,90&nbsp;€</div></div><div class="cart">
+<div class="add_cart_btn add_cart_btn_mini">
+<form method="POST">
+<input type="hidden" aria-label="id_product" name="id_product" value="437869"><label for="437869_20"></label><select name="qty_product" aria-label="437869" class="select" id="437869_20"><option id="1" value="1">1</option><option id="2" value="2">2</option><option id="3" value="3">3</option><option id="4" value="4">4</option><option id="5" value="5">5</option><option id="6" value="6">6</option><option id="7" value="7">7</option><option id="8" value="8">8</option><option id="9" value="9">9</option><option id="10" value="10">10</option><option id="11" value="11">11</option><option id="12" value="12">12</option><option id="13" value="13">13</option><option id="14" value="14">14</option><option id="15" value="15">15</option><option id="16" value="16">16</option><option id="17" value="17">17</option><option id="18" value="18">18</option><option id="19" value="19">19</option><option id="20" value="20">20</option></select><div class="qty">(20)</div><div class="bloc_cart"><div class="bloc_each_cart_mini">
+<button type="submit" name="addToCart" value="0" class="btn addToCart tagSmallOrange tagProduct" data-localisation="0" data-id="437869" title="Ajouter au panier en livraison" alt="Ajouter au panier en livraison">
+<div class="add_cart_logo_mini"></div>
+</button>
+<div class="explain_new_btn_orange">Livraison</div>
+</div><div class="bloc_each_cart_mini">
+<div class="btn btn_store btn_violet showStoreSelect tagSmallVioletModal tagProduct" title="Choisir un magasin de retrait" alt="Choisir un magasin de retrait" data-modal-type="437869">
+<div class="add_cart_store_logo_mini"></div>
 </div>
-</div></div> </div>
+<div class="explain_new_btn_violet">Retrait magasin</div>
+</div><div class="select_favourite_store">
+<div class="store_nav" id="437869">
+<div class="store_nav_content">
+<span class="close">&times;</span>
+<div class="modal-title">Retirer en magasin</div>
+<ul><li class="store_list" value="1">
+<div class="bloc head_store">Playin Paris BNF</div><div class="bloc availability">
+<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
+<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
+<span class="localAvailable" ">&#10004;&nbsp;Disponible sous 2h</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
+<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
+</div>
+<div class="bloc set_store_btn_bloc">
+<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="1">
+<div class="add_cart_btn_img add_cart_store_btn_img"></div>
+<div class="add_cart_text">Choisir ce magasin</div>
+</button>
+</div><div class="clear"></div>
+</li><li class="store_list" value="2">
+<div class="bloc head_store">Playin Annecy</div><div class="bloc availability">
+<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
+<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
+<span class="localAvailable" ">&#10004;&nbsp;Disponible sous 2h</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
+<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
+</div>
+<div class="bloc set_store_btn_bloc">
+<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="2">
+<div class="add_cart_btn_img add_cart_store_btn_img"></div>
+<div class="add_cart_text">Choisir ce magasin</div>
+</button>
+</div><div class="clear"></div>
+</li><li class="store_list" value="3">
+<div class="bloc head_store">Playin Paris Rivoli</div><div class="bloc availability">
+<span class="localAvailable" style="display : none">&#10004;&nbsp;Précommande</span>
+<span class="localAvailable" style="display : none">&#10004;&nbsp;En réassort</span>
+<span class="localAvailable" ">&#10004;&nbsp;Disponible sous 2h</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (48h)</span>
+<span class="orderAvailable" style="display : none">&#10004;&nbsp;Sur commande (72h)</span>
+<span class="localUnavailable" style="display : none">&cross;&nbsp;Non disponible</span>
+</div>
+<div class="bloc set_store_btn_bloc">
+<button type="submit" class="btn btn_violet " aria-pressed="true" name="_submit_store_cart" value="3">
+<div class="add_cart_btn_img add_cart_store_btn_img"></div>
+<div class="add_cart_text">Choisir ce magasin</div>
+</button>
+</div><div class="clear"></div>
+</li></ul>
+</div>
+</div>
+</div></div></form>
+</div>
+</div>
+</div>
+<div class="clear"></div></div></div></div> </div>
 <div class="clear"></div>
 </div>
 </section>
@@ -3051,7 +3822,7 @@ Le jeu a été ajouté au panier </div>
 </div>
 <div class="mb_footer mail_mb_footer">
 <div class="mail_mb_footer_img"></div>
-<div class="info_mb_footer"><a href="/cdn-cgi/l/email-protection#ed8e8283998c8e99ad9d818c94c08483c38e8280" target="_blank"><span class="__cf_email__" data-cfemail="bad9d5d4cedbd9cefacad6dbc397d3d494d9d5d7">[email&#160;protected]</span></a></div>
+<div class="info_mb_footer"><a href="/cdn-cgi/l/email-protection#284b47465c494b5c6858444951054146064b4745" target="_blank"><span class="__cf_email__" data-cfemail="c1a2aeafb5a0a2b581b1ada0b8eca8afefa2aeac">[email&#160;protected]</span></a></div>
 </div>
 </div>
 </div>
@@ -3069,7 +3840,7 @@ Le jeu a été ajouté au panier </div>
 <a href="/carte/"><div class="list_footer">Jeux de cartes</div></a>
 <a href="/figurine/"><div class="list_footer">Jeux de figurines</div></a>
 <a href="/accessoires/"><div class="list_footer">Accessoires</div></a>
-<a href="/black_friday/"><div class="list_footer">Black Friday</div></a>
+<a href="/promotions/"><div class="list_footer">Promo</div></a>
 <a href="/evenement/boutique-paris"><div class="list_footer">Événements</div></a>
 <a href="/rachat/"><div class="list_footer">Rachat</div></a>
 <a href="/article/"><div class="list_footer">Actus</div></a>

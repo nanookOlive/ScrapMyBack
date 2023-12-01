@@ -6,10 +6,13 @@
  * avec un ensemble de méthodes 
  */
 namespace App\Service;
+
+use Faker\Factory;
 use App\Entity\Type;
 use  App\Entity\Game;
 use App\Entity\Theme;
 use App\Entity\Author;
+use App\Entity\Editor;
 use App\Entity\GameTmp;
 use App\Entity\GameType;
 use App\Entity\Illustrator;
@@ -17,7 +20,9 @@ use App\Repository\GameRepository;
 use App\Repository\TypeRepository;
 use App\Repository\ThemeRepository;
 use App\Repository\AuthorRepository;
+use App\Repository\EditorRepository;
 use App\Repository\GameTmpRepository;
+use Doctrine\ORM\EntityManagerInterface;
 use App\Repository\IllustratorRepository;
 use Doctrine\Persistence\ManagerRegistry;
 use Symfony\Component\DomCrawler\Crawler;
@@ -43,7 +48,7 @@ class Scrapy {
     );
 
     public function __construct(GameRepository $gameRepository,TypeRepository $typeRepo,GameTmpRepository $gameTmpRepo,
-    AuthorRepository $auteurRepo,IllustratorRepository $dessinateurRepo,ThemeRepository $themeRepo){
+    AuthorRepository $auteurRepo,IllustratorRepository $dessinateurRepo,ThemeRepository $themeRepo,EditorRepository $editorRepo,EntityManagerInterface $manager){
 
         $this->tmpFile=__DIR__."/../../docs/tmpFile.txt";
         $this->browser=new HttpBrowser(HttpClient::create());
@@ -55,6 +60,9 @@ class Scrapy {
         $this->auteurRepo=$auteurRepo;
         $this->dessinateurRepo=$dessinateurRepo;
         $this->themeRepo=$themeRepo;
+        $this->editorRepo=$editorRepo;
+        $this->manager=$manager;
+        
         $this->url='https://www.play-in.com/jeux_de_societe/recherche/?p=';
         
 
@@ -94,7 +102,8 @@ class Scrapy {
 
             $name=$gameTmp->getName();
             $game = new Game();
-            $game->setName($name);
+            $game->setTitle($name);
+            $faker = Factory::create();
 
             $this->invalide=FALSE;
             $this->browser->request('GET','https://play-in.com/'.$gameTmp->getHref());//la ressource browser
@@ -370,14 +379,14 @@ class Scrapy {
            
 
             //sinon on persist et on flush le game
-            $game->setImage($arrayResponse['image']);
-            $game->setEditeur($arrayResponse['editeur']);
+            $game->setImageUrl($arrayResponse['image']);
+            $game->setSlug($this->sluggify($name));
             $game->setDuration((int)$arrayResponse['duration']);
-            $game->setAge((int)$arrayResponse['age']);
+            $game->setMinimumAge((int)$arrayResponse['age']);
             $game->setShortDescription($arrayResponse['shortDescription']);
             $game->setLongDescription($arrayResponse['longDescription']);
-            $game->setNbJoueursMax((int)$arrayResponse['nbJoueursMax']);
-            $game->setNbJoueursMin((int)$arrayResponse['nbJoueursMin']);
+            $game->setPlayerMax((int)$arrayResponse['nbJoueursMax']);
+            $game->setPlayerMin((int)$arrayResponse['nbJoueursMin']);
             $this->gameRepository->add($game,true);
 
             //on ajoute les types à la base si ils n'existent pas en base
@@ -389,10 +398,13 @@ class Scrapy {
 
                     $type=new Type;
                     $type->setName($name);
+                    $type->setSlug($this->sluggify($name));
                     $this->typeRepo->add($type,true);
+                    
 
                     
-                }                               
+                }       
+                                        
                 $type=$this->typeRepo->findByName($name);
                 foreach($type as $item)
                 {
@@ -407,16 +419,16 @@ class Scrapy {
 
                 if(empty($this->auteurRepo->findByName($nameAuteur))){
 
-                    $auteur=new Auteur;
+                    $auteur=new Author;
                     $auteur->setName($nameAuteur);
-                    $this->auteurRepo->add($auteur,true);
+                    $this->manager->persist($auteur);
 
                 }                               
                 $auteur=$this->auteurRepo->findByName($nameAuteur);
                
                 foreach($auteur as $item)
                 {
-                    $game->addAuteur($item,true);
+                    $game->addAuthor($item,true);
                 }
             }
             //on ajoute les dessinateurs à la base si ils n'existent pas en base
@@ -426,9 +438,9 @@ class Scrapy {
                 $nameDessinateur=mb_convert_encoding($nameDessinateur,'UTF-8');
                 if(empty($this->dessinateurRepo->findByName($nameDessinateur))){
 
-                    $dessinateur=new Dessinateur;
+                    $dessinateur=new Illustrator;
                     $dessinateur->setName($nameDessinateur);
-                    $this->dessinateurRepo->add($dessinateur,true);
+                    $this->manager->persist($dessinateur);
 
                 }        
                                    
@@ -436,7 +448,7 @@ class Scrapy {
                
                 foreach($dessinateur as $item)
                 {
-                    $game->addDessinateur($item,true);
+                    $game->addIllustrator($item,true);
                 }
             } 
             
@@ -451,7 +463,8 @@ class Scrapy {
 
                     $theme=new Theme;
                     $theme->setName($nameTheme);
-                    $this->themeRepo->add($theme,true);
+                    $theme->setSlug($this->sluggify($nameTheme));
+                    $this->manager->persist($theme);
 
                 }        
                                    
@@ -460,10 +473,34 @@ class Scrapy {
                 foreach($theme as $item)
                 {
                     $game->addTheme($item,true);
+
                 }
             }
+                $nameEditor=$arrayResponse['editeur'];
+                $nameEditor=mb_convert_encoding($nameEditor,'UTF-8');
+
+                if(empty($this->editorRepo->findByName($nameEditor))){
+
+                    $editor=new Editor;
+                    $editor->setName($nameEditor);
+                    $editor->setSlug($this->sluggify($nameEditor));
+                    $this->manager->persist($editor);
+
+                }        
+                               
+                $this->manager->flush();
+
+                $editor=$this->editorRepo->findByName($nameEditor);
+               
+                foreach($editor as $item){
+
+                    $game->setEditor($item);
+
+                }
             
-            
+            //remplir le champs date 
+
+            $game->setReleaseAt(\DateTimeImmutable::createFromMutable($faker->dateTimeThisCentury()));
             $this->gameRepository->add($game,true);
         }
             
@@ -553,5 +590,10 @@ class Scrapy {
         // fwrite($handle,$message );
         // fclose($handle);
 
+    }
+
+    private function sluggify(string $string){
+
+        return strtolower(str_replace(' ','-',$string));
     }
 }
